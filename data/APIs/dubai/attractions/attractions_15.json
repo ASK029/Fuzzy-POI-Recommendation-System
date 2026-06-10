@@ -1,0 +1,284 @@
+{
+  "location_id": "2148295",
+  "name": "The Lost Chambers Aquarium at Aquaventure World",
+  "latitude": "25.130888",
+  "longitude": "55.1171",
+  "num_reviews": "6515",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/60/d6/81/ambassador-lagoon-at.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/60/d6/81/ambassador-lagoon-at.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/60/d6/81/ambassador-lagoon-at.jpg",
+        "height": "1247"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/60/d6/81/ambassador-lagoon-at.jpg",
+        "height": "638"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/60/d6/81/ambassador-lagoon-at.jpg",
+        "height": "343"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2017-08-22T07:11:05-0400",
+    "caption": "The Lost Chambers Aquarium - Ambassador Lagoon",
+    "id": "274781825",
+    "helpful_votes": "11",
+    "published_date": "2017-08-22T07:11:05-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.280660152435303",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "20",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#20 of 682 things to do in Dubai",
+  "subcategory_ranking": "#20 of 682 things to do in Dubai",
+  "ranking": "#20 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620663",
+      "name": "Palm Jumeirah"
+    }
+  ],
+  "description": "The largest Aquarium in the Middle-East and Africa! Lost for thousands of years deep beneath the sea, the ancient ruins of the lost city of Atlantis have finally been uncovered. Come live out your own Atlantean adventure at The Lost Chambers Aquarium home to 65,000 incredible marine animals. Explore the underwater mazes and tunnels of this lost civilization while encountering sharks, eels, seahorses and piranhas. There are over 20 impressive marine life exhibits including a touch tank and our interactive Aquatheatre show.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d2148295-Reviews-The_Lost_Chambers_Aquarium_at_Aquaventure_World-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d2148295-The_Lost_Chambers_Aquarium_at_Aquaventure_World-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "48",
+      "name": "Zoos & Aquariums"
+    },
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 426 1040",
+  "website": "http://www.atlantis.com/dubai/atlantis-aquaventure/lost-chambers-aquarium?utm_source=tripadvisor&utm_medium=referral&utm_content=listing&utm_campaign=tripadvisorLostChamberslisting",
+  "email": "lostchambers@atlantisthepalm.com",
+  "address_obj": {
+    "street1": "Crescent Road",
+    "street2": "Avenues in Atlantis, The Palm",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": ""
+  },
+  "address": "Crescent Road Avenues in Atlantis, The Palm, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "119",
+      "name": "Aquariums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FLost-Chambers-Entry-at-Atlantis-The-Palm-in-Dubai-with-Optional-Aquaventure-Waterpark%2Fd828-7160CHAMBERS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7a8aeebbad8f16977&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=2148295&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$19.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FLost-Chambers-Entry-at-Atlantis-The-Palm-in-Dubai-with-Optional-Aquaventure-Waterpark%2Fd828-7160CHAMBERS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7a8aeebbad8f16977&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=2148295&clt=TM&from=api&nt=true",
+        "price": "$34.06",
+        "rounded_up_price": "$35",
+        "offer_type": "",
+        "title": "Dubai Lost Chambers Aquarium at Atlantis The Palm Admission",
+        "product_code": "7160CHAMBERS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/66/84/78.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Atlantis-Lost-Chamber-Aquarium%2Fd828-91912P27%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c062c9dea7ebf8c61&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=2148295&clt=TM&from=api&nt=true",
+        "price": "$61.67",
+        "rounded_up_price": "$62",
+        "offer_type": "",
+        "title": "Atlantis Lost-Chamber Aquarium Dubai",
+        "product_code": "91912P27",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/44/f5/8a.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Atlantis-Aquaventure-Waterpark-Admission-at-Atlantis-The-Palm-With-Optional-Lost-Chambers-Aquarium%2Fd828-7160AQUAV%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=eb35ae4ea3d014d4d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=2148295&clt=TM&from=api&nt=true",
+        "price": "$89.92",
+        "rounded_up_price": "$90",
+        "offer_type": "",
+        "title": "Dubai Atlantis Aquaventure Waterpark All-Day Admission",
+        "product_code": "7160AQUAV",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/c8/c4/12.jpg",
+        "description": null,
+        "primary_category": "Water Parks"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Atlantis-Ultimate-Snorkel-Experience%2Fd828-7160ULTIMATESNORKEL%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=609e2c900d1ef0cd9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=2148295&clt=TM&from=api&nt=true",
+        "price": "$121.26",
+        "rounded_up_price": "$122",
+        "offer_type": "",
+        "title": "Dubai Atlantis Ultimate Snorkel Experience with Diver Guide",
+        "product_code": "7160ULTIMATESNORKEL",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/19/c7.jpg",
+        "description": null,
+        "primary_category": "Snorkeling"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Atlantis-Discover-Scuba-Dive%2Fd828-7160DISCOVERY%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f78602936c6009a88&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=2148295&clt=TM&from=api&nt=true",
+        "price": "$455.04",
+        "rounded_up_price": "$456",
+        "offer_type": "",
+        "title": "Dubai Lost Chambers Diving Adventure",
+        "product_code": "7160DISCOVERY",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/77/96/99.jpg",
+        "description": null,
+        "primary_category": "Scuba Diving"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES",
+  "animal_welfare_tag": {
+    "tag_text": "Features Animals",
+    "msg_header": "This attraction features animals",
+    "msg_body": "Click below for expert advice on animal welfare in tourism.",
+    "learn_more_text": "Learn more",
+    "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+  },
+  "tags": {
+    "animal_welfare_tag": {
+      "tag_text": "Features Animals",
+      "msg_header": "This attraction features animals",
+      "msg_body": "Click below for expert advice on animal welfare in tourism.",
+      "learn_more_text": "Learn more",
+      "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+    }
+  }
+}

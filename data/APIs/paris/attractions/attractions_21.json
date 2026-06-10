@@ -1,0 +1,217 @@
+{
+  "location_id": "600725",
+  "name": "Porte de Clignancourt",
+  "latitude": "48.90178",
+  "longitude": "2.343149",
+  "num_reviews": "213",
+  "timezone": "Europe/Paris",
+  "location_string": "Saint Ouen, Seine-Saint-Denis, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/ae/76/b3/2.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/ae/76/b3/2.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1632",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/ae/76/b3/2.jpg",
+        "height": "1224"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/ae/76/b3/2.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/ae/76/b3/2.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2010-10-13T12:22:10-0400",
+    "caption": "クリニャンクール蚤の市2",
+    "id": "28210867",
+    "helpful_votes": "9",
+    "published_date": "2010-10-14T01:33:19-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.il_de_france.seine_saint_denis",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.8880391120910645",
+  "ranking_geo": "Saint Ouen",
+  "ranking_geo_id": "227615",
+  "ranking_position": "3",
+  "ranking_denominator": "66",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 66 things to do in Saint Ouen",
+  "subcategory_ranking": "#3 of 66 things to do in Saint Ouen",
+  "ranking": "#3 of 66 things to do in Saint Ouen",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.6",
+  "is_closed": false,
+  "open_now_text": "Closed today",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621643",
+      "name": "18th Arrondissement - Butte-Montmartre"
+    },
+    {
+      "location_id": "15621663",
+      "name": "Porte de Clignacourt"
+    },
+    {
+      "location_id": "15621620",
+      "name": "Clignancourt"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g227615-d600725-Reviews-Porte_de_Clignancourt-Saint_Ouen_Seine_Saint_Denis_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g227615-d600725-Porte_de_Clignancourt-Saint_Ouen_Seine_Saint_Denis_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Saint Ouen",
+      "abbrv": null,
+      "location_id": "227615"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "department",
+          "name": "Department"
+        }
+      ],
+      "name": "Seine-Saint-Denis",
+      "abbrv": null,
+      "location_id": "2624156"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Saint Ouen",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "http://www.pucesdeparissaintouen.com",
+  "address_obj": {
+    "street1": "150 Rue Des Rosiers",
+    "street2": null,
+    "city": "Saint Ouen",
+    "state": null,
+    "country": "France",
+    "postalcode": "93400"
+  },
+  "address": "150 Rue Des Rosiers, 93400 Saint Ouen France",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1020
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "open_time": 480,
+          "close_time": 720
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "142",
+      "name": "Flea & Street Markets"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FExplore-Paris-with-a-Local%2Fd479-30791P192%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6fca2da843c6f993d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=600725&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$1.22",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FExplore-Paris-with-a-Local%2Fd479-30791P192%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6fca2da843c6f993d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=600725&clt=TM&from=api&nt=true",
+        "price": "$94.47",
+        "rounded_up_price": "$95",
+        "offer_type": "",
+        "title": "Paris Private Customized Tour",
+        "product_code": "30791P192",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/7d/fe/c8.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": false
+  }
+}

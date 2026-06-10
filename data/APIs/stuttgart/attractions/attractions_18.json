@@ -1,0 +1,195 @@
+{
+  "location_id": "243376",
+  "name": "Landesmuseum Wurttemberg",
+  "latitude": "48.777348",
+  "longitude": "9.179635",
+  "num_reviews": "371",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/69/2f/7e/castillo-antiguo.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/69/2f/7e/castillo-antiguo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "3872",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/69/2f/7e/castillo-antiguo.jpg",
+        "height": "2581"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/69/2f/7e/castillo-antiguo.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/69/2f/7e/castillo-antiguo.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-10-24T15:43:35-0400",
+    "caption": "Castillo antiguo",
+    "id": "224997246",
+    "helpful_votes": "1",
+    "published_date": "2016-10-24T15:43:35-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.8343403339385986",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "12",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#12 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#12 of 295 things to do in Stuttgart",
+  "ranking": "#12 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "20484599",
+      "name": "Rathaus"
+    }
+  ],
+  "description": "The Württemberg State Museum is the largest museum of cultural history in Baden-Württemberg. The museum's collections cover archaeology, art history and cultural history, taking you on a tour through Wurttemberg's past. The collections shine with their diversity and important cultural treasures. Valuable artefacts, exciting stories and compact, accessible background information turn every visit into an experience. The Dürnitz museum foyer, an attractive, freely accessible hall, offers a café, cosy lounge furniture, free Wi-Fi and a shop.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d243376-Reviews-Landesmuseum_Wurttemberg-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d243376-Landesmuseum_Wurttemberg-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 711 89535111",
+  "website": "http://www.landesmuseum-stuttgart.de",
+  "email": "info@landesmuseum-stuttgart.de",
+  "address_obj": {
+    "street1": "Schillerplatz 6",
+    "street2": "Old Castle",
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70173"
+  },
+  "address": "Schillerplatz 6 Old Castle, 70173 Stuttgart, Baden-Wurttemberg Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "6",
+      "name": "Castles"
+    },
+    {
+      "key": "30",
+      "name": "History Museums"
+    }
+  ]
+}

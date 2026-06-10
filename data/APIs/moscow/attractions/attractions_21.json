@@ -1,0 +1,204 @@
+{
+  "location_id": "668919",
+  "name": "PANORAMA360",
+  "latitude": "55.75003",
+  "longitude": "37.53786",
+  "num_reviews": "2296",
+  "timezone": "Europe/Moscow",
+  "location_string": "Moscow, Central Russia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/27/50/7d/89.jpg",
+        "height": "149"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/27/50/7d/89.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/27/50/7d/89.jpg",
+        "height": "765"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1d/27/50/7d/89.jpg",
+        "height": "612"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/27/50/7d/89.jpg",
+        "height": "329"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2021-06-16T02:38:59-0400",
+    "caption": "Вид на Москву с высоты 89 этажа",
+    "id": "489115773",
+    "helpful_votes": "0",
+    "published_date": "2021-06-16T02:38:59-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.russia.moscow",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.789865255355835",
+  "ranking_geo": "Moscow",
+  "ranking_geo_id": "298484",
+  "ranking_position": "65",
+  "ranking_denominator": "5498",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#65 of 5,498 things to do in Moscow",
+  "subcategory_ranking": "#65 of 5,498 things to do in Moscow",
+  "ranking": "#65 of 5,498 things to do in Moscow",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621301",
+      "name": "3rd Transport Ring (TTK)"
+    },
+    {
+      "location_id": "8708000",
+      "name": "Presnensky"
+    },
+    {
+      "location_id": "15621179",
+      "name": "District Central (TsAO)"
+    },
+    {
+      "location_id": "15621312",
+      "name": "Moscow City (Business District)"
+    }
+  ],
+  "description": "PANORAMA360 is the highest observation deck in Europe, located on the 89th floor of the Federation Tower of Moscow-City. PANORAMA360 is a full member of the World Federation of Great Towers. There are many entertainment areas on the observation deck. For example, the highest ice-cream and chocolate factories in the world and amazing 360° view of Moscow. There are also a 360 restaurant, a mini-cinema and a gift shop.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g298484-d668919-Reviews-PANORAMA360-Moscow_Central_Russia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298484-d668919-PANORAMA360-Moscow_Central_Russia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Moscow",
+      "abbrv": null,
+      "location_id": "298484"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Central Russia",
+      "abbrv": null,
+      "location_id": "298479"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Russia",
+      "abbrv": null,
+      "location_id": "294459"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Moscow",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+7 495 151-94-94",
+  "website": "https://pnr360.ru/",
+  "email": "welcome@pnr360.ru",
+  "address_obj": {
+    "street1": "Presnenskaya Embankment, 12",
+    "street2": null,
+    "city": "Moscow",
+    "state": null,
+    "country": "Russia",
+    "postalcode": "123112"
+  },
+  "address": "Presnenskaya Embankment, 12, Moscow 123112 Russia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ]
+    ],
+    "timezone": "Europe/Moscow"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "39",
+      "name": "Observation Decks & Towers"
+    }
+  ]
+}

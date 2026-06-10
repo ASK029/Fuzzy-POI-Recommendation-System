@@ -1,0 +1,118 @@
+{
+  "location_id": "11992772",
+  "name": "Bait Fairouz Restaurant",
+  "num_reviews": "4",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/1e/cd/66/entrance-view.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/1e/cd/66/entrance-view.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "903",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/1e/cd/66/entrance-view.jpg",
+        "height": "697"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/1e/cd/66/entrance-view.jpg",
+        "height": "424"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/1e/cd/66/entrance-view.jpg",
+        "height": "193"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2017-04-29T05:54:29-0400",
+    "caption": "Entrance view",
+    "id": "253676902",
+    "helpful_votes": "0",
+    "published_date": "2017-04-29T05:54:29-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.0847861766815186",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "17",
+  "ranking_denominator": "98",
+  "ranking_category": "restaurant",
+  "ranking": "#17 of 123 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294011-d11992772-Reviews-Bait_Fairouz_Restaurant-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d11992772-Bait_Fairouz_Restaurant-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+963 955 607 080",
+  "address_obj": {
+    "street1": "Souq Al Shaalan Street",
+    "street2": "Shalan",
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": "00000"
+  },
+  "address": "Souq Al Shaalan Street Shalan, Damascus 00000 Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [],
+  "dietary_restrictions": [],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

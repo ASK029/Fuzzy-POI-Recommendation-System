@@ -1,0 +1,256 @@
+{
+  "location_id": "308825",
+  "name": "The Museum of Egyptian Antiquities",
+  "latitude": "30.048326",
+  "longitude": "31.23367",
+  "num_reviews": "13241",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/f9/98/a5/photo0jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/f9/98/a5/photo0jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/f9/98/a5/photo0jpg.jpg",
+        "height": "1280"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/14/f9/98/a5/photo0jpg.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/f9/98/a5/photo0jpg.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2018-10-08T05:39:22-0400",
+    "caption": "",
+    "id": "351901861",
+    "helpful_votes": "4",
+    "published_date": "2018-10-08T05:39:22-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "5.0",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "1",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 316 things to do in Cairo",
+  "subcategory_ranking": "#1 of 316 things to do in Cairo",
+  "ranking": "#1 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Closes in 21 min",
+  "is_long_closed": false,
+  "description": "This famous museum houses the world’s largest collection of ancient Egyption artifacts (more than 120,000 items on display) featuring the famous Tutankhamun collection with its beautiful gold death mask and sarcophagus and the royal Mummy room, which houses an additional eleven Pharaonic dignitaries.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d308825-Reviews-The_Museum_of_Egyptian_Antiquities-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d308825-The_Museum_of_Egyptian_Antiquities-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 112 152 0515",
+  "website": "https://egyptianmuseumcairo.eg",
+  "address_obj": {
+    "street1": "Midan El Tahrir",
+    "street2": "Geographical Society Building",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11511"
+  },
+  "address": "Midan El Tahrir Geographical Society Building, Cairo 11511 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FGiza%2FEgyptian-Museum-in-Cairo-Private-Guided-Tour%2Fd23032-10124P22%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3bda2d6c4a6eac034&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=308825&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$4.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FGiza%2FEgyptian-Museum-in-Cairo-Private-Guided-Tour%2Fd23032-10124P22%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3bda2d6c4a6eac034&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=308825&clt=TM&from=api&nt=true",
+        "price": "$50.00",
+        "rounded_up_price": "$50",
+        "offer_type": "",
+        "title": "Egyptian Museum in Cairo Private Guided Half-Day Tour",
+        "product_code": "10124P22",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/a9/05.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FThe-Egyptian-Museum-Cairo%2Fd782-103275P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9a7046f22df7213cf&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=308825&clt=TM&from=api&nt=true",
+        "price": "$78.44",
+        "rounded_up_price": "$79",
+        "offer_type": "",
+        "title": "The Museum of Egyptian Antiquities Private Tour",
+        "product_code": "103275P34",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/df/55/b8.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FHalf-Day-Tour-of-the-Egyptian-Museum%2Fd782-10726P6%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fd4c5107e5a3d4438&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=308825&clt=TM&from=api&nt=true",
+        "price": "$6.40",
+        "rounded_up_price": "$7",
+        "offer_type": "",
+        "title": "Cairo Half-Day Tour to The Museum of Egyptian Antiquities ",
+        "product_code": "10726P6",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/d4/c7.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FPyramids-and-Sphinx%2Fd782-8243P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1a418a39beba5e3a6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=308825&clt=TM&from=api&nt=true",
+        "price": "$79.20",
+        "rounded_up_price": "$80",
+        "offer_type": "",
+        "title": "Pyramids, Sphinx, Museum Camel Ride Private Tour from Cairo",
+        "product_code": "8243P13",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/38/91/d3.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FPrivate-Cairo-Egyptian-Museum-Tour-with-Lunch%2Fd782-10449P33%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9cc68a0d3ef72fd04&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=308825&clt=TM&from=api&nt=true",
+        "price": "$35.00",
+        "rounded_up_price": "$35",
+        "offer_type": "",
+        "title": "Cairo Egyptian Museum Private Half-Day Tour Including Lunch",
+        "product_code": "10449P33",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/47/0f/83.jpg",
+        "description": null,
+        "primary_category": "Day Trips"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_46241cf4385d001be294d4154ff27318 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+    <h3 style="position: fixed; top: 10px; left: 50px; z-index: 9999;
+               background: white; padding: 8px 12px; border: 1px solid #bbb;
+               font-family: sans-serif; margin: 0;">
+        Original itinerary
+    </h3>
+    
+    
+            <div class="folium-map" id="map_46241cf4385d001be294d4154ff27318" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_46241cf4385d001be294d4154ff27318 = L.map(
+                "map_46241cf4385d001be294d4154ff27318",
+                {
+                    center: [36.11489914285714, -115.15181314285714],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_283e398b5eb11192282635ec4076503f = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_283e398b5eb11192282635ec4076503f.addTo(map_46241cf4385d001be294d4154ff27318);
+        
+    
+            var marker_7a38954e5643569a4c45cde5be6ef699 = L.marker(
+                [36.1147, -115.1728],
+                {
+}
+            ).addTo(map_46241cf4385d001be294d4154ff27318);
+        
+    
+            var icon_1b010a4a27346ccf6aaa48424e30f7ce = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_92db71d8d9bc991496166c566044e997 = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_4f741ed63c4bb1590487cb83fc197b99 = $(`<div id="html_4f741ed63c4bb1590487cb83fc197b99" style="width: 100.0%; height: 100.0%;"><b>Hotel</b><br>Start and end point</div>`)[0];
+                popup_92db71d8d9bc991496166c566044e997.setContent(html_4f741ed63c4bb1590487cb83fc197b99);
+            
+        
+
+        marker_7a38954e5643569a4c45cde5be6ef699.bindPopup(popup_92db71d8d9bc991496166c566044e997)
+        ;
+
+        
+    
+    
+            marker_7a38954e5643569a4c45cde5be6ef699.bindTooltip(
+                `<div>
+                     Hotel
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7a38954e5643569a4c45cde5be6ef699.setIcon(icon_1b010a4a27346ccf6aaa48424e30f7ce);
+            
+    
+            var feature_group_db014d0046772186386beb9399cedba1 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_efd604ad84a706c3cef41e383c5c8051 = L.polyline(
+                [[36.1147, -115.1728], [36.082073, -115.172775], [36.112858, -115.173], [36.112244, -115.17042], [36.117783, -115.17258], [36.11212, -115.174706], [36.170727, -115.14382], [36.100136, -115.112076], [36.1147, -115.1728]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(feature_group_db014d0046772186386beb9399cedba1);
+        
+    
+            poly_line_efd604ad84a706c3cef41e383c5c8051.bindTooltip(
+                `<div>
+                     Day1 route
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_d934c86647b9dbec74133b2ac5071526 = L.marker(
+                [36.082073, -115.172775],
+                {
+}
+            ).addTo(feature_group_db014d0046772186386beb9399cedba1);
+        
+    
+            var icon_c641544bf8efb76f13b25d76228e3c63 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9ab47c5db4c5995f64f67e6d60e54d0a = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_3e13d8c5e67ac43dbf03d0ef3d0b95d2 = $(`<div id="html_3e13d8c5e67ac43dbf03d0ef3d0b95d2" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">1. Welcome to Fabulous Las Vegas Sign</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> Morning<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.3/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Start your trip with a classic photo opportunity at the iconic 25-foot-tall sign marking the start of the famous Las Vegas Strip.</p>     </div>     </div>`)[0];
+                popup_9ab47c5db4c5995f64f67e6d60e54d0a.setContent(html_3e13d8c5e67ac43dbf03d0ef3d0b95d2);
+            
+        
+
+        marker_d934c86647b9dbec74133b2ac5071526.bindPopup(popup_9ab47c5db4c5995f64f67e6d60e54d0a)
+        ;
+
+        
+    
+    
+            marker_d934c86647b9dbec74133b2ac5071526.bindTooltip(
+                `<div>
+                     Day1 stop 1: Welcome to Fabulous Las Vegas Sign
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d934c86647b9dbec74133b2ac5071526.setIcon(icon_c641544bf8efb76f13b25d76228e3c63);
+            
+    
+            var marker_1e9d3aef1b9deda58cc6e00b919f7e48 = L.marker(
+                [36.112858, -115.173],
+                {
+}
+            ).addTo(feature_group_db014d0046772186386beb9399cedba1);
+        
+    
+            var icon_e1facb11543c42a51459424440b2cbf6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b55cac10519469e52d3556f74fb402a9 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_6ceb33d2ecff3a9c3751f4514dd18f55 = $(`<div id="html_6ceb33d2ecff3a9c3751f4514dd18f55" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">2. The Las Vegas Strip</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> Morning<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.4/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Stroll down the most famous entertainment destination, marveling at the mega hotels and resorts. Keep an eye out for free spectacles like the dancing fountains of Bellagio.</p>     </div>     </div>`)[0];
+                popup_b55cac10519469e52d3556f74fb402a9.setContent(html_6ceb33d2ecff3a9c3751f4514dd18f55);
+            
+        
+
+        marker_1e9d3aef1b9deda58cc6e00b919f7e48.bindPopup(popup_b55cac10519469e52d3556f74fb402a9)
+        ;
+
+        
+    
+    
+            marker_1e9d3aef1b9deda58cc6e00b919f7e48.bindTooltip(
+                `<div>
+                     Day1 stop 2: The Las Vegas Strip
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1e9d3aef1b9deda58cc6e00b919f7e48.setIcon(icon_e1facb11543c42a51459424440b2cbf6);
+            
+    
+            var marker_096a7b31e15110618f2cf3e493a5fb6c = L.marker(
+                [36.112244, -115.17042],
+                {
+}
+            ).addTo(feature_group_db014d0046772186386beb9399cedba1);
+        
+    
+            var icon_91214b87966adc3b8fcac5b8c8aac96c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6575fcade101c2625836769289f39619 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_f0664a287be74547b71e41218c08c92b = $(`<div id="html_f0664a287be74547b71e41218c08c92b" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">3. Alexxa's</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> Morning<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.3/5<br><b>Budget:</b> $20<br><p style='margin: 8px 0 0;'>Enjoy a budget-friendly lunch with views, offering French-style cuisine and cocktails.</p>     </div>     </div>`)[0];
+                popup_6575fcade101c2625836769289f39619.setContent(html_f0664a287be74547b71e41218c08c92b);
+            
+        
+
+        marker_096a7b31e15110618f2cf3e493a5fb6c.bindPopup(popup_6575fcade101c2625836769289f39619)
+        ;
+
+        
+    
+    
+            marker_096a7b31e15110618f2cf3e493a5fb6c.bindTooltip(
+                `<div>
+                     Day1 stop 3: Alexxa's
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_096a7b31e15110618f2cf3e493a5fb6c.setIcon(icon_91214b87966adc3b8fcac5b8c8aac96c);
+            
+    
+            var marker_c4b9fcfd14d3090bb680afa19d0680a9 = L.marker(
+                [36.117783, -115.17258],
+                {
+}
+            ).addTo(feature_group_db014d0046772186386beb9399cedba1);
+        
+    
+            var icon_d6b75692cac68149955ed04d2f3884b8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1f0aa733b707bc799fcc252caba98678 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_58d1f3f74a96a50224d053dfc95db3f8 = $(`<div id="html_58d1f3f74a96a50224d053dfc95db3f8" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">4. The Linq Promenade</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> Afternoon<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.4/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Explore this vibrant shopping, dining, and entertainment district at the center of the Las Vegas Strip, perfect for window shopping and people-watching.</p>     </div>     </div>`)[0];
+                popup_1f0aa733b707bc799fcc252caba98678.setContent(html_58d1f3f74a96a50224d053dfc95db3f8);
+            
+        
+
+        marker_c4b9fcfd14d3090bb680afa19d0680a9.bindPopup(popup_1f0aa733b707bc799fcc252caba98678)
+        ;
+
+        
+    
+    
+            marker_c4b9fcfd14d3090bb680afa19d0680a9.bindTooltip(
+                `<div>
+                     Day1 stop 4: The Linq Promenade
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c4b9fcfd14d3090bb680afa19d0680a9.setIcon(icon_d6b75692cac68149955ed04d2f3884b8);
+            
+    
+            var marker_2e243c2a0d2b4e51717cc8af8ebab4f5 = L.marker(
+                [36.11212, -115.174706],
+                {
+}
+            ).addTo(feature_group_db014d0046772186386beb9399cedba1);
+        
+    
+            var icon_51210826d0fd7f50b315ace38853a12a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_038d44a6ddf86df0471ee752a67a0300 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_03d11dcc8dd651e75d6af0e748b9e4d1 = $(`<div id="html_03d11dcc8dd651e75d6af0e748b9e4d1" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">5. Fountains of Bellagio</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> Afternoon<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.7/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Witness the captivating water, music, and light show on the artificial lake in front of the Bellagio Resort. Shows run throughout the day.</p>     </div>     </div>`)[0];
+                popup_038d44a6ddf86df0471ee752a67a0300.setContent(html_03d11dcc8dd651e75d6af0e748b9e4d1);
+            
+        
+
+        marker_2e243c2a0d2b4e51717cc8af8ebab4f5.bindPopup(popup_038d44a6ddf86df0471ee752a67a0300)
+        ;
+
+        
+    
+    
+            marker_2e243c2a0d2b4e51717cc8af8ebab4f5.bindTooltip(
+                `<div>
+                     Day1 stop 5: Fountains of Bellagio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2e243c2a0d2b4e51717cc8af8ebab4f5.setIcon(icon_51210826d0fd7f50b315ace38853a12a);
+            
+    
+            var marker_450084510aa493e2cfc42c66b7312b54 = L.marker(
+                [36.170727, -115.14382],
+                {
+}
+            ).addTo(feature_group_db014d0046772186386beb9399cedba1);
+        
+    
+            var icon_63f09eef1b5809f5105a6a70483bc909 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2e9e97bd3427473daa96c1c74aa72ed5 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_0581377a77787e3f8ce474cc4e24c49d = $(`<div id="html_0581377a77787e3f8ce474cc4e24c49d" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">6. Fremont Street Experience</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> Evening<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.2/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Head downtown to experience the pedestrian mall with free concerts and the spectacular Viva Vision light and sound show on the world’s largest video screen.</p>     </div>     </div>`)[0];
+                popup_2e9e97bd3427473daa96c1c74aa72ed5.setContent(html_0581377a77787e3f8ce474cc4e24c49d);
+            
+        
+
+        marker_450084510aa493e2cfc42c66b7312b54.bindPopup(popup_2e9e97bd3427473daa96c1c74aa72ed5)
+        ;
+
+        
+    
+    
+            marker_450084510aa493e2cfc42c66b7312b54.bindTooltip(
+                `<div>
+                     Day1 stop 6: Fremont Street Experience
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_450084510aa493e2cfc42c66b7312b54.setIcon(icon_63f09eef1b5809f5105a6a70483bc909);
+            
+    
+            var marker_67933acd063a913c156e0c16aa498eb4 = L.marker(
+                [36.100136, -115.112076],
+                {
+}
+            ).addTo(feature_group_db014d0046772186386beb9399cedba1);
+        
+    
+            var icon_080ec50135a900fc91c93f0e8e9dbd7e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ef0b80e8cb5056c50b3c8d24bfa6eebf = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_198b59b58ff467ebd09626b4686fc345 = $(`<div id="html_198b59b58ff467ebd09626b4686fc345" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">7. Casa Di Amore</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> Evening<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.5/5<br><b>Budget:</b> $25<br><p style='margin: 8px 0 0;'>Enjoy dinner at this locally owned restaurant celebrating "Las Vegas, the way it used to be!" with live jazz and a superb ambiance.</p>     </div>     </div>`)[0];
+                popup_ef0b80e8cb5056c50b3c8d24bfa6eebf.setContent(html_198b59b58ff467ebd09626b4686fc345);
+            
+        
+
+        marker_67933acd063a913c156e0c16aa498eb4.bindPopup(popup_ef0b80e8cb5056c50b3c8d24bfa6eebf)
+        ;
+
+        
+    
+    
+            marker_67933acd063a913c156e0c16aa498eb4.bindTooltip(
+                `<div>
+                     Day1 stop 7: Casa Di Amore
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_67933acd063a913c156e0c16aa498eb4.setIcon(icon_080ec50135a900fc91c93f0e8e9dbd7e);
+            
+    
+            feature_group_db014d0046772186386beb9399cedba1.addTo(map_46241cf4385d001be294d4154ff27318);
+        
+    
+            var feature_group_4b5935d54b0e561247e9a85ab157e795 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_25aaed49b080071db887e7569df50f1d = L.polyline(
+                [[36.1147, -115.1728], [36.13085, -115.115364], [36.072174, -115.179665], [36.1356, -115.427], [36.159775, -115.17124], [36.113144, -115.17655], [36.112244, -115.17042], [36.1147, -115.1728]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(feature_group_4b5935d54b0e561247e9a85ab157e795);
+        
+    
+            poly_line_25aaed49b080071db887e7569df50f1d.bindTooltip(
+                `<div>
+                     Day2 route
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_e798161f64b4048a3f2d0681ec3f8278 = L.marker(
+                [36.13085, -115.115364],
+                {
+}
+            ).addTo(feature_group_4b5935d54b0e561247e9a85ab157e795);
+        
+    
+            var icon_15426a7342a87b4eb44509381d4ebd20 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e57562d68073e28e6a31d535af0ef74a = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_ff0908f8a5f077345c9125fd86c6374f = $(`<div id="html_ff0908f8a5f077345c9125fd86c6374f" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">1. EGGscellent</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> Morning<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.8/5<br><b>Budget:</b> $10<br><p style='margin: 8px 0 0;'>Start your day with a delicious and affordable breakfast at this highly-rated restaurant.</p>     </div>     </div>`)[0];
+                popup_e57562d68073e28e6a31d535af0ef74a.setContent(html_ff0908f8a5f077345c9125fd86c6374f);
+            
+        
+
+        marker_e798161f64b4048a3f2d0681ec3f8278.bindPopup(popup_e57562d68073e28e6a31d535af0ef74a)
+        ;
+
+        
+    
+    
+            marker_e798161f64b4048a3f2d0681ec3f8278.bindTooltip(
+                `<div>
+                     Day2 stop 1: EGGscellent
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e798161f64b4048a3f2d0681ec3f8278.setIcon(icon_15426a7342a87b4eb44509381d4ebd20);
+            
+    
+            var marker_5ca94bd2ec50903850d493c99369072c = L.marker(
+                [36.072174, -115.179665],
+                {
+}
+            ).addTo(feature_group_4b5935d54b0e561247e9a85ab157e795);
+        
+    
+            var icon_f8eca4b34a71d9d8f07518427d44aa25 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4a8e06881714fa25522034424f162b1d = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_847a17ca0bf0a5822b7a73699390e9f3 = $(`<div id="html_847a17ca0bf0a5822b7a73699390e9f3" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">2. Shelby American, Inc.</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> Morning<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.6/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Take a self-guided tour of the Shelby Heritage Center to see a wide variety of vehicles, from Cobras to Supersnakes.</p>     </div>     </div>`)[0];
+                popup_4a8e06881714fa25522034424f162b1d.setContent(html_847a17ca0bf0a5822b7a73699390e9f3);
+            
+        
+
+        marker_5ca94bd2ec50903850d493c99369072c.bindPopup(popup_4a8e06881714fa25522034424f162b1d)
+        ;
+
+        
+    
+    
+            marker_5ca94bd2ec50903850d493c99369072c.bindTooltip(
+                `<div>
+                     Day2 stop 2: Shelby American, Inc.
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5ca94bd2ec50903850d493c99369072c.setIcon(icon_f8eca4b34a71d9d8f07518427d44aa25);
+            
+    
+            var marker_1f24b300b1504020364bfb78343709cd = L.marker(
+                [36.1356, -115.427],
+                {
+}
+            ).addTo(feature_group_4b5935d54b0e561247e9a85ab157e795);
+        
+    
+            var icon_2309296c77fa6d899733044fc555c503 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a910cca1e15efddbba832b49c633cfdf = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_1aad059060436feed3fb8aa19e3e2f31 = $(`<div id="html_1aad059060436feed3fb8aa19e3e2f31" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">3. Red Rock Canyon National Conservation Area</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> Afternoon<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.7/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Escape the city for a few hours and admire colorful rock formations on several hiking trails or enjoy the scenic views.</p>     </div>     </div>`)[0];
+                popup_a910cca1e15efddbba832b49c633cfdf.setContent(html_1aad059060436feed3fb8aa19e3e2f31);
+            
+        
+
+        marker_1f24b300b1504020364bfb78343709cd.bindPopup(popup_a910cca1e15efddbba832b49c633cfdf)
+        ;
+
+        
+    
+    
+            marker_1f24b300b1504020364bfb78343709cd.bindTooltip(
+                `<div>
+                     Day2 stop 3: Red Rock Canyon National Conservation Area
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1f24b300b1504020364bfb78343709cd.setIcon(icon_2309296c77fa6d899733044fc555c503);
+            
+    
+            var marker_5bd8960560f4ec766f7e19bca4a99d2d = L.marker(
+                [36.159775, -115.17124],
+                {
+}
+            ).addTo(feature_group_4b5935d54b0e561247e9a85ab157e795);
+        
+    
+            var icon_c423c965d309adee24684f3830ea60f5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_448fea92dad15e6c35afe6e3cb6420ce = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_4cac6c6767df78adc61786429e3cbfb1 = $(`<div id="html_4cac6c6767df78adc61786429e3cbfb1" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">4. Omelet House</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> Afternoon<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.6/5<br><b>Budget:</b> $20<br><p style='margin: 8px 0 0;'>Enjoy a hearty and well-regarded lunch at this local favorite known for its omelets.</p>     </div>     </div>`)[0];
+                popup_448fea92dad15e6c35afe6e3cb6420ce.setContent(html_4cac6c6767df78adc61786429e3cbfb1);
+            
+        
+
+        marker_5bd8960560f4ec766f7e19bca4a99d2d.bindPopup(popup_448fea92dad15e6c35afe6e3cb6420ce)
+        ;
+
+        
+    
+    
+            marker_5bd8960560f4ec766f7e19bca4a99d2d.bindTooltip(
+                `<div>
+                     Day2 stop 4: Omelet House
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5bd8960560f4ec766f7e19bca4a99d2d.setIcon(icon_c423c965d309adee24684f3830ea60f5);
+            
+    
+            var marker_53c554a148cf5574eb7104b341cf2c12 = L.marker(
+                [36.113144, -115.17655],
+                {
+}
+            ).addTo(feature_group_4b5935d54b0e561247e9a85ab157e795);
+        
+    
+            var icon_d399093af7e19ddba5bc7faaffbf6a45 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_22421a445ae1ccb1cbeee2b2735be7d7 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_3ee3593b3e386179a6ad3d9ac156d726 = $(`<div id="html_3ee3593b3e386179a6ad3d9ac156d726" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">5. Casino at Bellagio</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> Evening<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.4/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Experience the lively atmosphere of one of Las Vegas's most famous casinos. You can walk around and soak in the ambiance without gambling.</p>     </div>     </div>`)[0];
+                popup_22421a445ae1ccb1cbeee2b2735be7d7.setContent(html_3ee3593b3e386179a6ad3d9ac156d726);
+            
+        
+
+        marker_53c554a148cf5574eb7104b341cf2c12.bindPopup(popup_22421a445ae1ccb1cbeee2b2735be7d7)
+        ;
+
+        
+    
+    
+            marker_53c554a148cf5574eb7104b341cf2c12.bindTooltip(
+                `<div>
+                     Day2 stop 5: Casino at Bellagio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_53c554a148cf5574eb7104b341cf2c12.setIcon(icon_d399093af7e19ddba5bc7faaffbf6a45);
+            
+    
+            var marker_df54c870cb13e6662b4f3ab26de03ee5 = L.marker(
+                [36.112244, -115.17042],
+                {
+}
+            ).addTo(feature_group_4b5935d54b0e561247e9a85ab157e795);
+        
+    
+            var icon_96b37ce51fe5381af3cb95f42e1d4b34 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e5fa20cb84037d3ec0937439e94b8a67 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_5506eb411751eb1479e61f66062042ff = $(`<div id="html_5506eb411751eb1479e61f66062042ff" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">6. Alexxa's</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> Evening<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.3/5<br><b>Budget:</b> $30<br><p style='margin: 8px 0 0;'>Return to Alexxa's for a pleasant dinner with views of the Strip.</p>     </div>     </div>`)[0];
+                popup_e5fa20cb84037d3ec0937439e94b8a67.setContent(html_5506eb411751eb1479e61f66062042ff);
+            
+        
+
+        marker_df54c870cb13e6662b4f3ab26de03ee5.bindPopup(popup_e5fa20cb84037d3ec0937439e94b8a67)
+        ;
+
+        
+    
+    
+            marker_df54c870cb13e6662b4f3ab26de03ee5.bindTooltip(
+                `<div>
+                     Day2 stop 6: Alexxa's
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_df54c870cb13e6662b4f3ab26de03ee5.setIcon(icon_96b37ce51fe5381af3cb95f42e1d4b34);
+            
+    
+            feature_group_4b5935d54b0e561247e9a85ab157e795.addTo(map_46241cf4385d001be294d4154ff27318);
+        
+    
+            var feature_group_5c0fee0cc03c4f9c232ace2cf410ec70 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_d9e2fccb240cf3e16aa3c0114cda6638 = L.polyline(
+                [[36.1147, -115.1728], [36.13085, -115.115364], [36.12764, -115.17304], [36.122715, -115.16892], [36.01248, -114.74202], [36.159775, -115.17124], [36.112858, -115.173], [36.100136, -115.112076], [36.1147, -115.1728]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5c0fee0cc03c4f9c232ace2cf410ec70);
+        
+    
+            poly_line_d9e2fccb240cf3e16aa3c0114cda6638.bindTooltip(
+                `<div>
+                     Day3 route
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_d471cadd094a97edcabd6bd6ee911824 = L.marker(
+                [36.13085, -115.115364],
+                {
+}
+            ).addTo(feature_group_5c0fee0cc03c4f9c232ace2cf410ec70);
+        
+    
+            var icon_3bfc989ba85d3e9ae08b4ff2bed75a85 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_41f3d38044eea0532bed765b77160c58 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_24078dc93be394625cc01024181b1fbc = $(`<div id="html_24078dc93be394625cc01024181b1fbc" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">1. EGGscellent</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> Morning<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.8/5<br><b>Budget:</b> $10<br><p style='margin: 8px 0 0;'>Enjoy another budget-friendly breakfast to fuel up for the day.</p>     </div>     </div>`)[0];
+                popup_41f3d38044eea0532bed765b77160c58.setContent(html_24078dc93be394625cc01024181b1fbc);
+            
+        
+
+        marker_d471cadd094a97edcabd6bd6ee911824.bindPopup(popup_41f3d38044eea0532bed765b77160c58)
+        ;
+
+        
+    
+    
+            marker_d471cadd094a97edcabd6bd6ee911824.bindTooltip(
+                `<div>
+                     Day3 stop 1: EGGscellent
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d471cadd094a97edcabd6bd6ee911824.setIcon(icon_3bfc989ba85d3e9ae08b4ff2bed75a85);
+            
+    
+            var marker_caea45af6d8d2c88730963ffc311a3cd = L.marker(
+                [36.12764, -115.17304],
+                {
+}
+            ).addTo(feature_group_5c0fee0cc03c4f9c232ace2cf410ec70);
+        
+    
+            var icon_ba15772343bef552d66c2fcdfc0ce346 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_42796e3e22c258dd4483f8b61ec4ab21 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_11166291de961cf69a13fa32ae1edeea = $(`<div id="html_11166291de961cf69a13fa32ae1edeea" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">2. Fashion Show Las Vegas</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> Morning<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.3/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Explore this large shopping, dining, and entertainment destination on the Strip, perfect for window shopping.</p>     </div>     </div>`)[0];
+                popup_42796e3e22c258dd4483f8b61ec4ab21.setContent(html_11166291de961cf69a13fa32ae1edeea);
+            
+        
+
+        marker_caea45af6d8d2c88730963ffc311a3cd.bindPopup(popup_42796e3e22c258dd4483f8b61ec4ab21)
+        ;
+
+        
+    
+    
+            marker_caea45af6d8d2c88730963ffc311a3cd.bindTooltip(
+                `<div>
+                     Day3 stop 2: Fashion Show Las Vegas
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_caea45af6d8d2c88730963ffc311a3cd.setIcon(icon_ba15772343bef552d66c2fcdfc0ce346);
+            
+    
+            var marker_c4b17ef5f7592219bf2edaa73805df71 = L.marker(
+                [36.122715, -115.16892],
+                {
+}
+            ).addTo(feature_group_5c0fee0cc03c4f9c232ace2cf410ec70);
+        
+    
+            var icon_b0cecbc3dcbb6b15ad76ba761885b479 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_902dae4f8787c9217d6341b5eca1c399 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_ab2d389fdbdfcc670a76dab6190090eb = $(`<div id="html_ab2d389fdbdfcc670a76dab6190090eb" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">3. The Grand Canal Shoppes at The Venetian Resort</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> Morning<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.5/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Stroll through cobblestone walkways under an illuminated, painted-sky ceiling, exploring unique shops and the enchanting atmosphere.</p>     </div>     </div>`)[0];
+                popup_902dae4f8787c9217d6341b5eca1c399.setContent(html_ab2d389fdbdfcc670a76dab6190090eb);
+            
+        
+
+        marker_c4b17ef5f7592219bf2edaa73805df71.bindPopup(popup_902dae4f8787c9217d6341b5eca1c399)
+        ;
+
+        
+    
+    
+            marker_c4b17ef5f7592219bf2edaa73805df71.bindTooltip(
+                `<div>
+                     Day3 stop 3: The Grand Canal Shoppes at The Venetian Resort
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c4b17ef5f7592219bf2edaa73805df71.setIcon(icon_b0cecbc3dcbb6b15ad76ba761885b479);
+            
+    
+            var marker_d064d11e955e481ea0d6dccc3131ff24 = L.marker(
+                [36.01248, -114.74202],
+                {
+}
+            ).addTo(feature_group_5c0fee0cc03c4f9c232ace2cf410ec70);
+        
+    
+            var icon_c8386bed7a88c8ed6ae224d0f91f40a1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2d3fbde3f7afbcd1ebe4aa1d7f595055 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_7306c16640f49a626b14a25aba5b9eb6 = $(`<div id="html_7306c16640f49a626b14a25aba5b9eb6" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">4. Hoover Dam Bypass</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> Afternoon<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.5/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Visit the 2,000-foot-long bridge for spectacular views of the Hoover Dam and the Colorado River canyon.</p>     </div>     </div>`)[0];
+                popup_2d3fbde3f7afbcd1ebe4aa1d7f595055.setContent(html_7306c16640f49a626b14a25aba5b9eb6);
+            
+        
+
+        marker_d064d11e955e481ea0d6dccc3131ff24.bindPopup(popup_2d3fbde3f7afbcd1ebe4aa1d7f595055)
+        ;
+
+        
+    
+    
+            marker_d064d11e955e481ea0d6dccc3131ff24.bindTooltip(
+                `<div>
+                     Day3 stop 4: Hoover Dam Bypass
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d064d11e955e481ea0d6dccc3131ff24.setIcon(icon_c8386bed7a88c8ed6ae224d0f91f40a1);
+            
+    
+            var marker_6cdda0e5de322ba412c84a29be96cb33 = L.marker(
+                [36.159775, -115.17124],
+                {
+}
+            ).addTo(feature_group_5c0fee0cc03c4f9c232ace2cf410ec70);
+        
+    
+            var icon_91b6157bdff572d79955dc52f297b22e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_43993bede6a7232817d68b355a5def94 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_dd4b096b6984c9d39f242266952372d0 = $(`<div id="html_dd4b096b6984c9d39f242266952372d0" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">5. Omelet House</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> Afternoon<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.6/5<br><b>Budget:</b> $20<br><p style='margin: 8px 0 0;'>Enjoy your final lunch in Las Vegas at the Omelet House.</p>     </div>     </div>`)[0];
+                popup_43993bede6a7232817d68b355a5def94.setContent(html_dd4b096b6984c9d39f242266952372d0);
+            
+        
+
+        marker_6cdda0e5de322ba412c84a29be96cb33.bindPopup(popup_43993bede6a7232817d68b355a5def94)
+        ;
+
+        
+    
+    
+            marker_6cdda0e5de322ba412c84a29be96cb33.bindTooltip(
+                `<div>
+                     Day3 stop 5: Omelet House
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6cdda0e5de322ba412c84a29be96cb33.setIcon(icon_91b6157bdff572d79955dc52f297b22e);
+            
+    
+            var marker_5ca549725b8719c82f916dcb412e651f = L.marker(
+                [36.112858, -115.173],
+                {
+}
+            ).addTo(feature_group_5c0fee0cc03c4f9c232ace2cf410ec70);
+        
+    
+            var icon_0d86d0a48896058cd2ed1dec60cf7a15 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6df4bd85b65cb613e866b0c2cbaba29f = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_5c8df5860c5c252faa3055aef86718fb = $(`<div id="html_5c8df5860c5c252faa3055aef86718fb" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">6. The Las Vegas Strip</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> Evening<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.4/5<br><b>Budget:</b> $0<br><p style='margin: 8px 0 0;'>Take a final evening stroll down the Strip to see the city lights and catch the Fountains of Bellagio show at night.</p>     </div>     </div>`)[0];
+                popup_6df4bd85b65cb613e866b0c2cbaba29f.setContent(html_5c8df5860c5c252faa3055aef86718fb);
+            
+        
+
+        marker_5ca549725b8719c82f916dcb412e651f.bindPopup(popup_6df4bd85b65cb613e866b0c2cbaba29f)
+        ;
+
+        
+    
+    
+            marker_5ca549725b8719c82f916dcb412e651f.bindTooltip(
+                `<div>
+                     Day3 stop 6: The Las Vegas Strip
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5ca549725b8719c82f916dcb412e651f.setIcon(icon_0d86d0a48896058cd2ed1dec60cf7a15);
+            
+    
+            var marker_917bdef882df36f1623d62e9e4bf83a2 = L.marker(
+                [36.100136, -115.112076],
+                {
+}
+            ).addTo(feature_group_5c0fee0cc03c4f9c232ace2cf410ec70);
+        
+    
+            var icon_0680d4968f5fd9c1042bf9c6ab63c973 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d1d37613c539497dc53d883fca87db06 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_c2c36b2df0f10072a2e3526000c5b17a = $(`<div id="html_c2c36b2df0f10072a2e3526000c5b17a" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">7. Casa Di Amore</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> Evening<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.5/5<br><b>Budget:</b> $25<br><p style='margin: 8px 0 0;'>Conclude your trip with a memorable dinner at Casa Di Amore, enjoying the classic Las Vegas ambiance.</p>     </div>     </div>`)[0];
+                popup_d1d37613c539497dc53d883fca87db06.setContent(html_c2c36b2df0f10072a2e3526000c5b17a);
+            
+        
+
+        marker_917bdef882df36f1623d62e9e4bf83a2.bindPopup(popup_d1d37613c539497dc53d883fca87db06)
+        ;
+
+        
+    
+    
+            marker_917bdef882df36f1623d62e9e4bf83a2.bindTooltip(
+                `<div>
+                     Day3 stop 7: Casa Di Amore
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_917bdef882df36f1623d62e9e4bf83a2.setIcon(icon_0680d4968f5fd9c1042bf9c6ab63c973);
+            
+    
+            feature_group_5c0fee0cc03c4f9c232ace2cf410ec70.addTo(map_46241cf4385d001be294d4154ff27318);
+        
+    
+            var layer_control_a9ed209006e6e3adf62e295f4fe23685_layers = {
+                base_layers : {
+                    "cartodbpositron" : tile_layer_283e398b5eb11192282635ec4076503f,
+                },
+                overlays :  {
+                    "Day1" : feature_group_db014d0046772186386beb9399cedba1,
+                    "Day2" : feature_group_4b5935d54b0e561247e9a85ab157e795,
+                    "Day3" : feature_group_5c0fee0cc03c4f9c232ace2cf410ec70,
+                },
+            };
+            let layer_control_a9ed209006e6e3adf62e295f4fe23685 = L.control.layers(
+                layer_control_a9ed209006e6e3adf62e295f4fe23685_layers.base_layers,
+                layer_control_a9ed209006e6e3adf62e295f4fe23685_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": false,
+  "autoZIndex": true,
+}
+            ).addTo(map_46241cf4385d001be294d4154ff27318);
+
+        
+</script>
+</html>

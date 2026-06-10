@@ -1,0 +1,247 @@
+{
+  "location_id": "15690257",
+  "name": "Roman Temple Of Hercules",
+  "latitude": "31.95384",
+  "longitude": "35.934795",
+  "num_reviews": "169",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/80/34/eb/temple-of-hercules-amman.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/80/34/eb/temple-of-hercules-amman.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/80/34/eb/temple-of-hercules-amman.jpg",
+        "height": "720"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/80/34/eb/temple-of-hercules-amman.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/80/34/eb/temple-of-hercules-amman.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2019-02-17T11:47:32-0500",
+    "caption": "Temple of Hercules; Amman Citadel",
+    "id": "377500907",
+    "helpful_votes": "1",
+    "published_date": "2019-02-17T11:47:32-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9043514728546143",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "5",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#5 of 118 things to do in Amman",
+  "subcategory_ranking": "#5 of 118 things to do in Amman",
+  "ranking": "#5 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d15690257-Reviews-Roman_Temple_Of_Hercules-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d15690257-Roman_Temple_Of_Hercules-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 7 8508 5912",
+  "address_obj": {
+    "street1": "Museum St 132",
+    "street2": "Amman Citadel",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": null
+  },
+  "address": "Museum St 132 Amman Citadel, Amman Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 480,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1140
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "2",
+      "name": "Ancient Ruins"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-Half-Day-Jerash-and-Amman-City-Sightseeing-Tour%2Fd5503-2268ZT024DT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=062a12abd542bf323&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=15690257&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$1.67",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-Half-Day-Jerash-and-Amman-City-Sightseeing-Tour%2Fd5503-2268ZT024DT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=062a12abd542bf323&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=15690257&clt=TM&from=api&nt=true",
+        "price": "$166.67",
+        "rounded_up_price": "$167",
+        "offer_type": "",
+        "title": "Private Full Day Jerash and Amman City Sightseeing Tour",
+        "product_code": "2268ZT024DT",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e2/c2/83.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSweimah%2FPrivate-Full-Day-Tour-Jerash-Citadel-and-Roman-Theater-from-Dead-Sea%2Fd50263-2268P154%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=b5f32a5e76b1f0719&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=15690257&clt=TM&from=api&nt=true",
+        "price": "$193.33",
+        "rounded_up_price": "$194",
+        "offer_type": "",
+        "title": "Private Full Day Jerash and Amman City Sightseeing Tour from Dead Sea",
+        "product_code": "2268P154",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/d1/29/6b.jpg",
+        "description": null,
+        "primary_category": "Private Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-Full-Day-tour-Ammans-highlights-SoloSmall-Groups%2Fd5503-102867P203%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1d7f701b462260418&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=15690257&clt=TM&from=api&nt=true",
+        "price": "$173.34",
+        "rounded_up_price": "$174",
+        "offer_type": "",
+        "title": "Private Full-Day tour ;Amman's highlights ;Solo;Small Groups",
+        "product_code": "102867P203",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/21/5c/97.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FJordan-in-Few-Days-03-Nights-04-Days%2Fd5503-69646P21%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=09139b3e7721d116c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=15690257&clt=TM&from=api&nt=true",
+        "price": "$698.72",
+        "rounded_up_price": "$699",
+        "offer_type": "",
+        "title": "4 Days and 3 Nights Tour in Jordan",
+        "product_code": "69646P21",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/73/67/84.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

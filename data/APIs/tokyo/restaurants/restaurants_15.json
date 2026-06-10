@@ -1,0 +1,236 @@
+{
+  "location_id": "28293886",
+  "name": "L’ATELIER et Brasserie ATOM Milano",
+  "latitude": "35.672253",
+  "longitude": "139.76242",
+  "num_reviews": "226",
+  "timezone": "Asia/Tokyo",
+  "location_string": "Ginza, Chuo, Tokyo, Tokyo Prefecture, Kanto",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2d/ac/59/a1/sns.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2d/ac/59/a1/sns.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2d/ac/59/a1/sns.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2d/ac/59/a1/sns.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/2d/ac/59/a1/sns.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2024-10-01T05:38:19-0400",
+    "caption": "一口サイズのスライダーバーガーは有名サッカー選手が食べたことによりSNSで大人気に。",
+    "id": "766269857",
+    "helpful_votes": "0",
+    "published_date": "2024-10-01T05:38:19-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "as.japan.kanto.tokyo.chuo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.845455646514893",
+  "ranking_geo": "Tokyo",
+  "ranking_geo_id": "298184",
+  "ranking_position": "16",
+  "ranking_denominator": "63359",
+  "ranking_category": "restaurant",
+  "ranking": "#15 of 94,649 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$1,000 - $2,500",
+  "description": "Located in the heart of Ginza, this café and dining bar, themed around \"luxury made casual,\" is frequented by famous athletes and celebrities. The owner, who moved to Italy as a teenager and has lived in Europe for over 30 years, presents a Japanese-style lifestyle that allows you to enjoy little luxuries with ease. In a spacious setting inspired by the beach resorts of Southern Italy, you can indulge in luxurious drinks and casual snacks while engaging in delightful conversations.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g14129573-d28293886-Reviews-L_ATELIER_et_Brasserie_ATOM_Milano-Ginza_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g14129573-d28293886-L_ATELIER_et_Brasserie_ATOM_Milano-Ginza_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Ginza",
+      "abbrv": null,
+      "location_id": "14129573"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Chuo",
+      "abbrv": null,
+      "location_id": "1066444"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Tokyo",
+      "abbrv": null,
+      "location_id": "298184"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Tokyo Prefecture",
+      "abbrv": null,
+      "location_id": "1023181"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kanto",
+      "abbrv": null,
+      "location_id": "298156"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Japan",
+      "abbrv": null,
+      "location_id": "294232"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Ginza",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+81 3-4362-9033",
+  "website": "https://fasma.jp/dr6741",
+  "address_obj": {
+    "street1": "5-2-1 Tokyu Plaza Ginza",
+    "street2": "10F",
+    "city": "Ginza",
+    "state": "Tokyo Prefecture",
+    "country": "Japan",
+    "postalcode": "104-0061"
+  },
+  "address": "5-2-1 Tokyu Plaza Ginza 10F, Ginza, Chuo 104-0061 Tokyo Prefecture",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1380
+        }
+      ]
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10670",
+      "name": "Pub"
+    },
+    {
+      "key": "21353",
+      "name": "Dining bars"
+    },
+    {
+      "key": "21355",
+      "name": "Beer restaurants"
+    }
+  ],
+  "dietary_restrictions": [],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

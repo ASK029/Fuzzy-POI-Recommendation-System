@@ -1,0 +1,266 @@
+{
+  "location_id": "190131",
+  "name": "Fontana di Trevi",
+  "latitude": "41.900883",
+  "longitude": "12.48334",
+  "num_reviews": "104281",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/60/3b/32/fontana-di-trevi.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/60/3b/32/fontana-di-trevi.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/60/3b/32/fontana-di-trevi.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/60/3b/32/fontana-di-trevi.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/60/3b/32/fontana-di-trevi.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-08-29T08:48:55-0400",
+    "caption": "Fontana di Trevi",
+    "id": "341850930",
+    "helpful_votes": "33",
+    "published_date": "2018-08-29T08:48:55-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.673938274383545",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "9",
+  "ranking_denominator": "2764",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#9 of 2,764 things to do in Rome",
+  "subcategory_ranking": "#9 of 2,764 things to do in Rome",
+  "ranking": "#9 of 2,764 things to do in Rome",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230906",
+      "name": "Trevi"
+    },
+    {
+      "location_id": "15621860",
+      "name": "Centro"
+    }
+  ],
+  "description": "Certainly the most famous and photographed fountain in Rome, legend has it that whoever throws a coin into the pond will return to Rome.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187791-d190131-Reviews-Fontana_di_Trevi-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d190131-Fontana_di_Trevi-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "https://www.turismoroma.it/it/luoghi/fontana-di-trevi",
+  "address_obj": {
+    "street1": "Piazza di Trevi",
+    "street2": "",
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00187"
+  },
+  "address": "Piazza di Trevi, 00187 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "13",
+      "name": "Fountains"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-Evening-Walking-Tour-including-Spanish-Steps-and-Trevi-Fountain%2Fd511-21468P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=eb6358b9dd6c9d781&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190131&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-Evening-Walking-Tour-including-Spanish-Steps-and-Trevi-Fountain%2Fd511-21468P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=eb6358b9dd6c9d781&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190131&clt=TM&from=api&nt=true",
+        "price": "$33.66",
+        "rounded_up_price": "$34",
+        "offer_type": "",
+        "title": "Rome Night Tour with Trevi Fountain, Navona, Spanish Steps",
+        "product_code": "21468P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/7c/0a/ee.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FWalk-Downtown-Rome-Pantheon-Trevi-and-Spanish-Steps%2Fd511-23258P47%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3ad2bb8f0e619541a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190131&clt=TM&from=api&nt=true",
+        "price": "$204.93",
+        "rounded_up_price": "$205",
+        "offer_type": "",
+        "title": "Rome Private Sightseeing Walking Tour",
+        "product_code": "23258P47",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/90/0b/89.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-Hop-On-Hop-Off-Sightseeing-Tour%2Fd511-6980ROME%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3026d6186efebbe1d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190131&clt=TM&from=api&nt=true",
+        "price": "$20.77",
+        "rounded_up_price": "$21",
+        "offer_type": "",
+        "title": "Rome Hop-On Hop-Off Bus Tour with Four Ticket Options",
+        "product_code": "6980ROME",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/16/8a/a7.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-at-Dusk%2Fd511-179241P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=379fc971ed99c36d0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190131&clt=TM&from=api&nt=true",
+        "price": "$21.86",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": "Rome Sightseeing and Stories Small-Group Walking Tour",
+        "product_code": "179241P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/39/b7/f0.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-in-a-Day-Group-Tour-with-Entry-to-Vatican-and-Colosseum%2Fd511-24338P42%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=5b50450495273f99e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190131&clt=TM&from=api&nt=true",
+        "price": "$134.95",
+        "rounded_up_price": "$135",
+        "offer_type": "",
+        "title": "Rome in a Day Group Tour with Entry to Vatican and Colosseum",
+        "product_code": "24338P42",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/3f/79/56.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

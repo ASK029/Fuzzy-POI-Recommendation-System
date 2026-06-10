@@ -1,0 +1,208 @@
+{
+  "location_id": "2406065",
+  "name": "Duke of Mukhyber's Residence",
+  "latitude": "31.95222",
+  "longitude": "35.9324",
+  "num_reviews": "45",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/67/f8/4f/duke-of-mukhyber-s-residence.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/67/f8/4f/duke-of-mukhyber-s-residence.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/67/f8/4f/duke-of-mukhyber-s-residence.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/67/f8/4f/duke-of-mukhyber-s-residence.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/67/f8/4f/duke-of-mukhyber-s-residence.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-08-24T09:50:33-0400",
+    "caption": "Duke of Mukhyber's Residence",
+    "id": "275249231",
+    "helpful_votes": "0",
+    "published_date": "2017-08-24T09:50:33-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.8994815349578857",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "36",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#36 of 118 things to do in Amman",
+  "subcategory_ranking": "#36 of 118 things to do in Amman",
+  "ranking": "#36 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.8",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d2406065-Reviews-Duke_of_Mukhyber_s_Residence-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d2406065-Duke_of_Mukhyber_s_Residence-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 6 477 5804",
+  "website": "http://www.facebook.com/pages/%D8%AF%D9%8A%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%82/271757329689717",
+  "address_obj": {
+    "street1": "King Faisal Street",
+    "street2": null,
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": null
+  },
+  "address": "King Faisal Street, Amman Jordan",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-walking-tour-in-Amman%2Fd5503-148807P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0040974fec2348037&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=2406065&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.25",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-walking-tour-in-Amman%2Fd5503-148807P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0040974fec2348037&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=2406065&clt=TM&from=api&nt=true",
+        "price": "$49.00",
+        "rounded_up_price": "$49",
+        "offer_type": "",
+        "title": "Amman Private Guided Walking Tour with a Local",
+        "product_code": "148807P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/19/83/97.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-City-Walking-Tour-With-Local%2Fd5503-148807P11%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c2f52a70469f486dc&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=2406065&clt=TM&from=api&nt=true",
+        "price": "$24.99",
+        "rounded_up_price": "$25",
+        "offer_type": "",
+        "title": "Downtown Amman Small-Group Guided Food and Culture Tour",
+        "product_code": "148807P11",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/9a/15/b2.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-Custom-Walking-Tour-with-a-Local-Guide-in-Amman%2Fd5503-104357P263%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=5736f13a305e25c17&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=2406065&clt=TM&from=api&nt=true",
+        "price": "$33.88",
+        "rounded_up_price": "$34",
+        "offer_type": "",
+        "title": "Amman : Private Walking Tour With A Guide (Private Tour)",
+        "product_code": "104357P263",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/fd/a6/f8.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FAmmans-Museums-Full-Day-Private-Tour%2Fd5503-133160P71%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=698f979f1e9202e13&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=2406065&clt=TM&from=api&nt=true",
+        "price": "$124.99",
+        "rounded_up_price": "$125",
+        "offer_type": "",
+        "title": "Amman Museum's Private Full-Day Tour from Amman",
+        "product_code": "133160P71",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/91/c6/0c.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FExperience-Amman-city-to-the-fullest%2Fd5503-377869P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8d09a7338438dcb2b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=2406065&clt=TM&from=api&nt=true",
+        "price": "$350.00",
+        "rounded_up_price": "$350",
+        "offer_type": "",
+        "title": "Amman &Wadi Rum: Jeep Tour, Bedouin Camp Escape &Culinary Journey",
+        "product_code": "377869P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/d6/d1/4d.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

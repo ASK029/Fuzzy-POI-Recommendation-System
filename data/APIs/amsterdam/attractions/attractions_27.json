@@ -1,0 +1,275 @@
+{
+  "location_id": "8628212",
+  "name": "De Hallen Amsterdam",
+  "latitude": "52.366848",
+  "longitude": "4.868769",
+  "num_reviews": "885",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/f0/f4/f1/entrata.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/f0/f4/f1/entrata.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/f0/f4/f1/entrata.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0a/f0/f4/f1/entrata.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/f0/f4/f1/entrata.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-04-18T18:47:34-0400",
+    "caption": "entrata",
+    "id": "183563505",
+    "helpful_votes": "0",
+    "published_date": "2016-04-18T18:47:34-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.8729400634765625",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "40",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#40 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#40 of 1,200 things to do in Amsterdam",
+  "ranking": "#40 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620063",
+      "name": "Amsterdam West"
+    },
+    {
+      "location_id": "15620079",
+      "name": "Oud West"
+    },
+    {
+      "location_id": "15620097",
+      "name": "Kinkerbuurt"
+    }
+  ],
+  "description": "De Hallen Amsterdam is a cultural centre and national heritage site in Amsterdam’s Oud-West district, where art, film, craftsmanship and community come together.\nFrom exhibitions to talks, cinemas to makerspaces – De Hallen is a vibrant meeting place for urban culture, creativity and social enterprise. \nLocated in a former tram depot, the complex houses independent galleries, workshops, markets, the renowned FilmHallen cinema and the popular Foodhallen – all part of a larger cultural ecosystem.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d8628212-Reviews-De_Hallen_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d8628212-De_Hallen_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "62",
+      "name": "Events"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 705 8164",
+  "website": "http://www.dehallen-amsterdam.nl/",
+  "email": "info@dehallen-amsterdam.nl",
+  "address_obj": {
+    "street1": "Hannie Dankbaarpassage 47",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1053 RT"
+  },
+  "address": "Hannie Dankbaarpassage 47, 1053 RT Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 420,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1500
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "282",
+      "name": "Cultural Events"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FVondelpark-and-Old-West-Neighbourhood-Walking-Audio-Tour-by-VoiceMap%2Fd525-110804P148%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=458703a00c07a95b0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=8628212&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.07",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FVondelpark-and-Old-West-Neighbourhood-Walking-Audio-Tour-by-VoiceMap%2Fd525-110804P148%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=458703a00c07a95b0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=8628212&clt=TM&from=api&nt=true",
+        "price": "$6.99",
+        "rounded_up_price": "$7",
+        "offer_type": "",
+        "title": "Vondelpark & Old West Neighbourhood: Self-Guided Tour",
+        "product_code": "110804P148",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/1d/60/65.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Evening-Cruise-on-a-Cosy-Open-Boat-Magical-and-Romantic%2Fd525-176051P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=90886b78f0d2489eb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=8628212&clt=TM&from=api&nt=true",
+        "price": "$43.66",
+        "rounded_up_price": "$44",
+        "offer_type": "",
+        "title": "Amsterdam Evening Canal Cruise",
+        "product_code": "176051P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/70/b3/8e.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FCheese-making-and-tasting-in-Amsterdam%2Fd525-371312P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2b8856906335cac22&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=8628212&clt=TM&from=api&nt=true",
+        "price": "$131.15",
+        "rounded_up_price": "$132",
+        "offer_type": "",
+        "title": "Cheese making workshop next to De Hallen, heart of Amsterdam",
+        "product_code": "371312P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ab/8f/cd.jpg",
+        "description": null,
+        "primary_category": "Cooking Classes"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FVegan-Food-Tour-Amsterdam-Jordaan-and-Oud-West%2Fd525-317066P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=792fbbb443059d1f8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=8628212&clt=TM&from=api&nt=true",
+        "price": "$92.90",
+        "rounded_up_price": "$93",
+        "offer_type": "",
+        "title": "Amsterdam Vegan Food Tour in Jordaan and Oud-West",
+        "product_code": "317066P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/6d/ca/fa.jpg",
+        "description": null,
+        "primary_category": "Hiking & Camping"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

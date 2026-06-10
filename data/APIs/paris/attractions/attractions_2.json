@@ -1,0 +1,236 @@
+{
+  "location_id": "188679",
+  "name": "Cathedrale Notre-Dame de Paris",
+  "latitude": "48.853",
+  "longitude": "2.3498",
+  "num_reviews": "71941",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/00/12/6d/03/the-view-from-the-top.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/00/12/6d/03/the-view-from-the-top.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/00/12/6d/03/the-view-from-the-top.jpg",
+        "height": "392"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/00/12/6d/03/the-view-from-the-top.jpg",
+        "height": "392"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/00/12/6d/03/the-view-from-the-top.jpg",
+        "height": "392"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2006-01-04T00:00:00-0500",
+    "caption": "The view from the top of the tower is amazing",
+    "id": "1207555",
+    "helpful_votes": "601",
+    "published_date": "2006-01-04T00:00:00-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.877194404602051",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "5",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#5 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#5 of 4,164 things to do in Paris",
+  "ranking": "#5 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7236764",
+      "name": "Ile de la Cite"
+    },
+    {
+      "location_id": "15621629",
+      "name": "4th Arr. - Hotel-de-Ville"
+    },
+    {
+      "location_id": "15621562",
+      "name": "Notre-Dame"
+    },
+    {
+      "location_id": "15621648",
+      "name": "Ile de la Cite"
+    }
+  ],
+  "description": "The iconic Notre Dame Cathedral Paris—meaning ‘Our Lady of Paris’—is a masterpiece of French Gothic architecture. Built back in the 12th century, the important monument has witnessed many historical events. It has also inspired Victor Hugo’s story of the Hunchback of Notre-Dame. Outside the cathedral, you can admire its grand exterior which is framed by an elegant pair of bell towers, stained glass windows and an ornately decorated facade with grand statues. You can also enter the cathedral for a small entrance fee to view Nio-Gothic artwork and furniture as well as join their weekly sessions. – Tripadvisor",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188679-Reviews-Cathedrale_Notre_Dame_de_Paris-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d188679-Cathedrale_Notre_Dame_de_Paris-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 42 34 56 10",
+  "website": "https://www.notredamedeparis.fr/",
+  "email": "info@cathedraledeparis.com",
+  "address_obj": {
+    "street1": "6 Parvis Notre-Dame",
+    "street2": "Place Jean-Paul II",
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75004"
+  },
+  "address": "6 Parvis Notre-Dame Place Jean-Paul II, 75004 Paris France",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "175",
+      "name": "Churches & Cathedrals"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSee-30-Plus-Top-Paris-Sights-in-1-Tour%2Fd479-131689P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=25e124eb1441bc6b7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=188679&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$2.61",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSee-30-Plus-Top-Paris-Sights-in-1-Tour%2Fd479-131689P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=25e124eb1441bc6b7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=188679&clt=TM&from=api&nt=true",
+        "price": "$71.18",
+        "rounded_up_price": "$72",
+        "offer_type": "",
+        "title": "Paris: Half-Day City Highlights Small-Group Walking Tour",
+        "product_code": "131689P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/37/98/3c.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FThe-Darkest-Secrets-of-Paris%2Fd479-123350P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9a7ccf689991baa4f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=188679&clt=TM&from=api&nt=true",
+        "price": "$35.52",
+        "rounded_up_price": "$36",
+        "offer_type": "",
+        "title": "Paris Small-Group After-Dark Ghost Stories Walking Tour",
+        "product_code": "123350P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/36/49/c5.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FBig-Bus-Paris-Hop-On-Hop-Off-Tour%2Fd479-6602PARHOHO%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=b0e08069842f10860&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=188679&clt=TM&from=api&nt=true",
+        "price": "$49.18",
+        "rounded_up_price": "$50",
+        "offer_type": "",
+        "title": "Explore Paris: Red Classic Hop-on, Hop-off Tour & River Cruise",
+        "product_code": "6602PARHOHO",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/1b/d2/8d.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSemi-Private-Guided-Walking-Tour-Latin-Quarter-Including-Notre-Dame-Interior%2Fd479-6353P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3ac44c9f5de2a1435&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=188679&clt=TM&from=api&nt=true",
+        "price": "$53.93",
+        "rounded_up_price": "$54",
+        "offer_type": "",
+        "title": "Notre Dame Cathedral, Latin Quarter: Small-Group Walking Tour",
+        "product_code": "6353P16",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/16/d5/cf.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FHaunted-Paris-The-Murder-of-Mona-Lisa-15-Hour-City-Exploration-Game%2Fd479-107194P26%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7035ca4d4df6dd3c6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=188679&clt=TM&from=api&nt=true",
+        "price": "$9.02",
+        "rounded_up_price": "$10",
+        "offer_type": "",
+        "title": "Paris Mona Lisa Quest: Self-Guided Murder Mystery Game",
+        "product_code": "107194P26",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/81/ff/3d.jpg",
+        "description": null,
+        "primary_category": "Ghost & Vampire Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

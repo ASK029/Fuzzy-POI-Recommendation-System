@@ -1,0 +1,186 @@
+{
+  "location_id": "9821260",
+  "name": "TAJ Lifestyle Center",
+  "latitude": "31.941166",
+  "longitude": "35.888504",
+  "num_reviews": "103",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/bc/c6/10/football-tournament-at.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/bc/c6/10/football-tournament-at.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "996",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/bc/c6/10/football-tournament-at.jpg",
+        "height": "747"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/bc/c6/10/football-tournament-at.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/bc/c6/10/football-tournament-at.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2016-06-25T19:52:04-0400",
+    "caption": "Football tournament at the terrace",
+    "id": "196920848",
+    "helpful_votes": "22",
+    "published_date": "2016-06-25T19:52:04-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.032223701477051",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "28",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#28 of 118 things to do in Amman",
+  "subcategory_ranking": "#28 of 118 things to do in Amman",
+  "ranking": "#28 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "TAJ Lifestyle Center is one of the top attractions in Jordan, offering a comprehensive retail mix, from world-renowned high fashion labels, designer boutiques, jewelry, cosmetics and beauty to kids wear, sporting goods, electronics, and supermarket retailer. Since opening its door in November 2011 TAJ Lifestyle Center transformed the shopping experience of millions a year. A premium destination to shopping, dining and entertainment. TAJ, an experience matching your lifestyle!",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d9821260-Reviews-TAJ_Lifestyle_Center-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d9821260-TAJ_Lifestyle_Center-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 6 592 1122",
+  "website": "https://www.facebook.com/TAJLifestyleCenter/",
+  "email": "customercare@tajlifestyle.com",
+  "address_obj": {
+    "street1": "Prince Hashim Bin Al Hussein Street",
+    "street2": "Saed Abdo Shammout St.",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": "11183"
+  },
+  "address": "Prince Hashim Bin Al Hussein Street Saed Abdo Shammout St., Amman 11183 Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 840,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "143",
+      "name": "Shopping Malls"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "location_id": "17423137",
+  "name": "Kiltro Restobar Gracia",
+  "latitude": "41.40189",
+  "longitude": "2.154418",
+  "num_reviews": "511",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2f/38/7d/58/bestseller-picana.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2f/38/7d/58/bestseller-picana.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2f/38/7d/58/bestseller-picana.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2f/38/7d/58/bestseller-picana.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2f/38/7d/58/bestseller-picana.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2025-03-06T11:13:40-0500",
+    "caption": "Bestseller: Picaña",
+    "id": "792231256",
+    "helpful_votes": "0",
+    "published_date": "2025-03-06T11:13:40-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.872113227844238",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "13",
+  "ranking_denominator": "8973",
+  "ranking_category": "restaurant",
+  "ranking": "#13 of 10,548 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Closed today",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$15 - $25",
+  "neighborhood_info": [
+    {
+      "location_id": "7230968",
+      "name": "Gracia"
+    },
+    {
+      "location_id": "15565903",
+      "name": "Vila de Gracia"
+    }
+  ],
+  "description": "Through an explosion of fusion flavors and our Latin vibe, we want to be a space where you free yourself from your routine and travel to the lands of Latin America.\n\nAt Kiltro you will find signature cocktails, infused piscos, the best service and a varied menu with gourmet street food dishes.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d17423137-Reviews-Kiltro_Restobar_Gracia-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d17423137-Kiltro_Restobar_Gracia-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 931 92 07 63",
+  "website": "http://www.kiltrobcn.com",
+  "email": "kiltrobcnrestobar@gmail.com",
+  "address_obj": {
+    "street1": "Carrer del Montseny 13",
+    "street2": "Local 2",
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08012"
+  },
+  "address": "Carrer del Montseny 13 Local 2, 08012 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [],
+      [],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1020
+        },
+        {
+          "open_time": 1110,
+          "close_time": 1560
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5110",
+      "name": "Mexican"
+    },
+    {
+      "key": "10639",
+      "name": "Latin"
+    },
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10671",
+      "name": "Fusion"
+    },
+    {
+      "key": "10760",
+      "name": "Central American"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "location_id": "3920824",
+  "name": "The Edge",
+  "latitude": "25.129412",
+  "longitude": "55.11718",
+  "num_reviews": "1115",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/98/0c/58/food-shot.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/98/0c/58/food-shot.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/98/0c/58/food-shot.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/21/98/0c/58/food-shot.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/98/0c/58/food-shot.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2021-12-12T08:43:14-0500",
+    "caption": "Food Shot",
+    "id": "563612760",
+    "helpful_votes": "1",
+    "published_date": "2021-12-12T08:43:14-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.9199419021606445",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "18",
+  "ranking_denominator": "8546",
+  "ranking_category": "restaurant",
+  "ranking": "#18 of 11,067 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "neighborhood_info": [
+    {
+      "location_id": "15620663",
+      "name": "Palm Jumeirah"
+    }
+  ],
+  "description": "The Edge is a poolside restaurant where you can relax and cool off with great food and a picture-perfect atmosphere. With an Italian twist, The Edge, specialises in delicious electric stone hearth oven pizzas, salads, burgers and grills in a relaxing poolside setting. Enjoy your meal with your choice of refreshing beverage options, including wellness juices, cocktails and wines.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g295424-d3920824-Reviews-The_Edge-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3920824-The_Edge-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 426 2626",
+  "website": "http://www.atlantis.com/dubai/restaurants/outdoor-dining?utm_source=tripadvisor&utm_medium=referral&utm_content=listing&utm_campaign=tripadvisorTheEdgelisting&CID=tripadvisorTheEdgelisting",
+  "email": "atp-restaurant-rsvn@atlantisdubai.com",
+  "address_obj": {
+    "street1": "Crescent Rd",
+    "street2": "Atlantis, The Palm",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "Crescent Rd Atlantis, The Palm, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "4617",
+      "name": "Italian"
+    },
+    {
+      "key": "10641",
+      "name": "Pizza"
+    },
+    {
+      "key": "10649",
+      "name": "Mediterranean"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10668",
+      "name": "Grill"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

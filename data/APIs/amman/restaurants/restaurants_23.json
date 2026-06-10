@@ -1,0 +1,190 @@
+{
+  "location_id": "24021229",
+  "name": "Roberto’s Amman Restaurant and Lounge",
+  "latitude": "31.960817",
+  "longitude": "35.88239",
+  "num_reviews": "604",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/9d/96/7d/bar-entertainment.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/9d/96/7d/bar-entertainment.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/23/9d/96/7d/bar-entertainment.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/23/9d/96/7d/bar-entertainment.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/9d/96/7d/bar-entertainment.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2022-05-30T04:16:16-0400",
+    "caption": "Bar & Entertainment",
+    "id": "597530237",
+    "helpful_votes": "3",
+    "published_date": "2022-05-30T04:16:16-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.785243988037109",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "21",
+  "ranking_denominator": "925",
+  "ranking_category": "restaurant",
+  "ranking": "#20 of 1,102 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "description": "Having established a firm reputation in Dubai as one of the most prestigious fine-dining restaurants in the city, Roberto's has now embarked on a new journey in Amman. Situated on the 20th floor, Roberto's Amman offers 360 skyline views of the city while offering a unique approach to Italian fine dining by curating an experience that is authentic, thoughtful, and exhilarating. With a scenic dining setting, an eclectic mixology bar and lounge, Roberto's Amman looks forward to welcoming you.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d24021229-Reviews-Roberto_s_Amman_Restaurant_and_Lounge-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d24021229-Roberto_s_Amman_Restaurant_and_Lounge-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 6 550 1560",
+  "website": "http://robertosamman.com",
+  "email": "reservations@robertosamman.com",
+  "address_obj": {
+    "street1": "5th Circle, Al Kindi Street",
+    "street2": null,
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": "11892"
+  },
+  "address": "5th Circle, Al Kindi Street, Amman 11892 Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "4617",
+      "name": "Italian"
+    },
+    {
+      "key": "10640",
+      "name": "Bar"
+    }
+  ],
+  "dietary_restrictions": [],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

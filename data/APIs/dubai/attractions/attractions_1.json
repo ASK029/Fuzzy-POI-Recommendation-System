@@ -1,0 +1,274 @@
+{
+  "location_id": "676922",
+  "name": "Burj Khalifa",
+  "latitude": "25.197195",
+  "longitude": "55.274376",
+  "num_reviews": "77997",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/c9/47/56/incentive-group-luxuriatours.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/c9/47/56/incentive-group-luxuriatours.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/c9/47/56/incentive-group-luxuriatours.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/c9/47/56/incentive-group-luxuriatours.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/c9/47/56/incentive-group-luxuriatours.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-12-20T02:45:20-0500",
+    "caption": "Incentive Group #LuxuriaTours #Groups",
+    "id": "365512534",
+    "helpful_votes": "20",
+    "published_date": "2018-12-21T15:55:43-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.0513529777526855",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "33",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#33 of 682 things to do in Dubai",
+  "subcategory_ranking": "#33 of 682 things to do in Dubai",
+  "ranking": "#33 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "description": "Standing over 2,700 feet and 163 floors high, this record-breaking skyscraper in downtown Dubai is the tallest structure in the world. Burj Khalifa has several open-air viewing decks and swanky lounges which offer splendid views of the UAE and the Persian Gulf. The highest lounge is located at level 154, and there is even a hotel at levels 38 and 39. Designed by Skidmore, Owings & Merrill architects, this mixed-used development atop Dubai Mall is inspired by the Great Mosque of Samarra in Iraq. You might want to buy skip-the-line tickets or join a tour to avoid snaking queues at this popular attraction in Dubai. – Tripadvisor",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d676922-Reviews-Burj_Khalifa-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d676922-Burj_Khalifa-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 888 8888",
+  "website": "http://www.burjkhalifa.ae",
+  "email": "Marrakechdaytrips2019@gmail.com",
+  "address_obj": {
+    "street1": "1 Mohammed Bin Rashid Boulevard",
+    "street2": "Downtown Dubai",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": "9440"
+  },
+  "address": "1 Mohammed Bin Rashid Boulevard Downtown Dubai, Dubai 9440 United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "39",
+      "name": "Observation Decks & Towers"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FBurj-Khalifa-At-the-Top-Entrance-Ticket%2Fd828-6267KHALIFA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=01049d531f0c3620e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=676922&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.45",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FBurj-Khalifa-At-the-Top-Entrance-Ticket%2Fd828-6267KHALIFA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=01049d531f0c3620e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=676922&clt=TM&from=api&nt=true",
+        "price": "$95.00",
+        "rounded_up_price": "$95",
+        "offer_type": "",
+        "title": "Dubai Burj Khalifa Level 124 'At the Top' Entrance Ticket",
+        "product_code": "6267KHALIFA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/90/d0/27.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FBurj-Khalifa-At-the-Top-and-Dubai-Aquarium-Combo-Entrance-Tickets%2Fd828-2168P101%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=79e639e8b5a908366&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=676922&clt=TM&from=api&nt=true",
+        "price": "$91.00",
+        "rounded_up_price": "$91",
+        "offer_type": "",
+        "title": "Dubai Aquarium and Burj Khalifa Observation Deck: Combo Ticket",
+        "product_code": "2168P101",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/cb/3c/ca.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FSkip-the-Line-Burj-Khalifa-Ticket-At-the-Top-Sky-124-125-and-148%2Fd828-2168P100%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=619a53e6a587e479a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=676922&clt=TM&from=api&nt=true",
+        "price": "$52.21",
+        "rounded_up_price": "$53",
+        "offer_type": "",
+        "title": "Dubai Skip-the-Line At the Top Burj Khalifa Ticket",
+        "product_code": "2168P100",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/cb/5e/a0.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Top-Five-Attractions-Tour-Including-Dinner%2Fd828-8285P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=62521e69e7dfc4d64&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=676922&clt=TM&from=api&nt=true",
+        "price": "$140.00",
+        "rounded_up_price": "$140",
+        "offer_type": "",
+        "title": "Dubai Top Attractions Tour with Optional Armani Dinner",
+        "product_code": "8285P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/d2/eb.jpg",
+        "description": null,
+        "primary_category": "Bus & Minivan Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FBurj-Khalifa-at-the-top-Level-124-and-125%2Fd828-232736P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d192b2c9a7e6b1d06&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=676922&clt=TM&from=api&nt=true",
+        "price": "$66.99",
+        "rounded_up_price": "$67",
+        "offer_type": "",
+        "title": "Burj Khalifa 124 and 125th Floor Observation Tower",
+        "product_code": "232736P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/4b/a1/50.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES",
+  "tags": {
+    "urgency_tag": {
+      "tag_text": "<span class=\"highlight\">Burj Khalifa tickets tend to sell out</span> - be sure to book in advance!",
+      "attraction_type": "TICKETS"
+    }
+  }
+}

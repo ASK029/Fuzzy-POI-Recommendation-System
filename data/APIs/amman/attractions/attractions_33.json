@@ -1,0 +1,186 @@
+{
+  "location_id": "16787409",
+  "name": "Abdali Mall",
+  "latitude": "31.96415",
+  "longitude": "35.9086",
+  "num_reviews": "42",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/bd/b3/9b/photo0jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/bd/b3/9b/photo0jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/bd/b3/9b/photo0jpg.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/bd/b3/9b/photo0jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/bd/b3/9b/photo0jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2019-03-10T09:42:07-0400",
+    "caption": "",
+    "id": "381531035",
+    "helpful_votes": "4",
+    "published_date": "2019-03-10T09:42:07-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.084512710571289",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "24",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#24 of 118 things to do in Amman",
+  "subcategory_ranking": "#24 of 118 things to do in Amman",
+  "ranking": "#24 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.2",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "In short, Abdali Mall is the Kingdom’s retail and entertainment hub; a thriving, dynamic space where hospitality, technology and architecture come together to ensure each visit to the mall is a memorable experience.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d16787409-Reviews-Abdali_Mall-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d16787409-Abdali_Mall-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 6 400 6800",
+  "website": "https://www.facebook.com/AbdaliMall/",
+  "email": "info@abdalimall.com.jo",
+  "address_obj": {
+    "street1": "Suliman Al Nabulsi St",
+    "street2": "Abdali Boulevard",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": "11183"
+  },
+  "address": "Suliman Al Nabulsi St Abdali Boulevard, Amman 11183 Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1410
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "143",
+      "name": "Shopping Malls"
+    }
+  ]
+}

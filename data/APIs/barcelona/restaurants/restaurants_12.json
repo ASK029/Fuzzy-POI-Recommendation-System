@@ -1,0 +1,285 @@
+{
+  "location_id": "15589100",
+  "name": "Le Romane",
+  "latitude": "41.388783",
+  "longitude": "2.156319",
+  "num_reviews": "6111",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/ba/ca/6f/pizza-le-romane.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/ba/ca/6f/pizza-le-romane.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/ba/ca/6f/pizza-le-romane.jpg",
+        "height": "852"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/29/ba/ca/6f/pizza-le-romane.jpg",
+        "height": "681"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/ba/ca/6f/pizza-le-romane.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-07-12T10:14:12-0400",
+    "caption": "Pizza Le Romane",
+    "id": "700107375",
+    "helpful_votes": "0",
+    "published_date": "2023-07-12T10:14:12-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.872960567474365",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "12",
+  "ranking_denominator": "8973",
+  "ranking_category": "restaurant",
+  "ranking": "#12 of 10,548 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$15 - $35",
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565886",
+      "name": "L'Antiga Esquerra de l'Eixample"
+    }
+  ],
+  "description": "SPECIAL NEW YEAR'S MENU 2022! True italian cuisine and typical Roman products. A new concept to eat pizza choosing two tastes each person!!",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d15589100-Reviews-Le_Romane-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d15589100-Le_Romane-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 937 06 98 03",
+  "website": "http://www.leromane.com/home/",
+  "email": "renato.letizia@gmail.com",
+  "address_obj": {
+    "street1": "Carrer Muntaner 103",
+    "street2": null,
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08036"
+  },
+  "address": "Carrer Muntaner 103, 08036 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 780,
+          "close_time": 1470
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1470
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1470
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1470
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1470
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1500
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "4617",
+      "name": "Italian"
+    },
+    {
+      "key": "10641",
+      "name": "Pizza"
+    },
+    {
+      "key": "10649",
+      "name": "Mediterranean"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "20067",
+      "name": "Romana"
+    },
+    {
+      "key": "20068",
+      "name": "Lazio"
+    },
+    {
+      "key": "20075",
+      "name": "Central-Italian"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "booking": {
+    "provider": "TheFork",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=139838356&geo=15589100&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=331118383&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2UBTtd0s8sK-3Cx6I2hM5sc&cs=141d6fb9bc2030fd8ac2c4c028d7630ee"
+  },
+  "reserve_info": {
+    "id": "15589100",
+    "provider": "TheFork",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/TheFork-Logo-2023.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=139838356&geo=15589100&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=331118383&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2UBTtd0s8sK-3Cx6I2hM5sc&cs=141d6fb9bc2030fd8ac2c4c028d7630ee",
+    "booking_partner_id": "6",
+    "racable": true,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

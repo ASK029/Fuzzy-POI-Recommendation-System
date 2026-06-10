@@ -1,0 +1,282 @@
+{
+  "location_id": "191048",
+  "name": "Barcelona Cathedral",
+  "latitude": "41.383965",
+  "longitude": "2.176199",
+  "num_reviews": "10018",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/8c/37/29/photo1jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/8c/37/29/photo1jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/8c/37/29/photo1jpg.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/8c/37/29/photo1jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/8c/37/29/photo1jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2019-02-21T15:35:19-0500",
+    "caption": "",
+    "id": "378287913",
+    "helpful_votes": "20",
+    "published_date": "2019-02-21T15:35:19-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.8842883110046387",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "47",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#47 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#47 of 1,549 things to do in Barcelona",
+  "ranking": "#47 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230963",
+      "name": "Barrio Gotico (Barri Gotic)"
+    },
+    {
+      "location_id": "13191256",
+      "name": "El Congres i els Indians"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "description": "A beautiful gothic cathedral with stained glass windows dating back 500 years.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d191048-Reviews-Barcelona_Cathedral-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d191048-Barcelona_Cathedral-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 933 42 82 62",
+  "website": "http://www.catedralbcn.org/",
+  "email": "info@catedralbcn.org",
+  "address_obj": {
+    "street1": "Pla de la Seu, S/N",
+    "street2": null,
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08002"
+  },
+  "address": "Pla de la Seu, S/N, 08002 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 840,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1035
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "175",
+      "name": "Churches & Cathedrals"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FOld-Town-and-Gothic-Quarter-Guided-Walking-Tour-in-Barcelona%2Fd562-9866P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=67640facb857d09d7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=191048&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.28",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FOld-Town-and-Gothic-Quarter-Guided-Walking-Tour-in-Barcelona%2Fd562-9866P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=67640facb857d09d7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=191048&clt=TM&from=api&nt=true",
+        "price": "$20.02",
+        "rounded_up_price": "$21",
+        "offer_type": "",
+        "title": "Barcelona Old Town and Gothic Quarter Guided Walking Tour",
+        "product_code": "9866P16",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/0f/fa/ca.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Sagrada-Familia-and-Montserrat-Small-Group-Tour-with-Hotel-Pick-Up%2Fd562-9866P59%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f6c4b28fe412925f4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=191048&clt=TM&from=api&nt=true",
+        "price": "$128.39",
+        "rounded_up_price": "$129",
+        "offer_type": "",
+        "title": "Sagrada Familia & Montserrat Small Group Tour with Pick up",
+        "product_code": "9866P59",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/4d/c0/e1.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Photoshoot-Tour%2Fd562-117811P11%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=af281e94c69bd28d5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=191048&clt=TM&from=api&nt=true",
+        "price": "$68.00",
+        "rounded_up_price": "$68",
+        "offer_type": "",
+        "title": "Barcelona Small-Group Photoshoot Tour",
+        "product_code": "117811P11",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b4/74/4a.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FCity-Sightseeing-Barcelona-Hop-On-Hop-Off-Tour%2Fd562-2916BARCELONA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e1feb9331a0d2ea7a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=191048&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona City Sightseeing Hop-On Hop-Off Bus Tour",
+        "product_code": "2916BARCELONA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/7f/a3.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FHighlights-and-Hidden-Gems-Private-Tour-Barcelona%2Fd562-24380P322%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3a04a198f48b42c1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=191048&clt=TM&from=api&nt=true",
+        "price": "$97.27",
+        "rounded_up_price": "$98",
+        "offer_type": "",
+        "title": "Barcelona Highlights & Hidden Gems Private Tour with Local",
+        "product_code": "24380P322",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/fe/09/e5.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

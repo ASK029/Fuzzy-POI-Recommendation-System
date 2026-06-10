@@ -1,0 +1,127 @@
+{
+  "location_id": "324359",
+  "name": "The National Museum of Damascus",
+  "latitude": "33.51258",
+  "longitude": "36.28994",
+  "num_reviews": "54",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/7a/13/1c/the-national-museum-of.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/7a/13/1c/the-national-museum-of.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/7a/13/1c/the-national-museum-of.jpg",
+        "height": "1329"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/07/7a/13/1c/the-national-museum-of.jpg",
+        "height": "680"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/7a/13/1c/the-national-museum-of.jpg",
+        "height": "365"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-03-10T08:35:34-0400",
+    "caption": "Nationaal Museum van Damascus",
+    "id": "125440796",
+    "helpful_votes": "1",
+    "published_date": "2015-03-10T10:01:29-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.060063362121582",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "3",
+  "ranking_denominator": "42",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 42 things to do in Damascus",
+  "subcategory_ranking": "#3 of 42 things to do in Damascus",
+  "ranking": "#3 of 42 things to do in Damascus",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324359-Reviews-The_National_Museum_of_Damascus-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324359-The_National_Museum_of_Damascus-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+963 11 222 8566",
+  "website": "http://www.damascus-museum.com/",
+  "email": "info@damascus-museum.com",
+  "address_obj": {
+    "street1": "Shoukry al-Qouwatly St",
+    "street2": "",
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": ""
+  },
+  "address": "Shoukry al-Qouwatly St, Damascus Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ]
+}

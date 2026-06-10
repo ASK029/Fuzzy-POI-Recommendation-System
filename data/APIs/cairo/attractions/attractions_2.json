@@ -1,0 +1,249 @@
+{
+  "location_id": "472084",
+  "name": "Nile River",
+  "latitude": "23.972813",
+  "longitude": "32.87494",
+  "num_reviews": "3306",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/4e/eb/9c/sunset-by-the-nile-river.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/4e/eb/9c/sunset-by-the-nile-river.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/4e/eb/9c/sunset-by-the-nile-river.jpg",
+        "height": "1331"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/4e/eb/9c/sunset-by-the-nile-river.jpg",
+        "height": "681"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/4e/eb/9c/sunset-by-the-nile-river.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-10-15T04:34:04-0400",
+    "caption": "Sunset by the Nile river, Cairo, Egypt.",
+    "id": "223275932",
+    "helpful_votes": "9",
+    "published_date": "2016-10-15T04:34:04-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.819601535797119",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "21",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#21 of 316 things to do in Cairo",
+  "subcategory_ranking": "#21 of 316 things to do in Cairo",
+  "ranking": "#21 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Closed today",
+  "is_long_closed": false,
+  "description": "Stretching for 4,187 miles, the longest river in the world flows from its major source, Lake Victoria in east central Africa, through Uganda, Sudan, Ethiopia and northwards into Egypt to the Mediterranean Sea.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d472084-Reviews-Nile_River-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d472084-Nile_River-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": "",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "15662"
+  },
+  "address": "Cairo 15662 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "162",
+      "name": "Bodies of Water"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2F1-Hour-Felucca-Sunset-Sail-on-the-Nile-in-Cairo%2Fd782-10726P23%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fea471e682f5df634&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=472084&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$4.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2F1-Hour-Felucca-Sunset-Sail-on-the-Nile-in-Cairo%2Fd782-10726P23%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fea471e682f5df634&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=472084&clt=TM&from=api&nt=true",
+        "price": "$8.00",
+        "rounded_up_price": "$8",
+        "offer_type": "",
+        "title": "River Nile Felucca Sunset Sail Evening Tour in Cairo",
+        "product_code": "10726P23",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/db/b0/74.jpg",
+        "description": null,
+        "primary_category": "Sailing Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2F2-Hour-Nile-River-Lunch-Cruise-in-Cairo%2Fd782-10726P24%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=480ce20e3a42c0384&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=472084&clt=TM&from=api&nt=true",
+        "price": "$8.00",
+        "rounded_up_price": "$8",
+        "offer_type": "",
+        "title": "Nile River Cruise 2-Hour Tour in Cairo with Buffet Lunch",
+        "product_code": "10726P24",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/e7/cf/d9.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FLuxor%2FNile-Cruise-Holiday-from-Luxor-to-Aswan-4-Nights-5-Days%2Fd826-8652P108%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=066972be5cfb7c8aa&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=472084&clt=TM&from=api&nt=true",
+        "price": "$900.00",
+        "rounded_up_price": "$900",
+        "offer_type": "",
+        "title": "Nile Cruise Holiday from Luxor to Aswan 4 Nights 5 Days",
+        "product_code": "8652P108",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/7e/40.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2F2-Hour-Felucca-Ride-on-the-River-Nile-from-Cairo-Sunset-or-Sunrise-Options%2Fd782-11375P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9ce7bb1d26d25dad5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=472084&clt=TM&from=api&nt=true",
+        "price": "$34.35",
+        "rounded_up_price": "$35",
+        "offer_type": "",
+        "title": "Cairo Sunset or Sunrise 2-Hour Nile River Felucca Ride",
+        "product_code": "11375P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/e0/3a.jpg",
+        "description": null,
+        "primary_category": "Sailing Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2F5-Nights-Tour-of-Cairo-Alexandria-and-Fayoum%2Fd782-10449P5%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e45be5a0edcea0036&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=472084&clt=TM&from=api&nt=true",
+        "price": "$286.00",
+        "rounded_up_price": "$286",
+        "offer_type": "",
+        "title": "6-Day Tour of Cairo, Alexandria and Fayoum",
+        "product_code": "10449P5",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/d0/11.jpg",
+        "description": null,
+        "primary_category": "Multi-day Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

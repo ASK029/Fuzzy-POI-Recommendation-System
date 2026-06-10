@@ -1,0 +1,3822 @@
+[
+  {
+    "location_id": "561047",
+    "name": "Damascus Umayyad Mosque",
+    "latitude": "33.511364",
+    "longitude": "36.306458",
+    "num_reviews": "236",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/eb/32/93/an-amazing-place-to-visit.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/eb/32/93/an-amazing-place-to-visit.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "921",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/eb/32/93/an-amazing-place-to-visit.jpg",
+          "height": "691"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/eb/32/93/an-amazing-place-to-visit.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/eb/32/93/an-amazing-place-to-visit.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2018-01-30T15:26:05-0500",
+      "caption": "An amazing place to visit. And a must see..",
+      "id": "300626579",
+      "helpful_votes": "15",
+      "published_date": "2018-01-30T15:26:05-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.893834352493286",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "1",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#1 of 42 things to do in Damascus",
+    "subcategory_ranking": "#1 of 42 things to do in Damascus",
+    "ranking": "#1 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d561047-Reviews-Damascus_Umayyad_Mosque-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d561047-Damascus_Umayyad_Mosque-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.selcuklumirasi.com/architecture-detail/damascus-umayyad-mosque",
+    "address_obj": {
+      "street1": null,
+      "street2": null,
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": null
+    },
+    "address": "Damascus Syria",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 360,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1260
+          }
+        ]
+      ],
+      "timezone": "Asia/Damascus"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "10",
+        "name": "Sacred & Religious Sites"
+      }
+    ]
+  },
+  {
+    "location_id": "324132",
+    "name": "Al Azem Palace (Palace of As'ad, Pasha al-'Azm)",
+    "latitude": "33.510273",
+    "longitude": "36.30712",
+    "num_reviews": "47",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/79/d4/00/al-azem-palace-palace.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/79/d4/00/al-azem-palace-palace.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/79/d4/00/al-azem-palace-palace.jpg",
+          "height": "1329"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/07/79/d4/00/al-azem-palace-palace.jpg",
+          "height": "680"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/79/d4/00/al-azem-palace-palace.jpg",
+          "height": "365"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2015-03-10T04:11:50-0400",
+      "caption": "Al Azem Palace",
+      "id": "125424640",
+      "helpful_votes": "8",
+      "published_date": "2015-03-10T05:57:25-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.0649490356445312",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "2",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#2 of 42 things to do in Damascus",
+    "subcategory_ranking": "#2 of 42 things to do in Damascus",
+    "ranking": "#2 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324132-Reviews-Al_Azem_Palace_Palace_of_As_ad_Pasha_al_Azm-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324132-Al_Azem_Palace_Palace_of_As_ad_Pasha_al_Azm-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Behind Souq al-Bizuriyyah",
+      "street2": null,
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": null
+    },
+    "address": "Behind Souq al-Bizuriyyah, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "30",
+        "name": "History Museums"
+      }
+    ]
+  },
+  {
+    "location_id": "324359",
+    "name": "The National Museum of Damascus",
+    "latitude": "33.51258",
+    "longitude": "36.28994",
+    "num_reviews": "54",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/7a/13/1c/the-national-museum-of.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/7a/13/1c/the-national-museum-of.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/7a/13/1c/the-national-museum-of.jpg",
+          "height": "1329"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/07/7a/13/1c/the-national-museum-of.jpg",
+          "height": "680"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/7a/13/1c/the-national-museum-of.jpg",
+          "height": "365"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2015-03-10T08:35:34-0400",
+      "caption": "Nationaal Museum van Damascus",
+      "id": "125440796",
+      "helpful_votes": "1",
+      "published_date": "2015-03-10T10:01:29-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.060063362121582",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "3",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#3 of 42 things to do in Damascus",
+    "subcategory_ranking": "#3 of 42 things to do in Damascus",
+    "ranking": "#3 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.3",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324359-Reviews-The_National_Museum_of_Damascus-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324359-The_National_Museum_of_Damascus-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+963 11 222 8566",
+    "website": "http://www.damascus-museum.com/",
+    "email": "info@damascus-museum.com",
+    "address_obj": {
+      "street1": "Shoukry al-Qouwatly St",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Shoukry al-Qouwatly St, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "161",
+        "name": "Specialty Museums"
+      }
+    ]
+  },
+  {
+    "location_id": "324812",
+    "name": "Saladin (Selahedin) Mausoleum",
+    "latitude": "33.512157",
+    "longitude": "36.30604",
+    "num_reviews": "36",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/1c/3e/53/saladin-s-mausoleum.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/1c/3e/53/saladin-s-mausoleum.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "3888",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/1c/3e/53/saladin-s-mausoleum.jpg",
+          "height": "2592"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/01/1c/3e/53/saladin-s-mausoleum.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/1c/3e/53/saladin-s-mausoleum.jpg",
+          "height": "366"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2008-10-21T13:55:50-0400",
+      "caption": "Saladin's Mausoleum",
+      "id": "18628179",
+      "helpful_votes": "8",
+      "published_date": "2008-10-22T14:08:33-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.976654291152954",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "5",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#5 of 42 things to do in Damascus",
+    "subcategory_ranking": "#5 of 42 things to do in Damascus",
+    "ranking": "#5 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324812-Reviews-Saladin_Selahedin_Mausoleum-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324812-Saladin_Selahedin_Mausoleum-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Old Town, Omayyad Mosque",
+      "street2": "North Wall",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Old Town, Omayyad Mosque North Wall, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "26",
+        "name": "Monuments & Statues"
+      }
+    ]
+  },
+  {
+    "location_id": "324670",
+    "name": "Damascus Center",
+    "num_reviews": "29",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/a0/20/21/cartoline-da-damasco.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/a0/20/21/cartoline-da-damasco.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/a0/20/21/cartoline-da-damasco.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/a0/20/21/cartoline-da-damasco.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/a0/20/21/cartoline-da-damasco.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2018-04-13T07:06:42-0400",
+      "caption": "Cartoline da Damasco, Siria",
+      "id": "312483873",
+      "helpful_votes": "0",
+      "published_date": "2018-04-13T07:06:42-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.8876945972442627",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "8",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#8 of 42 things to do in Damascus",
+    "subcategory_ranking": "#8 of 42 things to do in Damascus",
+    "ranking": "#8 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324670-Reviews-Damascus_Center-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324670-Damascus_Center-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "17",
+        "name": "Historic Sites"
+      }
+    ]
+  },
+  {
+    "location_id": "9608842",
+    "name": "Damascus Opera House",
+    "num_reviews": "14",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/5c/bb/bd/damascus-opera-house.jpg",
+          "height": "142"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/5c/bb/bd/damascus-opera-house.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1268",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/5c/bb/bd/damascus-opera-house.jpg",
+          "height": "720"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0b/5c/bb/bd/damascus-opera-house.jpg",
+          "height": "581"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/5c/bb/bd/damascus-opera-house.jpg",
+          "height": "312"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2016-05-22T17:58:36-0400",
+      "caption": "Damascus Opera House",
+      "id": "190626749",
+      "helpful_votes": "3",
+      "published_date": "2016-05-22T17:58:36-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.827500104904175",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "14",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#14 of 42 things to do in Damascus",
+    "subcategory_ranking": "#14 of 42 things to do in Damascus",
+    "ranking": "#14 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d9608842-Reviews-Damascus_Opera_House-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d9608842-Damascus_Opera_House-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "58",
+        "name": "Concerts & Shows"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.lovedamascus.com/en/what-to-see/tourist-attractions/umayyad-square/099ta001/the-national-opera-house",
+    "address_obj": {
+      "street1": null,
+      "street2": "Umayyad Square, Al Hijaz",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": "00000"
+    },
+    "address": "Umayyad Square, Al Hijaz, Damascus 00000 Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "116",
+        "name": "Theaters"
+      }
+    ]
+  },
+  {
+    "location_id": "294011",
+    "ad_position": "inline1",
+    "ad_size": "8X8",
+    "doubleclick_zone": "me.syria.damascus",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "detail": "0",
+    "page_type": "attractions",
+    "mob_ptype": "app_attractions"
+  },
+  {
+    "location_id": "1584749",
+    "name": "Omayad Mosque",
+    "num_reviews": "41",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/4b/43/f4/omayad-mosque.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/4b/43/f4/omayad-mosque.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "720",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/4b/43/f4/omayad-mosque.jpg",
+          "height": "540"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/4b/43/f4/omayad-mosque.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/4b/43/f4/omayad-mosque.jpg",
+          "height": "187"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2014-08-01T15:17:04-0400",
+      "caption": "3",
+      "id": "105595892",
+      "helpful_votes": "2",
+      "published_date": "2014-08-05T17:50:16-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.039233446121216",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "4",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#4 of 42 things to do in Damascus",
+    "subcategory_ranking": "#4 of 42 things to do in Damascus",
+    "ranking": "#4 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d1584749-Reviews-Omayad_Mosque-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d1584749-Omayad_Mosque-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      },
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "10",
+        "name": "Sacred & Religious Sites"
+      },
+      {
+        "key": "33",
+        "name": "Natural History Museums"
+      }
+    ]
+  },
+  {
+    "location_id": "324732",
+    "name": "Mount Qassioun (Jebal Kasioun)",
+    "latitude": "33.545803",
+    "longitude": "36.28726",
+    "num_reviews": "49",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/7e/78/29/panorama-su-damasco.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/7e/78/29/panorama-su-damasco.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/7e/78/29/panorama-su-damasco.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/7e/78/29/panorama-su-damasco.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/7e/78/29/panorama-su-damasco.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-06-06T05:22:40-0400",
+      "caption": "Panorama su Damasco",
+      "id": "259946537",
+      "helpful_votes": "0",
+      "published_date": "2017-06-06T05:22:40-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.9467341899871826",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "6",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#6 of 42 things to do in Damascus",
+    "subcategory_ranking": "#6 of 42 things to do in Damascus",
+    "ranking": "#6 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.2",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324732-Reviews-Mount_Qassioun_Jebal_Kasioun-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324732-Mount_Qassioun_Jebal_Kasioun-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "57",
+        "name": "Nature & Parks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "66",
+        "name": "Mountains"
+      }
+    ]
+  },
+  {
+    "location_id": "1215057",
+    "name": "St Ananias Chapel",
+    "num_reviews": "16",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/1e/ec/70/passageway-in-christian.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/1e/ec/70/passageway-in-christian.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2112",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/1e/ec/70/passageway-in-christian.jpg",
+          "height": "2816"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/01/1e/ec/70/passageway-in-christian.jpg",
+          "height": "1365"
+        },
+        "medium": {
+          "width": "337",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/1e/ec/70/passageway-in-christian.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2008-12-07T10:33:49-0500",
+      "caption": "Passageway in Christian Quarter, Damascus",
+      "id": "18803824",
+      "helpful_votes": "2",
+      "published_date": "2008-12-07T10:46:25-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.87039852142334",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "10",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#10 of 42 things to do in Damascus",
+    "subcategory_ranking": "#10 of 42 things to do in Damascus",
+    "ranking": "#10 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d1215057-Reviews-St_Ananias_Chapel-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d1215057-St_Ananias_Chapel-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Sharia Hanania",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Sharia Hanania, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      },
+      {
+        "key": "10",
+        "name": "Sacred & Religious Sites"
+      }
+    ]
+  },
+  {
+    "location_id": "324695",
+    "name": "Hejaz Railway",
+    "num_reviews": "17",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/4d/94/12/old-tank-engines-outside.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/4d/94/12/old-tank-engines-outside.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1782",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/4d/94/12/old-tank-engines-outside.jpg",
+          "height": "1272"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/01/4d/94/12/old-tank-engines-outside.jpg",
+          "height": "730"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/4d/94/12/old-tank-engines-outside.jpg",
+          "height": "392"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2009-10-04T09:55:49-0400",
+      "caption": "Old tank engines outside the works at Cadem",
+      "id": "21861394",
+      "helpful_votes": "9",
+      "published_date": "2009-10-04T11:31:15-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "tour_operator",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.802659511566162",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "17",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#17 of 42 things to do in Damascus",
+    "subcategory_ranking": "#17 of 42 things to do in Damascus",
+    "ranking": "#17 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "3.9",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324695-Reviews-Hejaz_Railway-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324695-Hejaz_Railway-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "42",
+        "name": "Tours"
+      },
+      {
+        "key": "59",
+        "name": "Transportation"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://nabataea.net/hejaz1.html",
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "75",
+        "name": "Scenic Railroads"
+      },
+      {
+        "key": "168",
+        "name": "Mass Transportation Systems"
+      }
+    ]
+  },
+  {
+    "location_id": "1064723",
+    "name": "Takiyya Suleimaniah Souq",
+    "num_reviews": "20",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/11/9f/a7/handicraft-lane.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/11/9f/a7/handicraft-lane.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2048",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/11/9f/a7/handicraft-lane.jpg",
+          "height": "1536"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/11/9f/a7/handicraft-lane.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/11/9f/a7/handicraft-lane.jpg",
+          "height": "187"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2008-05-21T09:38:04-0400",
+      "caption": "Handicraft Lane",
+      "id": "17932199",
+      "helpful_votes": "11",
+      "published_date": "2008-05-23T12:45:34-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.9248905181884766",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "7",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#7 of 42 things to do in Damascus",
+    "subcategory_ranking": "#7 of 42 things to do in Damascus",
+    "ranking": "#7 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d1064723-Reviews-Takiyya_Suleimaniah_Souq-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d1064723-Takiyya_Suleimaniah_Souq-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "26",
+        "name": "Shopping"
+      },
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Central Damascus",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Central Damascus, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "142",
+        "name": "Flea & Street Markets"
+      },
+      {
+        "key": "26",
+        "name": "Monuments & Statues"
+      }
+    ]
+  },
+  {
+    "location_id": "324804",
+    "name": "Sayyida Ruqayya Mausoleum",
+    "num_reviews": "16",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+          "height": "683"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+          "height": "366"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2010-12-01T11:05:09-0500",
+      "caption": "Sayyida Ruqayya Mausoleum",
+      "id": "28900699",
+      "helpful_votes": "19",
+      "published_date": "2010-12-05T08:25:49-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.825695276260376",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "15",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#15 of 42 things to do in Damascus",
+    "subcategory_ranking": "#15 of 42 things to do in Damascus",
+    "ranking": "#15 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324804-Reviews-Sayyida_Ruqayya_Mausoleum-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324804-Sayyida_Ruqayya_Mausoleum-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Old Town",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Old Town, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "3",
+        "name": "Architectural Buildings"
+      },
+      {
+        "key": "10",
+        "name": "Sacred & Religious Sites"
+      },
+      {
+        "key": "17",
+        "name": "Historic Sites"
+      }
+    ]
+  },
+  {
+    "location_id": "324802",
+    "name": "Saladin (Selahedin) Statue",
+    "num_reviews": "21",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/04/aa/9e/saladin-selahedin-statue.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/04/aa/9e/saladin-selahedin-statue.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/04/aa/9e/saladin-selahedin-statue.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/04/aa/9e/saladin-selahedin-statue.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/04/04/aa/9e/saladin-selahedin-statue.jpg",
+          "height": "187"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2013-06-08T11:03:55-0400",
+      "caption": "Selahaddini Eyyubi Grand  grand father of Bedirhani",
+      "id": "67414686",
+      "helpful_votes": "9",
+      "published_date": "2013-06-08T11:03:55-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.8354339599609375",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "12",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#12 of 42 things to do in Damascus",
+    "subcategory_ranking": "#12 of 42 things to do in Damascus",
+    "ranking": "#12 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.1",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324802-Reviews-Saladin_Selahedin_Statue-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324802-Saladin_Selahedin_Statue-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.damascus-online.com/Photos/damascus.htm",
+    "address_obj": {
+      "street1": "Entrance of Citadel of Damascus",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Entrance of Citadel of Damascus, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "26",
+        "name": "Monuments & Statues"
+      }
+    ]
+  },
+  {
+    "location_id": "1572828",
+    "name": "Khan Asaad Basha",
+    "latitude": "33.5092",
+    "longitude": "36.3067",
+    "num_reviews": "20",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/7e/90/f8/splendido-edificio-a.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/7e/90/f8/splendido-edificio-a.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/7e/90/f8/splendido-edificio-a.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/7e/90/f8/splendido-edificio-a.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/7e/90/f8/splendido-edificio-a.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-06-06T06:12:44-0400",
+      "caption": "Splendido edificio a cui si accede dal suq",
+      "id": "259952888",
+      "helpful_votes": "0",
+      "published_date": "2017-06-06T06:12:44-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.880488872528076",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "9",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#9 of 42 things to do in Damascus",
+    "subcategory_ranking": "#9 of 42 things to do in Damascus",
+    "ranking": "#9 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d1572828-Reviews-Khan_Asaad_Basha-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d1572828-Khan_Asaad_Basha-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Damascus Old City",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Old City, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "3",
+        "name": "Architectural Buildings"
+      }
+    ]
+  },
+  {
+    "location_id": "294011",
+    "ad_position": "inline2",
+    "ad_size": "8X8",
+    "doubleclick_zone": "me.syria.damascus",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "detail": "0",
+    "page_type": "attractions",
+    "mob_ptype": "app_attractions"
+  },
+  {
+    "location_id": "324798",
+    "name": "The Citadel",
+    "latitude": "33.53768",
+    "longitude": "36.18178",
+    "num_reviews": "15",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/70/fa/a0/the-citadel.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/70/fa/a0/the-citadel.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/70/fa/a0/the-citadel.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/70/fa/a0/the-citadel.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/70/fa/a0/the-citadel.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2015-07-24T04:52:01-0400",
+      "caption": "Memories of '08 The Citadel",
+      "id": "141621920",
+      "helpful_votes": "2",
+      "published_date": "2015-07-24T04:52:01-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.8284990787506104",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "13",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#13 of 42 things to do in Damascus",
+    "subcategory_ranking": "#13 of 42 things to do in Damascus",
+    "ranking": "#13 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324798-Reviews-The_Citadel-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324798-The_Citadel-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.dgam.gov.sy/",
+    "address_obj": {
+      "street1": "Sharia Ath-Tharwa",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Sharia Ath-Tharwa, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "23",
+        "name": "Military Bases & Facilities"
+      }
+    ]
+  },
+  {
+    "location_id": "324697",
+    "name": "Bimaristan an-Nuri",
+    "num_reviews": "4",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/31/2f/40/damascus.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/31/2f/40/damascus.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "427",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/31/2f/40/damascus.jpg",
+          "height": "640"
+        },
+        "large": {
+          "width": "427",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/31/2f/40/damascus.jpg",
+          "height": "640"
+        },
+        "medium": {
+          "width": "300",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/31/2f/40/damascus.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2009-07-16T00:17:50-0400",
+      "caption": "Bimaristan-Medicine Meuseum",
+      "id": "20000576",
+      "helpful_votes": "7",
+      "published_date": "2009-07-20T09:04:18-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.7705130577087402",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "27",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#27 of 42 things to do in Damascus",
+    "subcategory_ranking": "#27 of 42 things to do in Damascus",
+    "ranking": "#27 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324697-Reviews-Bimaristan_an_Nuri-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324697-Bimaristan_an_Nuri-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "161",
+        "name": "Specialty Museums"
+      }
+    ]
+  },
+  {
+    "location_id": "8754883",
+    "name": "The Barada River",
+    "num_reviews": "10",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/52/d5/02/exhibition-street.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/52/d5/02/exhibition-street.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1126",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/52/d5/02/exhibition-street.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/11/52/d5/02/exhibition-street.jpg",
+          "height": "733"
+        },
+        "medium": {
+          "width": "338",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/52/d5/02/exhibition-street.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2017-11-20T14:52:28-0500",
+      "caption": "Exhibition street",
+      "id": "290641154",
+      "helpful_votes": "9",
+      "published_date": "2017-11-20T14:52:28-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.7860019207000732",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "22",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#22 of 42 things to do in Damascus",
+    "subcategory_ranking": "#22 of 42 things to do in Damascus",
+    "ranking": "#22 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d8754883-Reviews-The_Barada_River-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d8754883-The_Barada_River-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "57",
+        "name": "Nature & Parks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": null,
+      "street2": null,
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": null
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "162",
+        "name": "Bodies of Water"
+      }
+    ]
+  },
+  {
+    "location_id": "8071533",
+    "name": "St.George Syrian Orthodox Church",
+    "num_reviews": "7",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/86/70/2f/stgeorge-syrian-orthodox.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/86/70/2f/stgeorge-syrian-orthodox.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1600",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/86/70/2f/stgeorge-syrian-orthodox.jpg",
+          "height": "1200"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/86/70/2f/stgeorge-syrian-orthodox.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/86/70/2f/stgeorge-syrian-orthodox.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2015-11-15T18:44:49-0500",
+      "caption": "Jesus Icon",
+      "id": "159805487",
+      "helpful_votes": "1",
+      "published_date": "2015-11-15T18:44:49-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.8148317337036133",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "16",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#16 of 42 things to do in Damascus",
+    "subcategory_ranking": "#16 of 42 things to do in Damascus",
+    "ranking": "#16 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d8071533-Reviews-St_George_Syrian_Orthodox_Church-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d8071533-St_George_Syrian_Orthodox_Church-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": null,
+      "street2": null,
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": null
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "175",
+        "name": "Churches & Cathedrals"
+      }
+    ]
+  },
+  {
+    "location_id": "324679",
+    "name": "Fortress Wall",
+    "num_reviews": "6",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/65/92/33/old-wall-downtown-damascus.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/65/92/33/old-wall-downtown-damascus.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "604",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/65/92/33/old-wall-downtown-damascus.jpg",
+          "height": "453"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/65/92/33/old-wall-downtown-damascus.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/65/92/33/old-wall-downtown-damascus.jpg",
+          "height": "187"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2010-01-20T04:30:20-0500",
+      "caption": "Old wall downtown Damascus",
+      "id": "23433779",
+      "helpful_votes": "3",
+      "published_date": "2010-01-20T04:30:10-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.7785587310791016",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "25",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#25 of 42 things to do in Damascus",
+    "subcategory_ranking": "#25 of 42 things to do in Damascus",
+    "ranking": "#25 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.3",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324679-Reviews-Fortress_Wall-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324679-Fortress_Wall-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "26",
+        "name": "Monuments & Statues"
+      },
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      }
+    ]
+  },
+  {
+    "location_id": "10463484",
+    "name": "National Center for Visual Arts",
+    "num_reviews": "2",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/d5/99/33/national-center-for-visual.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/d5/99/33/national-center-for-visual.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/d5/99/33/national-center-for-visual.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d5/99/33/national-center-for-visual.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/d5/99/33/national-center-for-visual.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-07-10T06:58:23-0400",
+      "caption": "",
+      "id": "265656627",
+      "helpful_votes": "0",
+      "published_date": "2017-07-10T06:58:23-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.7503585815429688",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "32",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#32 of 42 things to do in Damascus",
+    "subcategory_ranking": "#32 of 42 things to do in Damascus",
+    "ranking": "#32 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "5.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d10463484-Reviews-National_Center_for_Visual_Arts-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d10463484-National_Center_for_Visual_Arts-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "26",
+        "name": "Shopping"
+      },
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+963 11 211 8979",
+    "website": "https://www.facebook.com/National-Center-for-Visual-Arts-888235531204413/",
+    "address_obj": {
+      "street1": "Fawzi Al Laham Street",
+      "street2": "In the Faculty of Fine Arts Buiding",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": "00000"
+    },
+    "address": "Fawzi Al Laham Street In the Faculty of Fine Arts Buiding, Damascus 00000 Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "28",
+        "name": "Art Museums"
+      },
+      {
+        "key": "1",
+        "name": "Art Galleries"
+      }
+    ]
+  },
+  {
+    "location_id": "324806",
+    "name": "Tekiyeh Al-Suleimaniyeh",
+    "num_reviews": "12",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/99/94/a9/tekiyeh-al-suleimaniyeh.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/99/94/a9/tekiyeh-al-suleimaniyeh.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1999",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/99/94/a9/tekiyeh-al-suleimaniyeh.jpg",
+          "height": "1333"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/09/99/94/a9/tekiyeh-al-suleimaniyeh.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/99/94/a9/tekiyeh-al-suleimaniyeh.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2015-11-24T18:22:03-0500",
+      "caption": "Tekiyeh Al-Suleimaniyeh 2008",
+      "id": "161060009",
+      "helpful_votes": "0",
+      "published_date": "2015-11-24T18:22:03-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.8628768920898438",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "11",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#11 of 42 things to do in Damascus",
+    "subcategory_ranking": "#11 of 42 things to do in Damascus",
+    "ranking": "#11 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324806-Reviews-Tekiyeh_Al_Suleimaniyeh-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324806-Tekiyeh_Al_Suleimaniyeh-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Victoria Bridge, New Town",
+      "street2": "Opposite National Museum",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Victoria Bridge, New Town Opposite National Museum, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "10",
+        "name": "Sacred & Religious Sites"
+      }
+    ]
+  },
+  {
+    "location_id": "324800",
+    "name": "Souq al-Bizuriyyah (Sweet Souq)",
+    "num_reviews": "9",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/1c/0b/6c/entrance-to-hamman-nur.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/1c/0b/6c/entrance-to-hamman-nur.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2592",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/1c/0b/6c/entrance-to-hamman-nur.jpg",
+          "height": "3888"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/01/1c/0b/6c/entrance-to-hamman-nur.jpg",
+          "height": "1536"
+        },
+        "medium": {
+          "width": "300",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/1c/0b/6c/entrance-to-hamman-nur.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2008-10-18T12:36:52-0400",
+      "caption": "Entrance to Hamman Nur Ad-Din",
+      "id": "18615148",
+      "helpful_votes": "0",
+      "published_date": "2008-10-18T13:00:51-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.7961952686309814",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "18",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#18 of 42 things to do in Damascus",
+    "subcategory_ranking": "#18 of 42 things to do in Damascus",
+    "ranking": "#18 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324800-Reviews-Souq_al_Bizuriyyah_Sweet_Souq-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324800-Souq_al_Bizuriyyah_Sweet_Souq-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "26",
+        "name": "Shopping"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "142",
+        "name": "Flea & Street Markets"
+      }
+    ]
+  },
+  {
+    "location_id": "294011",
+    "ad_position": "inline3",
+    "ad_size": "8X8",
+    "doubleclick_zone": "me.syria.damascus",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "detail": "0",
+    "page_type": "attractions",
+    "mob_ptype": "app_attractions"
+  },
+  {
+    "location_id": "324808",
+    "name": "The Arc Gate",
+    "num_reviews": "6",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/50/7e/c3/caption.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/50/7e/c3/caption.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/50/7e/c3/caption.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/50/7e/c3/caption.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/50/7e/c3/caption.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-02-13T14:37:58-0500",
+      "caption": "Вид",
+      "id": "173047491",
+      "helpful_votes": "0",
+      "published_date": "2016-02-13T14:37:58-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.782735824584961",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "24",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#24 of 42 things to do in Damascus",
+    "subcategory_ranking": "#24 of 42 things to do in Damascus",
+    "ranking": "#24 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324808-Reviews-The_Arc_Gate-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324808-The_Arc_Gate-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "3",
+        "name": "Architectural Buildings"
+      }
+    ]
+  },
+  {
+    "location_id": "321346",
+    "name": "Army Museum",
+    "latitude": "33.5134",
+    "longitude": "36.28591",
+    "num_reviews": "8",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/5a/df/bc/tank.jpg",
+          "height": "140"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/5a/df/bc/tank.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "720",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/5a/df/bc/tank.jpg",
+          "height": "405"
+        },
+        "large": {
+          "width": "720",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/5a/df/bc/tank.jpg",
+          "height": "405"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/5a/df/bc/tank.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-05-22T06:31:40-0400",
+      "caption": "tank",
+      "id": "190504892",
+      "helpful_votes": "4",
+      "published_date": "2016-05-22T06:31:40-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.794004440307617",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "20",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#20 of 42 things to do in Damascus",
+    "subcategory_ranking": "#20 of 42 things to do in Damascus",
+    "ranking": "#20 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.1",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d321346-Reviews-Army_Museum-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d321346-Army_Museum-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Shoukry al-Qouwatly St.",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Shoukry al-Qouwatly St., Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "32",
+        "name": "Military Museums"
+      }
+    ]
+  },
+  {
+    "location_id": "324805",
+    "name": "Souq Saroujah",
+    "num_reviews": "7",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/9e/a9/f0/souq-saroujah.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/9e/a9/f0/souq-saroujah.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1125",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/9e/a9/f0/souq-saroujah.jpg",
+          "height": "2000"
+        },
+        "large": {
+          "width": "253",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/9e/a9/f0/souq-saroujah.jpg",
+          "height": "450"
+        },
+        "medium": {
+          "width": "115",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/9e/a9/f0/souq-saroujah.jpg",
+          "height": "205"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2016-06-15T10:48:50-0400",
+      "caption": "",
+      "id": "194947568",
+      "helpful_votes": "1",
+      "published_date": "2016-06-15T10:48:50-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.7961153984069824",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "19",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#19 of 42 things to do in Damascus",
+    "subcategory_ranking": "#19 of 42 things to do in Damascus",
+    "ranking": "#19 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.3",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324805-Reviews-Souq_Saroujah-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324805-Souq_Saroujah-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "26",
+        "name": "Shopping"
+      },
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      },
+      {
+        "key": "51",
+        "name": "Other"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Old Town",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Old Town, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "137",
+        "name": "Antique Stores"
+      },
+      {
+        "key": "34",
+        "name": "Neighborhoods"
+      }
+    ]
+  },
+  {
+    "location_id": "8073536",
+    "name": "Yalbugha Mosque",
+    "num_reviews": "6",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/e0/3b/f2/getlstd-property-photo.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/e0/3b/f2/getlstd-property-photo.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/e0/3b/f2/getlstd-property-photo.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/e0/3b/f2/getlstd-property-photo.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/e0/3b/f2/getlstd-property-photo.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2015-05-13T03:09:24-0400",
+      "caption": "getlstd_property_photo",
+      "id": "132135922",
+      "helpful_votes": "1",
+      "published_date": "2015-05-13T03:09:24-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.7552297115325928",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "31",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#31 of 42 things to do in Damascus",
+    "subcategory_ranking": "#31 of 42 things to do in Damascus",
+    "ranking": "#31 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "3.8",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d8073536-Reviews-Yalbugha_Mosque-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d8073536-Yalbugha_Mosque-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": null,
+      "street2": null,
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": null
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "10",
+        "name": "Sacred & Religious Sites"
+      }
+    ]
+  },
+  {
+    "location_id": "19453731",
+    "name": "Orthodox Armenian Church",
+    "num_reviews": "1",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/22/02/af/great-music-in-the-great.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/22/02/af/great-music-in-the-great.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/22/02/af/great-music-in-the-great.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/22/02/af/great-music-in-the-great.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/22/02/af/great-music-in-the-great.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2019-11-25T14:21:57-0500",
+      "caption": "Great music in the great church",
+      "id": "438436527",
+      "helpful_votes": "0",
+      "published_date": "2019-11-25T14:21:57-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.7409610748291016",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "36",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#36 of 42 things to do in Damascus",
+    "subcategory_ranking": "#36 of 42 things to do in Damascus",
+    "ranking": "#36 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d19453731-Reviews-Orthodox_Armenian_Church-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d19453731-Orthodox_Armenian_Church-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": null,
+      "street2": null,
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": null
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "175",
+        "name": "Churches & Cathedrals"
+      }
+    ]
+  },
+  {
+    "location_id": "324796",
+    "name": "Parliament",
+    "num_reviews": "2",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/b6/c1/1a/the-gardens-of-the-parliament.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/b6/c1/1a/the-gardens-of-the-parliament.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/b6/c1/1a/the-gardens-of-the-parliament.jpg",
+          "height": "1125"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0b/b6/c1/1a/the-gardens-of-the-parliament.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/b6/c1/1a/the-gardens-of-the-parliament.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2016-06-23T18:13:27-0400",
+      "caption": "The Gardens of the Parliament from the Sham Palace Hotel.",
+      "id": "196526362",
+      "helpful_votes": "1",
+      "published_date": "2016-06-23T18:13:27-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.743377208709717",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "35",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#35 of 42 things to do in Damascus",
+    "subcategory_ranking": "#35 of 42 things to do in Damascus",
+    "ranking": "#35 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324796-Reviews-Parliament-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324796-Parliament-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": ""
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "15",
+        "name": "Government Buildings"
+      }
+    ]
+  },
+  {
+    "location_id": "9583046",
+    "name": "The Environmental Garden",
+    "num_reviews": "3",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/e0/3e/f4/the-environmental-garden.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/e0/3e/f4/the-environmental-garden.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1125",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/e0/3e/f4/the-environmental-garden.jpg",
+          "height": "2000"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/09/e0/3e/f4/the-environmental-garden.jpg",
+          "height": "977"
+        },
+        "medium": {
+          "width": "253",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/e0/3e/f4/the-environmental-garden.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2015-12-28T15:57:46-0500",
+      "caption": "The Entrance View!!",
+      "id": "165691124",
+      "helpful_votes": "1",
+      "published_date": "2015-12-28T15:57:46-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.748934030532837",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "33",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#33 of 42 things to do in Damascus",
+    "subcategory_ranking": "#33 of 42 things to do in Damascus",
+    "ranking": "#33 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d9583046-Reviews-The_Environmental_Garden-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d9583046-The_Environmental_Garden-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "57",
+        "name": "Nature & Parks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Barada River Street",
+      "street2": null,
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": null
+    },
+    "address": "Barada River Street, Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "58",
+        "name": "Gardens"
+      }
+    ]
+  },
+  {
+    "location_id": "9696121",
+    "name": "Zarzar Lake",
+    "num_reviews": "1",
+    "timezone": "Asia/Damascus",
+    "location_string": "Damascus",
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.syria.damascus",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.736457586288452",
+    "ranking_geo": "Damascus",
+    "ranking_geo_id": "294011",
+    "ranking_position": "38",
+    "ranking_denominator": "42",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#38 of 42 things to do in Damascus",
+    "subcategory_ranking": "#38 of 42 things to do in Damascus",
+    "ranking": "#38 of 42 things to do in Damascus",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d9696121-Reviews-Zarzar_Lake-Damascus.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294011-d9696121-Zarzar_Lake-Damascus.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Damascus",
+        "abbrv": null,
+        "location_id": "294011"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Syria",
+        "abbrv": null,
+        "location_id": "294010"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "57",
+        "name": "Nature & Parks"
+      }
+    ],
+    "parent_display_name": "Damascus",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": null,
+      "street2": null,
+      "city": "Damascus",
+      "state": null,
+      "country": "Syria",
+      "postalcode": null
+    },
+    "address": "Damascus Syria",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "162",
+        "name": "Bodies of Water"
+      }
+    ]
+  }
+]

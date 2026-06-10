@@ -1,0 +1,279 @@
+{
+  "location_id": "266245",
+  "name": "Verzetsmuseum Amsterdam",
+  "latitude": "52.367825",
+  "longitude": "4.912824",
+  "num_reviews": "3693",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/a5/58/8e/the-resistance-museum.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/a5/58/8e/the-resistance-museum.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1600",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/a5/58/8e/the-resistance-museum.jpg",
+        "height": "1200"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/a5/58/8e/the-resistance-museum.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/a5/58/8e/the-resistance-museum.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2014-09-29T11:02:27-0400",
+    "caption": "Museum entrance and cafe",
+    "id": "111499406",
+    "helpful_votes": "3",
+    "published_date": "2014-09-29T11:02:27-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.306130886077881",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "13",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#13 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#13 of 1,200 things to do in Amsterdam",
+  "ranking": "#13 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "7852242",
+      "name": "Plantage & the East"
+    },
+    {
+      "location_id": "15620091",
+      "name": "Weesperbuurt En Plantage"
+    },
+    {
+      "location_id": "15620187",
+      "name": "Plantage"
+    }
+  ],
+  "description": "Explore true stories and destinies of everyday people during World War II in the Netherlands. What did life look like? What choices did you have to make? Step back in time at the Resistance Museum.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d266245-Reviews-Verzetsmuseum_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d266245-Verzetsmuseum_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 620 2535",
+  "website": "http://www.verzetsmuseum.org",
+  "email": "info@verzetsmuseum.org",
+  "address_obj": {
+    "street1": "Plantage Kerklaan 61",
+    "street2": "",
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1018 CX"
+  },
+  "address": "Plantage Kerklaan 61, 1018 CX Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "29",
+      "name": "Children's Museums"
+    },
+    {
+      "key": "30",
+      "name": "History Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-Amsterdam-Anne-Frank-and-Jewish-Quarter-tour%2Fd525-9093P66%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ce17b0b21738327d2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=266245&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$6.99",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-Amsterdam-Anne-Frank-and-Jewish-Quarter-tour%2Fd525-9093P66%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ce17b0b21738327d2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=266245&clt=TM&from=api&nt=true",
+        "price": "$48.64",
+        "rounded_up_price": "$49",
+        "offer_type": "",
+        "title": "Amsterdam Small-Group Anne Frank and Jewish Quarter Tour",
+        "product_code": "9093P66",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/83/6f/43.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-Amsterdam-WW2-walking-tour%2Fd525-9093P75%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=70b585ef6ccd334f6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=266245&clt=TM&from=api&nt=true",
+        "price": "$114.76",
+        "rounded_up_price": "$115",
+        "offer_type": "",
+        "title": "Amsterdam: Private WWII History Walking Tour",
+        "product_code": "9093P75",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/95/da/03.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-Anne-Frank-tour-with-canal-cruise%2Fd525-9093P93%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=5189b7e161ab32622&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=266245&clt=TM&from=api&nt=true",
+        "price": "$160.62",
+        "rounded_up_price": "$161",
+        "offer_type": "",
+        "title": "Short and Private Anne Frank Tour and Canal Cruise",
+        "product_code": "9093P93",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/42/67/88.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Anne-Frank-walking-tour%2Fd525-9093P71%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=68df170594b3e24e6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=266245&clt=TM&from=api&nt=true",
+        "price": "$37.71",
+        "rounded_up_price": "$38",
+        "offer_type": "",
+        "title": "Amsterdam: Anne Frank Small-Group Walking Tour",
+        "product_code": "9093P71",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/52/8e/94.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FCaptain-Jacks-Amazing-Canal-Tour%2Fd525-176051P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=78a295ec9600b639a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=266245&clt=TM&from=api&nt=true",
+        "price": "$43.66",
+        "rounded_up_price": "$44",
+        "offer_type": "",
+        "title": "Amsterdam All-Inclusive 90-Minutes Canal Cruise by Captain Jack ",
+        "product_code": "176051P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/7c/59/59.jpg",
+        "description": null,
+        "primary_category": "Luxury Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "location_id": "3916661",
+  "name": "Miracle Garden",
+  "latitude": "25.06001",
+  "longitude": "55.244465",
+  "num_reviews": "8248",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/76/bf/72/dubai-miracle-garden.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/76/bf/72/dubai-miracle-garden.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/76/bf/72/dubai-miracle-garden.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1c/76/bf/72/dubai-miracle-garden.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/76/bf/72/dubai-miracle-garden.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2020-12-27T00:27:27-0500",
+    "caption": "Dubai Miracle Garden Season 5",
+    "id": "477544306",
+    "helpful_votes": "9",
+    "published_date": "2020-12-27T00:27:27-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.8805160522460938",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "60",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#60 of 682 things to do in Dubai",
+  "subcategory_ranking": "#60 of 682 things to do in Dubai",
+  "ranking": "#60 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620548",
+      "name": "Al Barsha South"
+    }
+  ],
+  "description": "Miracle Garden is one of a kind in the region and in the world for such a unique display and extravagant outdoor recreational destination. Miracle Garden in its first phase is providing state-of-the-art services and facilities including open parking, VIP parking, sitting areas, prayer room, toilet blocks, ablution facility, security room, first aid room, carts for handicapped visitors, retails and commercial kiosk and all other related services available to facilitate visitors.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d3916661-Reviews-Miracle_Garden-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3916661-Miracle_Garden-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 422 8902",
+  "website": "http://www.dubaimiraclegarden.com",
+  "email": "info@dubaimiraclegarden.com",
+  "address_obj": {
+    "street1": "Al Barsha South Third",
+    "street2": "Dubailand",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "Al Barsha South Third Dubailand, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1380
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "58",
+      "name": "Gardens"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FMiracle-Garden-and-Global-Village-Dubai%2Fd828-20949P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0d76ddeb038c1214a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=3916661&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$9.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FMiracle-Garden-and-Global-Village-Dubai%2Fd828-20949P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0d76ddeb038c1214a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=3916661&clt=TM&from=api&nt=true",
+        "price": "$145.00",
+        "rounded_up_price": "$145",
+        "offer_type": "",
+        "title": "Miracle Garden and Global Village Dubai with transfers",
+        "product_code": "20949P14",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/53/45.jpg",
+        "description": null,
+        "primary_category": "Half-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Miracle-Garden%2Fd828-188149P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ee9863eba421c213a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=3916661&clt=TM&from=api&nt=true",
+        "price": "$65.00",
+        "rounded_up_price": "$65",
+        "offer_type": "",
+        "title": "Dubai Miracle Garden Admission Tickets and Hotel Transfers",
+        "product_code": "188149P13",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/f6/a2/16.jpg",
+        "description": null,
+        "primary_category": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Miracle-Garden-Ticket-with-Transfer%2Fd828-213074P15%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=74779b3efa7162e0b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=3916661&clt=TM&from=api&nt=true",
+        "price": "$80.00",
+        "rounded_up_price": "$80",
+        "offer_type": "",
+        "title": "Miracle Garden Admission Tickets with Hotel Pick-Up",
+        "product_code": "213074P15",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/b3/73/25.jpg",
+        "description": null,
+        "primary_category": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FMiracle-Garden-ticket-with-Sharing-Transfers%2Fd828-206051P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f82c6189063e63760&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=3916661&clt=TM&from=api&nt=true",
+        "price": "$54.00",
+        "rounded_up_price": "$54",
+        "offer_type": "",
+        "title": "Miracle Garden Ticket Dubai with Shared Transfers",
+        "product_code": "206051P34",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/03/59/c5.jpg",
+        "description": null,
+        "primary_category": "Nature & Wildlife"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FThe-Dubai-Miracle-Garden-and-Global-Village-Shopping-Tour%2Fd828-110819P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=70a4433b6b972cf04&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=3916661&clt=TM&from=api&nt=true",
+        "price": "$90.00",
+        "rounded_up_price": "$90",
+        "offer_type": "",
+        "title": "Dubai Miracle Garden and Global Village Shopping Tour",
+        "product_code": "110819P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/0b/47/f3.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

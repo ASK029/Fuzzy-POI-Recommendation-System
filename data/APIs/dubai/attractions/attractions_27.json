@@ -1,0 +1,269 @@
+{
+  "location_id": "1436120",
+  "name": "Bur Dubai Abra Station",
+  "latitude": "25.264448",
+  "longitude": "55.29278",
+  "num_reviews": "4014",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/8b/8f/29/dubai-creek-largejpg.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/8b/8f/29/dubai-creek-largejpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/8b/8f/29/dubai-creek-largejpg.jpg",
+        "height": "720"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/14/8b/8f/29/dubai-creek-largejpg.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/8b/8f/29/dubai-creek-largejpg.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-09-09T15:49:40-0400",
+    "caption": "",
+    "id": "344690473",
+    "helpful_votes": "7",
+    "published_date": "2018-09-09T15:49:40-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9877402782440186",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "45",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#45 of 682 things to do in Dubai",
+  "subcategory_ranking": "#45 of 682 things to do in Dubai",
+  "ranking": "#45 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "7282429",
+      "name": "The Creek"
+    },
+    {
+      "location_id": "15620597",
+      "name": "Al Sabkha"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d1436120-Reviews-Bur_Dubai_Abra_Station-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1436120-Bur_Dubai_Abra_Station-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "32 3 A St",
+    "street2": null,
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "32 3 A St, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "51",
+      "name": "Piers & Boardwalks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FPrivate-Dubai-Premium-Half-Day-Tour-with-Customized-Itinerary%2Fd828-2168PDXB02%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ba511eb49f9497bf4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1436120&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$10.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FPrivate-Dubai-Premium-Half-Day-Tour-with-Customized-Itinerary%2Fd828-2168PDXB02%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ba511eb49f9497bf4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1436120&clt=TM&from=api&nt=true",
+        "price": "$85.00",
+        "rounded_up_price": "$85",
+        "offer_type": "",
+        "title": "Private Dubai City Tour: A Premium Experience of Old and New",
+        "product_code": "2168PDXB02",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/05/e0/8d.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-City-tour-An-amazing-journey-of-Dubai%2Fd828-138220P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=99627452f07ea32cd&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1436120&clt=TM&from=api&nt=true",
+        "price": "$45.00",
+        "rounded_up_price": "$45",
+        "offer_type": "",
+        "title": "Dubai City tour - An amazing journey of Dubai",
+        "product_code": "138220P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/04/c1/c6.jpg",
+        "description": null,
+        "primary_category": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FFull-Day-Dubai-City-Sight-Tour-Traditional-to-Modern%2Fd828-188787P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d120fa3a610fda9f9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=1436120&clt=TM&from=api&nt=true",
+        "price": "$145.00",
+        "rounded_up_price": "$145",
+        "offer_type": "",
+        "title": "Full-Day Private Dubai Tour by Car",
+        "product_code": "188787P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e5/38/da.jpg",
+        "description": null,
+        "primary_category": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Night-Circuit-with-Dubai-Fountain-Dubai-City-Tour-at-Night-Lights-%2Fd828-148930P12%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bc8bd80590870302a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=1436120&clt=TM&from=api&nt=true",
+        "price": "$150.00",
+        "rounded_up_price": "$150",
+        "offer_type": "",
+        "title": "Dubai Night Circuit Private City Tour After Dark",
+        "product_code": "148930P12",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/bc/82/cc.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FExploring-the-City-of-Dubai%2Fd828-91912P35%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2067fb3f1481f5ade&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=1436120&clt=TM&from=api&nt=true",
+        "price": "$211.00",
+        "rounded_up_price": "$211",
+        "offer_type": "",
+        "title": "Dubai Afternoon City Tour with Round-Trip Hotel Transport",
+        "product_code": "91912P35",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b7/4d/4f.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

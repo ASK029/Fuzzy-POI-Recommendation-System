@@ -1,0 +1,263 @@
+{
+  "location_id": "11802565",
+  "name": "Motiongate Dubai",
+  "latitude": "24.921595",
+  "longitude": "55.003124",
+  "num_reviews": "1894",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1e/9a/90/40/entrance-gate-to-motiongate.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1e/9a/90/40/entrance-gate-to-motiongate.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1e/9a/90/40/entrance-gate-to-motiongate.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1e/9a/90/40/entrance-gate-to-motiongate.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1e/9a/90/40/entrance-gate-to-motiongate.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2021-09-29T02:30:56-0400",
+    "caption": "Entrance gate to MOTIONGATE™ Dubai",
+    "id": "513445952",
+    "helpful_votes": "2",
+    "published_date": "2021-09-29T02:30:56-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.6820220947265625",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "83",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#83 of 682 things to do in Dubai",
+  "subcategory_ranking": "#83 of 682 things to do in Dubai",
+  "ranking": "#83 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.1",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620641",
+      "name": "Jebel Ali"
+    }
+  ],
+  "description": "MOTIONGATE™ Dubai is a must-visit for fun-lovers who want to experience jaw-dropping shows, adrenaline-pumping rides and endless movie-themed fun! From gravity-defying rides like The Hunger Games’ Capitol Bullet Train, to immersive attractions such as and Kung Fu Panda: Unstoppable Awesomeness. You can even battle for New York with Ghostbusters, join the Zoosters at Madagascar: Mad Pursuit, fly with Toothless the dragon or simply enjoy hours of fun and snap some epic photos inside the ginormous (air-conditioned) DreamWorks Zone. Little, big and medium-sized ones alike will be truly spoilt for thrilling choice as they explore the park’s five themed zones, each one straight out of the movies – just like the delicious collection of eateries and an incredible array of exclusive movie merchandise and memorabilia. So, buy your tickets now and we’ll see you at MOTIONGATE™ Dubai, where rides and movies come together!",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d11802565-Reviews-Motiongate_Dubai-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d11802565-Motiongate_Dubai-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "52",
+      "name": "Water & Amusement Parks"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 820 0000",
+  "website": "http://www.motiongatedubai.com",
+  "email": "guestservices@motiongatedubai.com",
+  "address_obj": {
+    "street1": "Sheikh Zayed Rd",
+    "street2": "Opposite Palm Jebel Ali",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "Sheikh Zayed Rd Opposite Palm Jebel Ali, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1260
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "98",
+      "name": "Theme Parks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FMOTIONGATE-Dubai-Ticket-at-Dubai-Parks-and-Resorts-1-Day-1-Park%2Fd828-51252P11%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c1ed6e46f7ea6c4f6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=11802565&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.23",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FMOTIONGATE-Dubai-Ticket-at-Dubai-Parks-and-Resorts-1-Day-1-Park%2Fd828-51252P11%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c1ed6e46f7ea6c4f6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=11802565&clt=TM&from=api&nt=true",
+        "price": "$82.33",
+        "rounded_up_price": "$83",
+        "offer_type": "",
+        "title": "MOTIONGATE Dubai 1-Day Admission Ticket: Movie-Themed Parks",
+        "product_code": "51252P11",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0d/78/fc/d3.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FSingle-Day-Motiongate-Dubai-Ticket-with-Hotel-Transfer%2Fd828-2168P93%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c1de42d608658f0df&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=11802565&clt=TM&from=api&nt=true",
+        "price": "$154.00",
+        "rounded_up_price": "$154",
+        "offer_type": "",
+        "title": "MOTIONGATE™ Entrance Ticket with Private Transfers from Dubai",
+        "product_code": "2168P93",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/05/ef/cb.jpg",
+        "description": null,
+        "primary_category": "Theme Park Tickets & Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FMotiongate-Park-with-Shared-Transfer%2Fd828-9443P117%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1f67f8c16715bccec&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=11802565&clt=TM&from=api&nt=true",
+        "price": "$102.67",
+        "rounded_up_price": "$103",
+        "offer_type": "",
+        "title": "Motiongate Park In Dubai Entry Tickets with pickup drop option ",
+        "product_code": "9443P117",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/6e/80/75.jpg",
+        "description": null,
+        "primary_category": "Theme Park Tickets & Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FLEGOLAND-Dubai-or-MOTION-GATE-One-Park-Pass-or-Multiple-Parks%2Fd828-389352P29%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6e942c853117337a8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=11802565&clt=TM&from=api&nt=true",
+        "price": "$89.31",
+        "rounded_up_price": "$90",
+        "offer_type": "",
+        "title": "Legoland Dubai or Motion Gate One Park Pass or Multiple Parks",
+        "product_code": "389352P29",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/af/0c/37.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FMOTIONGATE-Dubai%2Fd828-467186P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=b5f5781e68fb28a7c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=11802565&clt=TM&from=api&nt=true",
+        "price": "$89.31",
+        "rounded_up_price": "$90",
+        "offer_type": "",
+        "title": "Motiongate Dubai",
+        "product_code": "467186P13",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/90/9d/18.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

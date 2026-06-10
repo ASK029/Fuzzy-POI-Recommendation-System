@@ -1,0 +1,282 @@
+{
+  "location_id": "190555",
+  "name": "Anne Frank House",
+  "latitude": "52.3752",
+  "longitude": "4.88399",
+  "num_reviews": "64459",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/35/4d/ef/casa-de-anne-frank.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/35/4d/ef/casa-de-anne-frank.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/35/4d/ef/casa-de-anne-frank.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/09/35/4d/ef/casa-de-anne-frank.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/35/4d/ef/casa-de-anne-frank.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-10-14T13:14:06-0400",
+    "caption": "anne frank",
+    "id": "154488303",
+    "helpful_votes": "19",
+    "published_date": "2015-10-14T13:14:06-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "5.0",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "1",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#1 of 1,200 things to do in Amsterdam",
+  "ranking": "#1 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "15620086",
+      "name": "Grachtengordel-West"
+    },
+    {
+      "location_id": "7852238",
+      "name": "Canal Ring (Grachtengordel)"
+    }
+  ],
+  "description": "The Anne Frank House is a museum with a story. As a visitor, you experience this story through quotations, photos, films and original objects. The atmosphere in the museum is authentic and subdued. \nThere are online scams active, buy tickets only through the official website: https://www.annefrank.org",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d190555-Reviews-Anne_Frank_House-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d190555-Anne_Frank_House-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 556 7105",
+  "website": "http://www.annefrank.org",
+  "email": "services@annefrank.nl",
+  "address_obj": {
+    "street1": "Prinsengracht 263 - 267",
+    "street2": "Museum Entrance Westermarkt 20",
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1016 DK"
+  },
+  "address": "Prinsengracht 263 - 267 Museum Entrance Westermarkt 20, 1016 DK Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1320
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    },
+    {
+      "key": "30",
+      "name": "History Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAnne-Frank-and-Jewish-Quarter-Guided-Walking-Tour-in-Amsterdam%2Fd525-8718P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7b3cfe0af40417986&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190555&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAnne-Frank-and-Jewish-Quarter-Guided-Walking-Tour-in-Amsterdam%2Fd525-8718P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7b3cfe0af40417986&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190555&clt=TM&from=api&nt=true",
+        "price": "$35.52",
+        "rounded_up_price": "$36",
+        "offer_type": "",
+        "title": "Amsterdam Jewish Quarter Anne Frank Walking Tour",
+        "product_code": "8718P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e6/5a/ec.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAnne-Frank-and-the-Jewish-History-of-Amsterdam-Private-Tour%2Fd525-65356P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=19ee5aaf70c939c20&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190555&clt=TM&from=api&nt=true",
+        "price": "$86.34",
+        "rounded_up_price": "$87",
+        "offer_type": "",
+        "title": "Amsterdam Private Half-Day Jewish History Tour",
+        "product_code": "65356P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/95/73/f1.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FVan-Gogh-Museum-Skip-the-Line-Ticket-1-Hour-Canal-Cruise-in-Amsterdam%2Fd525-2550P113%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a4351e9b16069c931&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190555&clt=TM&from=api&nt=true",
+        "price": "$39.89",
+        "rounded_up_price": "$40",
+        "offer_type": "",
+        "title": "Amsterdam Van Gogh Museum Ticket plus Sightseeing Canal Cruise",
+        "product_code": "2550P113",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/46/8e/f1.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-Anne-Frank-and-Jewish-Quarter-Tour%2Fd525-24380P589%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f70a944af34adbf93&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190555&clt=TM&from=api&nt=true",
+        "price": "$140.99",
+        "rounded_up_price": "$141",
+        "offer_type": "",
+        "title": "Amsterdam Anne Frank & Jewish Culture Private Walking Tour",
+        "product_code": "24380P589",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e6/36/93.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Canal-Cruise%2Fd525-75227P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a3b245cce6f765b73&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190555&clt=TM&from=api&nt=true",
+        "price": "$19.67",
+        "rounded_up_price": "$20",
+        "offer_type": "",
+        "title": "Amsterdam Electric Boat Canal Cruise with Bar, Live Guide",
+        "product_code": "75227P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/73/28/fa.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES",
+  "tags": {
+    "urgency_tag": {
+      "tag_text": "<span class=\"highlight\">In high demand</span> - travelers recommend booking ahead!",
+      "attraction_type": "PRODUCTS"
+    }
+  }
+}

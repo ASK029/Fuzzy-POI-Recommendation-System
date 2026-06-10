@@ -1,0 +1,263 @@
+{
+  "location_id": "1064612",
+  "name": "Dubai Festival City Mall",
+  "latitude": "25.221855",
+  "longitude": "55.352913",
+  "num_reviews": "916",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/aa/23/79/festival-bay-at-dubai.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/aa/23/79/festival-bay-at-dubai.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/aa/23/79/festival-bay-at-dubai.jpg",
+        "height": "852"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/aa/23/79/festival-bay-at-dubai.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/aa/23/79/festival-bay-at-dubai.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2018-07-12T08:46:42-0400",
+    "caption": "Festival Bay at Dubai Festival City Mall.",
+    "id": "329917305",
+    "helpful_votes": "7",
+    "published_date": "2018-07-12T08:46:42-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9055891036987305",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "57",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#57 of 682 things to do in Dubai",
+  "subcategory_ranking": "#57 of 682 things to do in Dubai",
+  "ranking": "#57 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620626",
+      "name": "Dubai Festival City"
+    }
+  ],
+  "description": "Dubai Festival City Mall is a shopping mall in Dubai Festival City, on Dubai Creek in Dubai, United Arab Emirates (UAE). Originally opened in 2007, but expanded in 2017.​ Overlooking the serene waters of the creek and iconic Dubai Skyline, Festival City Mall holds a special place in the heart of North Dubai.​ Accessible to shoppers via multiple roadways, public transport and special water taxi stops on the iconic Dubai Creek.​ The mall Festival Bay a great outdoor and used for daily nighttime \"IMAGINE Show\" Laser, Lights and Fountain show. There is an Abra boat service across Dubai Creek between the Dubai Festival City Mall and the Al Jaddaf Marine Station, close to the Dubai Creek metro station on the green Line of the Dubai Metro. This is operated by the Dubai Roads and Transport Authority (RTA). With over 400 stores and more than 100 Restaurants and Cafes, Food Court with 1000 Seat the largest in Dubai.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d1064612-Reviews-Dubai_Festival_City_Mall-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1064612-Dubai_Festival_City_Mall-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 213 6213",
+  "website": "http://www.dubaifestivalcitymall.com/home",
+  "email": "mall.csd@alfuttaim.ae",
+  "address_obj": {
+    "street1": "Crescent Road",
+    "street2": null,
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": ""
+  },
+  "address": "Crescent Road, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1500
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "143",
+      "name": "Shopping Malls"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FSun-Set-Abra-wooden-boat-Ride-with-Emirati-High-Tea%2Fd828-24069P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=dcf892a45af292871&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1064612&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.04",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FSun-Set-Abra-wooden-boat-Ride-with-Emirati-High-Tea%2Fd828-24069P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=dcf892a45af292871&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1064612&clt=TM&from=api&nt=true",
+        "price": "$75.00",
+        "rounded_up_price": "$75",
+        "offer_type": "",
+        "title": "Sun Set Abra (wooden boat) Ride with Emirati High Tea",
+        "product_code": "24069P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/11/08.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FSunset-of-Burj-Khalifa-60-Mins-Abra-traditional-wooden-boat-Tour-%2Fd828-24069P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=68e5afa69cf17bad9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1064612&clt=TM&from=api&nt=true",
+        "price": "$36.77",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Dubai Sunset Abra Boat Tour with Light Refreshments",
+        "product_code": "24069P14",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/8d/f9/41.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FFree-Product-for-February%2Fd828-5558452P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ff5a1140f65360ac7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=1064612&clt=TM&from=api&nt=true",
+        "price": "$15.35",
+        "rounded_up_price": "$16",
+        "offer_type": "",
+        "title": "Dubai Luxury Canal Dinner Cruise with Shows",
+        "product_code": "5558452P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/71/1c/61.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Dhow-Cruise-Goldfish%2Fd828-5539028P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3092a723495ce9e3&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=1064612&clt=TM&from=api&nt=true",
+        "price": "$26.79",
+        "rounded_up_price": "$27",
+        "offer_type": "",
+        "title": "Experience Dubai Dhow Cruise Goldfish",
+        "product_code": "5539028P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/71/5b/fc.jpg",
+        "description": null,
+        "primary_category": "Night Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FVIP-Dubai-Canal-Yacht-Cruise-with-BBQ-Buffet%2Fd828-5525000P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=27cf56ba61dbdeb65&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=1064612&clt=TM&from=api&nt=true",
+        "price": "$33.49",
+        "rounded_up_price": "$34",
+        "offer_type": "",
+        "title": "VIP Dubai Canal Yacht Cruise with BBQ Buffet",
+        "product_code": "5525000P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/71/dd/fb.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

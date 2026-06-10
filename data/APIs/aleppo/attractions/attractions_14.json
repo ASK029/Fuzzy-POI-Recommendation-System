@@ -1,0 +1,127 @@
+{
+  "location_id": "0",
+  "name": "Gift & Specialty Shops",
+  "num_reviews": "26",
+  "timezone": "Asia/Damascus",
+  "location_string": "Aleppo, Aleppo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/43/be/60/the-souk-near-the-citadel.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/43/be/60/the-souk-near-the-citadel.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "3072",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/43/be/60/the-souk-near-the-citadel.jpg",
+        "height": "2304"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/43/be/60/the-souk-near-the-citadel.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/43/be/60/the-souk-near-the-citadel.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2009-09-04T01:42:47-0400",
+    "caption": "The souk near the Citadel",
+    "id": "21216864",
+    "helpful_votes": "10",
+    "published_date": "2009-09-06T17:29:40-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.syria",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attractions",
+  "write_review": "https://www.tripadvisor.com",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Aleppo",
+      "abbrv": null,
+      "location_id": "295416"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Aleppo Governorate",
+      "abbrv": null,
+      "location_id": "2625571"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "rollup",
+    "name": "Rollup"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Aleppo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Aleppo",
+    "state": null,
+    "country": "Syria",
+    "postalcode": ""
+  },
+  "address": "",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "144",
+      "name": "Gift & Specialty Shops"
+    }
+  ],
+  "rollup_category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "rollup_contains_bookable": false,
+  "rollup_count": 3
+}

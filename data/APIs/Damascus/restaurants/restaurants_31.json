@@ -1,0 +1,178 @@
+{
+  "location_id": "33117568",
+  "name": "Jannet Sednayah Restaurants",
+  "latitude": "33.684654",
+  "longitude": "36.36195",
+  "num_reviews": "1",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2f/d6/02/71/flowers-surrounding-you.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2f/d6/02/71/flowers-surrounding-you.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1080",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/2f/d6/02/71/flowers-surrounding-you.jpg",
+        "height": "1064"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2f/d6/02/71/flowers-surrounding-you.jpg",
+        "height": "1009"
+      },
+      "medium": {
+        "width": "457",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2f/d6/02/71/flowers-surrounding-you.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2025-05-11T11:15:09-0400",
+    "caption": "flowers surrounding you",
+    "id": "802554481",
+    "helpful_votes": "0",
+    "published_date": "2025-05-11T11:15:09-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.0452444553375244",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "28",
+  "ranking_denominator": "98",
+  "ranking_category": "restaurant",
+  "ranking": "#28 of 123 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "",
+  "description": "Welcome to the official page of the five-star Jannat Saydnaya Restaurant. Established in 2001, it serves high-quality Eastern and Western cuisine. This page provides the latest updates on the restaurant's events, atmosphere, services, and official news.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294011-d33117568-Reviews-Jannet_Sednayah_Restaurants-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d33117568-Jannet_Sednayah_Restaurants-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+963 995 595 900",
+  "email": "sednayah.paradise@gmail.com",
+  "address_obj": {
+    "street1": "Sednayah main entrance",
+    "street2": null,
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": "5959000"
+  },
+  "address": "Sednayah main entrance, Damascus 5959000 Syria",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 1620
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1620
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1620
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1620
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1620
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1620
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1620
+        }
+      ]
+    ],
+    "timezone": "Asia/Damascus"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10649",
+      "name": "Mediterranean"
+    },
+    {
+      "key": "10687",
+      "name": "Middle Eastern"
+    }
+  ],
+  "dietary_restrictions": [],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

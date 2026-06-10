@@ -1,0 +1,240 @@
+{
+  "location_id": "6575305",
+  "name": "Il Etait Un Square",
+  "latitude": "48.831013",
+  "longitude": "2.347918",
+  "num_reviews": "4459",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/25/08/0a/le-cheddar.jpg",
+        "height": "137"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/25/08/0a/le-cheddar.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1093",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/25/08/0a/le-cheddar.jpg",
+        "height": "599"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/25/08/0a/le-cheddar.jpg",
+        "height": "561"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/25/08/0a/le-cheddar.jpg",
+        "height": "301"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2017-05-01T11:50:14-0400",
+    "caption": "Le cheddar",
+    "id": "254085130",
+    "helpful_votes": "135",
+    "published_date": "2017-05-01T11:50:14-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.886115550994873",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "3",
+  "ranking_denominator": "15981",
+  "ranking_category": "restaurant",
+  "ranking": "#3 of 19,416 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "neighborhood_info": [
+    {
+      "location_id": "15621614",
+      "name": "Croulebarbe"
+    },
+    {
+      "location_id": "15621641",
+      "name": "13e Arr. – Gobelins"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187147-d6575305-Reviews-Il_Etait_Un_Square-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d6575305-Il_Etait_Un_Square-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 43 37 68 07",
+  "website": "http://www.iletaitunsquare.com",
+  "address_obj": {
+    "street1": "54 Rue Corvisart",
+    "street2": null,
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75013"
+  },
+  "address": "54 Rue Corvisart, 75013 Paris France",
+  "hours": {
+    "week_ranges": [
+      [],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ]
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5086",
+      "name": "French"
+    },
+    {
+      "key": "9908",
+      "name": "American"
+    },
+    {
+      "key": "10345",
+      "name": "Steakhouse"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

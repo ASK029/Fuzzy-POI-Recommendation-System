@@ -1,0 +1,179 @@
+{
+  "location_id": "10081011",
+  "name": "Karma Cafe",
+  "latitude": "33.51737",
+  "longitude": "36.28698",
+  "num_reviews": "5",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/c1/55/01/damascus-abu-rumaneh.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/c1/55/01/damascus-abu-rumaneh.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "960",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/c1/55/01/damascus-abu-rumaneh.jpg",
+        "height": "658"
+      },
+      "large": {
+        "width": "960",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/c1/55/01/damascus-abu-rumaneh.jpg",
+        "height": "658"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/55/01/damascus-abu-rumaneh.jpg",
+        "height": "377"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2016-11-29T04:51:04-0500",
+    "caption": "Damascus - abu rumaneh",
+    "id": "230774017",
+    "helpful_votes": "2",
+    "published_date": "2016-11-29T04:51:04-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.060821771621704",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "22",
+  "ranking_denominator": "98",
+  "ranking_category": "restaurant",
+  "ranking": "#22 of 123 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294011-d10081011-Reviews-Karma_Cafe-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d10081011-Karma_Cafe-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "cafe",
+      "name": "Café"
+    }
+  ],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+963 994 913 060",
+  "website": "http://karmacafesyria.com",
+  "address_obj": {
+    "street1": "Al Amir Iz Eddin Street",
+    "street2": "Near the Fransabank",
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": null
+  },
+  "address": "Al Amir Iz Eddin Street Near the Fransabank, Damascus Syria",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 510,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 510,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 510,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 510,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 510,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 510,
+          "close_time": 1380
+        }
+      ]
+    ],
+    "timezone": "Asia/Damascus"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10642",
+      "name": "Cafe"
+    }
+  ],
+  "dietary_restrictions": [],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

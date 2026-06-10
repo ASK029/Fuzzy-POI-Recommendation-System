@@ -1,0 +1,279 @@
+{
+  "location_id": "6024007",
+  "name": "Body Worlds",
+  "latitude": "52.37482",
+  "longitude": "4.894747",
+  "num_reviews": "5696",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/11/88/05/a-female-body.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/11/88/05/a-female-body.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/11/88/05/a-female-body.jpg",
+        "height": "1335"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/11/88/05/a-female-body.jpg",
+        "height": "684"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/11/88/05/a-female-body.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-04-23T17:29:11-0400",
+    "caption": "a female body",
+    "id": "252807173",
+    "helpful_votes": "9",
+    "published_date": "2017-04-23T17:29:11-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.1361775398254395",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "16",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#16 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#16 of 1,200 things to do in Amsterdam",
+  "ranking": "#16 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620183",
+      "name": "Damrak"
+    },
+    {
+      "location_id": "15620085",
+      "name": "Burgwallen-Nieuwe Zijde"
+    },
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "15620171",
+      "name": "Old Center"
+    }
+  ],
+  "description": "Gunther von Hagens’ BODY WORLDS: The Happiness Project in the heart of Amsterdam tells the amazing story of our own body and the impact of happiness on our health. More than 200 anatomical specimens of real human bodies show the complexity, resilience and vulnerability of the body. Join the 40 million people around the world who have already seen the exhibition and been on this fascinating voyage of discovery through the human body.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d6024007-Reviews-Body_Worlds-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d6024007-Body_Worlds-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 216 0601",
+  "website": "http://www.bodyworlds.nl",
+  "email": "amsterdam@bodyworlds.nl",
+  "address_obj": {
+    "street1": "Damrak 66",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1012 LM"
+  },
+  "address": "Damrak 66, 1012 LM Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "35",
+      "name": "Science Museums"
+    },
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FSkip-the-Line-Body-Worlds-Amsterdam-The-Happiness-Project-Admission-Ticket%2Fd525-2550P108%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1cdc1d4fdc950f6ca&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=6024007&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$9.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FSkip-the-Line-Body-Worlds-Amsterdam-The-Happiness-Project-Admission-Ticket%2Fd525-2550P108%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1cdc1d4fdc950f6ca&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=6024007&clt=TM&from=api&nt=true",
+        "price": "$24.59",
+        "rounded_up_price": "$25",
+        "offer_type": "",
+        "title": "Body Worlds Amsterdam Skip-the-Line Ticket",
+        "product_code": "2550P108",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/c1/72/8d.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Super-Saver-Body-Worlds-Amsterdam-Skip-the-Line-Entrance-Ticket-with-Amsterdam-Canal-Cruise%2Fd525-2550P96%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=984cb3fb424307202&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=6024007&clt=TM&from=api&nt=true",
+        "price": "$38.25",
+        "rounded_up_price": "$39",
+        "offer_type": "",
+        "title": "Amsterdam Body Worlds Ticket plus Canal Cruise",
+        "product_code": "2550P96",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/dd/6b/32.jpg",
+        "description": null,
+        "primary_category": "Super Savers"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-1-Hr-Canal-Cruise%2Fd525-2550STLCRUISE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aab535d0670676130&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=6024007&clt=TM&from=api&nt=true",
+        "price": "$16.94",
+        "rounded_up_price": "$17",
+        "offer_type": "",
+        "title": "Amsterdam Canal Cruise",
+        "product_code": "2550STLCRUISE",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/60/17/23.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FCity-Sightseeing-Amsterdam-Hop-On-Hop-Off-Tour-with-Optional-Canal-Cruise%2Fd525-2550HOHO%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=94fabf84a97aba83f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=6024007&clt=TM&from=api&nt=true",
+        "price": "$32.24",
+        "rounded_up_price": "$33",
+        "offer_type": "",
+        "title": "Amsterdam Hop-On Hop-Off Tour with Boat Option",
+        "product_code": "2550HOHO",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/26/cb/17.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Evening-Cruise-on-a-Cosy-Open-Boat-Magical-and-Romantic%2Fd525-176051P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=90886b78f0d2489eb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=6024007&clt=TM&from=api&nt=true",
+        "price": "$43.66",
+        "rounded_up_price": "$44",
+        "offer_type": "",
+        "title": "Amsterdam Evening Canal Cruise",
+        "product_code": "176051P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/70/b3/8e.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

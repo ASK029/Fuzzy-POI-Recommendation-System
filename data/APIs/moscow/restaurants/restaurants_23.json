@@ -1,0 +1,235 @@
+{
+  "location_id": "7256714",
+  "name": "Cafe Kusochki",
+  "latitude": "55.71394",
+  "longitude": "37.607445",
+  "num_reviews": "776",
+  "timezone": "Europe/Moscow",
+  "location_string": "Moscow, Central Russia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/e7/8f/83/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/e7/8f/83/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/e7/8f/83/caption.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/e7/8f/83/caption.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/e7/8f/83/caption.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2018-07-29T13:32:29-0400",
+    "caption": "зал",
+    "id": "333942659",
+    "helpful_votes": "4",
+    "published_date": "2018-07-29T13:32:29-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.russia.moscow",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.415582656860352",
+  "ranking_geo": "Moscow",
+  "ranking_geo_id": "298484",
+  "ranking_position": "22",
+  "ranking_denominator": "11647",
+  "ranking_category": "restaurant",
+  "ranking": "#20 of 14,506 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$80 - $1,300",
+  "neighborhood_info": [
+    {
+      "location_id": "15621254",
+      "name": "Danilovskiy"
+    },
+    {
+      "location_id": "15621183",
+      "name": "District Southern (YuAO)"
+    },
+    {
+      "location_id": "15621301",
+      "name": "3rd Transport Ring (TTK)"
+    }
+  ],
+  "description": "An unusual restaurant that has no analogues in the world... So - Pieces... in one restaurant, You can sit in the area the police, hospital, theatre, stadium, train, square... For success used the highest quality products. Food - modern - Murmansk cod, Sakhalin scallops, Voronezh beef, Ryazan bird, Caucasian cheese. The main goal is to make guests spoke - DELICIOUS!",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g298484-d7256714-Reviews-Cafe_Kusochki-Moscow_Central_Russia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298484-d7256714-Cafe_Kusochki-Moscow_Central_Russia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Moscow",
+      "abbrv": null,
+      "location_id": "298484"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Central Russia",
+      "abbrv": null,
+      "location_id": "298479"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Russia",
+      "abbrv": null,
+      "location_id": "294459"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "cafe",
+      "name": "Café"
+    }
+  ],
+  "parent_display_name": "Moscow",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+7 495 114-55-25",
+  "website": "http://www.kusochki-cafe.ru",
+  "email": "info@kusochki-cafe.ru",
+  "address_obj": {
+    "street1": "Shabolovka St., 63",
+    "street2": null,
+    "city": "Moscow",
+    "state": null,
+    "country": "Russia",
+    "postalcode": "115419"
+  },
+  "address": "Shabolovka St., 63, Moscow 115419 Russia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Europe/Moscow"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10642",
+      "name": "Cafe"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10746",
+      "name": "Central European"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "location_id": "324958",
+  "name": "Old City",
+  "num_reviews": "32",
+  "timezone": "Asia/Damascus",
+  "location_string": "Aleppo, Aleppo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/37/95/c3/old-city-aleppo.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/37/95/c3/old-city-aleppo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "604",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/37/95/c3/old-city-aleppo.jpg",
+        "height": "453"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/37/95/c3/old-city-aleppo.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/37/95/c3/old-city-aleppo.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2009-08-07T18:43:03-0400",
+    "caption": "Old city:Aleppo",
+    "id": "20420035",
+    "helpful_votes": "14",
+    "published_date": "2009-08-07T18:43:02-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.865839719772339",
+  "ranking_geo": "Aleppo",
+  "ranking_geo_id": "295416",
+  "ranking_position": "3",
+  "ranking_denominator": "17",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 17 things to do in Aleppo",
+  "subcategory_ranking": "#3 of 17 things to do in Aleppo",
+  "ranking": "#3 of 17 things to do in Aleppo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295416-d324958-Reviews-Old_City-Aleppo_Aleppo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295416-d324958-Old_City-Aleppo_Aleppo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Aleppo",
+      "abbrv": null,
+      "location_id": "295416"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Aleppo Governorate",
+      "abbrv": null,
+      "location_id": "2625571"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    }
+  ],
+  "parent_display_name": "Aleppo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Aleppo",
+    "state": null,
+    "country": "Syria",
+    "postalcode": ""
+  },
+  "address": "Aleppo Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "34",
+      "name": "Neighborhoods"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    }
+  ]
+}

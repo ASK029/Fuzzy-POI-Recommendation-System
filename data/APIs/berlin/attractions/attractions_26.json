@@ -1,0 +1,212 @@
+{
+  "location_id": "8703348",
+  "name": "German Spy Museum Berlin",
+  "latitude": "52.509026",
+  "longitude": "13.379324",
+  "num_reviews": "2543",
+  "timezone": "Europe/Berlin",
+  "location_string": "Berlin",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/bb/92/8b/die-laser-challenge-ist.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/bb/92/8b/die-laser-challenge-ist.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "884",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/bb/92/8b/die-laser-challenge-ist.jpg",
+        "height": "660"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/bb/92/8b/die-laser-challenge-ist.jpg",
+        "height": "411"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/bb/92/8b/die-laser-challenge-ist.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-12-15T07:40:03-0500",
+    "caption": "Die Laser challenge ist etwas für jung und alt.",
+    "id": "364614283",
+    "helpful_votes": "3",
+    "published_date": "2018-12-15T07:40:03-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.berlin",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.8929407596588135",
+  "ranking_geo": "Berlin",
+  "ranking_geo_id": "187323",
+  "ranking_position": "48",
+  "ranking_denominator": "1922",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#48 of 1,922 things to do in Berlin",
+  "subcategory_ranking": "#48 of 1,922 things to do in Berlin",
+  "ranking": "#48 of 1,922 things to do in Berlin",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620490",
+      "name": "Mitte (Borough)"
+    },
+    {
+      "location_id": "7281425",
+      "name": "Mitte"
+    }
+  ],
+  "description": "The German Spy Museum is the only spy museum in Central Europe and charts the history of the second oldest tradecraft in the world in an interactive exhibition for all ages. Situated near Potsdamer Platz the museum is the perfect location to explore the worldwide capital of spies. 2019 refurbished the exhibition is nominated for the European Museum of the Year Award 2020. With more than 400,000 visitors in 2019, the German Spy Museum one of the most visited museums in Berlin Hundreds of unique exhibits like the Nazi cipher machine Enigma, hidden cameras and weapons, bugs or radios are waiting to be explored. Visitors can learn to Morsecode, search bugs, decode messages, try a lie detector, wiggle trough a laser maze or crack a safe. Children can write with secret inks or climb in a dust.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d8703348-Reviews-German_Spy_Museum_Berlin-Berlin.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187323-d8703348-German_Spy_Museum_Berlin-Berlin.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Berlin",
+      "abbrv": null,
+      "location_id": "187323"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Berlin",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 30 398200451",
+  "website": "http://www.deutsches-spionagemuseum.de",
+  "email": "info@deutsches-spionagemuseum.de",
+  "address_obj": {
+    "street1": "Leipziger Platz 9",
+    "street2": null,
+    "city": "Berlin",
+    "state": null,
+    "country": "Germany",
+    "postalcode": "10117"
+  },
+  "address": "Leipziger Platz 9, 10117 Berlin Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "30",
+      "name": "History Museums"
+    },
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FCity-Sightseeing-Berlin-Hop-On-Hop-Off-Tour%2Fd488-2916BERLIN%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7f2a7b0dfe59f9519&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=8703348&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.33",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FCity-Sightseeing-Berlin-Hop-On-Hop-Off-Tour%2Fd488-2916BERLIN%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7f2a7b0dfe59f9519&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=8703348&clt=TM&from=api&nt=true",
+        "price": "$29.51",
+        "rounded_up_price": "$30",
+        "offer_type": "",
+        "title": "Berlin City Sightseeing Hop-On Hop-Off Tour 1- or 2-Day Ticket",
+        "product_code": "2916BERLIN",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/bd/06/38.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": false
+  }
+}

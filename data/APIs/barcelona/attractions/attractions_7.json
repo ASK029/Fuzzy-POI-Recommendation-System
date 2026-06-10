@@ -1,0 +1,188 @@
+{
+  "location_id": "10868554",
+  "name": "Esglesia de Sant Felix",
+  "latitude": "41.42623",
+  "longitude": "2.15704",
+  "num_reviews": "4",
+  "timezone": "Europe/Madrid",
+  "location_string": "Granollers, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/08/5b/de/vista-exterior.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/08/5b/de/vista-exterior.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "750",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/08/5b/de/vista-exterior.jpg",
+        "height": "562"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/08/5b/de/vista-exterior.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/08/5b/de/vista-exterior.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-09-20T14:40:52-0400",
+    "caption": "Vista exterior",
+    "id": "218651614",
+    "helpful_votes": "0",
+    "published_date": "2016-09-20T14:40:52-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.catalonia.barcelona_province",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.781003952026367",
+  "ranking_geo": "Granollers",
+  "ranking_geo_id": "670666",
+  "ranking_position": "6",
+  "ranking_denominator": "24",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#6 of 24 things to do in Granollers",
+  "subcategory_ranking": "#6 of 24 things to do in Granollers",
+  "ranking": "#6 of 24 things to do in Granollers",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15565907",
+      "name": "El Carmel"
+    },
+    {
+      "location_id": "15565878",
+      "name": "Horta-Guinardo"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g670666-d10868554-Reviews-Esglesia_de_Sant_Felix-Granollers_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g670666-d10868554-Esglesia_de_Sant_Felix-Granollers_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Granollers",
+      "abbrv": null,
+      "location_id": "670666"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Granollers",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 938 40 65 12",
+  "address_obj": {
+    "street1": "Carrer Sant Feliu, 3",
+    "street2": null,
+    "city": "Granollers",
+    "state": null,
+    "country": "Spain",
+    "postalcode": null
+  },
+  "address": "Carrer Sant Feliu, 3, Granollers Spain",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 750,
+          "close_time": 840
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1200
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    },
+    {
+      "key": "175",
+      "name": "Churches & Cathedrals"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "location_id": "257527",
+  "name": "Museu Nacional d'Art de Catalunya",
+  "latitude": "41.368443",
+  "longitude": "2.153572",
+  "num_reviews": "7423",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/48/f2/2f/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/48/f2/2f/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/07/48/f2/2f/caption.jpg",
+        "height": "698"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/48/f2/2f/caption.jpg",
+        "height": "698"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/48/f2/2f/caption.jpg",
+        "height": "374"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-02-02T03:42:19-0500",
+    "caption": "панорамы...",
+    "id": "122221103",
+    "helpful_votes": "6",
+    "published_date": "2015-02-02T03:42:19-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.0308732986450195",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "31",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#31 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#31 of 1,549 things to do in Barcelona",
+  "ranking": "#31 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    },
+    {
+      "location_id": "7230972",
+      "name": "Montjuic"
+    }
+  ],
+  "description": "An art museum containing hundreds of pieces from the medieval age to the 19th century.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d257527-Reviews-Museu_Nacional_d_Art_de_Catalunya-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d257527-Museu_Nacional_d_Art_de_Catalunya-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 936 22 03 60",
+  "website": "https://www.museunacional.cat/ca",
+  "email": "internet@museunacional.cat",
+  "address_obj": {
+    "street1": "Parc de Montjuic, s/n",
+    "street2": "Palau Nacional",
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08038"
+  },
+  "address": "Parc de Montjuic, s/n Palau Nacional, 08038 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 900
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "28",
+      "name": "Art Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSkip-the-Line-Ticket-to-Museu-Nacional-de-Catalunya-in-Barcelona%2Fd562-16999MNAC%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d42eecfec98d1efb8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=257527&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$7.64",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSkip-the-Line-Ticket-to-Museu-Nacional-de-Catalunya-in-Barcelona%2Fd562-16999MNAC%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d42eecfec98d1efb8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=257527&clt=TM&from=api&nt=true",
+        "price": "$13.12",
+        "rounded_up_price": "$14",
+        "offer_type": "",
+        "title": "Barcelona National Art Museum of Catalonia Admission Ticket",
+        "product_code": "16999MNAC",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6b/87/18.jpg",
+        "description": null,
+        "primary_category": "Museum Tickets & Passes"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Museum-Pass%2Fd562-2512MUS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3fd72e9ff7e49455&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=257527&clt=TM&from=api&nt=true",
+        "price": "$42.62",
+        "rounded_up_price": "$43",
+        "offer_type": "",
+        "title": "Barcelona Six Museum Pass with MACBA and Picasso Museum",
+        "product_code": "2512MUS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/39/c8.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Card-with-Guidebook%2Fd562-2512BCARD%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a45206435e15ad5bf&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=257527&clt=TM&from=api&nt=true",
+        "price": "$63.94",
+        "rounded_up_price": "$64",
+        "offer_type": "",
+        "title": "Barcelona Card: Museums + Transport for 72h, 96h or 120h",
+        "product_code": "2512BCARD",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/5a/c5/15.jpg",
+        "description": null,
+        "primary_category": "Sightseeing Passes"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSmall-group-Barcelona-and-Montserrat-with-hotel-pickup-AND-skip-the-line-tickets%2Fd562-5689P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cc782c7c258bdf66a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=257527&clt=TM&from=api&nt=true",
+        "price": "$149.73",
+        "rounded_up_price": "$150",
+        "offer_type": "",
+        "title": "Barcelona and Montserrat: Guided Small-Group Highlights Tour",
+        "product_code": "5689P14",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/7c/b9/4e.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Best-Views-Old-Town-Cable-Car-Montjuic-Castle-and-Magic-Fountain-Show%2Fd562-9866P79%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e8540e58b5c282a15&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=257527&clt=TM&from=api&nt=true",
+        "price": "$82.31",
+        "rounded_up_price": "$83",
+        "offer_type": "",
+        "title": "Barcelona Best Views: Old Town, Cable Car and Montjuic Castle",
+        "product_code": "9866P79",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/0e/57/97.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

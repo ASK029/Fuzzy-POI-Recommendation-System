@@ -1,0 +1,211 @@
+{
+  "location_id": "1574019",
+  "name": "Gasthaus zur Linde",
+  "latitude": "48.72764",
+  "longitude": "9.150556",
+  "num_reviews": "203",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/77/41/e6/gasthaus-zur-linde.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/77/41/e6/gasthaus-zur-linde.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/77/41/e6/gasthaus-zur-linde.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/09/77/41/e6/gasthaus-zur-linde.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/77/41/e6/gasthaus-zur-linde.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-11-09T10:53:57-0500",
+    "caption": "Außenansicht",
+    "id": "158810598",
+    "helpful_votes": "1",
+    "published_date": "2015-11-09T10:55:32-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.986811876296997",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "28",
+  "ranking_denominator": "1153",
+  "ranking_category": "restaurant",
+  "ranking": "#27 of 1,644 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Closed today",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187291-d1574019-Reviews-Gasthaus_zur_Linde-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d1574019-Gasthaus_zur_Linde-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 711 7199590",
+  "website": "http://www.linde-stuttgart.de/",
+  "email": "info@linde-stuttgart.de",
+  "address_obj": {
+    "street1": "Sigmaringer Stasse 49",
+    "street2": "",
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70567"
+  },
+  "address": "Sigmaringer Stasse 49, 70567 Stuttgart, Baden-Wurttemberg Germany",
+  "hours": {
+    "week_ranges": [
+      [],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1380
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10347",
+      "name": "German"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10746",
+      "name": "Central European"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

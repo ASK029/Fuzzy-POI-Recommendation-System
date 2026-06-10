@@ -1,0 +1,221 @@
+{
+  "location_id": "265614",
+  "name": "Pont Alexandre III",
+  "latitude": "48.863907",
+  "longitude": "2.313556",
+  "num_reviews": "17464",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/17/08/4c/pont-alexandre-iii-et.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/17/08/4c/pont-alexandre-iii-et.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "886",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/17/08/4c/pont-alexandre-iii-et.jpg",
+        "height": "573"
+      },
+      "large": {
+        "width": "886",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/17/08/4c/pont-alexandre-iii-et.jpg",
+        "height": "573"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/17/08/4c/pont-alexandre-iii-et.jpg",
+        "height": "355"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-05-02T17:43:18-0400",
+    "caption": "Pont Alexandre III et le grand palais en fond",
+    "id": "186058828",
+    "helpful_votes": "20",
+    "published_date": "2016-05-02T17:43:18-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.912659168243408",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "2",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#2 of 4,164 things to do in Paris",
+  "ranking": "#2 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621630",
+      "name": "8th Arr. - Elysee"
+    },
+    {
+      "location_id": "15621555",
+      "name": "Champs-Elysees Quartier"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d265614-Reviews-Pont_Alexandre_III-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d265614-Pont_Alexandre_III-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "https://parisjetaime.com/transport/pont-alexandre-iii-p1875",
+  "address_obj": {
+    "street1": "Cours la Reine",
+    "street2": "Quai d'Orsay",
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75008"
+  },
+  "address": "Cours la Reine Quai d'Orsay, 75008 Paris France",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "5",
+      "name": "Bridges"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSegway-Paris-Express-Tour-12-POI-in-1-hour%2Fd479-133051P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d8cb174124cf4ea67&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=265614&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSegway-Paris-Express-Tour-12-POI-in-1-hour%2Fd479-133051P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d8cb174124cf4ea67&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=265614&clt=TM&from=api&nt=true",
+        "price": "$42.62",
+        "rounded_up_price": "$43",
+        "offer_type": "",
+        "title": "Paris Segway Express Tour (12 monuments in 1 hour and 15 minutes)",
+        "product_code": "133051P9",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/87/8d/2e.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2F3-COURSE-DINNER-CRUISE-AT-LA-MARINA-DE-PARIS%2Fd479-2050P169%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=39a7148a0cca9657a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=265614&clt=TM&from=api&nt=true",
+        "price": "$100.71",
+        "rounded_up_price": "$101",
+        "offer_type": "",
+        "title": "Paris Seine River Cruise with 3-Course Dinner",
+        "product_code": "2050P169",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/57/20/78.jpg",
+        "description": null,
+        "primary_category": "Water Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FBateaux-Parisiens-Seine-River-Cruise-with-Lunch-and-Live-Music%2Fd479-5836LUNCHCRUISE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f0a8086d542b5a955&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=265614&clt=TM&from=api&nt=true",
+        "price": "$91.26",
+        "rounded_up_price": "$92",
+        "offer_type": "",
+        "title": "Bateaux Parisiens Seine River Lunch Cruise with Live Music",
+        "product_code": "5836LUNCHCRUISE",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ee/ae/9c.jpg",
+        "description": null,
+        "primary_category": "Luxury Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSeine-River-Cruise-Bateaux-Parisiens-Sightseeing-Cruise-with-Dinner-and-Live-Music%2Fd479-5836DINNERCRUISE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=de15b582fd69f022f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=265614&clt=TM&from=api&nt=true",
+        "price": "$136.29",
+        "rounded_up_price": "$137",
+        "offer_type": "",
+        "title": "Paris Seine River Bateaux Sightseeing Gourmet Dinner Cruise",
+        "product_code": "5836DINNERCRUISE",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ee/9b/24.jpg",
+        "description": null,
+        "primary_category": "Luxury Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSeine-River-Cruise-Sightseeing-with-Optional-Aperitif-or-Snack%2Fd479-5636CRUISE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1f34de6bab4b32253&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=265614&clt=TM&from=api&nt=true",
+        "price": "$21.86",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": "Seine River Cruise with 100% Electric Boat with Snack Options",
+        "product_code": "5636CRUISE",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/c3/7b/51.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

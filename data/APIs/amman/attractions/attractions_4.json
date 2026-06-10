@@ -1,0 +1,210 @@
+{
+  "location_id": "8094375",
+  "name": "Al Balad – Downtown Amman",
+  "latitude": "31.950285",
+  "longitude": "35.934654",
+  "num_reviews": "508",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/cb/06/7b/downtown-amman.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/cb/06/7b/downtown-amman.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/cb/06/7b/downtown-amman.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/cb/06/7b/downtown-amman.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/cb/06/7b/downtown-amman.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-03-26T18:26:46-0400",
+    "caption": "Downtown Amman",
+    "id": "248186491",
+    "helpful_votes": "0",
+    "published_date": "2017-03-26T18:26:46-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.8317832946777344",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "6",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#6 of 118 things to do in Amman",
+  "subcategory_ranking": "#6 of 118 things to do in Amman",
+  "ranking": "#6 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d8094375-Reviews-Al_Balad_Downtown_Amman-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d8094375-Al_Balad_Downtown_Amman-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": null,
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": null
+  },
+  "address": "Amman Jordan",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "34",
+      "name": "Neighborhoods"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-walking-tour-in-Amman%2Fd5503-148807P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0040974fec2348037&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=8094375&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$19.99",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-walking-tour-in-Amman%2Fd5503-148807P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0040974fec2348037&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=8094375&clt=TM&from=api&nt=true",
+        "price": "$49.00",
+        "rounded_up_price": "$49",
+        "offer_type": "",
+        "title": "Amman Private Guided Walking Tour with a Local",
+        "product_code": "148807P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/19/83/97.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-Street-Food-and-Walking-Tour-Amman-Downtown%2Fd5503-107508P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=005626a4a5c8f4c2e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=8094375&clt=TM&from=api&nt=true",
+        "price": "$132.00",
+        "rounded_up_price": "$132",
+        "offer_type": "",
+        "title": "Downtown Amman Private Street Food Tour",
+        "product_code": "107508P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/8f/f2/f4.jpg",
+        "description": null,
+        "primary_category": "Bus & Minivan Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FDay-tours-from-Amman%2Fd5503-133160P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=359c5f5255c2f775b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=8094375&clt=TM&from=api&nt=true",
+        "price": "$59.99",
+        "rounded_up_price": "$60",
+        "offer_type": "",
+        "title": "Amman Private City Tour with Onboard Wi-Fi",
+        "product_code": "133160P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/08/4c/3b/90.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FCitadel-Amphitheatre-Rainbow-Street-Famous-mosques-ALL-in-Amman-Private-Tour%2Fd5503-223403P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=244fe0daf907f4a7e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=8094375&clt=TM&from=api&nt=true",
+        "price": "$59.99",
+        "rounded_up_price": "$60",
+        "offer_type": "",
+        "title": "Private Amman City Tour by Limousine",
+        "product_code": "223403P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f2/05/5f.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-4-Day-Trip-To-and-From-Amman%2Fd5503-39670P20%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=12cf41eeb6291ce0f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=8094375&clt=TM&from=api&nt=true",
+        "price": "$674.00",
+        "rounded_up_price": "$674",
+        "offer_type": "",
+        "title": "Private 4 Day Holiday Jordan in 3-Star Hotel",
+        "product_code": "39670P20",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/db/5a/39.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

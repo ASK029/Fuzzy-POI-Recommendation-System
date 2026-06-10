@@ -1,0 +1,249 @@
+{
+  "location_id": "320625",
+  "name": "The East Gardens of the Imperial Palace - Edo Castle Ruin",
+  "latitude": "35.68681",
+  "longitude": "139.75743",
+  "num_reviews": "2088",
+  "timezone": "Asia/Tokyo",
+  "location_string": "Chiyoda, Tokyo, Tokyo Prefecture, Kanto",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/f6/71/4b/img-20170226-124811-largejpg.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/f6/71/4b/img-20170226-124811-largejpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "3840",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/f6/71/4b/img-20170226-124811-largejpg.jpg",
+        "height": "2160"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/f6/71/4b/img-20170226-124811-largejpg.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/f6/71/4b/img-20170226-124811-largejpg.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-07-20T18:44:48-0400",
+    "caption": "",
+    "id": "267809099",
+    "helpful_votes": "4",
+    "published_date": "2017-07-20T18:44:48-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.japan.kanto.tokyo.chiyoda",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.736415386199951",
+  "ranking_geo": "Tokyo",
+  "ranking_geo_id": "298184",
+  "ranking_position": "73",
+  "ranking_denominator": "7418",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#73 of 7,418 things to do in Tokyo",
+  "subcategory_ranking": "#73 of 7,418 things to do in Tokyo",
+  "ranking": "#73 of 7,418 things to do in Tokyo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.2",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7278765",
+      "name": "Ginza / Tokyo Nihonbashi"
+    }
+  ],
+  "description": "These beautiful gardens are located outside of the Imperial Palace. Access to the gardens is open to the public although the palace itself is off limits.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g1066443-d320625-Reviews-The_East_Gardens_of_the_Imperial_Palace_Edo_Castle_Ruin-Chiyoda_Tokyo_Tokyo_Prefe.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1066443-d320625-The_East_Gardens_of_the_Imperial_Palace_Edo_Castle_Ruin-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Chiyoda",
+      "abbrv": null,
+      "location_id": "1066443"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Tokyo",
+      "abbrv": null,
+      "location_id": "298184"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Tokyo Prefecture",
+      "abbrv": null,
+      "location_id": "1023181"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kanto",
+      "abbrv": null,
+      "location_id": "298156"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Japan",
+      "abbrv": null,
+      "location_id": "294232"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Chiyoda",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+81 3-3213-1111",
+  "website": "http://www.kunaicho.go.jp/event/higashigyoen/higashigyoen.html",
+  "address_obj": {
+    "street1": "1-1 Chiyoda",
+    "street2": "",
+    "city": "Chiyoda",
+    "state": "Tokyo Prefecture",
+    "country": "Japan",
+    "postalcode": "100-0001"
+  },
+  "address": "1-1 Chiyoda, Chiyoda 100-0001 Tokyo Prefecture",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "58",
+      "name": "Gardens"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "6",
+      "name": "Castles"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FTokyo%2FPrivate-Tokyo-Tour-with-Government-Licensed-Guide-and-Vehicle%2Fd334-92136P54%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fa5d9d58c0a61e5a5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=320625&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.24",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FTokyo%2FPrivate-Tokyo-Tour-with-Government-Licensed-Guide-and-Vehicle%2Fd334-92136P54%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fa5d9d58c0a61e5a5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=320625&clt=TM&from=api&nt=true",
+        "price": "$523.30",
+        "rounded_up_price": "$524",
+        "offer_type": "",
+        "title": "Private Tokyo Sightseeing Tour by Car for Up to 15 People",
+        "product_code": "92136P54",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/f8/7d/16.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FTokyo%2FFree-Choice-of-Itineraries-Tokyo-Private-Walking-Tour%2Fd334-104654P64%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0b322ea29ac57d1d1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=320625&clt=TM&from=api&nt=true",
+        "price": "$129.53",
+        "rounded_up_price": "$130",
+        "offer_type": "",
+        "title": "Tokyo Private Customized City Tour",
+        "product_code": "104654P64",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/9a/f1/4a.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FTokyo%2FTokyo-Private-Chauffeur-Driving-Sightseeing-Tour-English-Speaking-Driver%2Fd334-88165P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=90b33d7d466e11ce0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=320625&clt=TM&from=api&nt=true",
+        "price": "$457.89",
+        "rounded_up_price": "$458",
+        "offer_type": "",
+        "title": "Tokyo Private Full-Day Landmark Tour, by Car, Custom Itinerary",
+        "product_code": "88165P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/0e/b9/79.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FTokyo%2FTokyo-Full-Day-Japanese-Garden-and-Museum-Tour-by-Licensed-Tour-Guide%2Fd334-230272P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bd916944adeebf3ee&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=320625&clt=TM&from=api&nt=true",
+        "price": "$194.30",
+        "rounded_up_price": "$195",
+        "offer_type": "",
+        "title": "Private Full-Day City Tour: Culture, History, Cuisine of Tokyo",
+        "product_code": "230272P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/5b/ed/95.jpg",
+        "description": null,
+        "primary_category": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FTokyo%2FPrivate-Tour-History-Art-and-Nature-at-the-Imperial-Palace%2Fd334-85886P68%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4fdefe5414b791f81&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=320625&clt=TM&from=api&nt=true",
+        "price": "$89.05",
+        "rounded_up_price": "$90",
+        "offer_type": "",
+        "title": "Private Tour - History, Art and Nature at the Imperial Palace",
+        "product_code": "85886P68",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/16/38/0e.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

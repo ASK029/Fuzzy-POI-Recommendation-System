@@ -1,0 +1,217 @@
+{
+  "location_id": "10218656",
+  "name": "Graham's Kitchen",
+  "latitude": "52.356667",
+  "longitude": "4.902593",
+  "num_reviews": "941",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/aa/08/a1/1.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/aa/08/a1/1.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "640",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/aa/08/a1/1.jpg",
+        "height": "640"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/1a/aa/08/a1/1.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/aa/08/a1/1.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2020-01-21T03:27:08-0500",
+    "caption": "1",
+    "id": "447350945",
+    "helpful_votes": "5",
+    "published_date": "2020-01-21T03:27:08-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.84874153137207",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "3",
+  "ranking_denominator": "4095",
+  "ranking_category": "restaurant",
+  "ranking": "#2 of 5,334 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "price": "$60 - $110",
+  "neighborhood_info": [
+    {
+      "location_id": "7852241",
+      "name": "De Pijp"
+    },
+    {
+      "location_id": "15620065",
+      "name": "Amsterdam South"
+    },
+    {
+      "location_id": "15620125",
+      "name": "Oude Pijp"
+    }
+  ],
+  "description": "Welcome to Graham's Kitchen, the best authentic casual fine dining restaurant located in the heart of Amsterdam, Netherlands. Our team is committed to providing you with an unforgettable experience of delicious food and outstanding service. We use flavours and techniques from around the world to create a seasonal Chef's tasting menu of harmonious dishes with exciting combinations.\n\nOur menu offers succulent seafood, mouthwatering meat selections, and vibrant vegetarian options to cater to every palate. We can accommodate most allergies and dietary restrictions, so please let us know when booking.\n\nAlong with our delicious dishes, we provide a warm, relaxed, and friendly atmosphere with attentive service, ensuring every guest feels like family. Whether it's a romantic dinner for two, a group celebration, or a private dining event, come and join us, and let Chef Graham and his team take you on a delightful journey of flavours and hospitality.\n\nI hope to see you soon! Graham",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g188590-d10218656-Reviews-Graham_s_Kitchen-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d10218656-Graham_s_Kitchen-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 364 2560",
+  "website": "http://www.grahamskitchen.amsterdam",
+  "email": "info@grahamskitchen.amsterdam",
+  "address_obj": {
+    "street1": "Hemonystraat 38",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1074 BS"
+  },
+  "address": "Hemonystraat 38, 1074 BS Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [],
+      [],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1290
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1290
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1290
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1290
+        }
+      ],
+      [
+        {
+          "open_time": 1080,
+          "close_time": 1290
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10669",
+      "name": "Contemporary"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

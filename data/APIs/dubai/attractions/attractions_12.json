@@ -1,0 +1,233 @@
+{
+  "location_id": "324481",
+  "name": "Dubai Creek",
+  "latitude": "25.239708",
+  "longitude": "55.330902",
+  "num_reviews": "9927",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/f7/e3/7b/dubai-creek.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/f7/e3/7b/dubai-creek.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/f7/e3/7b/dubai-creek.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/07/f7/e3/7b/dubai-creek.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/f7/e3/7b/dubai-creek.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-05-26T03:49:34-0400",
+    "caption": "A view of the creek on board an Abra",
+    "id": "133686139",
+    "helpful_votes": "112",
+    "published_date": "2015-05-26T17:23:17-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9218497276306152",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "56",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#56 of 682 things to do in Dubai",
+  "subcategory_ranking": "#56 of 682 things to do in Dubai",
+  "ranking": "#56 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620551",
+      "name": "Al Fahidi"
+    },
+    {
+      "location_id": "7282429",
+      "name": "The Creek"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620602",
+      "name": "Al Souk Al Kabir"
+    }
+  ],
+  "description": "Separating Deira and Bur Dubai, the creek is the city's historic commercial hub. Explore and cross the canal on a traditional abra boat ride.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d324481-Reviews-Dubai_Creek-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d324481-Dubai_Creek-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": null,
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": ""
+  },
+  "address": "Dubai United Arab Emirates",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "51",
+      "name": "Piers & Boardwalks"
+    },
+    {
+      "key": "162",
+      "name": "Bodies of Water"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Museum-Gold-Souk-and-Water-Taxi%2Fd828-19101P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9823890e7dc442fa6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=324481&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.99",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Museum-Gold-Souk-and-Water-Taxi%2Fd828-19101P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9823890e7dc442fa6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=324481&clt=TM&from=api&nt=true",
+        "price": "$45.00",
+        "rounded_up_price": "$45",
+        "offer_type": "",
+        "title": "Old Dubai Gold Souk and Water Taxi",
+        "product_code": "19101P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/31/db.jpg",
+        "description": null,
+        "primary_category": "City Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDinner-at-Dubai-Creek-Tours-and-Sightseeing-%2Fd828-13787P159%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a33080834a68496d9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=324481&clt=TM&from=api&nt=true",
+        "price": "$65.00",
+        "rounded_up_price": "$65",
+        "offer_type": "",
+        "title": "Dubai Canal Dhow Dinner Cruise with Private Transfers",
+        "product_code": "13787P159",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/93/61/5b.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-City-Half-Day-Tour-including-Hotel-Transfers%2Fd828-7758P5%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=12e781e0e6a56a849&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=324481&clt=TM&from=api&nt=true",
+        "price": "$43.00",
+        "rounded_up_price": "$43",
+        "offer_type": "",
+        "title": "Dubai City Half Day Tour including Hotel Transfers",
+        "product_code": "7758P5",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6c/49/da.jpg",
+        "description": null,
+        "primary_category": "Half-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FRustar-Dhow-Cruise-Dubai%2Fd828-7365P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4cd575d3d588b9038&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=324481&clt=TM&from=api&nt=true",
+        "price": "$50.00",
+        "rounded_up_price": "$50",
+        "offer_type": "",
+        "title": "5-Star Premium Dhowstar Dhow Cruise Dubai",
+        "product_code": "7365P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/3e/90.jpg",
+        "description": null,
+        "primary_category": "Dhow Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-City-Tour%2Fd828-31687P60%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2c8b278df2bbc0ec5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=324481&clt=TM&from=api&nt=true",
+        "price": "$35.00",
+        "rounded_up_price": "$35",
+        "offer_type": "",
+        "title": "Dubai City Tour - Old & Modern City Sightseeing Dubai - Transfer",
+        "product_code": "31687P60",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/67/53/d5.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

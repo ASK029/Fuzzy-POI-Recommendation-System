@@ -1,0 +1,213 @@
+{
+  "location_id": "1875301",
+  "name": "Schillerplatz",
+  "latitude": "48.77724",
+  "longitude": "9.17845",
+  "num_reviews": "215",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/9a/f3/0d/schillerplatz.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/9a/f3/0d/schillerplatz.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/9a/f3/0d/schillerplatz.jpg",
+        "height": "1125"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/9a/f3/0d/schillerplatz.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/9a/f3/0d/schillerplatz.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-06-18T04:51:56-0400",
+    "caption": "",
+    "id": "261813005",
+    "helpful_votes": "1",
+    "published_date": "2017-06-18T04:51:56-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.641004800796509",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "19",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#19 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#19 of 295 things to do in Stuttgart",
+  "ranking": "#19 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.2",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "20484599",
+      "name": "Rathaus"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d1875301-Reviews-Schillerplatz-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d1875301-Schillerplatz-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "http://www.stuttgart-tourist.de/a-schillerplatz-stuttgart",
+  "address_obj": {
+    "street1": "Schillerplatz Square",
+    "street2": "",
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70173"
+  },
+  "address": "Schillerplatz Square, 70173 Stuttgart, Baden-Wurttemberg Germany",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "70",
+      "name": "Parks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FHistorical-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f421cda3f6d3c84e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1875301&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.09",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FHistorical-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f421cda3f6d3c84e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+        "price": "$601.12",
+        "rounded_up_price": "$602",
+        "offer_type": "",
+        "title": "Stuttgart Private Walking Tour with a Local",
+        "product_code": "76654P34",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/67/ea.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FBest-of-Stuttgart-with-professional-guide%2Fd28716-89617P112%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=91cc7f86fc89207f2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+        "price": "$448.11",
+        "rounded_up_price": "$449",
+        "offer_type": "",
+        "title": "Stuttgart Highlights Private Guided Tour",
+        "product_code": "89617P112",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/d9/0c/9b.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-self-guided-historical-walking-tour%2Fd28716-5530694P33%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6e62012d81f7b706f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+        "price": "$7.64",
+        "rounded_up_price": "$8",
+        "offer_type": "",
+        "title": "Stuttgart Interactive City Tour",
+        "product_code": "5530694P33",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/55/1f/59.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-City-Exploration-Game-and-Tour-on-your-Phone%2Fd28716-462156P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d1ec28dbb07ff5281&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+        "price": "$8.73",
+        "rounded_up_price": "$9",
+        "offer_type": "",
+        "title": "Stuttgart Exploration Game and City Tour on your Phone",
+        "product_code": "462156P9",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/dc/5a/c0.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Scavenger-Hunt-and-Highlights-Self-Guided-Tour%2Fd28716-178424P232%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2435ff182eddc8951&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+        "price": "$8.73",
+        "rounded_up_price": "$9",
+        "offer_type": "",
+        "title": "Stuttgart Scavenger Hunt and Highlights Self-Guided Tour",
+        "product_code": "178424P232",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/30/bd/8c.jpg",
+        "description": null,
+        "primary_category": "Escape Games"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

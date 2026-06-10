@@ -1,0 +1,256 @@
+{
+  "location_id": "190541",
+  "name": "Kaiser Wilhelm Memorial Church",
+  "latitude": "52.504818",
+  "longitude": "13.335082",
+  "num_reviews": "4645",
+  "timezone": "Europe/Berlin",
+  "location_string": "Berlin",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/ec/10/6a/l-autel.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/ec/10/6a/l-autel.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/ec/10/6a/l-autel.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/12/ec/10/6a/l-autel.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/ec/10/6a/l-autel.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-05-12T05:20:30-0400",
+    "caption": "L'autel",
+    "id": "317460586",
+    "helpful_votes": "0",
+    "published_date": "2018-05-12T05:20:30-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.berlin",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9685869216918945",
+  "ranking_geo": "Berlin",
+  "ranking_geo_id": "187323",
+  "ranking_position": "36",
+  "ranking_denominator": "1922",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#36 of 1,922 things to do in Berlin",
+  "subcategory_ranking": "#36 of 1,922 things to do in Berlin",
+  "ranking": "#36 of 1,922 things to do in Berlin",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7281401",
+      "name": "Charlottenburg"
+    },
+    {
+      "location_id": "15620493",
+      "name": "Charlottenburg-Wilmersdorf (Borough)"
+    }
+  ],
+  "description": "The ruins of this famous landmark, damaged during World War II bombings, serve as a symbol of the destruction of war.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190541-Reviews-Kaiser_Wilhelm_Memorial_Church-Berlin.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187323-d190541-Kaiser_Wilhelm_Memorial_Church-Berlin.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Berlin",
+      "abbrv": null,
+      "location_id": "187323"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Berlin",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 173 14080448",
+  "website": "http://www.gedaechtniskirche-berlin.de/KWG/index.php",
+  "address_obj": {
+    "street1": "Breitscheidplatz",
+    "street2": null,
+    "city": "Berlin",
+    "state": null,
+    "country": "Germany",
+    "postalcode": "10789"
+  },
+  "address": "Breitscheidplatz, 10789 Berlin Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FAll-in-One-Berlin-Shore-Excursion-from-Warnemunde-and-Rostock-Port%2Fd488-63772P6%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e8ef702f4027de567&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190541&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.48",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FAll-in-One-Berlin-Shore-Excursion-from-Warnemunde-and-Rostock-Port%2Fd488-63772P6%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e8ef702f4027de567&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190541&clt=TM&from=api&nt=true",
+        "price": "$82.03",
+        "rounded_up_price": "$83",
+        "offer_type": "",
+        "title": "Warnemunde or Rostock Port to Berlin Full-Day Shore Excursion",
+        "product_code": "63772P6",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/52/6d/e9.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FPrivate-Custom-3-Hour-Tour-of-Berlin-by-Car%2Fd488-11633P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=226e921ec65b2aa7b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190541&clt=TM&from=api&nt=true",
+        "price": "$306.02",
+        "rounded_up_price": "$307",
+        "offer_type": "",
+        "title": "Berlin Private Customizable Car Tour",
+        "product_code": "11633P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/e6/e4.jpg",
+        "description": null,
+        "primary_category": "City Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FAll-in-One-Berlin-Shore-Excursion-the-only-one-including-WIFI-on-the-bus%2Fd488-63772P18%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=257452967b5451874&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190541&clt=TM&from=api&nt=true",
+        "price": "$64.48",
+        "rounded_up_price": "$65",
+        "offer_type": "",
+        "title": "Berlin Sightseeing Tour From Warnemunde or Rostock Port",
+        "product_code": "63772P18",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/6f/05/ba.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FThird-Reich-in-Berlin-Private-tour%2Fd488-89617P92%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4ad0381959cfe6a52&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190541&clt=TM&from=api&nt=true",
+        "price": "$392.37",
+        "rounded_up_price": "$393",
+        "offer_type": "",
+        "title": "Third Reich in Berlin - Private tour",
+        "product_code": "89617P92",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/8c/c7/09.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRostock%2FSemi-Private-Berlin-Jewish-Heritage-Shore-Excursion-from-Warnemunde-and-Rostock%2Fd22778-63772P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=b34fb542549444eda&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190541&clt=TM&from=api&nt=true",
+        "price": "$656.86",
+        "rounded_up_price": "$657",
+        "offer_type": "",
+        "title": "Semi-Private Berlin - Jewish Heritage Shore Excursion from Warnemünde & Rostock",
+        "product_code": "63772P14",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/05/36.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

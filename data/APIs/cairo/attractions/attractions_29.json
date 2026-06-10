@@ -1,0 +1,206 @@
+{
+  "location_id": "552487",
+  "name": "Al Rifai Mosque",
+  "latitude": "30.033144",
+  "longitude": "31.257345",
+  "num_reviews": "180",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/1b/f9/20/photo6jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/1b/f9/20/photo6jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/1b/f9/20/photo6jpg.jpg",
+        "height": "1536"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/1b/f9/20/photo6jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/1b/f9/20/photo6jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-10-28T18:05:27-0400",
+    "caption": "",
+    "id": "287045920",
+    "helpful_votes": "1",
+    "published_date": "2017-10-28T18:05:27-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.686946392059326",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "22",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#22 of 316 things to do in Cairo",
+  "subcategory_ranking": "#22 of 316 things to do in Cairo",
+  "ranking": "#22 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d552487-Reviews-Al_Rifai_Mosque-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d552487-Al_Rifai_Mosque-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": ""
+  },
+  "address": "Cairo Egypt",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FFull-Day-Tour-Visiting-Coptic-and-Islamic-Cairo%2Fd782-17296P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=05a1b9e088fbc8924&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=552487&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.06",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FFull-Day-Tour-Visiting-Coptic-and-Islamic-Cairo%2Fd782-17296P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=05a1b9e088fbc8924&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=552487&clt=TM&from=api&nt=true",
+        "price": "$6.40",
+        "rounded_up_price": "$7",
+        "offer_type": "",
+        "title": "Full Day Tour Visiting Coptic and Islamic Cairo",
+        "product_code": "17296P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/d6/43/be.jpg",
+        "description": null,
+        "primary_category": "City Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FCairo-Day-Tour-Visiting-Coptic-Cairo-Abu-Serga-Church-Islamic-Citadel-and-Mosques-Lunch-Included%2Fd782-10726P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=5a101e1c45d98df2e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=552487&clt=TM&from=api&nt=true",
+        "price": "$6.40",
+        "rounded_up_price": "$7",
+        "offer_type": "",
+        "title": "Cairo: Abu Serga Church, Islamic Citadel, and Mosques Day Tour",
+        "product_code": "10726P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/7c/ba/30.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2F3-Days-Private-Guided-Cairo-Tour-Package%2Fd782-10726P51%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=b6031187386126c9e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=552487&clt=TM&from=api&nt=true",
+        "price": "$150.00",
+        "rounded_up_price": "$150",
+        "offer_type": "",
+        "title": "3 Days Private Guided Cairo Tour Package",
+        "product_code": "10726P51",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/a5/95/f6.jpg",
+        "description": null,
+        "primary_category": "Multi-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FGiza%2FPrivate-Full-Day-Sightseeing-Tour-of-Cairo%2Fd23032-8243P12%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0ebd0c24bb3b6bdb0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=552487&clt=TM&from=api&nt=true",
+        "price": "$45.76",
+        "rounded_up_price": "$46",
+        "offer_type": "",
+        "title": "Private Full Day Sightseeing Tour of Cairo",
+        "product_code": "8243P12",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/cf/d2.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2Fgiza-pyramids%2Fd782-72399P60%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=5d68abff466e40419&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=552487&clt=TM&from=api&nt=true",
+        "price": "$50.00",
+        "rounded_up_price": "$50",
+        "offer_type": "",
+        "title": "Islamic Cairo and Museum of Islamic Arts Private Tour",
+        "product_code": "72399P60",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/77/d0/83.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

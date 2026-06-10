@@ -1,0 +1,257 @@
+{
+  "location_id": "19284363",
+  "name": "The Yeti - Nepali & Indian Restaurant",
+  "latitude": "52.37616",
+  "longitude": "4.892259",
+  "num_reviews": "753",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/2e/51/c8/received-2771658246191625.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/2e/51/c8/received-2771658246191625.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "933",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/2e/51/c8/received-2771658246191625.jpg",
+        "height": "933"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/1a/2e/51/c8/received-2771658246191625.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/2e/51/c8/received-2771658246191625.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2019-12-01T10:06:53-0500",
+    "caption": "",
+    "id": "439243208",
+    "helpful_votes": "3",
+    "published_date": "2019-12-01T10:06:53-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.761046409606934",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "22",
+  "ranking_denominator": "4095",
+  "ranking_category": "restaurant",
+  "ranking": "#18 of 5,334 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$20 - $25",
+  "neighborhood_info": [
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "15620171",
+      "name": "Old Center"
+    },
+    {
+      "location_id": "15620085",
+      "name": "Burgwallen-Nieuwe Zijde"
+    }
+  ],
+  "description": "Located in the heart of Amsterdam at Spuistraat 54D, The Yeti Restaurant offers a delightful dining experience featuring authentic Nepali and Indian dishes. Our menu is crafted to deliver delicious and fresh flavors at a fair price. With a cozy and welcoming atmosphere, our professional and friendly service team, along with our experienced chef and cooks, are dedicated to providing you with an unforgettable dining experience. Whether you're a local or a visitor, we invite you to join us and savor the rich culinary traditions of Nepal and India.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g188590-d19284363-Reviews-The_Yeti_Nepali_Indian_Restaurant-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d19284363-The_Yeti_Nepali_Indian_Restaurant-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 624 0066",
+  "website": "http://www.theyeti.nl",
+  "email": "info@theyeti.nl",
+  "address_obj": {
+    "street1": "Spuistraat 54D",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1012 TV"
+  },
+  "address": "Spuistraat 54D, 1012 TV Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 960,
+          "close_time": 1380
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 960,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 960,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 960,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 960,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 960,
+          "close_time": 1380
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10346",
+      "name": "Indian"
+    },
+    {
+      "key": "10659",
+      "name": "Asian"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "10756",
+      "name": "Nepali"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "booking": {
+    "provider": "TheFork",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=171732846&geo=19284363&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=330855314&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2fuyWc_-qD3eaaR81qmV7Lo&cs=1394f652330ba023c0557cd059322bb84"
+  },
+  "reserve_info": {
+    "id": "19284363",
+    "provider": "TheFork",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/TheFork-Logo-2023.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=171732846&geo=19284363&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=330855314&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2fuyWc_-qD3eaaR81qmV7Lo&cs=1394f652330ba023c0557cd059322bb84",
+    "booking_partner_id": "6",
+    "racable": true,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

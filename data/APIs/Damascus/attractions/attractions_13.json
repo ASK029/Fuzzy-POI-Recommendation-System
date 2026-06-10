@@ -1,0 +1,130 @@
+{
+  "location_id": "324804",
+  "name": "Sayyida Ruqayya Mausoleum",
+  "num_reviews": "16",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+        "height": "683"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/b8/fd/5b/sayyida-ruqayya-mausoleum.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2010-12-01T11:05:09-0500",
+    "caption": "Sayyida Ruqayya Mausoleum",
+    "id": "28900699",
+    "helpful_votes": "19",
+    "published_date": "2010-12-05T08:25:49-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.825695276260376",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "15",
+  "ranking_denominator": "42",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#15 of 42 things to do in Damascus",
+  "subcategory_ranking": "#15 of 42 things to do in Damascus",
+  "ranking": "#15 of 42 things to do in Damascus",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324804-Reviews-Sayyida_Ruqayya_Mausoleum-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324804-Sayyida_Ruqayya_Mausoleum-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Old Town",
+    "street2": "",
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": ""
+  },
+  "address": "Old Town, Damascus Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    }
+  ]
+}

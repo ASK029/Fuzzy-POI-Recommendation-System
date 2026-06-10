@@ -1,0 +1,264 @@
+{
+  "location_id": "243381",
+  "name": "Mercedes-Benz Museum",
+  "latitude": "48.78837",
+  "longitude": "9.23415",
+  "num_reviews": "8462",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-09-15T16:19:08-0400",
+    "caption": "visão geral",
+    "id": "149942474",
+    "helpful_votes": "10",
+    "published_date": "2015-09-15T16:19:08-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.230875015258789",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "2",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#2 of 295 things to do in Stuttgart",
+  "ranking": "#2 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "The Museum celebrates the automobile invented by Carl Benz in 1886: it relates its history and tells its stories, bringing both alive by placing them in the context of technology, day-to-day life, social history and popular culture. More than 160 vehicles of all types are the main protagonists. They range from some of the oldest automobiles ever built to legendary racing cars and futuristic research vehicles. Together with other exhibits, they form the centrepiece of the permanent exhibition covering a total of 16,500 square metres in twelve rooms. This unparalleled world can be discovered on two tours that follow a 'Legend' and 'Collection' narrative.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d243381-Reviews-Mercedes_Benz_Museum-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d243381-Mercedes_Benz_Museum-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 711 1730000",
+  "website": "http://www.mercedes-benz.com/museum/",
+  "email": "classic@daimler.com",
+  "address_obj": {
+    "street1": "Mercedesstrasse 100",
+    "street2": null,
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70372"
+  },
+  "address": "Mercedesstrasse 100, 70372 Stuttgart, Baden-Wurttemberg Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHeidelberg%2FIndividual-tour-with-Mercedes-S-Class%2Fd24030-147797P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=15700dc2a21baf00b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=243381&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$1.92",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHeidelberg%2FIndividual-tour-with-Mercedes-S-Class%2Fd24030-147797P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=15700dc2a21baf00b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+        "price": "$327.88",
+        "rounded_up_price": "$328",
+        "offer_type": "",
+        "title": "On tour with a friend and his luxury van",
+        "product_code": "147797P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/45/49/9f.jpg",
+        "description": null,
+        "primary_category": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMunich%2FMYGUiDE-In-and-Around-BLACK-FOREST-Unique-and-Exclusive-3-Country-Tour-from-Munich%2Fd487-173111P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aab3198fb2640245f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+        "price": "$2,243.05",
+        "rounded_up_price": "$2,244",
+        "offer_type": "",
+        "title": "Black Forest: 3 Countries 4-Day Private Tour From Munich",
+        "product_code": "173111P13",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/d7/56/4f.jpg",
+        "description": null,
+        "primary_category": "Multi-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBaden-Wurttemberg%2FPrivate-Sightseeing-Flight-Around-Nottingham%2Fd25740-110321P51%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ad14bdd349629a4a1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+        "price": "$175.58",
+        "rounded_up_price": "$176",
+        "offer_type": "",
+        "title": "Private Sightseeing Flight around Stuttgart",
+        "product_code": "110321P51",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/d9/01/2d.jpg",
+        "description": null,
+        "primary_category": "Air Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Half-Day-City-Tour%2Fd28716-280895P459%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c516297a25ad5897a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+        "price": "$426.25",
+        "rounded_up_price": "$427",
+        "offer_type": "",
+        "title": "Stuttgart Half Day City Tour",
+        "product_code": "280895P459",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/73/b9/c1.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Full-Day-City-Tour-with-Free-Photography%2Fd28716-280895P458%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=577ff9877a4db075a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+        "price": "$825.17",
+        "rounded_up_price": "$826",
+        "offer_type": "",
+        "title": "Stuttgart Full Day City Tour with Free Photoshoot",
+        "product_code": "280895P458",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/73/b9/bf.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

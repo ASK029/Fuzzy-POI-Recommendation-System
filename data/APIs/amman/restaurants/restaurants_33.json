@@ -1,0 +1,237 @@
+{
+  "location_id": "7761403",
+  "name": "Chestnut Jabal Amman",
+  "latitude": "31.952087",
+  "longitude": "35.91331",
+  "num_reviews": "1316",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/04/1b/c5/getlstd-property-photo.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/04/1b/c5/getlstd-property-photo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "960",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/04/1b/c5/getlstd-property-photo.jpg",
+        "height": "540"
+      },
+      "large": {
+        "width": "960",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/04/1b/c5/getlstd-property-photo.jpg",
+        "height": "540"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/04/1b/c5/getlstd-property-photo.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2018-05-21T10:51:25-0400",
+    "caption": "getlstd_property_photo",
+    "id": "319036357",
+    "helpful_votes": "1",
+    "published_date": "2018-05-21T10:51:25-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.733791828155518",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "31",
+  "ranking_denominator": "925",
+  "ranking_category": "restaurant",
+  "ranking": "#30 of 1,102 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$10 - $20",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d7761403-Reviews-Chestnut_Jabal_Amman-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d7761403-Chestnut_Jabal_Amman-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 7 7500 0075",
+  "website": "http://www.chestnutpub.com/",
+  "email": "info@chestnutpub.com",
+  "address_obj": {
+    "street1": "Salma Bin Khalal Street",
+    "street2": null,
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": "11181"
+  },
+  "address": "Salma Bin Khalal Street, Amman 11181 Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 720,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "9908",
+      "name": "American"
+    },
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10670",
+      "name": "Pub"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

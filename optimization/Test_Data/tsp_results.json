@@ -1,0 +1,590 @@
+{
+  "results": [
+    {
+      "optimal_route": [
+        {
+          "place": "Moscow Metro",
+          "type": "Attraction (Sights & Landmarks, Transportation, Architectural Buildings, Mass Transportation Systems)",
+          "budget": 0,
+          "rating": 4.6,
+          "latitude": 55.755825,
+          "longitude": 37.6173
+        },
+        {
+          "place": "Aleksandrovskiy Sad",
+          "type": "Attraction (Nature & Parks, Gardens)",
+          "budget": 0,
+          "rating": 4.6,
+          "latitude": 55.75528,
+          "longitude": 37.61582
+        },
+        {
+          "place": "GUM",
+          "type": "Attraction (Shopping, Sights & Landmarks, Architectural Buildings, Department Stores)",
+          "budget": 0,
+          "rating": 4.4,
+          "latitude": 55.75444,
+          "longitude": 37.621056
+        },
+        {
+          "place": "New Tretyakov Gallery",
+          "type": "Attraction (Museums, Art Museums)",
+          "budget": 0,
+          "rating": 4.5,
+          "latitude": 55.73507,
+          "longitude": 37.606388
+        },
+        {
+          "place": "Gorky Central Park of Culture and Leisure",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "budget": 0,
+          "rating": 4.5,
+          "latitude": 55.728367,
+          "longitude": 37.60129
+        },
+        {
+          "place": "Danilovsky Market",
+          "type": "Attraction (Shopping, Flea & Street Markets)",
+          "budget": 0,
+          "rating": 4.3,
+          "latitude": 55.712082,
+          "longitude": 37.620792
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Kolomenskoye Historical and Architectural Museum and Reserve",
+          "type": "Attraction (Sights & Landmarks, Museums, Historic Sites, Specialty Museums)",
+          "budget": 0,
+          "rating": 4.7,
+          "latitude": 55.66015,
+          "longitude": 37.662205
+        },
+        {
+          "place": "Neskuchny Garden",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "budget": 0,
+          "rating": 4.7,
+          "latitude": 55.715656,
+          "longitude": 37.586414
+        },
+        {
+          "place": "Moscow-City",
+          "type": "Attraction (Sights & Landmarks, Points of Interest & Landmarks)",
+          "budget": 0,
+          "rating": 4.4,
+          "latitude": 55.74811,
+          "longitude": 37.53849
+        }
+      ],
+      "total_pois": 12
+    },
+    {
+      "optimized_itinerary": {
+        "Day1": {},
+        "Day2": {},
+        "Day3": {}
+      },
+      "optimal_route": [
+        {
+          "place": "Moscow Metro",
+          "type": "Attraction (Sights & Landmarks, Transportation, Architectural Buildings, Mass Transportation Systems)",
+          "budget": 0,
+          "rating": 4.6,
+          "latitude": 55.755825,
+          "longitude": 37.6173
+        },
+        {
+          "place": "Aleksandrovskiy Sad",
+          "type": "Attraction (Nature & Parks, Gardens)",
+          "budget": 0,
+          "rating": 4.6,
+          "latitude": 55.75528,
+          "longitude": 37.61582
+        },
+        {
+          "place": "GUM",
+          "type": "Attraction (Shopping, Sights & Landmarks, Architectural Buildings, Department Stores)",
+          "budget": 0,
+          "rating": 4.4,
+          "latitude": 55.75444,
+          "longitude": 37.621056
+        },
+        {
+          "place": "New Tretyakov Gallery",
+          "type": "Attraction (Museums, Art Museums)",
+          "budget": 0,
+          "rating": 4.5,
+          "latitude": 55.73507,
+          "longitude": 37.606388
+        },
+        {
+          "place": "Gorky Central Park of Culture and Leisure",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "budget": 0,
+          "rating": 4.5,
+          "latitude": 55.728367,
+          "longitude": 37.60129
+        },
+        {
+          "place": "Danilovsky Market",
+          "type": "Attraction (Shopping, Flea & Street Markets)",
+          "budget": 0,
+          "rating": 4.3,
+          "latitude": 55.712082,
+          "longitude": 37.620792
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Kolomenskoye Historical and Architectural Museum and Reserve",
+          "type": "Attraction (Sights & Landmarks, Museums, Historic Sites, Specialty Museums)",
+          "budget": 0,
+          "rating": 4.7,
+          "latitude": 55.66015,
+          "longitude": 37.662205
+        },
+        {
+          "place": "Neskuchny Garden",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "budget": 0,
+          "rating": 4.7,
+          "latitude": 55.715656,
+          "longitude": 37.586414
+        },
+        {
+          "place": "Moscow-City",
+          "type": "Attraction (Sights & Landmarks, Points of Interest & Landmarks)",
+          "budget": 0,
+          "rating": 4.4,
+          "latitude": 55.74811,
+          "longitude": 37.53849
+        }
+      ],
+      "total_pois": 12,
+      "itinerary_structure": {
+        "1": [
+          2,
+          2,
+          2
+        ],
+        "2": [
+          1,
+          2,
+          1
+        ],
+        "3": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "optimized_itinerary": {
+        "Day1": {},
+        "Day2": {},
+        "Day3": {}
+      },
+      "optimal_route": [
+        {
+          "place": "Moscow Metro",
+          "type": "Attraction (Sights & Landmarks, Transportation, Architectural Buildings, Mass Transportation Systems)",
+          "budget": 0,
+          "rating": 4.6,
+          "latitude": 55.755825,
+          "longitude": 37.6173
+        },
+        {
+          "place": "Aleksandrovskiy Sad",
+          "type": "Attraction (Nature & Parks, Gardens)",
+          "budget": 0,
+          "rating": 4.6,
+          "latitude": 55.75528,
+          "longitude": 37.61582
+        },
+        {
+          "place": "GUM",
+          "type": "Attraction (Shopping, Sights & Landmarks, Architectural Buildings, Department Stores)",
+          "budget": 0,
+          "rating": 4.4,
+          "latitude": 55.75444,
+          "longitude": 37.621056
+        },
+        {
+          "place": "New Tretyakov Gallery",
+          "type": "Attraction (Museums, Art Museums)",
+          "budget": 0,
+          "rating": 4.5,
+          "latitude": 55.73507,
+          "longitude": 37.606388
+        },
+        {
+          "place": "Gorky Central Park of Culture and Leisure",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "budget": 0,
+          "rating": 4.5,
+          "latitude": 55.728367,
+          "longitude": 37.60129
+        },
+        {
+          "place": "Danilovsky Market",
+          "type": "Attraction (Shopping, Flea & Street Markets)",
+          "budget": 0,
+          "rating": 4.3,
+          "latitude": 55.712082,
+          "longitude": 37.620792
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Kolomenskoye Historical and Architectural Museum and Reserve",
+          "type": "Attraction (Sights & Landmarks, Museums, Historic Sites, Specialty Museums)",
+          "budget": 0,
+          "rating": 4.7,
+          "latitude": 55.66015,
+          "longitude": 37.662205
+        },
+        {
+          "place": "Neskuchny Garden",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "budget": 0,
+          "rating": 4.7,
+          "latitude": 55.715656,
+          "longitude": 37.586414
+        },
+        {
+          "place": "Moscow-City",
+          "type": "Attraction (Sights & Landmarks, Points of Interest & Landmarks)",
+          "budget": 0,
+          "rating": 4.4,
+          "latitude": 55.74811,
+          "longitude": 37.53849
+        }
+      ],
+      "total_pois": 12,
+      "itinerary_structure": {
+        "1": [
+          2,
+          2,
+          2
+        ],
+        "2": [
+          1,
+          2,
+          1
+        ],
+        "3": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "optimized_itinerary": {
+        "Day1": {
+          "Morning": [
+            {
+              "place": "Moscow Metro",
+              "type": "Attraction (Sights & Landmarks, Transportation, Architectural Buildings, Mass Transportation Systems)",
+              "budget": 0,
+              "rating": 4.6,
+              "latitude": 55.755825,
+              "longitude": 37.6173
+            },
+            {
+              "place": "Aleksandrovskiy Sad",
+              "type": "Attraction (Nature & Parks, Gardens)",
+              "budget": 0,
+              "rating": 4.6,
+              "latitude": 55.75528,
+              "longitude": 37.61582
+            }
+          ],
+          "Afternoon": [
+            {
+              "place": "GUM",
+              "type": "Attraction (Shopping, Sights & Landmarks, Architectural Buildings, Department Stores)",
+              "budget": 0,
+              "rating": 4.4,
+              "latitude": 55.75444,
+              "longitude": 37.621056
+            },
+            {
+              "place": "New Tretyakov Gallery",
+              "type": "Attraction (Museums, Art Museums)",
+              "budget": 0,
+              "rating": 4.5,
+              "latitude": 55.73507,
+              "longitude": 37.606388
+            }
+          ],
+          "Evening": [
+            {
+              "place": "Gorky Central Park of Culture and Leisure",
+              "type": "Attraction (Nature & Parks, Parks)",
+              "budget": 0,
+              "rating": 4.5,
+              "latitude": 55.728367,
+              "longitude": 37.60129
+            },
+            {
+              "place": "Danilovsky Market",
+              "type": "Attraction (Shopping, Flea & Street Markets)",
+              "budget": 0,
+              "rating": 4.3,
+              "latitude": 55.712082,
+              "longitude": 37.620792
+            }
+          ]
+        },
+        "Day2": {
+          "Morning": [
+            {
+              "place": "Lyubov Pirogova",
+              "type": "Restaurant (Sit down)",
+              "budget": 150.0,
+              "rating": 4.8,
+              "latitude": 55.712,
+              "longitude": 37.6209
+            }
+          ],
+          "Afternoon": [
+            {
+              "place": "Lyubov Pirogova",
+              "type": "Restaurant (Sit down)",
+              "budget": 150.0,
+              "rating": 4.8,
+              "latitude": 55.712,
+              "longitude": 37.6209
+            },
+            {
+              "place": "Lyubov Pirogova",
+              "type": "Restaurant (Sit down)",
+              "budget": 150.0,
+              "rating": 4.8,
+              "latitude": 55.712,
+              "longitude": 37.6209
+            }
+          ],
+          "Evening": [
+            {
+              "place": "Kolomenskoye Historical and Architectural Museum and Reserve",
+              "type": "Attraction (Sights & Landmarks, Museums, Historic Sites, Specialty Museums)",
+              "budget": 0,
+              "rating": 4.7,
+              "latitude": 55.66015,
+              "longitude": 37.662205
+            }
+          ]
+        },
+        "Day3": {
+          "Morning": [
+            {
+              "place": "Neskuchny Garden",
+              "type": "Attraction (Nature & Parks, Parks)",
+              "budget": 0,
+              "rating": 4.7,
+              "latitude": 55.715656,
+              "longitude": 37.586414
+            }
+          ],
+          "Afternoon": [
+            {
+              "place": "Moscow-City",
+              "type": "Attraction (Sights & Landmarks, Points of Interest & Landmarks)",
+              "budget": 0,
+              "rating": 4.4,
+              "latitude": 55.74811,
+              "longitude": 37.53849
+            }
+          ],
+          "Evening": []
+        }
+      },
+      "optimal_route": [
+        {
+          "place": "Moscow Metro",
+          "type": "Attraction (Sights & Landmarks, Transportation, Architectural Buildings, Mass Transportation Systems)",
+          "budget": 0,
+          "rating": 4.6,
+          "latitude": 55.755825,
+          "longitude": 37.6173
+        },
+        {
+          "place": "Aleksandrovskiy Sad",
+          "type": "Attraction (Nature & Parks, Gardens)",
+          "budget": 0,
+          "rating": 4.6,
+          "latitude": 55.75528,
+          "longitude": 37.61582
+        },
+        {
+          "place": "GUM",
+          "type": "Attraction (Shopping, Sights & Landmarks, Architectural Buildings, Department Stores)",
+          "budget": 0,
+          "rating": 4.4,
+          "latitude": 55.75444,
+          "longitude": 37.621056
+        },
+        {
+          "place": "New Tretyakov Gallery",
+          "type": "Attraction (Museums, Art Museums)",
+          "budget": 0,
+          "rating": 4.5,
+          "latitude": 55.73507,
+          "longitude": 37.606388
+        },
+        {
+          "place": "Gorky Central Park of Culture and Leisure",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "budget": 0,
+          "rating": 4.5,
+          "latitude": 55.728367,
+          "longitude": 37.60129
+        },
+        {
+          "place": "Danilovsky Market",
+          "type": "Attraction (Shopping, Flea & Street Markets)",
+          "budget": 0,
+          "rating": 4.3,
+          "latitude": 55.712082,
+          "longitude": 37.620792
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "type": "Restaurant (Sit down)",
+          "budget": 150.0,
+          "rating": 4.8,
+          "latitude": 55.712,
+          "longitude": 37.6209
+        },
+        {
+          "place": "Kolomenskoye Historical and Architectural Museum and Reserve",
+          "type": "Attraction (Sights & Landmarks, Museums, Historic Sites, Specialty Museums)",
+          "budget": 0,
+          "rating": 4.7,
+          "latitude": 55.66015,
+          "longitude": 37.662205
+        },
+        {
+          "place": "Neskuchny Garden",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "budget": 0,
+          "rating": 4.7,
+          "latitude": 55.715656,
+          "longitude": 37.586414
+        },
+        {
+          "place": "Moscow-City",
+          "type": "Attraction (Sights & Landmarks, Points of Interest & Landmarks)",
+          "budget": 0,
+          "rating": 4.4,
+          "latitude": 55.74811,
+          "longitude": 37.53849
+        }
+      ],
+      "total_pois": 12,
+      "itinerary_structure": [
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          1,
+          1
+        ]
+      ]
+    }
+  ]
+}

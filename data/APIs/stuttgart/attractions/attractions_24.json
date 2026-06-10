@@ -1,0 +1,137 @@
+{
+  "location_id": "8820232",
+  "name": "Stuttgart Spring Festival",
+  "latitude": "48.79873",
+  "longitude": "9.215184",
+  "num_reviews": "70",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/10/70/37/spring-fest.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/10/70/37/spring-fest.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/10/70/37/spring-fest.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/10/70/37/spring-fest.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/10/70/37/spring-fest.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-04-23T10:49:00-0400",
+    "caption": "Spring Fest",
+    "id": "252735543",
+    "helpful_votes": "1",
+    "published_date": "2017-04-23T10:49:00-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.190582752227783",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "32",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#32 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#32 of 295 things to do in Stuttgart",
+  "ranking": "#32 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "It’s not a party until the mayor pops open his barrel of beer… at least that’s what they say in Stuttgart. Frühlingsfest is the festival of spring. For two weeks, in the Bad Cannstatt area of Stuttgart, the festival marks the start of the warmer months and new beginnings. What started as a celebration back in 1818 to mark the end of years of suffering hunger, today the festival is all about guzzling beer, riding the Ferris Wheel, and perusing the markets. An authentic German event, Frühlingsfest is full of family attractions and traditional markets, helping all those who attend to embrace the season of new life. ",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d8820232-Reviews-Stuttgart_Spring_Festival-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d8820232-Stuttgart_Spring_Festival-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "62",
+      "name": "Events"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 711 95543300",
+  "website": "http://stuttgarter-fruehlingsfest.de/de/home/",
+  "address_obj": {
+    "street1": "Mercedesstr. 50",
+    "street2": null,
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70372"
+  },
+  "address": "Mercedesstr. 50, 70372 Stuttgart, Baden-Wurttemberg Germany",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "285",
+      "name": "Food & Drink Festivals"
+    }
+  ]
+}

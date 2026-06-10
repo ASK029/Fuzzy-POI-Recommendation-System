@@ -1,0 +1,268 @@
+{
+  "itinerary": {
+    "Day1": {
+      "Morning": [
+        {
+          "place": "Welcome to Fabulous Las Vegas Sign",
+          "description": "Start your trip with a classic photo opportunity at the iconic 25-foot-tall sign marking the start of the famous Las Vegas Strip.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.3/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/0d/93/99/ee/photo6jpg.jpg",
+          "location": {
+            "lat": 36.082073,
+            "lon": -115.172775
+          }
+        },
+        {
+          "place": "The Las Vegas Strip",
+          "description": "Stroll down the most famous entertainment destination, marveling at the mega hotels and resorts. Keep an eye out for free spectacles like the dancing fountains of Bellagio.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.4/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/09/99/a8/2e/stars-of-the-strip.jpg",
+          "location": {
+            "lat": 36.112858,
+            "lon": -115.173
+          }
+        },
+        {
+          "place": "Alexxa's",
+          "description": "Enjoy a budget-friendly lunch with views, offering French-style cuisine and cocktails.",
+          "type": "Restaurant",
+          "expected_budget": "$20",
+          "rating": "4.3/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/2f/71/0f/5c/the-view-from-alexxa.jpg",
+          "location": {
+            "lat": 36.112244,
+            "lon": -115.17042
+          }
+        }
+      ],
+      "Afternoon": [
+        {
+          "place": "The Linq Promenade",
+          "description": "Explore this vibrant shopping, dining, and entertainment district at the center of the Las Vegas Strip, perfect for window shopping and people-watching.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.4/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/2e/f0/e0/d4/located-center-strip.jpg",
+          "location": {
+            "lat": 36.117783,
+            "lon": -115.17258
+          }
+        },
+        {
+          "place": "Fountains of Bellagio",
+          "description": "Witness the captivating water, music, and light show on the artificial lake in front of the Bellagio Resort. Shows run throughout the day.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.7/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/db/be/db/photo1jpg.jpg",
+          "location": {
+            "lat": 36.11212,
+            "lon": -115.174706
+          }
+        }
+      ],
+      "Evening": [
+        {
+          "place": "Fremont Street Experience",
+          "description": "Head downtown to experience the pedestrian mall with free concerts and the spectacular Viva Vision light and sound show on the world’s largest video screen.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.2/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/db/6f/80/see-the-world-s-biggest.jpg",
+          "location": {
+            "lat": 36.170727,
+            "lon": -115.14382
+          }
+        },
+        {
+          "place": "Casa Di Amore",
+          "description": "Enjoy dinner at this locally owned restaurant celebrating \"Las Vegas, the way it used to be!\" with live jazz and a superb ambiance.",
+          "type": "Restaurant",
+          "expected_budget": "$25",
+          "rating": "4.5/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/2f/59/6d/5d/our-beautiful-new-sign.jpg",
+          "location": {
+            "lat": 36.100136,
+            "lon": -115.112076
+          }
+        }
+      ]
+    },
+    "Day2": {
+      "Morning": [
+        {
+          "place": "EGGscellent",
+          "description": "Start your day with a delicious and affordable breakfast at this highly-rated restaurant.",
+          "type": "Restaurant",
+          "expected_budget": "$10",
+          "rating": "4.8/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/23/71/8c/d3/spicy-box.jpg",
+          "location": {
+            "lat": 36.13085,
+            "lon": -115.115364
+          }
+        },
+        {
+          "place": "Shelby American, Inc.",
+          "description": "Take a self-guided tour of the Shelby Heritage Center to see a wide variety of vehicles, from Cobras to Supersnakes.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.6/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/9e/55/f1/walk-through-the-life.jpg",
+          "location": {
+            "lat": 36.072174,
+            "lon": -115.179665
+          }
+        }
+      ],
+      "Afternoon": [
+        {
+          "place": "Red Rock Canyon National Conservation Area",
+          "description": "Escape the city for a few hours and admire colorful rock formations on several hiking trails or enjoy the scenic views.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.7/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/cc/87/df/red-rock-canyon-national.jpg",
+          "location": {
+            "lat": 36.1356,
+            "lon": -115.427
+          }
+        },
+        {
+          "place": "Omelet House",
+          "description": "Enjoy a hearty and well-regarded lunch at this local favorite known for its omelets.",
+          "type": "Restaurant",
+          "expected_budget": "$20",
+          "rating": "4.6/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/04/c6/32/95/omelet-house.jpg",
+          "location": {
+            "lat": 36.159775,
+            "lon": -115.17124
+          }
+        }
+      ],
+      "Evening": [
+        {
+          "place": "Casino at Bellagio",
+          "description": "Experience the lively atmosphere of one of Las Vegas's most famous casinos. You can walk around and soak in the ambiance without gambling.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.4/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/14/fb/5e/25/casino-with-lake-in-front.jpg",
+          "location": {
+            "lat": 36.113144,
+            "lon": -115.17655
+          }
+        },
+        {
+          "place": "Alexxa's",
+          "description": "Return to Alexxa's for a pleasant dinner with views of the Strip.",
+          "type": "Restaurant",
+          "expected_budget": "$30",
+          "rating": "4.3/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/2f/71/0f/5c/the-view-from-alexxa.jpg",
+          "location": {
+            "lat": 36.112244,
+            "lon": -115.17042
+          }
+        }
+      ]
+    },
+    "Day3": {
+      "Morning": [
+        {
+          "place": "EGGscellent",
+          "description": "Enjoy another budget-friendly breakfast to fuel up for the day.",
+          "type": "Restaurant",
+          "expected_budget": "$10",
+          "rating": "4.8/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/23/71/8c/d3/spicy-box.jpg",
+          "location": {
+            "lat": 36.13085,
+            "lon": -115.115364
+          }
+        },
+        {
+          "place": "Fashion Show Las Vegas",
+          "description": "Explore this large shopping, dining, and entertainment destination on the Strip, perfect for window shopping.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.3/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/7a/4e/d1/fashion-show-mall.jpg",
+          "location": {
+            "lat": 36.12764,
+            "lon": -115.17304
+          }
+        },
+        {
+          "place": "The Grand Canal Shoppes at The Venetian Resort",
+          "description": "Stroll through cobblestone walkways under an illuminated, painted-sky ceiling, exploring unique shops and the enchanting atmosphere.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.5/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/76/a5/a0/grand-canal-shoppes.jpg",
+          "location": {
+            "lat": 36.122715,
+            "lon": -115.16892
+          }
+        }
+      ],
+      "Afternoon": [
+        {
+          "place": "Hoover Dam Bypass",
+          "description": "Visit the 2,000-foot-long bridge for spectacular views of the Hoover Dam and the Colorado River canyon.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.5/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/06/9a/46/22/hoover-dam-bypass.jpg",
+          "location": {
+            "lat": 36.01248,
+            "lon": -114.74202
+          }
+        },
+        {
+          "place": "Omelet House",
+          "description": "Enjoy your final lunch in Las Vegas at the Omelet House.",
+          "type": "Restaurant",
+          "expected_budget": "$20",
+          "rating": "4.6/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/04/c6/32/95/omelet-house.jpg",
+          "location": {
+            "lat": 36.159775,
+            "lon": -115.17124
+          }
+        }
+      ],
+      "Evening": [
+        {
+          "place": "The Las Vegas Strip",
+          "description": "Take a final evening stroll down the Strip to see the city lights and catch the Fountains of Bellagio show at night.",
+          "type": "Attraction",
+          "expected_budget": "$0",
+          "rating": "4.4/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/09/99/a8/2e/stars-of-the-strip.jpg",
+          "location": {
+            "lat": 36.112858,
+            "lon": -115.173
+          }
+        },
+        {
+          "place": "Casa Di Amore",
+          "description": "Conclude your trip with a memorable dinner at Casa Di Amore, enjoying the classic Las Vegas ambiance.",
+          "type": "Restaurant",
+          "expected_budget": "$25",
+          "rating": "4.5/5",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/2f/59/6d/5d/our-beautiful-new-sign.jpg",
+          "location": {
+            "lat": 36.100136,
+            "lon": -115.112076
+          }
+        }
+      ]
+    }
+  }
+}

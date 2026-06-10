@@ -1,0 +1,248 @@
+{
+  "location_id": "191240",
+  "name": "Saint Germain des Pres Quarter",
+  "latitude": "48.854122",
+  "longitude": "2.333812",
+  "num_reviews": "6827",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/08/7d/dc/place-de-saint-germain.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/08/7d/dc/place-de-saint-germain.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/08/7d/dc/place-de-saint-germain.jpg",
+        "height": "679"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/08/7d/dc/place-de-saint-germain.jpg",
+        "height": "679"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/08/7d/dc/place-de-saint-germain.jpg",
+        "height": "364"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-06-04T09:56:09-0400",
+    "caption": "Place de Saint Germain des Prés et Eglise",
+    "id": "134774236",
+    "helpful_votes": "0",
+    "published_date": "2015-06-04T09:56:09-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.104891300201416",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "32",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#32 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#32 of 4,164 things to do in Paris",
+  "ranking": "#32 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Closed today",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7236766",
+      "name": "Saint-Germain-des-Pres"
+    },
+    {
+      "location_id": "15621634",
+      "name": "6th Arr. - Luxembourg"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d191240-Reviews-Saint_Germain_des_Pres_Quarter-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d191240-Saint_Germain_des_Pres_Quarter-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 45 61 11 46",
+  "website": "http://www.patrickroger.com",
+  "address_obj": {
+    "street1": "Place St-Germain-des-Pres",
+    "street2": "",
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75006"
+  },
+  "address": "Place St-Germain-des-Pres, 75006 Paris France",
+  "hours": {
+    "week_ranges": [
+      [],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "34",
+      "name": "Neighborhoods"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FChic-and-Classic-Saint-Germain-des-Pres-Walking-Tour%2Fd479-3234P43%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=195eb083c4cdf9405&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=191240&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$10.92",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FChic-and-Classic-Saint-Germain-des-Pres-Walking-Tour%2Fd479-3234P43%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=195eb083c4cdf9405&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=191240&clt=TM&from=api&nt=true",
+        "price": "$125.69",
+        "rounded_up_price": "$126",
+        "offer_type": "",
+        "title": "Paris: Saint-Germain-des-Prés Small-Group Walking Tour",
+        "product_code": "3234P43",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/c6/10/52.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FChocolate-tour%2Fd479-26729P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8321992573e97c811&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=191240&clt=TM&from=api&nt=true",
+        "price": "$108.20",
+        "rounded_up_price": "$109",
+        "offer_type": "",
+        "title": "Saint-Germain The Original Chocolate Tasting Tour with Pastries and Macaron",
+        "product_code": "26729P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/58/67.jpg",
+        "description": null,
+        "primary_category": "Chocolate Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-Charming-Nooks-and-Crannies-Bike-Tour%2Fd479-89271P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=27af22eab9edd2d71&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=191240&clt=TM&from=api&nt=true",
+        "price": "$45.90",
+        "rounded_up_price": "$46",
+        "offer_type": "",
+        "title": "Paris Charming Nooks and Crannies Small-Group Guided Bike Tour",
+        "product_code": "89271P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/35/ff/46.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-Chocolate-and-Pastry-Food-Tour%2Fd479-3234PCT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=509588b4cb7bc5f97&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=191240&clt=TM&from=api&nt=true",
+        "price": "$153.01",
+        "rounded_up_price": "$154",
+        "offer_type": "",
+        "title": "Paris French Sweets Tasting Tour with Pastries and Chocolates",
+        "product_code": "3234PCT",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/06/8b/e4.jpg",
+        "description": null,
+        "primary_category": "Chocolate Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-Shopping-Tour-Discount-Couture%2Fd479-3151COU%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f3c0b53aa150f295a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=191240&clt=TM&from=api&nt=true",
+        "price": "$153.01",
+        "rounded_up_price": "$154",
+        "offer_type": "",
+        "title": "Paris Shopping Tour: Discount Couture",
+        "product_code": "3151COU",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/d6/45/5c.jpg",
+        "description": null,
+        "primary_category": "Shopping Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

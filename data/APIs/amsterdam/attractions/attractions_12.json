@@ -1,0 +1,271 @@
+{
+  "location_id": "190585",
+  "name": "Our Lord in the Attic Museum Ons' Lieve Heer op Solder",
+  "latitude": "52.37515",
+  "longitude": "4.899453",
+  "num_reviews": "3693",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/01/57/84/museum-ons-lieve-heer.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/01/57/84/museum-ons-lieve-heer.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/01/57/84/museum-ons-lieve-heer.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/01/57/84/museum-ons-lieve-heer.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/01/57/84/museum-ons-lieve-heer.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-08-10T06:37:29-0400",
+    "caption": "Ⓒ Museum Ons' Lieve Heer op Solder",
+    "id": "704731012",
+    "helpful_votes": "0",
+    "published_date": "2023-08-10T06:37:29-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.399492263793945",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "9",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#9 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#9 of 1,200 things to do in Amsterdam",
+  "ranking": "#9 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "15620171",
+      "name": "Old Center"
+    },
+    {
+      "location_id": "7852237",
+      "name": "Red Light District (De Wallen)"
+    }
+  ],
+  "description": "Hidden in the heart of the city centre of Amsterdam is a small wonder: Our Lord in the Attic Museum. Visitors will be going on a journey in a unique well-preserved canal house from the 17th century. Narrow corridors and stairs lead to historically decorated living quarters, kitchens and bedsteads, ending in what is literally the highlight of the museum: a complete church in the attic.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d190585-Reviews-Our_Lord_in_the_Attic_Museum_Ons_Lieve_Heer_op_Solder-Amsterdam_North_Holland_Prov.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d190585-Our_Lord_in_the_Attic_Museum_Ons_Lieve_Heer_op_Solder-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 624 6604",
+  "website": "http://www.opsolder.nl",
+  "email": "info@opsolder.nl",
+  "address_obj": {
+    "street1": "Oudezijds Voorburgwal 38-40",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1012 GD"
+  },
+  "address": "Oudezijds Voorburgwal 38-40, 1012 GD Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAbsolutely-Amsterdam-Tour%2Fd525-152260P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9686e210309d82ace&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190585&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.05",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAbsolutely-Amsterdam-Tour%2Fd525-152260P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9686e210309d82ace&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190585&clt=TM&from=api&nt=true",
+        "price": "$5.46",
+        "rounded_up_price": "$6",
+        "offer_type": "",
+        "title": "Amsterdam Highlights Small-Group Walking Tour",
+        "product_code": "152260P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/6e/ce/a8.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FOne-hour-canal-cruise-and-all-drinks-included-The-best-way-to-explore-Amsterdam%2Fd525-56080P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a17b8591d0ee69ace&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190585&clt=TM&from=api&nt=true",
+        "price": "$24.59",
+        "rounded_up_price": "$25",
+        "offer_type": "",
+        "title": "Amsterdam Sightseeing Canal Cruise with Unlimited Drinks",
+        "product_code": "56080P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/c1/59/6c.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Highlights-and-Hidden-Gems-With-a-Local%2Fd525-24380P59%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7cd59bea2b6253648&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190585&clt=TM&from=api&nt=true",
+        "price": "$136.62",
+        "rounded_up_price": "$137",
+        "offer_type": "",
+        "title": "Amsterdam Highlights & Secrets Private Bike or Walking Tour",
+        "product_code": "24380P59",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/8a/04/a8.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FCaptain-Jacks-Amazing-Canal-Tour%2Fd525-176051P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=78a295ec9600b639a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190585&clt=TM&from=api&nt=true",
+        "price": "$43.66",
+        "rounded_up_price": "$44",
+        "offer_type": "",
+        "title": "Amsterdam All-Inclusive 90-Minutes Canal Cruise by Captain Jack ",
+        "product_code": "176051P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/7c/59/59.jpg",
+        "description": null,
+        "primary_category": "Luxury Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Quest-Medusas-Lost-Diamonds-City-Exploration-Game%2Fd525-107194P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e5aad47ac28ca6a12&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190585&clt=TM&from=api&nt=true",
+        "price": "$10.92",
+        "rounded_up_price": "$11",
+        "offer_type": "",
+        "title": "Amsterdam Scavenger Hunt Game",
+        "product_code": "107194P14",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ef/1a/9b.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

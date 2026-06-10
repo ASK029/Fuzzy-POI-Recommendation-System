@@ -1,0 +1,207 @@
+{
+  "location_id": "300345",
+  "name": "Kolomenskoye Historical and Architectural Museum and Reserve",
+  "latitude": "55.66015",
+  "longitude": "37.662205",
+  "num_reviews": "2678",
+  "timezone": "Europe/Moscow",
+  "location_string": "Moscow, Central Russia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/14/71/ab/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/14/71/ab/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/14/71/ab/caption.jpg",
+        "height": "1368"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0b/14/71/ab/caption.jpg",
+        "height": "684"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/14/71/ab/caption.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-05-01T16:43:29-0400",
+    "caption": "Коломенское",
+    "id": "185889195",
+    "helpful_votes": "7",
+    "published_date": "2016-05-01T16:43:29-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.russia.moscow",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.1421732902526855",
+  "ranking_geo": "Moscow",
+  "ranking_geo_id": "298484",
+  "ranking_position": "23",
+  "ranking_denominator": "5498",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#23 of 5,498 things to do in Moscow",
+  "subcategory_ranking": "#23 of 5,498 things to do in Moscow",
+  "ranking": "#23 of 5,498 things to do in Moscow",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621326",
+      "name": "Kolomenskoe"
+    },
+    {
+      "location_id": "15621183",
+      "name": "District Southern (YuAO)"
+    },
+    {
+      "location_id": "15621192",
+      "name": "Nagatinskiy Zaton"
+    }
+  ],
+  "description": "This former village and archaeological site housed summer residences of the grand dukes of Moscow, and later of the tsars, and is now a museum and reserve.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g298484-d300345-Reviews-Kolomenskoye_Historical_and_Architectural_Museum_and_Reserve-Moscow_Central_Russia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298484-d300345-Kolomenskoye_Historical_and_Architectural_Museum_and_Reserve-Moscow_Central_Russia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Moscow",
+      "abbrv": null,
+      "location_id": "298484"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Central Russia",
+      "abbrv": null,
+      "location_id": "298479"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Russia",
+      "abbrv": null,
+      "location_id": "294459"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Moscow",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+7 499 615-27-68",
+  "website": "http://www.mgomz.ru/",
+  "address_obj": {
+    "street1": "Andropova Ave., 39",
+    "street2": null,
+    "city": "Moscow",
+    "state": null,
+    "country": "Russia",
+    "postalcode": "115487"
+  },
+  "address": "Andropova Ave., 39, Moscow 115487 Russia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1140
+        }
+      ]
+    ],
+    "timezone": "Europe/Moscow"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "location_id": "4167584",
+  "name": "Chinoix Restaurant",
+  "latitude": "30.074663",
+  "longitude": "31.439358",
+  "num_reviews": "559",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/69/12/02/chinoix-chinese-restaurant.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/69/12/02/chinoix-chinese-restaurant.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/69/12/02/chinoix-chinese-restaurant.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/29/69/12/02/chinoix-chinese-restaurant.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/69/12/02/chinoix-chinese-restaurant.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-06-07T10:10:51-0400",
+    "caption": "Chinoix Chinese Restaurant ",
+    "id": "694751746",
+    "helpful_votes": "0",
+    "published_date": "2023-06-07T10:10:51-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.857968330383301",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "27",
+  "ranking_denominator": "1462",
+  "ranking_category": "restaurant",
+  "ranking": "#25 of 2,583 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "Experience Chinese culinary art in unique surroundings, one of the world’s best cuisines. Discover our signature dishes including Beijing Duck and Dim Sum.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294201-d4167584-Reviews-Chinoix_Restaurant-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d4167584-Chinoix_Restaurant-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 2 24063333",
+  "website": "https://www.morecravings.com/en/venues/chinoix-restaurant",
+  "address_obj": {
+    "street1": "Abbas Al Akkad Axis",
+    "street2": "Renaissance Cairo Mirage City Hotel",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "4732503"
+  },
+  "address": "Abbas Al Akkad Axis Renaissance Cairo Mirage City Hotel, Cairo 4732503 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 900,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 900,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 900,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 900,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 180,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 180,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 900,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5379",
+      "name": "Chinese"
+    },
+    {
+      "key": "10659",
+      "name": "Asian"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "booking": {
+    "provider": "OpenTable",
+    "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=237041189&geo=4167584&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324898756&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8W0Iiv2J7rrevsReBwwcePm5yUScnzTV-hIFPtAPnqMo&cs=18fc7e46210a3027dcceeeada3865ac71"
+  },
+  "reserve_info": {
+    "id": "4167584",
+    "provider": "OpenTable",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/OT_Logo_1000x232.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=237041189&geo=4167584&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324898756&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8W0Iiv2J7rrevsReBwwcePm5yUScnzTV-hIFPtAPnqMo&cs=18fc7e46210a3027dcceeeada3865ac71",
+    "booking_partner_id": "1",
+    "racable": false,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

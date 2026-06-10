@@ -1,0 +1,294 @@
+{
+  "location_id": "246171",
+  "name": "Basilica de Santa Maria del Mar",
+  "latitude": "41.383884",
+  "longitude": "2.182071",
+  "num_reviews": "14031",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/87/2a/9d/photo1jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/87/2a/9d/photo1jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "640",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/87/2a/9d/photo1jpg.jpg",
+        "height": "500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/87/2a/9d/photo1jpg.jpg",
+        "height": "430"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/87/2a/9d/photo1jpg.jpg",
+        "height": "195"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-11-04T10:40:01-0400",
+    "caption": "",
+    "id": "226962077",
+    "helpful_votes": "14",
+    "published_date": "2016-11-04T10:40:01-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.7912678718566895",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "4",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#4 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#4 of 1,549 things to do in Barcelona",
+  "ranking": "#4 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230966",
+      "name": "El Born / La Ribera"
+    },
+    {
+      "location_id": "21228685",
+      "name": "Sant Pere"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    },
+    {
+      "location_id": "15565882",
+      "name": "Sant Pere, Santa Caterina i la Ribera"
+    }
+  ],
+  "description": "A jewel of the La Ribera neighborhood, this is Barcelona's last remaining Catalan Gothic-style church, with majestic naves and beautiful stained glass windows.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d246171-Reviews-Basilica_de_Santa_Maria_del_Mar-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d246171-Basilica_de_Santa_Maria_del_Mar-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 933 10 23 90",
+  "website": "http://www.santamariadelmarbarcelona.org",
+  "email": "info@riostabarcelona.com",
+  "address_obj": {
+    "street1": "Placa Santa Maria, 1",
+    "street2": null,
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08003"
+  },
+  "address": "Placa Santa Maria, 1, 08003 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "175",
+      "name": "Churches & Cathedrals"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FOld-Town-and-Gothic-Quarter-Guided-Walking-Tour-in-Barcelona%2Fd562-9866P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=67640facb857d09d7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=246171&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FOld-Town-and-Gothic-Quarter-Guided-Walking-Tour-in-Barcelona%2Fd562-9866P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=67640facb857d09d7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=246171&clt=TM&from=api&nt=true",
+        "price": "$20.02",
+        "rounded_up_price": "$21",
+        "offer_type": "",
+        "title": "Barcelona Old Town and Gothic Quarter Guided Walking Tour",
+        "product_code": "9866P16",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/0f/fa/ca.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FHighlights-and-Hidden-Gems-Private-Tour-Barcelona%2Fd562-24380P322%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3a04a198f48b42c1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=246171&clt=TM&from=api&nt=true",
+        "price": "$97.27",
+        "rounded_up_price": "$98",
+        "offer_type": "",
+        "title": "Barcelona Highlights & Hidden Gems Private Tour with Local",
+        "product_code": "24380P322",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/fe/09/e5.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FTapas-and-Wine-Experience-in-Barcelona%2Fd562-16168P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=40169f54cbdb82584&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=246171&clt=TM&from=api&nt=true",
+        "price": "$103.83",
+        "rounded_up_price": "$104",
+        "offer_type": "",
+        "title": "Barcelona Tapas and Wine Experience Small-Group Walking Tour",
+        "product_code": "16168P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/f7/b9/be.jpg",
+        "description": null,
+        "primary_category": "Wine Tasting & Winery Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Ghost-Night-Walking-Tour%2Fd562-5574BCNGHOSTTOUR%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1ddfd16a26f0bc81d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=246171&clt=TM&from=api&nt=true",
+        "price": "$19.67",
+        "rounded_up_price": "$20",
+        "offer_type": "",
+        "title": "Ghost Night Walking Tour",
+        "product_code": "5574BCNGHOSTTOUR",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/8a/c8/3d.jpg",
+        "description": null,
+        "primary_category": "Night Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Highlights-Bike-Tour%2Fd562-118940P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7a6e1498cdf8983cd&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=246171&clt=TM&from=api&nt=true",
+        "price": "$34.97",
+        "rounded_up_price": "$35",
+        "offer_type": "",
+        "title": "Barcelona City Small-Group Guided Bike Tour",
+        "product_code": "118940P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/35/9e/a2.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

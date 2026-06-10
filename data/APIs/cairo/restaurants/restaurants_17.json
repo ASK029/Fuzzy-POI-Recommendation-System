@@ -1,0 +1,214 @@
+{
+  "location_id": "19655638",
+  "name": "Solis",
+  "latitude": "29.9607",
+  "longitude": "31.247927",
+  "num_reviews": "2056",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/43/d8/9b/solis-restaurant.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/43/d8/9b/solis-restaurant.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/43/d8/9b/solis-restaurant.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1a/43/d8/9b/solis-restaurant.jpg",
+        "height": "684"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/43/d8/9b/solis-restaurant.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2019-12-11T04:02:40-0500",
+    "caption": "Solis Restaurant",
+    "id": "440653979",
+    "helpful_votes": "11",
+    "published_date": "2019-12-11T04:02:40-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.902475833892822",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "15",
+  "ranking_denominator": "1462",
+  "ranking_category": "restaurant",
+  "ranking": "#15 of 2,583 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "Indulge in a distinctive impeccable dining experience at Solis where we combine the signature atmosphere of the Nile view with the exquisite and authentic flavors of our Mediterranean cuisine dishes.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294201-d19655638-Reviews-Solis-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d19655638-Solis-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 2 25260601",
+  "website": "https://www.ihg.com/holidayinn/hotels/us/en/cairo/crohi/hoteldetail/dining",
+  "address_obj": {
+    "street1": "Cornish El Nil",
+    "street2": "Holiday Inn Cairo Maadi",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11431"
+  },
+  "address": "Cornish El Nil Holiday Inn Cairo Maadi, Cairo 11431 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10649",
+      "name": "Mediterranean"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "21353",
+      "name": "Dining bars"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

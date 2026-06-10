@@ -1,0 +1,6880 @@
+[
+  {
+    "location_id": "8368378",
+    "name": "Jubran",
+    "latitude": "31.964329",
+    "longitude": "35.904785",
+    "num_reviews": "3118",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/2b/bd/30/c0/indoor-seating.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2b/bd/30/c0/indoor-seating.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/bd/30/c0/indoor-seating.jpg",
+          "height": "720"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/2b/bd/30/c0/indoor-seating.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2b/bd/30/c0/indoor-seating.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2024-03-29T08:19:26-0400",
+      "caption": "Indoor Seating",
+      "id": "733819072",
+      "helpful_votes": "6",
+      "published_date": "2024-03-29T08:19:26-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.950798988342285",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "1",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#1 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "instagram.com/jubranjo facebook.com/jubranjo Providing our guests with a comfortable, quality, and satisfying dining experience using local, seasonal ingredients in classic dishes, creating an environment where absolute guest satisfaction is our highest priority",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d8368378-Reviews-Jubran-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d8368378-Jubran-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 7712 3456",
+    "website": "https://www.facebook.com/JubranJo/",
+    "email": "we.care@jubran.com",
+    "address_obj": {
+      "street1": "Rafiq Hariri Ave",
+      "street2": "The Boulevard Abdali - Entrance 2",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11822"
+    },
+    "address": "Rafiq Hariri Ave The Boulevard Abdali - Entrance 2, Amman 11822 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 690,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1560
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10687",
+        "name": "Middle Eastern"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "9706146",
+    "name": "Lucca Steakhouse",
+    "latitude": "31.952692",
+    "longitude": "35.904884",
+    "num_reviews": "949",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/bb/0d/79/enjoy-delicious-dishes.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/bb/0d/79/enjoy-delicious-dishes.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/bb/0d/79/enjoy-delicious-dishes.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/bb/0d/79/enjoy-delicious-dishes.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/bb/0d/79/enjoy-delicious-dishes.jpg",
+          "height": "187"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-10-18T12:09:25-0400",
+      "caption": "Enjoy delicious dishes from our menu",
+      "id": "431689081",
+      "helpful_votes": "5",
+      "published_date": "2019-10-18T12:09:25-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.929544925689697",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "2",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#2 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d9706146-Reviews-Lucca_Steakhouse-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d9706146-Lucca_Steakhouse-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 463 3355",
+    "website": "http://www.facebook.com/LuccaSteakhouse/",
+    "address_obj": {
+      "street1": "Methqal Al Fayes Street 27",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": null
+    },
+    "address": "Methqal Al Fayes Street 27, Amman Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10345",
+        "name": "Steakhouse"
+      },
+      {
+        "key": "10651",
+        "name": "Barbecue"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "17595338",
+    "name": "High Garden Rooftop",
+    "latitude": "31.960186",
+    "longitude": "35.88844",
+    "num_reviews": "1595",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/38/a6/a5/could-afternoon-plans.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/38/a6/a5/could-afternoon-plans.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/38/a6/a5/could-afternoon-plans.jpg",
+          "height": "1280"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/26/38/a6/a5/could-afternoon-plans.jpg",
+          "height": "550"
+        },
+        "medium": {
+          "width": "450",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/38/a6/a5/could-afternoon-plans.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2022-09-30T08:02:32-0400",
+      "caption": "Could afternoon plans be any better?!\n\nEspecially when you are embraced by botanical surroundings, perched high under a starlit sky, indulging in swoon-worthy dishes and sipping a unique artisan sundowner with every breeze 🌬\n\nDon't you say yes to that? \n#skyhigh #highview #skyview #starlit #nights #afterwork #afternoontea #afternoonlunch #gardenrooftop #coffee #organicmatcha #sundowners #HighGardenRooftop",
+      "id": "641246885",
+      "helpful_votes": "9",
+      "published_date": "2022-09-30T08:02:32-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.922460556030273",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "3",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#3 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$2 - $21",
+    "description": "HIGH GARDEN Rooftop is the capital’s trendiest hot spot that serves a daily authentic Levantine and international breakfast & brunch, lunch and dinner menu. The Rooftop embraces a botanical garden theme to enjoy the early hours of the day with a stack of fruit-laden pancakes or well-balanced Eggs Benedict dish with a cup of coffee or a glass of bubbly. HIGH GARDEN Rooftop offers an array of beautifully crafted cocktails using natural and fresh ingredients, as well as comprehensive wine and beer lists that perfectly pair with the à la carte menu. Nestled between the 4th and 5th Circles in a unique setting and enviable views over the city’s most iconic towers and landmarks of the Al-Abdali project. HIGH GARDEN Rooftop is the go-to place whether you fancy a nice quiet meal during the day or looking for the HAPPENING place at night. ~ Happy Hour: daily 25% off from 9 am - 6 pm ~ Hungry Hour: daily 25% off from 2 pm - 6 pm DRESS CODE: Casual by day, chic and glamorous by night.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d17595338-Reviews-High_Garden_Rooftop-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d17595338-High_Garden_Rooftop-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 7777 4210",
+    "website": "http://www.facebook.com/HIGHGARDENROOFTOP/",
+    "email": "social@highgardenrooftop.com",
+    "address_obj": {
+      "street1": "Riad Al-Mufleh Street",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11181"
+    },
+    "address": "Riad Al-Mufleh Street, Amman 11181 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 540,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "9908",
+        "name": "American"
+      },
+      {
+        "key": "10643",
+        "name": "Seafood"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "25152486",
+    "name": "The Jordanian Kitchen",
+    "latitude": "31.952032",
+    "longitude": "35.928024",
+    "num_reviews": "285",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/99/b5/0f/caption.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/99/b5/0f/caption.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/99/b5/0f/caption.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/99/b5/0f/caption.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/2a/99/b5/0f/caption.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-10-16T10:56:46-0400",
+      "caption": "",
+      "id": "714716431",
+      "helpful_votes": "0",
+      "published_date": "2023-10-16T10:56:46-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.889529228210449",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "4",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#4 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "5.0",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "Join us at The Jordanian Kitchen for an immersive cultural culinary experience, where tourists and locals  cook alongside talented Jordanian chefs in the heart of downtown Amman.\nLearn the secrets of traditional Jordanian cuisine, passed down from local mothers, and savor the flavors of our rich cultural heritage. \n\nBook your spot for an unforgettable cooking experience with Chef Wafaa.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d25152486-Reviews-The_Jordanian_Kitchen-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d25152486-The_Jordanian_Kitchen-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 7051 1411",
+    "website": "https://www.facebook.com/profile.php?id=100087382098135",
+    "email": "thejordaniankitchen@gmail.com",
+    "address_obj": {
+      "street1": "Downtown Amman",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": null
+    },
+    "address": "Downtown Amman, Amman Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1425
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "11744",
+        "name": "Arabic"
+      },
+      {
+        "key": "10687",
+        "name": "Middle Eastern"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "293986",
+    "ad_position": "inline1",
+    "ad_size": "8X8",
+    "doubleclick_zone": "me.jordan.amman",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "detail": "0",
+    "page_type": "restaurants",
+    "mob_ptype": "app_restaurants"
+  },
+  {
+    "location_id": "8697095",
+    "name": "Sakeyat Addaraweesh",
+    "latitude": "31.956076",
+    "longitude": "35.930843",
+    "num_reviews": "435",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/4d/78/c1/caption.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/4d/78/c1/caption.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1920",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/4d/78/c1/caption.jpg",
+          "height": "1080"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0a/4d/78/c1/caption.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/4d/78/c1/caption.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-02-12T05:35:12-0500",
+      "caption": "مكان كتير حلو بعتبروا بيتي الثاني و اذا كنت من عيلة الساقية فعرف انك كتير محظوظ :)",
+      "id": "172849345",
+      "helpful_votes": "1",
+      "published_date": "2016-02-12T05:35:12-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.884776592254639",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "5",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#5 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$5 - $9",
+    "description": "Sakeyat Addaraweesh is a restaurant and café that feels like a second home. Nestled in the cultural, historical, and artistic district of Jabal Al-Lweibdeh, it offers a unique view of Jabal Al-Qal’a (Amman Citadel). The establishment is celebrated for its Eastern and international cuisine, as well as its genuine Arabic atmosphere and distinctive décor.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d8697095-Reviews-Sakeyat_Addaraweesh-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d8697095-Sakeyat_Addaraweesh-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "cafe",
+        "name": "Café"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 462 2555",
+    "website": "http://www.the-jafra.com",
+    "email": "sales@the-jafra.com",
+    "address_obj": {
+      "street1": "Nemr Al-Edwan Street",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11191"
+    },
+    "address": "Nemr Al-Edwan Street, Amman 11191 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 540,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "11744",
+        "name": "Arabic"
+      },
+      {
+        "key": "10649",
+        "name": "Mediterranean"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "11772898",
+    "name": "La Capitale Restaurant",
+    "latitude": "31.961773",
+    "longitude": "35.88116",
+    "num_reviews": "756",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/fb/ab/c2/la-capitale-by-night.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/fb/ab/c2/la-capitale-by-night.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1200",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/fb/ab/c2/la-capitale-by-night.jpg",
+          "height": "813"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/18/fb/ab/c2/la-capitale-by-night.jpg",
+          "height": "694"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/fb/ab/c2/la-capitale-by-night.jpg",
+          "height": "373"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-08-28T07:55:56-0400",
+      "caption": "La Capitale by night ",
+      "id": "419146690",
+      "helpful_votes": "4",
+      "published_date": "2019-08-28T07:55:56-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.880856513977051",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "6",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#6 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "description": "La Capitale at Four Seasons Hotel Amman offers updated French classics served in a traditional brasserie that provides a comfortable place for everyone to spend time at whether for a business lunch, dinner with family or friends or a drink at the bar",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d11772898-Reviews-La_Capitale_Restaurant-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d11772898-La_Capitale_Restaurant-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 550 5555",
+    "website": "https://www.fourseasons.com/amman/dining/restaurants/la-capitale/",
+    "email": "reservations.amm@fourseasons.com",
+    "address_obj": {
+      "street1": "Four Seasons Hotel Amman, 5th Circle, Al-kindi Street",
+      "street2": "Four Seasons Hotel Amman",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11118"
+    },
+    "address": "Four Seasons Hotel Amman, 5th Circle, Al-kindi Street Four Seasons Hotel Amman, Amman 11118 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "5086",
+        "name": "French"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "1181235",
+    "name": "Bourj Al Hamam",
+    "latitude": "31.953196",
+    "longitude": "35.91398",
+    "num_reviews": "2817",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/3e/95/ee/bourj-al-hamam-amman.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/3e/95/ee/bourj-al-hamam-amman.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/3e/95/ee/bourj-al-hamam-amman.jpg",
+          "height": "877"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/3e/95/ee/bourj-al-hamam-amman.jpg",
+          "height": "702"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/3e/95/ee/bourj-al-hamam-amman.jpg",
+          "height": "377"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-01-27T02:41:24-0500",
+      "caption": "Bourj Al Hamam Amman Indoor seating ",
+      "id": "373200366",
+      "helpful_votes": "10",
+      "published_date": "2019-01-27T02:41:24-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.876378059387207",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "7",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#7 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$15 - $30",
+    "description": "Nothing is as authentically Lebanese as Bourj Al Hamam, a restaurant known throughout the region for fine Lebanese cuisine. Starters including Goat’s Cheese Salad, Hummus and Muhammara, and Lamb’s Tongue Salad are too tempting to pass up, especially for those with a healthy appetite. Raw lamb dishes are favorites on the entrée list, but the house specialty is the Sea Bass with Oil and Lemon.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d1181235-Reviews-Bourj_Al_Hamam-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d1181235-Bourj_Al_Hamam-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 9888 8482",
+    "website": "https://www.ihg.com/intercontinental/hotels/gb/en/amman/ammha/hoteldetail/dining?qAdlt=1&qBrs=6c.hi.ex.rs.ic.cp.in.sb.cw.cv.ul.vn&qChld=0&qFRA=1&qGRM=0&qIta=99612192&qPSt=0&qRRSrt=",
+    "address_obj": {
+      "street1": "Islamic College Street",
+      "street2": "Lobby Floor, Intercontinental Amman",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11180"
+    },
+    "address": "Islamic College Street Lobby Floor, Intercontinental Amman, Amman 11180 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10626",
+        "name": "Lebanese"
+      },
+      {
+        "key": "10649",
+        "name": "Mediterranean"
+      },
+      {
+        "key": "10651",
+        "name": "Barbecue"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10687",
+        "name": "Middle Eastern"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "13083636",
+    "name": "Nur Lebanese Dining",
+    "latitude": "31.959885",
+    "longitude": "35.881153",
+    "num_reviews": "1762",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/86/b1/e7/nur-main-seating-area.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/86/b1/e7/nur-main-seating-area.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/86/b1/e7/nur-main-seating-area.jpg",
+          "height": "825"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/15/86/b1/e7/nur-main-seating-area.jpg",
+          "height": "660"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/86/b1/e7/nur-main-seating-area.jpg",
+          "height": "354"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-11-27T05:16:29-0500",
+      "caption": "Nur Main Seating Area with dome ",
+      "id": "361148903",
+      "helpful_votes": "8",
+      "published_date": "2018-11-27T05:16:29-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.875853538513184",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "8",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#8 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "description": "Discover a true taste of Lebanon at Nur Lebanese Dining and indulge in a journey of flavors from Beirut to Amman. Daily live band (except Mondays).",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d13083636-Reviews-Nur_Lebanese_Dining-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d13083636-Nur_Lebanese_Dining-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 510 6000",
+    "website": "https://www.fairmont.com/amman/dining/nur-lebanese-dining/",
+    "email": "dining.amman@fairmont.com",
+    "address_obj": {
+      "street1": "6 Beirut Street, 5th Circle",
+      "street2": "Fairmont Amman",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11183"
+    },
+    "address": "6 Beirut Street, 5th Circle Fairmont Amman, Amman 11183 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10626",
+        "name": "Lebanese"
+      },
+      {
+        "key": "10649",
+        "name": "Mediterranean"
+      },
+      {
+        "key": "10687",
+        "name": "Middle Eastern"
+      },
+      {
+        "key": "11744",
+        "name": "Arabic"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "booking": {
+      "provider": "OpenTable",
+      "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232187326&geo=13083636&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8kfa8O5suroslHorREiiuF-Ihc7vgPSdNdOfu2VQRlp8&cs=13bbee2964e277d1045bf8c993f914627"
+    },
+    "reserve_info": {
+      "id": "13083636",
+      "provider": "OpenTable",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/OT_Logo_1000x232.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232187326&geo=13083636&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8kfa8O5suroslHorREiiuF-Ihc7vgPSdNdOfu2VQRlp8&cs=13bbee2964e277d1045bf8c993f914627",
+      "booking_partner_id": "1",
+      "racable": false,
+      "api_bookable": true,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Reserve",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "12902861",
+    "name": "Salt Steakhouse",
+    "latitude": "31.95987",
+    "longitude": "35.88136",
+    "num_reviews": "741",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/c5/fa/82/ambience.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/c5/fa/82/ambience.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/c5/fa/82/ambience.jpg",
+          "height": "1280"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/2a/c5/fa/82/ambience.jpg",
+          "height": "550"
+        },
+        "medium": {
+          "width": "450",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/c5/fa/82/ambience.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-11-08T08:54:48-0500",
+      "caption": "AMBIENCE",
+      "id": "717617794",
+      "helpful_votes": "0",
+      "published_date": "2023-11-08T08:54:48-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.873847961425781",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "9",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#9 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$1",
+    "description": "Inspired by the finest European grills, Salt brings the essence of fine cuts of meats to Amman with a world class dining experience. Savor carefully selected high quality meats prepared in-house by our master Chefs; complemented by wines from around the world.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d12902861-Reviews-Salt_Steakhouse-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d12902861-Salt_Steakhouse-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 510 6000",
+    "website": "https://www.fairmont.com/amman/dining/salt-steakhouse/",
+    "email": "dining.amman@fairmont.com",
+    "address_obj": {
+      "street1": "6 Beirut Street, 5th Circle",
+      "street2": "Fairmont Amman",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11183"
+    },
+    "address": "6 Beirut Street, 5th Circle Fairmont Amman, Amman 11183 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10345",
+        "name": "Steakhouse"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "booking": {
+      "provider": "OpenTable",
+      "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232200300&geo=12902861&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8lI26Hk3E_DEJYY9QcWbPQMJoOVBZo1TKWZI9xFjjTK4&cs=1ec1c54d2986cdcb7754a176f8ad6b3b1"
+    },
+    "reserve_info": {
+      "id": "12902861",
+      "provider": "OpenTable",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/OT_Logo_1000x232.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232200300&geo=12902861&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8lI26Hk3E_DEJYY9QcWbPQMJoOVBZo1TKWZI9xFjjTK4&cs=1ec1c54d2986cdcb7754a176f8ad6b3b1",
+      "booking_partner_id": "1",
+      "racable": false,
+      "api_bookable": true,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Reserve",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "8459711",
+    "name": "Rakwet Cafe",
+    "latitude": "31.956167",
+    "longitude": "35.927483",
+    "num_reviews": "239",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/2b/6d/1a/photo8jpg.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/2b/6d/1a/photo8jpg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2048",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/2b/6d/1a/photo8jpg.jpg",
+          "height": "1536"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/2b/6d/1a/photo8jpg.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/2b/6d/1a/photo8jpg.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-10-01T20:22:51-0400",
+      "caption": "",
+      "id": "220949786",
+      "helpful_votes": "1",
+      "published_date": "2016-10-01T20:22:51-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.8735551834106445",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "10",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#10 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d8459711-Reviews-Rakwet_Cafe-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d8459711-Rakwet_Cafe-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 461 1559",
+    "website": "https://www.facebook.com/RakwetArabCafe",
+    "email": "jafra_2011@hotmail.com",
+    "address_obj": {
+      "street1": "Jabal El waivers",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "123"
+    },
+    "address": "Jabal El waivers, Amman 123 Jordan",
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10687",
+        "name": "Middle Eastern"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "293986",
+    "ad_position": "inline2",
+    "ad_size": "8X8",
+    "doubleclick_zone": "me.jordan.amman",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "detail": "0",
+    "page_type": "restaurants",
+    "mob_ptype": "app_restaurants"
+  },
+  {
+    "location_id": "24127526",
+    "name": "Ambros Bistro",
+    "latitude": "31.961493",
+    "longitude": "35.88277",
+    "num_reviews": "160",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/1c/0d/b5/a-journey-through-the.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/1c/0d/b5/a-journey-through-the.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/24/1c/0d/b5/a-journey-through-the.jpg",
+          "height": "854"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/24/1c/0d/b5/a-journey-through-the.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/1c/0d/b5/a-journey-through-the.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2022-06-20T04:17:31-0400",
+      "caption": "A journey through the flavors of the seasons awaits you at Ambros. ",
+      "id": "605818293",
+      "helpful_votes": "0",
+      "published_date": "2022-06-20T04:17:31-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.870988845825195",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "11",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#11 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "5.0",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "description": "Savor the flavors of the seasons at Ambros Bistro, offering international classics and a selection of options to enjoy on the go. Our baker’s counter displays a selection of fresh bread, pastries, and cakes, baked to perfection.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d24127526-Reviews-Ambros_Bistro-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d24127526-Ambros_Bistro-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 550 0000",
+    "website": "http://ritzcarltonamman.com",
+    "address_obj": {
+      "street1": "Amirat Al-Shurayq St. 3",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11185"
+    },
+    "address": "Amirat Al-Shurayq St. 3, Amman 11185 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 720
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 720
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "7698440",
+    "name": "Il Terrazzo Restaurant",
+    "latitude": "31.973024",
+    "longitude": "35.90576",
+    "num_reviews": "320",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/c1/fa/85/friendly-and-attentive.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/c1/fa/85/friendly-and-attentive.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/c1/fa/85/friendly-and-attentive.jpg",
+          "height": "1280"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/2a/c1/fa/85/friendly-and-attentive.jpg",
+          "height": "550"
+        },
+        "medium": {
+          "width": "450",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/c1/fa/85/friendly-and-attentive.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-11-06T06:44:53-0500",
+      "caption": "Friendly and attentive team ensure you have a memorable dining experience.",
+      "id": "717355653",
+      "helpful_votes": "0",
+      "published_date": "2023-11-06T06:44:53-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.840765953063965",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "12",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#12 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "description": "Overlooking the outdoor pool with its terrace, Il Terrazzo features the simplicity of Italian cuisine in an inviting ambiance, complemented by the taste, texture, and aroma of the homemade Italian dishes cooked in a stove oven by experienced chefs. Our Neapolitane pizzas are made in our stone oven and brought directly to your table, ensuring an authentic and delightful dining experience. The service and hospitality at Il Terrazzo are very unique, coming straight from the heart. What's more, we offer a range of dining options to cater to all our guests' needs, including gluten-free options for those with dietary preferences or restrictions. It's not just a meal; it's an experience of Italian culinary excellence, served with seasonal ingredients to savor the freshest flavors.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d7698440-Reviews-Il_Terrazzo_Restaurant-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d7698440-Il_Terrazzo_Restaurant-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 7570 0184",
+    "website": "http://www.marriott.com/hotels/hotel-information/restaurant/ammjr-amman-marriott-hotel/",
+    "email": "amman@marriotthotels.com",
+    "address_obj": {
+      "street1": "Issam Ajluni Street",
+      "street2": "Amman Marriott Hotel",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11190"
+    },
+    "address": "Issam Ajluni Street Amman Marriott Hotel, Amman 11190 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 780,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "20066",
+        "name": "Tuscan"
+      },
+      {
+        "key": "20069",
+        "name": "Sicilian"
+      },
+      {
+        "key": "20075",
+        "name": "Central-Italian"
+      },
+      {
+        "key": "20076",
+        "name": "Southern-Italian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "15745414",
+    "name": "Eostrix Gastro Pub",
+    "latitude": "31.951843",
+    "longitude": "35.91353",
+    "num_reviews": "701",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/15/ee/8c/seafood-salad.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/15/ee/8c/seafood-salad.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "960",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/15/ee/8c/seafood-salad.jpg",
+          "height": "505"
+        },
+        "large": {
+          "width": "960",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/15/ee/8c/seafood-salad.jpg",
+          "height": "505"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/15/ee/8c/seafood-salad.jpg",
+          "height": "289"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2022-02-15T07:57:53-0500",
+      "caption": "Seafood salad",
+      "id": "571862668",
+      "helpful_votes": "1",
+      "published_date": "2022-02-15T07:57:53-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.834364414215088",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "13",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#13 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "5.0",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$15 - $35",
+    "description": "Here’s how you pronounce our name: Yo – Strix. Now memorize it, because you’ll be saying it quite often. We called ourselves after a lucky creature of the night; a breed of owls that are known to be a good luck charm in ancient civilizations. Eostrix was founded because we wanted to offer something different to the local scene, away from the standard bar menu and unified playlists across most nightlife spots. We wanted to create a food and beverage experience that was unique and pleasant. We are a gastropub that has a neighborhood cozy feel, serves mixologist signature drinks, cocktails and a unique fusion menu that puts fuel in gastro. A space designed to cater to groups and individuals in a bar stool or lounge seating, pick what makes you the most comfortable and kick back.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d15745414-Reviews-Eostrix_Gastro_Pub-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d15745414-Eostrix_Gastro_Pub-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 7711 4114",
+    "website": "http://www.eostrix.pub",
+    "email": "sm@eostrix.pub",
+    "address_obj": {
+      "street1": "Abu Salma Al-khelal Street",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11194"
+    },
+    "address": "Abu Salma Al-khelal Street, Amman 11194 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1500
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10670",
+        "name": "Pub"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "25105410",
+    "name": "Legends Sports Lounge",
+    "latitude": "31.959526",
+    "longitude": "35.88605",
+    "num_reviews": "99",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/9b/32/97/celebrate-the-all-time.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/9b/32/97/celebrate-the-all-time.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/9b/32/97/celebrate-the-all-time.jpg",
+          "height": "854"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/9b/32/97/celebrate-the-all-time.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/9b/32/97/celebrate-the-all-time.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-10-17T05:54:12-0400",
+      "caption": "Celebrate the all-time greats with a taste of California paired with a beer and an exceptional atmosphere featuring stadium-like screens, pool tables, F1 and golf simulators, and more. ",
+      "id": "714814103",
+      "helpful_votes": "0",
+      "published_date": "2023-10-17T05:54:12-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.832812309265137",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "14",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#14 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "The entertainment at Legends is game-changing, with a stadium-like screen, F1 pods, pool tables, golf simulators, and a DJ spinning top tracks. The menu features a curated selection of draft beers, signature cocktails, rare whiskeys, and chef-driven California-style cuisine.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d25105410-Reviews-Legends_Sports_Lounge-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d25105410-Legends_Sports_Lounge-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 550 0000",
+    "website": "http://www.legendsamman.com/",
+    "address_obj": {
+      "street1": "5th Circle, Kindi Street",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11185"
+    },
+    "address": "5th Circle, Kindi Street, Amman 11185 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 840,
+            "close_time": 1500
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "9908",
+        "name": "American"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10670",
+        "name": "Pub"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "21265730",
+    "name": "Pizza Nina",
+    "latitude": "31.947817",
+    "longitude": "35.865227",
+    "num_reviews": "285",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/55/d9/49/peperoni.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/55/d9/49/peperoni.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/55/d9/49/peperoni.jpg",
+          "height": "855"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/1c/55/d9/49/peperoni.jpg",
+          "height": "684"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/55/d9/49/peperoni.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-11-18T03:57:16-0500",
+      "caption": "Peperoni ",
+      "id": "475388233",
+      "helpful_votes": "3",
+      "published_date": "2020-11-18T03:57:16-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.815649032592773",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "16",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#15 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$3 - $15",
+    "description": "Pizza Nina is an artisan sourdough Sicilian pan pizzeria. Our fresh ingredients are hand picked and delivered daily to ensure the highest quality product. We serve one size pizza 30X30 CM that is good for 2-3 people.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d21265730-Reviews-Pizza_Nina-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d21265730-Pizza_Nina-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "fast_food",
+        "name": "Fast food"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 9099 9205",
+    "website": "https://www.facebook.com/pizzaninajo-110772557368640/?ref=page_internal&path=%2Fpizzaninajo-110772557368640%2F",
+    "email": "pizzanina.jo@gmail.com",
+    "address_obj": {
+      "street1": "Swefieh VIllage",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": null
+    },
+    "address": "Swefieh VIllage, Amman Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 660,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10641",
+        "name": "Pizza"
+      },
+      {
+        "key": "20069",
+        "name": "Sicilian"
+      },
+      {
+        "key": "20076",
+        "name": "Southern-Italian"
+      },
+      {
+        "key": "10646",
+        "name": "Fast Food"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "19830534",
+    "name": "The Lombard Amman",
+    "latitude": "31.956133",
+    "longitude": "35.909523",
+    "num_reviews": "248",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/cc/b3/ae/interior.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/cc/b3/ae/interior.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/cc/b3/ae/interior.jpg",
+          "height": "853"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/1c/cc/b3/ae/interior.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/cc/b3/ae/interior.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2021-03-30T06:06:18-0400",
+      "caption": "Interior ",
+      "id": "483177390",
+      "helpful_votes": "1",
+      "published_date": "2021-03-30T06:06:18-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.814002990722656",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "17",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#16 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "description": "The Lombard at The Grand Hyatt Amman A new dining experience right in the heart of Amman is now opened, serving you savoring Northern Italian cooking, sublime risottos and a modern perspective on historic recipes! At The Lombard, is where we bring Italy to you.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d19830534-Reviews-The_Lombard_Amman-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d19830534-The_Lombard_Amman-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 9100 1222",
+    "website": "https://www.hyatt.com/en-US/hotel/jordan/grand-hyatt-amman/ammgh/dining",
+    "email": "Thelombard.Amman@hyatt.com",
+    "address_obj": {
+      "street1": "Hussein Bin Ali Street",
+      "street2": "Grand Hyatt Amman",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11183"
+    },
+    "address": "Hussein Bin Ali Street Grand Hyatt Amman, Amman 11183 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "20066",
+        "name": "Tuscan"
+      },
+      {
+        "key": "20069",
+        "name": "Sicilian"
+      },
+      {
+        "key": "20070",
+        "name": "Lombard"
+      },
+      {
+        "key": "20074",
+        "name": "Northern-Italian"
+      },
+      {
+        "key": "20075",
+        "name": "Central-Italian"
+      },
+      {
+        "key": "20076",
+        "name": "Southern-Italian"
+      },
+      {
+        "key": "10668",
+        "name": "Grill"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "booking": {
+      "provider": "Servme",
+      "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Servme&src=204627759&geo=19830534&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=35874&bucket=919818&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=YyOngmNEqhxZ_JSWu9Ud5egjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZPdJQAEJb3quM7i0AqU-51KCBrLs805ahtnpoFqxycO8&cs=1e2f0fdb9ee9e2acb1c89dc045f5ea8fb"
+    },
+    "reserve_info": {
+      "id": "19830534",
+      "provider": "Servme",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/servme_11.06.2019.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Servme&src=204627759&geo=19830534&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=35874&bucket=919818&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=YyOngmNEqhxZ_JSWu9Ud5egjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZPdJQAEJb3quM7i0AqU-51KCBrLs805ahtnpoFqxycO8&cs=1e2f0fdb9ee9e2acb1c89dc045f5ea8fb",
+      "booking_partner_id": null,
+      "racable": false,
+      "api_bookable": false,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Reserve",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "293986",
+    "ad_position": "inline3",
+    "ad_size": "8X8",
+    "doubleclick_zone": "me.jordan.amman",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "detail": "0",
+    "page_type": "restaurants",
+    "mob_ptype": "app_restaurants"
+  },
+  {
+    "location_id": "12902876",
+    "name": "Crystal Lounge",
+    "latitude": "31.959906",
+    "longitude": "35.881283",
+    "num_reviews": "373",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/c5/f9/41/crystal.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/c5/f9/41/crystal.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/c5/f9/41/crystal.jpg",
+          "height": "854"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/c5/f9/41/crystal.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/c5/f9/41/crystal.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-11-08T08:50:37-0500",
+      "caption": "CRYSTAL",
+      "id": "717617473",
+      "helpful_votes": "0",
+      "published_date": "2023-11-08T08:50:37-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.801190376281738",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "18",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#17 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "5.0",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$1",
+    "description": "Crystal is a coffee lounge where the Fairmont signature afternoon tea experience comes to life; where the finest coffees and tea can be found alongside a signature selection of wines and champagnes. It reflects the best of London tea culture, with signature coffee drinks supported by an International pastry boutique offering the finest chocolates, cakes, pastries, sweetmeats and savory nibbles",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d12902876-Reviews-Crystal_Lounge-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d12902876-Crystal_Lounge-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 510 6000",
+    "website": "https://www.fairmont.com/amman/dining/crystal/",
+    "email": "dining.amman@fairmont.com",
+    "address_obj": {
+      "street1": "6 Beirut Street, 5th Circle",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11183"
+    },
+    "address": "6 Beirut Street, 5th Circle, Amman 11183 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 480,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10642",
+        "name": "Cafe"
+      },
+      {
+        "key": "10682",
+        "name": "Wine Bar"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "12902847",
+    "name": "Tsuki Asian",
+    "latitude": "31.959913",
+    "longitude": "35.881035",
+    "num_reviews": "614",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/30/55/12/open-kitchen.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/30/55/12/open-kitchen.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1200",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/30/55/12/open-kitchen.jpg",
+          "height": "1000"
+        },
+        "large": {
+          "width": "540",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/30/55/12/open-kitchen.jpg",
+          "height": "450"
+        },
+        "medium": {
+          "width": "246",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/30/55/12/open-kitchen.jpg",
+          "height": "205"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-10-29T04:13:05-0400",
+      "caption": "Open Kitchen ",
+      "id": "355489042",
+      "helpful_votes": "2",
+      "published_date": "2018-10-29T04:13:05-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.79563045501709",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "19",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#18 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$1",
+    "description": "Tsuki offers contemporary authentic Asian cooking, with an interactive journey of flavor with world-renowned chefs cooking the finest sushi and other native Asian dishes. From traditional, casual, to adventure-seeking diners, our exotic menu offers delicious Asian cuisine that is rich in flavor.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d12902847-Reviews-Tsuki_Asian-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d12902847-Tsuki_Asian-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 510 6000",
+    "website": "https://www.fairmont.com/amman/dining/tsuki-asian/",
+    "email": "dining.amman@fairmont.com",
+    "address_obj": {
+      "street1": "6 Beirut Street, 5th Circle",
+      "street2": "Fairmont Amman",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11183"
+    },
+    "address": "6 Beirut Street, 5th Circle Fairmont Amman, Amman 11183 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1410
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10659",
+        "name": "Asian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "booking": {
+      "provider": "OpenTable",
+      "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232177371&geo=12902847&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8jVCqHDaAYITHtBbc8HDYRDABiLJJs2tS-FTur-rMW0k&cs=126a2f72751412df88778ef92aac9f825"
+    },
+    "reserve_info": {
+      "id": "12902847",
+      "provider": "OpenTable",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/OT_Logo_1000x232.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232177371&geo=12902847&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8jVCqHDaAYITHtBbc8HDYRDABiLJJs2tS-FTur-rMW0k&cs=126a2f72751412df88778ef92aac9f825",
+      "booking_partner_id": "1",
+      "racable": false,
+      "api_bookable": true,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Reserve",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "14160968",
+    "name": "Mesh",
+    "latitude": "31.964142",
+    "longitude": "35.903095",
+    "num_reviews": "261",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/4b/fe/42/enter-mesh-to-eat-mix.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/4b/fe/42/enter-mesh-to-eat-mix.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/4b/fe/42/enter-mesh-to-eat-mix.jpg",
+          "height": "854"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/15/4b/fe/42/enter-mesh-to-eat-mix.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/4b/fe/42/enter-mesh-to-eat-mix.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-11-08T08:01:47-0500",
+      "caption": "Enter Mesh to eat, mix, and mingle.",
+      "id": "357301826",
+      "helpful_votes": "3",
+      "published_date": "2018-11-08T08:01:47-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.789613246917725",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "20",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#19 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$25 - $200",
+    "description": "You don't have to travel far to eat world-class Mediterranean food. Explore Mesh restaurant located in W Amman Hotel and enjoy unmistakably delicious international cuisine with a Levantine touch.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d14160968-Reviews-Mesh-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d14160968-Mesh-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 510 8888",
+    "website": "http://www.meshamman.com",
+    "email": "mesh@whotels.com",
+    "address_obj": {
+      "street1": "13 Rafiq Al Hariri Avenue",
+      "street2": "Building 13, Abdali Boulevard",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11190"
+    },
+    "address": "13 Rafiq Al Hariri Avenue Building 13, Abdali Boulevard, Amman 11190 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 750,
+            "close_time": 960
+          },
+          {
+            "open_time": 1140,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 750,
+            "close_time": 960
+          },
+          {
+            "open_time": 1140,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 750,
+            "close_time": 960
+          },
+          {
+            "open_time": 1140,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 750,
+            "close_time": 960
+          },
+          {
+            "open_time": 1140,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 750,
+            "close_time": 960
+          },
+          {
+            "open_time": 1140,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 750,
+            "close_time": 960
+          },
+          {
+            "open_time": 1140,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 390,
+            "close_time": 660
+          },
+          {
+            "open_time": 750,
+            "close_time": 960
+          },
+          {
+            "open_time": 1140,
+            "close_time": 1350
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10649",
+        "name": "Mediterranean"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "booking": {
+      "provider": "Eat2Eat",
+      "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Eat2Eat&src=134189705&geo=14160968&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=31269&bucket=881238&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=WJxhdAD0NEP3m8DXNGaiw4gHGI6XohGWmnawzF1b7bCTDjnUBBoEfljZwwVDYB3CNGi9I6nuBPmXmunT2F7Y2dwpZbwAJZWcfvXkgcpmEKc&cs=13425e102de7a4ebf7dbf2f193178d3b4"
+    },
+    "reserve_info": {
+      "id": "14160968",
+      "provider": "Eat2Eat",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/e2e_06.10.2021.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Eat2Eat&src=134189705&geo=14160968&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=31269&bucket=881238&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=WJxhdAD0NEP3m8DXNGaiw4gHGI6XohGWmnawzF1b7bCTDjnUBBoEfljZwwVDYB3CNGi9I6nuBPmXmunT2F7Y2dwpZbwAJZWcfvXkgcpmEKc&cs=13425e102de7a4ebf7dbf2f193178d3b4",
+      "booking_partner_id": null,
+      "racable": false,
+      "api_bookable": false,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Reserve",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "24021229",
+    "name": "Roberto’s Amman Restaurant and Lounge",
+    "latitude": "31.960817",
+    "longitude": "35.88239",
+    "num_reviews": "604",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/9d/96/7d/bar-entertainment.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/9d/96/7d/bar-entertainment.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/23/9d/96/7d/bar-entertainment.jpg",
+          "height": "854"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/23/9d/96/7d/bar-entertainment.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/9d/96/7d/bar-entertainment.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2022-05-30T04:16:16-0400",
+      "caption": "Bar & Entertainment",
+      "id": "597530237",
+      "helpful_votes": "3",
+      "published_date": "2022-05-30T04:16:16-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.785243988037109",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "21",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#20 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "description": "Having established a firm reputation in Dubai as one of the most prestigious fine-dining restaurants in the city, Roberto's has now embarked on a new journey in Amman. Situated on the 20th floor, Roberto's Amman offers 360 skyline views of the city while offering a unique approach to Italian fine dining by curating an experience that is authentic, thoughtful, and exhilarating. With a scenic dining setting, an eclectic mixology bar and lounge, Roberto's Amman looks forward to welcoming you.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d24021229-Reviews-Roberto_s_Amman_Restaurant_and_Lounge-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d24021229-Roberto_s_Amman_Restaurant_and_Lounge-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 550 1560",
+    "website": "http://robertosamman.com",
+    "email": "reservations@robertosamman.com",
+    "address_obj": {
+      "street1": "5th Circle, Al Kindi Street",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11892"
+    },
+    "address": "5th Circle, Al Kindi Street, Amman 11892 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "24965762",
+    "name": "Toscana Amman",
+    "latitude": "31.960655",
+    "longitude": "35.88039",
+    "num_reviews": "95",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/c7/6c/7f/the-restaurant-boasts.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/c7/6c/7f/the-restaurant-boasts.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/c7/6c/7f/the-restaurant-boasts.jpg",
+          "height": "883"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/c7/6c/7f/the-restaurant-boasts.jpg",
+          "height": "706"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/c7/6c/7f/the-restaurant-boasts.jpg",
+          "height": "379"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-11-09T05:05:50-0500",
+      "caption": "The restaurant boasts a charming ambiance that transports diners to the picturesque landscapes of Tuscany. With rustic decor, warm lighting, and a welcoming atmosphere, Toscana Amman creates an immersive dining experience that complements the delightful flavors of its cuisine.",
+      "id": "717712511",
+      "helpful_votes": "0",
+      "published_date": "2023-11-09T05:05:50-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.770752906799316",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "22",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#21 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "An exceptional home-dining Italian restaurant in the heart of Amman, Toscana offers rich flavors of Tuscany headed up by their top Chefs. Toscana blends comfort and simple dishes with the finest and seasonal ingredients in a great cozy atmosphere.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d24965762-Reviews-Toscana_Amman-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d24965762-Toscana_Amman-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 593 4111",
+    "website": "http://toscanaamman.com",
+    "email": "restaurant.reservations@sheraton.com",
+    "address_obj": {
+      "street1": "5th Circle Zahran Street, Amman",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11183"
+    },
+    "address": "5th Circle Zahran Street, Amman, Amman 11183 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "20066",
+        "name": "Tuscan"
+      },
+      {
+        "key": "20075",
+        "name": "Central-Italian"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "20062",
+        "name": "Neapolitan"
+      },
+      {
+        "key": "20064",
+        "name": "Campania"
+      },
+      {
+        "key": "20069",
+        "name": "Sicilian"
+      },
+      {
+        "key": "20072",
+        "name": "Sardinian"
+      },
+      {
+        "key": "20076",
+        "name": "Southern-Italian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "12438039",
+    "name": "Skyline Sushi",
+    "latitude": "31.960487",
+    "longitude": "35.90409",
+    "num_reviews": "405",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/b2/9c/9e/view.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/b2/9c/9e/view.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1200",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/29/b2/9c/9e/view.jpg",
+          "height": "628"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/29/b2/9c/9e/view.jpg",
+          "height": "536"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/b2/9c/9e/view.jpg",
+          "height": "288"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-07-09T03:45:44-0400",
+      "caption": "view",
+      "id": "699571358",
+      "helpful_votes": "2",
+      "published_date": "2023-07-09T03:45:44-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.766194820404053",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "23",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#22 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$20 - $30",
+    "description": "Located on the top floor of the Landmark Amman Hotel and recently voted the most romantic restaurant in Amman! We offer the most delicious made to order mouthwatering Sushi around! We are inspired by the Japanese legend of Senbazuru, that promises anyone who folds 1,000 origami cranes the chance to be granted a wish. So we teach our customers to fold origami cranes and for every 100 cranes folded, a child in need gets granted a wish. Become part of the legend! Fold a crane and help make a dream come true.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d12438039-Reviews-Skyline_Sushi-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d12438039-Skyline_Sushi-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 9833 1313",
+    "website": "http://www.skylinesushi.com",
+    "email": "skylinesushilounge@gmail.com",
+    "address_obj": {
+      "street1": "Al-Hussein Bin Ali Street",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11118"
+    },
+    "address": "Al-Hussein Bin Ali Street, Amman 11118 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10653",
+        "name": "Sushi"
+      },
+      {
+        "key": "5473",
+        "name": "Japanese"
+      },
+      {
+        "key": "10643",
+        "name": "Seafood"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "26497589",
+    "name": "Neos Sunset Rooftop",
+    "latitude": "31.961685",
+    "longitude": "35.89995",
+    "num_reviews": "79",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+          "height": "853"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-08-13T19:48:29-0400",
+      "caption": "Bamboo-inspired haven with an Indelible sunset dining experience.  Daily open 16:00 -1:00  #NéosSunsetRooftop\n\nAddress: 5th Floor, Boho Boutique Hotel, Jabal Amman, Amman,  Jordan",
+      "id": "705335100",
+      "helpful_votes": "0",
+      "published_date": "2023-08-13T19:48:29-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.765871047973633",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "24",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#23 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$5 - $23",
+    "description": "Step into the extraordinary world of Néos Sunset Rooftop, where the city bows to the setting sun. Perched in the heart of Amman with an awe-inspiring panoramic view of the cityscape, featuring an ambiance adorned with lush bamboo interiors, Néos will transport you to a world of paradisiacal experience as the sun gracefully paints the sky in vibrant hues, offering a front-row seat to nature's masterpiece—the mesmerizing sunset. Our epicurean chefs at Néos passionately curate a menu that blends the finest in modern gastronomy with the art of fusion cuisine from the Mediterranean and other timeless traditions from around the world. Our masterful mixologists embrace an infusion philosophy, creating beverage and wine menus that are lavishly ideal for celebrating life's milestones, savoring romantic evenings against a mesmerizing backdrop, or enjoying convivial hangouts with friends or colleagues. Experience the enchanting Néos Sunset Rooftop and embark on a culinary adventure.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d26497589-Reviews-Neos_Sunset_Rooftop-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d26497589-Neos_Sunset_Rooftop-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 7777 6442",
+    "website": "https://www.instagram.com/neosrooftop/",
+    "email": "sunset@neosrooftop.com",
+    "address_obj": {
+      "street1": "Shakib Abu Hamdan St.",
+      "street2": "Boho Boutique Hotel",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11152"
+    },
+    "address": "Shakib Abu Hamdan St. Boho Boutique Hotel, Amman 11152 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1500
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10671",
+        "name": "Fusion"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10669",
+        "name": "Contemporary"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "3952701",
+    "name": "Champions Tavern",
+    "latitude": "31.973406",
+    "longitude": "35.906555",
+    "num_reviews": "303",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/cd/49/e7/champions-sports-bar.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/cd/49/e7/champions-sports-bar.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/cd/49/e7/champions-sports-bar.jpg",
+          "height": "853"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/cd/49/e7/champions-sports-bar.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/cd/49/e7/champions-sports-bar.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-07-22T09:59:10-0400",
+      "caption": "Champions Tavern",
+      "id": "332220903",
+      "helpful_votes": "1",
+      "published_date": "2018-07-22T09:59:10-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.763604640960693",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "25",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#24 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$3 - $44",
+    "description": "Champions Tavern is your go-to spot for the ultimate blend of live sports thrills and laid-back American dining. Immerse yourself in the game on our multiple large screens while indulging in a menu that boasts the best burger in Amman. Our extensive drink selection spans local favorites to international delights, ensuring there's something for every palate. Join us for a family-friendly experience with non-smoking weekends until 5:00 pm. Make the most of sunny days on our inviting terrace during summer, or savor the views in the cozy ambiance during winter. Champions Tavern—where great food meets the excitement of the game!",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d3952701-Reviews-Champions_Tavern-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d3952701-Champions_Tavern-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 7570 0184",
+    "website": "http://www.ammanmarriott.com",
+    "email": "amman@marriotthotels.com",
+    "address_obj": {
+      "street1": "Amman Marriott Hotel, Shmeissani,",
+      "street2": "Issam Ajlouni Street",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": null
+    },
+    "address": "Amman Marriott Hotel, Shmeissani, Issam Ajlouni Street, Amman Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "9908",
+        "name": "American"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10670",
+        "name": "Pub"
+      },
+      {
+        "key": "21355",
+        "name": "Beer restaurants"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "3989474",
+    "name": "V Lounge & Restaurant",
+    "latitude": "31.961864",
+    "longitude": "35.87008",
+    "num_reviews": "257",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/a3/8b/01/steakhouses-in-amman.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/a3/8b/01/steakhouses-in-amman.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/a3/8b/01/steakhouses-in-amman.jpg",
+          "height": "1333"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/a3/8b/01/steakhouses-in-amman.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/a3/8b/01/steakhouses-in-amman.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-11-16T10:05:17-0500",
+      "caption": "Steakhouses in Amman don't come any better than this classy venue, famous for its gleaming bar.",
+      "id": "228821761",
+      "helpful_votes": "3",
+      "published_date": "2016-11-16T10:05:17-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.757974147796631",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "26",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#25 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "description": "Steakhouses in Amman don't come any better than this classy venue, famous for its gleaming mahogany bar and superb service. Decorated with striking modern art and rocking gently to live music noon till midnight, this is the perfect spot for a successful business lunch or a special supper with friends. Sink into a plush armchair and tell your server how you'd like your tender Aberdeen Angus steak. Or perhaps you'd prefer a plate of sticky spare ribs or a simple but delicious club sandwich?",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d3989474-Reviews-V_Lounge_Restaurant-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d3989474-V_Lounge_Restaurant-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 551 0001",
+    "website": "https://www.ihg.com/crowneplaza/hotels/us/en/amman/ammhb/hoteldetail/dining#",
+    "email": "fb.cpamman@ihg.com",
+    "address_obj": {
+      "street1": "King Faisal Bin AbdulAziz Street, 6th Circle",
+      "street2": "Crowne Plaza Hotel Amman",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11195"
+    },
+    "address": "King Faisal Bin AbdulAziz Street, 6th Circle Crowne Plaza Hotel Amman, Amman 11195 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10345",
+        "name": "Steakhouse"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "17851309",
+    "name": "Tamara",
+    "latitude": "31.957542",
+    "longitude": "35.877975",
+    "num_reviews": "330",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/d8/78/f7/photo0jpg.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/d8/78/f7/photo0jpg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "750",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/d8/78/f7/photo0jpg.jpg",
+          "height": "750"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/1a/d8/78/f7/photo0jpg.jpg",
+          "height": "550"
+        },
+        "medium": {
+          "width": "450",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/d8/78/f7/photo0jpg.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-02-09T14:09:47-0500",
+      "caption": "",
+      "id": "450394359",
+      "helpful_votes": "1",
+      "published_date": "2020-02-09T14:09:47-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.751619815826416",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "27",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#26 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$20 - $70",
+    "description": "Tamara, the Goddess of rivers and water, offers a chic palatial ambience with extensive use of intensive contrasting colors decorated with artifacts and an array of cushions and light fixtures in all three areas it operates.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d17851309-Reviews-Tamara-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d17851309-Tamara-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 400 0500",
+    "website": "http://www.marriott.com/hotels/hotel-information/restaurant/ammxr-the-st-regis-amman/",
+    "email": "tamara.sr@stregis.com",
+    "address_obj": {
+      "street1": "Shafiq Al Hayek Street",
+      "street2": "5th Circle,",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11185"
+    },
+    "address": "Shafiq Al Hayek Street 5th Circle,, Amman 11185 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 750,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 750,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 750,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 750,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 750,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 750,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 750,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10687",
+        "name": "Middle Eastern"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "839334",
+    "name": "La Maison Verte",
+    "latitude": "31.96998",
+    "longitude": "35.897423",
+    "num_reviews": "296",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/01/b2/b5/main-dining-area.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/01/b2/b5/main-dining-area.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1125",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/01/b2/b5/main-dining-area.jpg",
+          "height": "739"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/26/01/b2/b5/main-dining-area.jpg",
+          "height": "673"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/01/b2/b5/main-dining-area.jpg",
+          "height": "361"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2022-09-21T03:51:18-0400",
+      "caption": "Main dining area",
+      "id": "637645493",
+      "helpful_votes": "0",
+      "published_date": "2022-09-21T03:51:18-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.7493696212768555",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "28",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#27 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$25 - $50",
+    "description": "Serving Amman’s finest French cuisine since 1992. La Maison Verte is a multi award winning French restaurant famously known for its Steak Frites with Café de Paris sauce, various steaks and seafood. La Maison Verte is the place to be for experiencing the exquisite taste of French cuisine in an elegant and vibrant atmosphere.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d839334-Reviews-La_Maison_Verte-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d839334-La_Maison_Verte-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 7808 0816",
+    "website": "http://www.lamaisonverterestaurant.com",
+    "address_obj": {
+      "street1": "59 Abdulhameed Badees Street, Shmeisani",
+      "street2": "",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": ""
+    },
+    "address": "59 Abdulhameed Badees Street, Shmeisani, Amman Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1410
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "5086",
+        "name": "French"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "16715278",
+    "name": "Buffalo Wings & Rings - 7th Circle",
+    "latitude": "31.954823",
+    "longitude": "35.854065",
+    "num_reviews": "202",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/16/60/a2/buffalo-wings-rings-7th.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/16/60/a2/buffalo-wings-rings-7th.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/19/16/60/a2/buffalo-wings-rings-7th.jpg",
+          "height": "1000"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/19/16/60/a2/buffalo-wings-rings-7th.jpg",
+          "height": "550"
+        },
+        "medium": {
+          "width": "450",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/16/60/a2/buffalo-wings-rings-7th.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-09-02T04:26:45-0400",
+      "caption": "Buffalo Wings & Rings - 7th Circle",
+      "id": "420896930",
+      "helpful_votes": "2",
+      "published_date": "2019-09-02T04:26:45-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.741252422332764",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "29",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#28 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$5 - $10",
+    "description": "We're a club-level sports restaurant experience where everyone is a VIP, worthy of the ultimate sports dining experience. With bright, inviting dining rooms, TVs on every wall, elevated fan experiences, chef-inspired recipes and of course our signature wings, Buffalo Wings & Rings is the ideal experience for socializing with friends & family over sports.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d16715278-Reviews-Buffalo_Wings_Rings_7th_Circle-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d16715278-Buffalo_Wings_Rings_7th_Circle-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 582 7572",
+    "website": "http://www.bwr-intl.com",
+    "email": "crm@buffalowingsandrings.jo",
+    "address_obj": {
+      "street1": "Al-Mawaddah Street",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": null
+    },
+    "address": "Al-Mawaddah Street, Amman Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "9908",
+        "name": "American"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "10085826",
+    "name": "Rodeo Grill",
+    "latitude": "31.965225",
+    "longitude": "35.901814",
+    "num_reviews": "523",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/22/db/07/interior.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/22/db/07/interior.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/22/db/07/interior.jpg",
+          "height": "1333"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/22/db/07/interior.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/22/db/07/interior.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2017-10-31T10:59:46-0400",
+      "caption": "interior ",
+      "id": "287496967",
+      "helpful_votes": "14",
+      "published_date": "2017-10-31T10:59:46-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.736118793487549",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "30",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#29 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$50 - $150",
+    "description": "A modern steakhouse creating a contemporary dining experience with global influences. Offering only the finest and freshest ingredients from prime grilled beef and roasts, all of which are cooked in our signature Josper wood-fired oven, giving a new meaning to “The Art of Steakmanship”. Complementing the culinary journey is our innovative beverage list offering a wide selection of hand crafted cocktails and an array of wines from our two walk-in cellars.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d10085826-Reviews-Rodeo_Grill-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d10085826-Rodeo_Grill-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 6 520 8888",
+    "website": "http://www.rotana.com/rotanahotelandresorts/jordan/amman/ammanrotana/dining",
+    "email": "amman.hotel@rotana.com",
+    "address_obj": {
+      "street1": "Black Iris Street",
+      "street2": "Al Abdali - Amman",
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11190"
+    },
+    "address": "Black Iris Street Al Abdali - Amman, Amman 11190 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1140,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1140,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1140,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1140,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1140,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1140,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1140,
+            "close_time": 1410
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10345",
+        "name": "Steakhouse"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "booking": {
+      "provider": "TableCheck",
+      "url": "https://www.tripadvisor.com/Commerce?p=Restaurant_TableCheck&src=256614467&geo=10085826&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=46221&bucket=985645&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ84ymXBKf3t2-47BvDdcRmFXJuLlTrXEnv1mz468qMtUs&cs=1389e456156454fae2e71856b56a607c2"
+    },
+    "reserve_info": {
+      "id": "10085826",
+      "provider": "TableCheck",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/tablecheck_08.17.2022.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=Restaurant_TableCheck&src=256614467&geo=10085826&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=46221&bucket=985645&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ84ymXBKf3t2-47BvDdcRmFXJuLlTrXEnv1mz468qMtUs&cs=1389e456156454fae2e71856b56a607c2",
+      "booking_partner_id": null,
+      "racable": false,
+      "api_bookable": false,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Reserve",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "7761403",
+    "name": "Chestnut Jabal Amman",
+    "latitude": "31.952087",
+    "longitude": "35.91331",
+    "num_reviews": "1316",
+    "timezone": "Asia/Amman",
+    "location_string": "Amman, Amman Governorate",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/04/1b/c5/getlstd-property-photo.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/04/1b/c5/getlstd-property-photo.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "960",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/04/1b/c5/getlstd-property-photo.jpg",
+          "height": "540"
+        },
+        "large": {
+          "width": "960",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/04/1b/c5/getlstd-property-photo.jpg",
+          "height": "540"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/04/1b/c5/getlstd-property-photo.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-05-21T10:51:25-0400",
+      "caption": "getlstd_property_photo",
+      "id": "319036357",
+      "helpful_votes": "1",
+      "published_date": "2018-05-21T10:51:25-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "me.jordan.amman",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.733791828155518",
+    "ranking_geo": "Amman",
+    "ranking_geo_id": "293986",
+    "ranking_position": "31",
+    "ranking_denominator": "925",
+    "ranking_category": "restaurant",
+    "ranking": "#30 of 1,102 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$10 - $20",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d7761403-Reviews-Chestnut_Jabal_Amman-Amman_Amman_Governorate.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g293986-d7761403-Chestnut_Jabal_Amman-Amman_Amman_Governorate.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Amman",
+        "abbrv": null,
+        "location_id": "293986"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Amman Governorate",
+        "abbrv": null,
+        "location_id": "2625854"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Jordan",
+        "abbrv": null,
+        "location_id": "293985"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Amman",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+962 7 7500 0075",
+    "website": "http://www.chestnutpub.com/",
+    "email": "info@chestnutpub.com",
+    "address_obj": {
+      "street1": "Salma Bin Khalal Street",
+      "street2": null,
+      "city": "Amman",
+      "state": null,
+      "country": "Jordan",
+      "postalcode": "11181"
+    },
+    "address": "Salma Bin Khalal Street, Amman 11181 Jordan",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1439
+          }
+        ]
+      ],
+      "timezone": "Asia/Amman"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "9908",
+        "name": "American"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10670",
+        "name": "Pub"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  }
+]

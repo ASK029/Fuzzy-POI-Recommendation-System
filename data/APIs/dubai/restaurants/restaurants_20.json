@@ -1,0 +1,236 @@
+{
+  "location_id": "25577396",
+  "name": "Reef & Beef",
+  "latitude": "25.19189",
+  "longitude": "55.277813",
+  "num_reviews": "238",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/5a/c2/a5/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/5a/c2/a5/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/5a/c2/a5/caption.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/29/5a/c2/a5/caption.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/5a/c2/a5/caption.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-06-01T10:31:06-0400",
+    "caption": "",
+    "id": "693813925",
+    "helpful_votes": "1",
+    "published_date": "2023-06-01T10:31:06-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.920085430145264",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "17",
+  "ranking_denominator": "8546",
+  "ranking_category": "restaurant",
+  "ranking": "#17 of 11,067 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "price": "$600 - $1,200",
+  "description": "Reef & Beef is a luxurious seafood & steak restaurant in Downtown, Dubai. Reef & Beef offers charming and sophisticated ambience with bespoke lighting and antique decorations that reflect the restaurant’s German heritage.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g295424-d25577396-Reviews-Reef_Beef-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d25577396-Reef_Beef-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 52 233 8473",
+  "website": "https://reefandbeef.ae/",
+  "email": "reservations@reefandbeef.ae",
+  "address_obj": {
+    "street1": "The Heritage Hotel, Autograph Collection, Sheikh Mohammed bin Rashid Blvd",
+    "street2": "Downtown, Dubai",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": "114822"
+  },
+  "address": "The Heritage Hotel, Autograph Collection, Sheikh Mohammed bin Rashid Blvd Downtown, Dubai, Dubai 114822 United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 750,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 750,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 750,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 750,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 750,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 750,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 750,
+          "close_time": 1500
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10345",
+      "name": "Steakhouse"
+    },
+    {
+      "key": "9908",
+      "name": "American"
+    },
+    {
+      "key": "10643",
+      "name": "Seafood"
+    },
+    {
+      "key": "10669",
+      "name": "Contemporary"
+    },
+    {
+      "key": "10682",
+      "name": "Wine Bar"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10751",
+      "name": "Halal"
+    }
+  ],
+  "booking": {
+    "provider": "Deliveroo",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Deliveroo&src=264881060&geo=25577396&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=28960&bucket=870004&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=325063758&managed=false&capped=false&gosox=TYKcM1j0ZnyOsvBkdTBKE0TFa0sB4LA-m6Ry6_4-2hr_90IGeGSxSysMYoTergMINGi9I6nuBPmXmunT2F7Y2SdtZt_mcNmH7UGgy28rwaU&cs=16163cf3fe2f9f1ebbc14046c35ae5fc9"
+  },
+  "reserve_info": {
+    "id": "25577396",
+    "provider": "Deliveroo",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/deliveroo_05.06.2019.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Deliveroo&src=264881060&geo=25577396&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=28960&bucket=870004&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=325063758&managed=false&capped=false&gosox=TYKcM1j0ZnyOsvBkdTBKE0TFa0sB4LA-m6Ry6_4-2hr_90IGeGSxSysMYoTergMINGi9I6nuBPmXmunT2F7Y2SdtZt_mcNmH7UGgy28rwaU&cs=16163cf3fe2f9f1ebbc14046c35ae5fc9",
+    "booking_partner_id": null,
+    "racable": false,
+    "api_bookable": false,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Order Online",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

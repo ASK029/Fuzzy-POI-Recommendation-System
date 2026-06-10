@@ -1,0 +1,207 @@
+{
+  "location_id": "469352",
+  "name": "Coptic Orthodox Church of St. George (Mari Girgis)",
+  "latitude": "30.006384",
+  "longitude": "31.229975",
+  "num_reviews": "246",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/d8/1b/8c/photo0jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/d8/1b/8c/photo0jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/d8/1b/8c/photo0jpg.jpg",
+        "height": "1536"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/d8/1b/8c/photo0jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/d8/1b/8c/photo0jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-07-04T09:16:32-0400",
+    "caption": "",
+    "id": "198712204",
+    "helpful_votes": "3",
+    "published_date": "2016-07-04T09:16:32-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9512722492218018",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "15",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#15 of 316 things to do in Cairo",
+  "subcategory_ranking": "#15 of 316 things to do in Cairo",
+  "ranking": "#15 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "Originally built in 684 AD by the wealthy scribe Athanasius, this religious site is known for its beautiful Qaa el-Arsan (wedding chamber) that dates from the 4th century.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d469352-Reviews-Coptic_Orthodox_Church_of_St_George_Mari_Girgis-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d469352-Coptic_Orthodox_Church_of_St_George_Mari_Girgis-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "http://www.sacred-destinations.com/egypt/cairo-st-george-church",
+  "address_obj": {
+    "street1": "Nearby Roman Fortress",
+    "street2": "Old (Coptic) Cairo",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11511"
+  },
+  "address": "Nearby Roman Fortress Old (Coptic) Cairo, Cairo 11511 Egypt",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FCairo-Tour-to-Cave-Church-and-Coptic-Cairo%2Fd782-10124P50%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bd685182636adabba&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=469352&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.20",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FCairo-Tour-to-Cave-Church-and-Coptic-Cairo%2Fd782-10124P50%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bd685182636adabba&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=469352&clt=TM&from=api&nt=true",
+        "price": "$43.00",
+        "rounded_up_price": "$43",
+        "offer_type": "",
+        "title": "Cairo Churches Half-Day Tour with Coptic Cairo, Hanging Church",
+        "product_code": "10124P50",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/17/75/1c.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FDay-Tour-Cairo-Egyptian-Museum-Coptic-Cairo-and-Khan-El-Khalili-Bazaar%2Fd782-10124P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e65a22d79036b8a19&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=469352&clt=TM&from=api&nt=true",
+        "price": "$48.00",
+        "rounded_up_price": "$48",
+        "offer_type": "",
+        "title": "Giza to Cairo Day Tour Egyptian Museum, Khan el-Khalili Bazaar",
+        "product_code": "10124P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/94/0f/fe.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FGiza%2FCoptic-Cairo-Tours%2Fd23032-58430P33%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=11f6c75c86685dbed&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=469352&clt=TM&from=api&nt=true",
+        "price": "$20.00",
+        "rounded_up_price": "$20",
+        "offer_type": "",
+        "title": "Half-Day Tour to Coptic Cairo & The Christian Churches",
+        "product_code": "58430P33",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0d/b1/8b/19.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FCairo-Museum-Coptic-Cairo-Citadel-and-Bazaar-Tour%2Fd782-58430P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=86ce1b7a6271e8610&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=469352&clt=TM&from=api&nt=true",
+        "price": "$129.00",
+        "rounded_up_price": "$129",
+        "offer_type": "",
+        "title": "Tours to Cairo Museum, Coptic Cairo, Islamic Cairo & The Bazaar",
+        "product_code": "58430P16",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/29/64/d0.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FThe-Holy-Family-trip-Cairo-Churches%2Fd782-9064P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=dcba9a3895f0007ee&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=469352&clt=TM&from=api&nt=true",
+        "price": "$115.00",
+        "rounded_up_price": "$115",
+        "offer_type": "",
+        "title": "The Holy Family trip Cairo Churches",
+        "product_code": "9064P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/aa/8d.jpg",
+        "description": null,
+        "primary_category": "Bus & Minivan Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

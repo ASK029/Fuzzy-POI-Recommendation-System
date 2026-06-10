@@ -1,0 +1,260 @@
+{
+  "location_id": "190518",
+  "name": "Brandenburg Gate",
+  "latitude": "52.5163",
+  "longitude": "13.3777",
+  "num_reviews": "46666",
+  "timezone": "Europe/Berlin",
+  "location_string": "Berlin",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/1b/cb/fe/portao-de-brandemburgo.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/1b/cb/fe/portao-de-brandemburgo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/1b/cb/fe/portao-de-brandemburgo.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/06/1b/cb/fe/portao-de-brandemburgo.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/1b/cb/fe/portao-de-brandemburgo.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2014-06-30T21:39:06-0400",
+    "caption": "Foto Noturna",
+    "id": "102484990",
+    "helpful_votes": "9",
+    "published_date": "2014-07-01T08:38:36-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.berlin",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.981893062591553",
+  "ranking_geo": "Berlin",
+  "ranking_geo_id": "187323",
+  "ranking_position": "3",
+  "ranking_denominator": "1922",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 1,922 things to do in Berlin",
+  "subcategory_ranking": "#3 of 1,922 things to do in Berlin",
+  "ranking": "#3 of 1,922 things to do in Berlin",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620490",
+      "name": "Mitte (Borough)"
+    },
+    {
+      "location_id": "7281425",
+      "name": "Mitte"
+    }
+  ],
+  "description": "Located in no-man's land between East and West Germany during the Cold War, this famous monument, built during the 18th-century reign of Friedrich Wilhelm II, has long been a defining symbol of Berlin and both the city's division and unification.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190518-Reviews-Brandenburg_Gate-Berlin.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187323-d190518-Brandenburg_Gate-Berlin.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Berlin",
+      "abbrv": null,
+      "location_id": "187323"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Berlin",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "http://www.brandenburg-gate.de/eng/",
+  "email": "presse@brandenburg-gate.de",
+  "address_obj": {
+    "street1": "Pariser Platz",
+    "street2": null,
+    "city": "Berlin",
+    "state": null,
+    "country": "Germany",
+    "postalcode": "10117"
+  },
+  "address": "Pariser Platz, 10117 Berlin Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "26",
+      "name": "Monuments & Statues"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBig-Bus-Tours-Berlin%2Fd488-76648P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6ca0a728fdae3c301&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190518&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$2.45",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBig-Bus-Tours-Berlin%2Fd488-76648P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6ca0a728fdae3c301&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190518&clt=TM&from=api&nt=true",
+        "price": "$29.51",
+        "rounded_up_price": "$30",
+        "offer_type": "",
+        "title": "Berlin Hop-On Hop-Off Sightseeing Tour",
+        "product_code": "76648P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/6c/08/4d.jpg",
+        "description": null,
+        "primary_category": "Bus & Minivan Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FDiscover-Berlin-Half-Day-Walking-Tour%2Fd488-3817DISCOVER%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3f3d598fd6b46e1bb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190518&clt=TM&from=api&nt=true",
+        "price": "$21.86",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": "Berlin Mitte Walking Tour: Wall, Brandenburg Gate, Reichstag",
+        "product_code": "3817DISCOVER",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b0/78/0a.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FFinal-Days-of-World-War-2-Walking-Tour-of-Berlin%2Fd488-5560WAR%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=65096d8acc4d9dd5c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190518&clt=TM&from=api&nt=true",
+        "price": "$21.75",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": "Berlin World War II History Half-Day Walking Tour",
+        "product_code": "5560WAR",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/49/e4/7d.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBerlin-Highlights-and-Hidden-Sites-Historical-Walking-Tour%2Fd488-5560HIGHLIGHTS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=07cd7aac4eabcc7f0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190518&clt=TM&from=api&nt=true",
+        "price": "$18.48",
+        "rounded_up_price": "$19",
+        "offer_type": "",
+        "title": "Berlin Historical Walking Tour: Highlights and Hidden Sites",
+        "product_code": "5560HIGHLIGHTS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/49/e4/96.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FCity-Sightseeing-Berlin-Hop-On-Hop-Off-Tour%2Fd488-2916BERLIN%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7f2a7b0dfe59f9519&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190518&clt=TM&from=api&nt=true",
+        "price": "$29.51",
+        "rounded_up_price": "$30",
+        "offer_type": "",
+        "title": "Berlin City Sightseeing Hop-On Hop-Off Tour 1- or 2-Day Ticket",
+        "product_code": "2916BERLIN",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/bd/06/38.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

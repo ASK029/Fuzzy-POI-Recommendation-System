@@ -1,0 +1,204 @@
+{
+  "location_id": "21250678",
+  "name": "Nando's",
+  "latitude": "25.117016",
+  "longitude": "55.199707",
+  "num_reviews": "849",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/a6/b4/51/logo.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/a6/b4/51/logo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "800",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/a6/b4/51/logo.jpg",
+        "height": "800"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/25/a6/b4/51/logo.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/a6/b4/51/logo.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2022-09-06T04:00:05-0400",
+    "caption": "Logo",
+    "id": "631682129",
+    "helpful_votes": "0",
+    "published_date": "2022-09-06T04:00:05-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.9285807609558105",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "8",
+  "ranking_denominator": "8546",
+  "ranking_category": "restaurant",
+  "ranking": "#8 of 11,067 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "description": "\"Born in South Africa and taken to the world, Nando's specialises in Portuguese-style, flamed-grilled chicken dishes with various PERi-PERi marinades. Experience a truly South African dining experience at Nando’s in Dubai. The Nando's experience is like no other, perfect for the me-times as well as the family and friends time. Add spice to your life with a meal from our Portuguese style menu! We’ve set the eating experience on fire and we can’t wait for you to join our table because if there’s one thing we love as much as PERi-PERi, it’s lots of people to enjoy it with!\"",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g295424-d21250678-Reviews-Nando_s-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21250678-Nando_s-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 600 542525",
+  "website": "http://www.nandos.ae/",
+  "address_obj": {
+    "street1": "Sheikh Zayed Rd Level 1,",
+    "street2": "Mall of the Emirates - Al Barsha 1",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "Sheikh Zayed Rd Level 1, Mall of the Emirates - Al Barsha 1, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10632",
+      "name": "African"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "10680",
+      "name": "Portuguese"
+    }
+  ],
+  "dietary_restrictions": [],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

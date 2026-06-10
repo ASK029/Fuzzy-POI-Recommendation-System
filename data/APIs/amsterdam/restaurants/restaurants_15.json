@@ -1,0 +1,233 @@
+{
+  "location_id": "4168906",
+  "name": "Bar TWLV",
+  "latitude": "52.3627",
+  "longitude": "4.880283",
+  "num_reviews": "368",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2f/70/1e/92/bar-twlv.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2f/70/1e/92/bar-twlv.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2f/70/1e/92/bar-twlv.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2f/70/1e/92/bar-twlv.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2f/70/1e/92/bar-twlv.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2025-03-25T08:39:13-0400",
+    "caption": "Bar TWLV",
+    "id": "795877010",
+    "helpful_votes": "0",
+    "published_date": "2025-03-25T08:39:13-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.777121543884277",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "17",
+  "ranking_denominator": "4095",
+  "ranking_category": "restaurant",
+  "ranking": "#15 of 5,334 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$4 - $25",
+  "neighborhood_info": [
+    {
+      "location_id": "15620063",
+      "name": "Amsterdam West"
+    },
+    {
+      "location_id": "15620079",
+      "name": "Oud West"
+    },
+    {
+      "location_id": "15620101",
+      "name": "Vondelbuurt"
+    }
+  ],
+  "description": "Named after our address on Stadhouderskade 12, Bar TWLV is inspired by the universal symbolism of the number 12: a reflection of balance, rhythm, and connection. From brunch to late-night drinks, this vibrant new space transitions effortlessly throughout the day, offering something for every moment.\n\nExpect international sharing dishes, a zodiac-inspired cocktail menu, and an atmosphere that blends cosmopolitan flair with laid-back comfort. Whether you're visiting from afar or just around the corner — you're invited.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g188590-d4168906-Reviews-Bar_TWLV-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d4168906-Bar_TWLV-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 607 5555",
+  "address_obj": {
+    "street1": "Stadhouderskade 12",
+    "street2": "Amsterdam Marriott Hotel",
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1054 ES"
+  },
+  "address": "Stadhouderskade 12 Amsterdam Marriott Hotel, 1054 ES Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        },
+        {
+          "open_time": 480,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1500
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

@@ -1,0 +1,6621 @@
+[
+  {
+    "location_id": "944596",
+    "name": "Hackethals",
+    "latitude": "52.536457",
+    "longitude": "13.379615",
+    "num_reviews": "1703",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/f5/f8/9d/veal-schnitzel-chips.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/f5/f8/9d/veal-schnitzel-chips.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/f5/f8/9d/veal-schnitzel-chips.jpg",
+          "height": "1280"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/17/f5/f8/9d/veal-schnitzel-chips.jpg",
+          "height": "550"
+        },
+        "medium": {
+          "width": "450",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/f5/f8/9d/veal-schnitzel-chips.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-06-17T15:13:03-0400",
+      "caption": "Veal schnitzel, chips, salad",
+      "id": "401995933",
+      "helpful_votes": "7",
+      "published_date": "2019-06-17T15:13:03-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.767481327056885",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "1",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#1 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$7 - $32",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d944596-Reviews-Hackethals-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d944596-Hackethals-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 28387765",
+    "website": "http://www.hackethals.de",
+    "email": "mail@hackethals.de",
+    "address_obj": {
+      "street1": "Pflugstrasse 11",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10115"
+    },
+    "address": "Pflugstrasse 11, 10115 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 1110,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1110,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1110,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1110,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1110,
+            "close_time": 1440
+          }
+        ],
+        []
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10347",
+        "name": "German"
+      },
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10670",
+        "name": "Pub"
+      },
+      {
+        "key": "10683",
+        "name": "Gastropub"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "17694019",
+    "name": "Stadtsalat",
+    "latitude": "52.525818",
+    "longitude": "13.387601",
+    "num_reviews": "129",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2f/8f/27/31/spring-menu-2025.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2f/8f/27/31/spring-menu-2025.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2f/8f/27/31/spring-menu-2025.jpg",
+          "height": "1024"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2f/8f/27/31/spring-menu-2025.jpg",
+          "height": "440"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/2f/8f/27/31/spring-menu-2025.jpg",
+          "height": "200"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2025-04-09T03:59:38-0400",
+      "caption": "SPRING MENU 2025",
+      "id": "797910833",
+      "helpful_votes": "0",
+      "published_date": "2025-04-09T03:59:38-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.758541107177734",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "2",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#2 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$12 - $18",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "STADTSALAT. REAL FOOD. REAL PEOPLE. Health and well-being come from the foods people eat. What that food contains and how it is prepared are therefore crucially important. That‘s why we create salads and bowls prepared fresh from scratch every single day. Real Food for Real People. We seek to build the perfect destination for both.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d17694019-Reviews-Stadtsalat-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d17694019-Stadtsalat-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 40 38040859",
+    "website": "https://stadtsalat.de/berlin",
+    "address_obj": {
+      "street1": "Friedrichstrasse 113",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10117"
+    },
+    "address": "Friedrichstrasse 113, 10117 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 750,
+            "close_time": 1215
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1215
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1215
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1215
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1215
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1215
+          }
+        ],
+        [
+          {
+            "open_time": 750,
+            "close_time": 1215
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10347",
+        "name": "German"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10669",
+        "name": "Contemporary"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10772",
+        "name": "Hawaiian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "11966514",
+    "name": "Bantabaa",
+    "latitude": "52.498657",
+    "longitude": "13.442088",
+    "num_reviews": "170",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/2a/44/c8/50/benachin-superkanja.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/44/c8/50/benachin-superkanja.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/44/c8/50/benachin-superkanja.jpg",
+          "height": "720"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/44/c8/50/benachin-superkanja.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/44/c8/50/benachin-superkanja.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-09-07T04:56:05-0400",
+      "caption": "Benachin & Superkanja!",
+      "id": "709150800",
+      "helpful_votes": "0",
+      "published_date": "2023-09-07T04:56:05-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.748246192932129",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "3",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#3 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$5 - $20",
+    "neighborhood_info": [
+      {
+        "location_id": "15620491",
+        "name": "Friedrichshain-Kreuzberg (Borough)"
+      },
+      {
+        "location_id": "7281217",
+        "name": "Kreuzberg"
+      }
+    ],
+    "description": "Authentic West African Cuisine from Gambia and Senegal, located right in the heart of Berlin-Kreuzberg. Also offers exciting street food variations to go. Plenty of vegan and gluten free options available. Comfortable seating outside (spring until autumn) and inside. Has a catering service for birthdays, parties and company events. Usually no reservation required, but recommended.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d11966514-Reviews-Bantabaa-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d11966514-Bantabaa-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 1521 4657388",
+    "website": "http://bantabaafooddealer.eu",
+    "email": "contactus@bantabaafooddealer.eu",
+    "address_obj": {
+      "street1": "Wrangelstrasse 82",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10997"
+    },
+    "address": "Wrangelstrasse 82, 10997 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1260
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10632",
+        "name": "African"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "booking": {
+      "provider": "Lieferando.de",
+      "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=255710744&geo=11966514&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=874916&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2ehPSwVG7E62Vah-DBAhELM&cs=11f61d73d483767a8b131f39990ec8be2"
+    },
+    "reserve_info": {
+      "id": "11966514",
+      "provider": "Lieferando.de",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/lieferando.de_white_05.30.2019.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=255710744&geo=11966514&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=874916&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2ehPSwVG7E62Vah-DBAhELM&cs=11f61d73d483767a8b131f39990ec8be2",
+      "booking_partner_id": null,
+      "racable": false,
+      "api_bookable": false,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Order Online",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "8789766",
+    "name": "CousCous Cafe & Bistro",
+    "latitude": "52.52682",
+    "longitude": "13.387405",
+    "num_reviews": "151",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/21/8f/b4/caption.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/21/8f/b4/caption.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1134",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/21/8f/b4/caption.jpg",
+          "height": "850"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/21/8f/b4/caption.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/21/8f/b4/caption.jpg",
+          "height": "187"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2022-08-08T12:31:04-0400",
+      "caption": "",
+      "id": "622956468",
+      "helpful_votes": "0",
+      "published_date": "2022-08-08T12:31:04-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.746735095977783",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "4",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#4 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$3 - $8",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "Fresh and selfmade mediterranean food. We serve breakfast, lunch, dinner. Try our selfmade couscous variants! Vegetarian and vegan dishes in Berlin-Mitte.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d8789766-Reviews-CousCous_Cafe_Bistro-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d8789766-CousCous_Cafe_Bistro-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "cafe",
+        "name": "Café"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 55070382",
+    "website": "http://cafe-couscous.de",
+    "email": "cafe.couscous@gmail.com",
+    "address_obj": {
+      "street1": "Friedrichstr. 115",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10117"
+    },
+    "address": "Friedrichstr. 115, 10117 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1200
+          }
+        ],
+        []
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10642",
+        "name": "Cafe"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "187323",
+    "ad_position": "inline1",
+    "ad_size": "8X8",
+    "doubleclick_zone": "eu.germany.berlin",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "detail": "0",
+    "page_type": "restaurants",
+    "mob_ptype": "app_restaurants"
+  },
+  {
+    "location_id": "3475628",
+    "name": "Taverna Athene",
+    "latitude": "52.49832",
+    "longitude": "13.385393",
+    "num_reviews": "716",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/3c/26/99/caption.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/3c/26/99/caption.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "799",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/3c/26/99/caption.jpg",
+          "height": "534"
+        },
+        "large": {
+          "width": "799",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/3c/26/99/caption.jpg",
+          "height": "534"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/3c/26/99/caption.jpg",
+          "height": "368"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-07-08T11:40:35-0400",
+      "caption": "греческий салат (пол порции)  и тарелка мезе на двоих",
+      "id": "406595225",
+      "helpful_votes": "9",
+      "published_date": "2019-07-08T11:40:35-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.746708393096924",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "5",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#5 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$10 - $40",
+    "neighborhood_info": [
+      {
+        "location_id": "15620491",
+        "name": "Friedrichshain-Kreuzberg (Borough)"
+      },
+      {
+        "location_id": "7281217",
+        "name": "Kreuzberg"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d3475628-Reviews-Taverna_Athene-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d3475628-Taverna_Athene-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 2516069",
+    "website": "http://www.taverna-athene.de",
+    "email": "restaurant@taverna-athene.de",
+    "address_obj": {
+      "street1": "Tempelhofer Ufer 12",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10963"
+    },
+    "address": "Tempelhofer Ufer 12, 10963 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1425
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1425
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1425
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1425
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1425
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1425
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10649",
+        "name": "Mediterranean"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10664",
+        "name": "Greek"
+      },
+      {
+        "key": "10668",
+        "name": "Grill"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "10700265",
+    "name": "Restaurant Buschbeck's",
+    "latitude": "52.505695",
+    "longitude": "13.29205",
+    "num_reviews": "492",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/62/a5/02/unsere-neugestaltete.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/62/a5/02/unsere-neugestaltete.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/62/a5/02/unsere-neugestaltete.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/62/a5/02/unsere-neugestaltete.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/62/a5/02/unsere-neugestaltete.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-06-07T04:58:01-0400",
+      "caption": "Unsere neugestaltete Terrasse lädt ein zu wunderbaren Sommerabenden ",
+      "id": "459449602",
+      "helpful_votes": "13",
+      "published_date": "2020-06-07T04:58:01-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.738640785217285",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "6",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#6 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$7 - $30",
+    "neighborhood_info": [
+      {
+        "location_id": "7281401",
+        "name": "Charlottenburg"
+      },
+      {
+        "location_id": "15620493",
+        "name": "Charlottenburg-Wilmersdorf (Borough)"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d10700265-Reviews-Restaurant_Buschbeck_s-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d10700265-Restaurant_Buschbeck_s-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 32604166",
+    "website": "http://www.buschbecks-berlin.com",
+    "email": "buschbecks@freenet.de",
+    "address_obj": {
+      "street1": "Trendelenburgstr. 14",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "14057"
+    },
+    "address": "Trendelenburgstr. 14, 14057 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1260
+          }
+        ],
+        [],
+        [],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1260
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10347",
+        "name": "German"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10746",
+        "name": "Central European"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "8025081",
+    "name": "Happies",
+    "latitude": "52.5406",
+    "longitude": "13.419345",
+    "num_reviews": "398",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/84/68/76/helga-filled-with-fresh.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/84/68/76/helga-filled-with-fresh.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "640",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/84/68/76/helga-filled-with-fresh.jpg",
+          "height": "636"
+        },
+        "large": {
+          "width": "640",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/84/68/76/helga-filled-with-fresh.jpg",
+          "height": "636"
+        },
+        "medium": {
+          "width": "453",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/84/68/76/helga-filled-with-fresh.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-06-29T14:59:04-0400",
+      "caption": "\"helga\" filled with fresh organic apricot, salted breadcrumbs, vanilla ice cream on top & sweet ",
+      "id": "327444598",
+      "helpful_votes": "14",
+      "published_date": "2018-06-29T14:59:04-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.730784893035889",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "7",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#7 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$4 - $7",
+    "neighborhood_info": [
+      {
+        "location_id": "7281118",
+        "name": "Prenzlauer Berg"
+      },
+      {
+        "location_id": "15620492",
+        "name": "Pankow (Borough)"
+      }
+    ],
+    "description": "We Do Steamed Buns, Savoury & Salty, All Hand Made With Different Fillings, Sauces & Toppings. Häppie Is A Fusion Out Of All The Dumplings Around The World. Our Main Ingredient Is Love, You'll Taste That :)",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d8025081-Reviews-Happies-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d8025081-Happies-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 1511 4984140",
+    "website": "https://www.facebook.com/haeppies/",
+    "email": "info@haeppies.de",
+    "address_obj": {
+      "street1": "Dunckerstrasse 2",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10437"
+    },
+    "address": "Dunckerstrasse 2, 10437 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1080
+          }
+        ],
+        [],
+        [],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1080
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10671",
+        "name": "Fusion"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "1344552",
+    "name": "Focaccino",
+    "latitude": "52.505207",
+    "longitude": "13.301021",
+    "num_reviews": "858",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/7b/be/f7/le-nostre-tavolate.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/7b/be/f7/le-nostre-tavolate.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/7b/be/f7/le-nostre-tavolate.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/7b/be/f7/le-nostre-tavolate.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/7b/be/f7/le-nostre-tavolate.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-11-01T07:25:24-0400",
+      "caption": "le nostre tavolate",
+      "id": "226213623",
+      "helpful_votes": "8",
+      "published_date": "2016-11-01T07:25:24-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.7211432456970215",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "8",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#8 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$13 - $40",
+    "neighborhood_info": [
+      {
+        "location_id": "7281401",
+        "name": "Charlottenburg"
+      },
+      {
+        "location_id": "15620493",
+        "name": "Charlottenburg-Wilmersdorf (Borough)"
+      }
+    ],
+    "description": "Italian restaurant with a strong tendency of Sicilian cuisine, family environment and at the same time discreet and romantic. The constant presence of the owner guarantees the best service and quality. If you want to spend an evening with Sicilian specialties purely, then do not hesitate to visit us, we look forward to our simple and sincere kindness.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d1344552-Reviews-Focaccino-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d1344552-Focaccino-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 3248838",
+    "website": "http://www.focaccino.eu",
+    "email": "sizilien@focaccino.eu",
+    "address_obj": {
+      "street1": "Stuttgarter Platz 16",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10627"
+    },
+    "address": "Stuttgarter Platz 16, 10627 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "20069",
+        "name": "Sicilian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "16755582",
+    "name": "100 Gramm Bar",
+    "latitude": "52.53065",
+    "longitude": "13.401761",
+    "num_reviews": "214",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/74/8d/30/unser-ambiente.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/74/8d/30/unser-ambiente.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/74/8d/30/unser-ambiente.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/74/8d/30/unser-ambiente.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/74/8d/30/unser-ambiente.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-05-09T04:44:50-0400",
+      "caption": "Unser Ambiente",
+      "id": "393514288",
+      "helpful_votes": "6",
+      "published_date": "2019-05-09T04:44:50-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.711721897125244",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "9",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#9 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$3 - $17",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "Gastro & cocktail bar - delicious ukraine / russian dishes, fantastic home-made vodka infusions, honest drinks and cool cocktails. Great vibes and awesome guests! Follow us on Instagram & Facebook for more news!",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d16755582-Reviews-100_Gramm_Bar-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d16755582-100_Gramm_Bar-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 89652057",
+    "website": "http://100grammbar.com",
+    "email": "bar@100gramm.berlin",
+    "address_obj": {
+      "street1": "Weinbergsweg 25",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10119"
+    },
+    "address": "Weinbergsweg 25, 10119 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 960,
+            "close_time": 1620
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1620
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1620
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1620
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1620
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1740
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1740
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10640",
+        "name": "Bar"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "3546513",
+    "name": "Ristorante A Mano",
+    "latitude": "52.519394",
+    "longitude": "13.427386",
+    "num_reviews": "2740",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/0d/a7/70/indoor-disign.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/0d/a7/70/indoor-disign.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/0d/a7/70/indoor-disign.jpg",
+          "height": "853"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/0d/a7/70/indoor-disign.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/0d/a7/70/indoor-disign.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-08-15T04:14:13-0400",
+      "caption": "Indoor Disign ",
+      "id": "705537904",
+      "helpful_votes": "1",
+      "published_date": "2023-08-15T04:14:13-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.68107271194458",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "10",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#10 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$18 - $40",
+    "neighborhood_info": [
+      {
+        "location_id": "15620491",
+        "name": "Friedrichshain-Kreuzberg (Borough)"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d3546513-Reviews-Ristorante_A_Mano-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d3546513-Ristorante_A_Mano-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 95598243",
+    "website": "http://www.amano-ristorante.de",
+    "email": "info@amano-ristorante.de",
+    "address_obj": {
+      "street1": "Strausberger Platz 2",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10243"
+    },
+    "address": "Strausberger Platz 2, 10243 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10643",
+        "name": "Seafood"
+      },
+      {
+        "key": "10649",
+        "name": "Mediterranean"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "20069",
+        "name": "Sicilian"
+      },
+      {
+        "key": "20076",
+        "name": "Southern-Italian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "187323",
+    "ad_position": "inline2",
+    "ad_size": "8X8",
+    "doubleclick_zone": "eu.germany.berlin",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "detail": "0",
+    "page_type": "restaurants",
+    "mob_ptype": "app_restaurants"
+  },
+  {
+    "location_id": "1953128",
+    "name": "Flamingo Fresh Food Bar",
+    "latitude": "52.519585",
+    "longitude": "13.38554",
+    "num_reviews": "1010",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/61/c7/c4/indoor.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/61/c7/c4/indoor.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "960",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/61/c7/c4/indoor.jpg",
+          "height": "720"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/61/c7/c4/indoor.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/61/c7/c4/indoor.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-02-07T02:34:00-0500",
+      "caption": "indoor",
+      "id": "375506884",
+      "helpful_votes": "3",
+      "published_date": "2019-02-07T02:34:00-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.667978763580322",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "11",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#11 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$7 - $15",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "Close to the Brandenburg Gate & the Museums-Island you can enjoy fresh salads, homemade soups, a changing daily menu, fancy sandwiches and yummy cakes in our modern and cosy bistro. A friendly team, great coffee- and tea specialities, fresh juices plus a funky selection of soft drinks & wines are waiting for you!",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d1953128-Reviews-Flamingo_Fresh_Food_Bar-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d1953128-Flamingo_Fresh_Food_Bar-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "cafe",
+        "name": "Café"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 83218865",
+    "website": "http://www.flamingo-freshfood.de",
+    "email": "info@flamingo-freshfood.de",
+    "address_obj": {
+      "street1": "Neustadtische Kirchstrasse 8",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10117"
+    },
+    "address": "Neustadtische Kirchstrasse 8, 10117 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 450,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 450,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 450,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 450,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 450,
+            "close_time": 1080
+          }
+        ],
+        []
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10642",
+        "name": "Cafe"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10700",
+        "name": "Soups"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "17847687",
+    "name": "Vedang - Green Burger | Alexa Berlin",
+    "latitude": "52.51908",
+    "longitude": "13.416187",
+    "num_reviews": "342",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/29/4a/17/5f/crispy-chicken.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/4a/17/5f/crispy-chicken.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/4a/17/5f/crispy-chicken.jpg",
+          "height": "720"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/29/4a/17/5f/crispy-chicken.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/4a/17/5f/crispy-chicken.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-05-26T10:40:17-0400",
+      "caption": "Crispy Chicken ",
+      "id": "692721503",
+      "helpful_votes": "0",
+      "published_date": "2023-05-26T10:40:17-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.6637864112854",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "12",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#12 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$5 - $10",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "Welcome to Vedang - green burger, where every bite supports sustainability. At Vedang, we are all about redefining taste. Our plant-based burgers are a game changer; they taste like real meat. However, we also understand that diversity is the spice of life. That's why we're thrilled to introduce our smash burgers: locally sourced, sustainable beef that's a treat for your taste buds.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d17847687-Reviews-Vedang_Green_Burger_Alexa_Berlin-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d17847687-Vedang_Green_Burger_Alexa_Berlin-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 21454713",
+    "website": "http://www.vedang.de",
+    "email": "info@vedang.de",
+    "address_obj": {
+      "street1": "Grunerstrasse 20",
+      "street2": "Alexa Foodcourt 2",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10179"
+    },
+    "address": "Grunerstrasse 20 Alexa Foodcourt 2, 10179 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10646",
+        "name": "Fast Food"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10686",
+        "name": "Street Food"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "booking": {
+      "provider": "Lieferando.de",
+      "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=173826146&geo=17847687&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=874916&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2WK9NLDQUAdhb833PfyMI_M&cs=1b485ac05215ed22ec2050a11b72f33f8"
+    },
+    "reserve_info": {
+      "id": "17847687",
+      "provider": "Lieferando.de",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/lieferando.de_white_05.30.2019.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=173826146&geo=17847687&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=874916&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2WK9NLDQUAdhb833PfyMI_M&cs=1b485ac05215ed22ec2050a11b72f33f8",
+      "booking_partner_id": null,
+      "racable": false,
+      "api_bookable": false,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Order Online",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "1344159",
+    "name": "Restaurant Bieberbau",
+    "latitude": "52.479633",
+    "longitude": "13.333748",
+    "num_reviews": "1043",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/ad/e6/aa/lemnos-feta-mit-wassermelone.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/ad/e6/aa/lemnos-feta-mit-wassermelone.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "600",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/ad/e6/aa/lemnos-feta-mit-wassermelone.jpg",
+          "height": "400"
+        },
+        "large": {
+          "width": "600",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/ad/e6/aa/lemnos-feta-mit-wassermelone.jpg",
+          "height": "400"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/ad/e6/aa/lemnos-feta-mit-wassermelone.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-08-24T18:06:00-0400",
+      "caption": "Lemnos Feta mit Wassermelone",
+      "id": "212723370",
+      "helpful_votes": "8",
+      "published_date": "2016-08-24T18:06:00-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.6617279052734375",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "13",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#13 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$47 - $63",
+    "neighborhood_info": [
+      {
+        "location_id": "15620487",
+        "name": "Wilmersdorf"
+      },
+      {
+        "location_id": "15620493",
+        "name": "Charlottenburg-Wilmersdorf (Borough)"
+      }
+    ],
+    "description": "Bieberbau at Durlacher Str. 15 in Berlin-Wilmersdorf is part of a former studio and dwelling house. Built 1893/94 by Wilhelm Walther for the sculptuor Richard Bieber, it was nearly completely destroyed by a firebomb during World War II. Only the rooms and decoration of what is now the restaurant survived. The stucco ornamentation you can admire here have been created by the most advanced students and trainedcraftsmen of the principal and owner. He maintained a plasterer's and sculptuor's studio. The decorations depict different motives from mythology and rural life. They show advanced technical skills. The premises in their organic design provide an insight into the stuccateurs' craftmenship unique for Berlin around the turn of the twentieth century. They offer a unique spatial experience the qualitiy and complexitiy of which were out of the ordinary. In the backyard of the house there were several studios, amongst others those of the expressionist work group ,,Die Brücke\" (,,The Bridge\"). Between 1910 and 1913 Max Pechstein and Ernst Ludwig Kirchner worked here.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d1344159-Reviews-Restaurant_Bieberbau-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d1344159-Restaurant_Bieberbau-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 8532390",
+    "website": "http://www.bieberbau-berlin.de",
+    "email": "restaurant-pianoforte@web.de",
+    "address_obj": {
+      "street1": "Durlacher Str. 15",
+      "street2": "",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10715"
+    },
+    "address": "Durlacher Str. 15, 10715 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 1050,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1050,
+            "close_time": 1440
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 1050,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1050,
+            "close_time": 1440
+          }
+        ],
+        []
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10347",
+        "name": "German"
+      },
+      {
+        "key": "10746",
+        "name": "Central European"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "1875899",
+    "name": "Haveli",
+    "latitude": "52.496105",
+    "longitude": "13.337579",
+    "num_reviews": "1489",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/2b/16/e9/vorderansicht.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/2b/16/e9/vorderansicht.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/2b/16/e9/vorderansicht.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/2b/16/e9/vorderansicht.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/2b/16/e9/vorderansicht.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-03-16T08:10:14-0400",
+      "caption": "Vorderansicht",
+      "id": "455808745",
+      "helpful_votes": "5",
+      "published_date": "2020-03-16T08:10:14-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.657541275024414",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "14",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#14 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "neighborhood_info": [
+      {
+        "location_id": "7281215",
+        "name": "Schoneberg"
+      },
+      {
+        "location_id": "15620496",
+        "name": "Tempelhof-Schoneberg (Borough)"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d1875899-Reviews-Haveli-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d1875899-Haveli-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 21918686",
+    "website": "http://www.haveliberlin.de/",
+    "email": "haveliberlin@yahoo.com",
+    "address_obj": {
+      "street1": "Regensburger Strasse 7",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10777"
+    },
+    "address": "Regensburger Strasse 7, 10777 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10346",
+        "name": "Indian"
+      },
+      {
+        "key": "10659",
+        "name": "Asian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "1963405",
+    "name": "Naveena Path",
+    "latitude": "52.541878",
+    "longitude": "13.357457",
+    "num_reviews": "868",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/9f/68/1a/panik-jalfreezi.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/9f/68/1a/panik-jalfreezi.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1124",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/9f/68/1a/panik-jalfreezi.jpg",
+          "height": "1124"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/28/9f/68/1a/panik-jalfreezi.jpg",
+          "height": "550"
+        },
+        "medium": {
+          "width": "450",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/9f/68/1a/panik-jalfreezi.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-03-25T12:42:37-0400",
+      "caption": "Panik Jalfreezi ;)",
+      "id": "681535514",
+      "helpful_votes": "0",
+      "published_date": "2023-03-25T12:42:37-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.652738571166992",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "15",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#15 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$7 - $20",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "15620483",
+        "name": "Wedding"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d1963405-Reviews-Naveena_Path-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d1963405-Naveena_Path-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 173 4792430",
+    "website": "http://www.naveenapath.de/",
+    "email": "naveenapath@web.de",
+    "address_obj": {
+      "street1": "Tegeler Str. 22",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "13353"
+    },
+    "address": "Tegeler Str. 22, 13353 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 690,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10346",
+        "name": "Indian"
+      },
+      {
+        "key": "10659",
+        "name": "Asian"
+      },
+      {
+        "key": "10793",
+        "name": "Sri Lankan"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "booking": {
+      "provider": "Lieferando.de",
+      "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=234843450&geo=1963405&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=874916&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2X7Fz6TEnk9YsR2ULtM0fZY&cs=11fb6928e856f722d36b59f25da0c55a6"
+    },
+    "reserve_info": {
+      "id": "1963405",
+      "provider": "Lieferando.de",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/lieferando.de_white_05.30.2019.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=234843450&geo=1963405&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=874916&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2X7Fz6TEnk9YsR2ULtM0fZY&cs=11fb6928e856f722d36b59f25da0c55a6",
+      "booking_partner_id": null,
+      "racable": false,
+      "api_bookable": false,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Order Online",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "3805087",
+    "name": "La Gondola Due",
+    "latitude": "52.43783",
+    "longitude": "13.233398",
+    "num_reviews": "617",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/f7/b5/03/recht-seite-right-site.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/f7/b5/03/recht-seite-right-site.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/f7/b5/03/recht-seite-right-site.jpg",
+          "height": "853"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/f7/b5/03/recht-seite-right-site.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/f7/b5/03/recht-seite-right-site.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2023-12-07T18:01:33-0500",
+      "caption": "Recht Seite ( Right Side ) ",
+      "id": "720876803",
+      "helpful_votes": "3",
+      "published_date": "2023-12-07T18:01:33-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.651934623718262",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "16",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#16 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "neighborhood_info": [
+      {
+        "location_id": "15620495",
+        "name": "Steglitz-Zehlendorf (Borough)"
+      },
+      {
+        "location_id": "15620488",
+        "name": "Zehlendorf"
+      }
+    ],
+    "description": "Daily fresh fish: sole, turbot, Sashimi tuna, bream, shrimp, swordfish, calamaretti, Giant Gamberoni, salmon ect. Best steak from Argentina (Black Angus Rind beef) Calf: calf filet, calf liver (Bahlmann-Kalb Germany) the best",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d3805087-Reviews-La_Gondola_Due-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d3805087-La_Gondola_Due-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 8027973",
+    "website": "http://lagondoladue.de",
+    "email": "reservierung@lagondoladue.de",
+    "address_obj": {
+      "street1": "Mexikoplatz 4",
+      "street2": "Beerenstraße 57",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "14163"
+    },
+    "address": "Mexikoplatz 4 Beerenstraße 57, 14163 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 840,
+            "close_time": 1320
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 990,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 990,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 990,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 990,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 990,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10649",
+        "name": "Mediterranean"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10676",
+        "name": "Diner"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "187323",
+    "ad_position": "inline3",
+    "ad_size": "8X8",
+    "doubleclick_zone": "eu.germany.berlin",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "detail": "0",
+    "page_type": "restaurants",
+    "mob_ptype": "app_restaurants"
+  },
+  {
+    "location_id": "8685515",
+    "name": "Trattoria Portofino",
+    "latitude": "52.512386",
+    "longitude": "13.448351",
+    "num_reviews": "1068",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/d8/0d/70/photo0jpg.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/d8/0d/70/photo0jpg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2048",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/d8/0d/70/photo0jpg.jpg",
+          "height": "2048"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/11/d8/0d/70/photo0jpg.jpg",
+          "height": "550"
+        },
+        "medium": {
+          "width": "450",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/d8/0d/70/photo0jpg.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-01-22T11:37:57-0500",
+      "caption": "",
+      "id": "299371888",
+      "helpful_votes": "9",
+      "published_date": "2018-01-22T11:37:57-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.649991035461426",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "17",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#17 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "neighborhood_info": [
+      {
+        "location_id": "7281258",
+        "name": "Friedrichshain"
+      },
+      {
+        "location_id": "15620491",
+        "name": "Friedrichshain-Kreuzberg (Borough)"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d8685515-Reviews-Trattoria_Portofino-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d8685515-Trattoria_Portofino-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 23910610",
+    "website": "http://www.portofino-trattoria.de/",
+    "email": "info@portofino-trattoria.de",
+    "address_obj": {
+      "street1": "Gubener Str. 48",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10243"
+    },
+    "address": "Gubener Str. 48, 10243 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 690,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 690,
+            "close_time": 1439
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10641",
+        "name": "Pizza"
+      },
+      {
+        "key": "10649",
+        "name": "Mediterranean"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "20062",
+        "name": "Neapolitan"
+      },
+      {
+        "key": "20064",
+        "name": "Campania"
+      },
+      {
+        "key": "20076",
+        "name": "Southern-Italian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "6452975",
+    "name": "Pequena Habana Restaurant Berlin",
+    "latitude": "52.48777",
+    "longitude": "13.349274",
+    "num_reviews": "245",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/ed/86/db/nuestra-ropa-vieja.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/ed/86/db/nuestra-ropa-vieja.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/ed/86/db/nuestra-ropa-vieja.jpg",
+          "height": "853"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/1b/ed/86/db/nuestra-ropa-vieja.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/ed/86/db/nuestra-ropa-vieja.jpg",
+          "height": "366"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-09-03T07:28:48-0400",
+      "caption": "Nuestra Ropa Vieja.",
+      "id": "468551387",
+      "helpful_votes": "0",
+      "published_date": "2020-09-03T07:28:48-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.6447434425354",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "18",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#18 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$7 - $30",
+    "neighborhood_info": [
+      {
+        "location_id": "7281215",
+        "name": "Schoneberg"
+      },
+      {
+        "location_id": "15620496",
+        "name": "Tempelhof-Schoneberg (Borough)"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d6452975-Reviews-Pequena_Habana_Restaurant_Berlin-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d6452975-Pequena_Habana_Restaurant_Berlin-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 30360275",
+    "website": "http://pequena-habana.de",
+    "email": "eric@pequena-habana.de",
+    "address_obj": {
+      "street1": "Eisenacher Strasse 48",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10823"
+    },
+    "address": "Eisenacher Strasse 48, 10823 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1440
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1440
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10622",
+        "name": "Caribbean"
+      },
+      {
+        "key": "10639",
+        "name": "Latin"
+      },
+      {
+        "key": "10744",
+        "name": "Cuban"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "4261461",
+    "name": "Skykitchen",
+    "latitude": "52.528378",
+    "longitude": "13.457011",
+    "num_reviews": "429",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/6e/d7/ae/a-choice.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/6e/d7/ae/a-choice.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "800",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/6e/d7/ae/a-choice.jpg",
+          "height": "600"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/6e/d7/ae/a-choice.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/6e/d7/ae/a-choice.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2015-03-03T03:13:39-0500",
+      "caption": "SKYKITCHEN flavored by a.choice",
+      "id": "124704686",
+      "helpful_votes": "42",
+      "published_date": "2015-03-03T03:13:39-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.643052101135254",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "19",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#19 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$160 - $189",
+    "neighborhood_info": [
+      {
+        "location_id": "7281118",
+        "name": "Prenzlauer Berg"
+      },
+      {
+        "location_id": "15620500",
+        "name": "Lichtenberg (Borough)"
+      },
+      {
+        "location_id": "13191358",
+        "name": "Fennpfuhl"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d4261461-Reviews-Skykitchen-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d4261461-Skykitchen-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 4530532620",
+    "website": "http://www.skykitchen.berlin",
+    "email": "restaurant@skykitchen.berlin",
+    "address_obj": {
+      "street1": "Landsberger Allee 106",
+      "street2": "im andel's Hotel Berlin",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10369"
+    },
+    "address": "Landsberger Allee 106 im andel's Hotel Berlin, 10369 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [],
+        [],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "ta_message": {
+      "is_red": false,
+      "is_sensitive_issue": false,
+      "text": "This business is temporarily closed until 06/01/2025",
+      "owner_response": null
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "5086",
+        "name": "French"
+      },
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "12475273",
+    "name": "Sapori di Casa",
+    "latitude": "52.527428",
+    "longitude": "13.351361",
+    "num_reviews": "500",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/72/c8/64/ristorante-pizzeria-sapori.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/72/c8/64/ristorante-pizzeria-sapori.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "4128",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/72/c8/64/ristorante-pizzeria-sapori.jpg",
+          "height": "2322"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/72/c8/64/ristorante-pizzeria-sapori.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/72/c8/64/ristorante-pizzeria-sapori.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2017-06-01T12:21:33-0400",
+      "caption": "Ristorante Pizzeria Sapori di Casa",
+      "id": "259180644",
+      "helpful_votes": "20",
+      "published_date": "2017-06-01T12:21:33-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.6330885887146",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "20",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#20 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$2 - $25",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      },
+      {
+        "location_id": "7281900",
+        "name": "Moabit"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d12475273-Reviews-Sapori_di_Casa-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d12475273-Sapori_di_Casa-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 28424572",
+    "website": "http://saporidicasa.de",
+    "email": "info@saporidicasa.de",
+    "address_obj": {
+      "street1": "Wilsnacker Str. 61",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10559"
+    },
+    "address": "Wilsnacker Str. 61, 10559 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1380
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 960,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10641",
+        "name": "Pizza"
+      },
+      {
+        "key": "10643",
+        "name": "Seafood"
+      },
+      {
+        "key": "10649",
+        "name": "Mediterranean"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "20066",
+        "name": "Tuscan"
+      },
+      {
+        "key": "20069",
+        "name": "Sicilian"
+      },
+      {
+        "key": "20075",
+        "name": "Central-Italian"
+      },
+      {
+        "key": "20076",
+        "name": "Southern-Italian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "10234425",
+    "name": "Ruyam Gemuse Kebab",
+    "latitude": "52.48452",
+    "longitude": "13.352453",
+    "num_reviews": "270",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/0d/29/88/ruya-gemuse-kebab.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/0d/29/88/ruya-gemuse-kebab.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2048",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/0d/29/88/ruya-gemuse-kebab.jpg",
+          "height": "1536"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/0d/29/88/ruya-gemuse-kebab.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/0d/29/88/ruya-gemuse-kebab.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-04-28T15:43:10-0400",
+      "caption": "Rüya Gemüse Kebab",
+      "id": "185411976",
+      "helpful_votes": "6",
+      "published_date": "2016-04-28T15:43:10-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.632162570953369",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "21",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#21 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "neighborhood_info": [
+      {
+        "location_id": "7281215",
+        "name": "Schoneberg"
+      },
+      {
+        "location_id": "15620496",
+        "name": "Tempelhof-Schoneberg (Borough)"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d10234425-Reviews-Ruyam_Gemuse_Kebab-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d10234425-Ruyam_Gemuse_Kebab-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "cafe",
+        "name": "Café"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 69564413",
+    "website": "https://rueyamdoener.de/",
+    "address_obj": {
+      "street1": "Hauptstrasse 36",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10827"
+    },
+    "address": "Hauptstrasse 36, 10827 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 660,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1439
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10646",
+        "name": "Fast Food"
+      },
+      {
+        "key": "10663",
+        "name": "Turkish"
+      },
+      {
+        "key": "10687",
+        "name": "Middle Eastern"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "13848266",
+    "name": "Burger Turm",
+    "latitude": "52.527225",
+    "longitude": "13.332566",
+    "num_reviews": "980",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/26/c6/f1/octopus-burger.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/26/c6/f1/octopus-burger.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/26/c6/f1/octopus-burger.jpg",
+          "height": "1280"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/27/26/c6/f1/octopus-burger.jpg",
+          "height": "550"
+        },
+        "medium": {
+          "width": "450",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/26/c6/f1/octopus-burger.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2022-12-02T17:18:05-0500",
+      "caption": "Octopus burger ",
+      "id": "656852721",
+      "helpful_votes": "4",
+      "published_date": "2022-12-02T17:18:05-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.631630897521973",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "22",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#22 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$8 - $25",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      },
+      {
+        "location_id": "7281900",
+        "name": "Moabit"
+      }
+    ],
+    "description": "WELCOME Burger Turm is waiting for you with its delicious flavors which are prepared with fresh products of the season and that create flavor consistency! With the belief that a new start every season and a new beginning every new happiness, Burger Turm hosts warm meetings and pleasant times with its menu and comfortable decoration where you will feel the family warmth in every frame VISION & MISSION VISION; We Endeavour to establish ourselves as the Modern burger cousin chain able to truthfully offer our guests an authentic experience of the Spirit of the American in a contemporary, elegant and culturally refined setting. MISSION;Our aim is to create a contemporary environment that delivers authentic Eastern hospitality. Our restaurant will offer new products and services that not only reflect a deep understanding of our cultural roots, but also are unequivocally inspired by them. Implicit in everything we do, Burger Turm always respect the environment and contribute meaningfully",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d13848266-Reviews-Burger_Turm-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d13848266-Burger_Turm-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "cafe",
+        "name": "Café"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 49956625",
+    "website": "http://www.burgerturm.com",
+    "email": "info@burgerturm.com",
+    "address_obj": {
+      "street1": "Leipziger Pl.12",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10117"
+    },
+    "address": "Leipziger Pl.12, 10117 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "9908",
+        "name": "American"
+      },
+      {
+        "key": "10646",
+        "name": "Fast Food"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "13994194",
+    "name": "Hasty Pastry",
+    "latitude": "52.503185",
+    "longitude": "13.344049",
+    "num_reviews": "313",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/ec/56/9c/hasty-pastry.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/ec/56/9c/hasty-pastry.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/ec/56/9c/hasty-pastry.jpg",
+          "height": "915"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/14/ec/56/9c/hasty-pastry.jpg",
+          "height": "732"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/ec/56/9c/hasty-pastry.jpg",
+          "height": "393"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-10-03T10:36:01-0400",
+      "caption": "",
+      "id": "351032988",
+      "helpful_votes": "14",
+      "published_date": "2018-10-03T10:36:01-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.617616653442383",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "23",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#23 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$7 - $13",
+    "neighborhood_info": [
+      {
+        "location_id": "7281215",
+        "name": "Schoneberg"
+      },
+      {
+        "location_id": "15620496",
+        "name": "Tempelhof-Schoneberg (Borough)"
+      }
+    ],
+    "description": "PIDAZA & PIADINA \"Is the new kind of healthy flatbread\" Pidaza is a flatbread baked in northern Italy according to a family recipe that works completely without animal fats, eggs, milk and is very thin. There are two varieties to choose from - one with wheat flour and cold-pressed grape seed oil and one with spelled flour. It is covered with various fresh, high-quality and natural ingredients, such as with mozzarella, avocado, tofu, fresh vine tomatoes or cooked ham, salami, tuna and much more. Our Pidaza is prepared on a special plate without fat, fresh and live for you. How it's goes! First you choose a Pidaza, then the size and finally the covering you want.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d13994194-Reviews-Hasty_Pastry-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d13994194-Hasty_Pastry-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 75442673",
+    "website": "https://www.facebook.com/hastypastrycafe/",
+    "email": "info@hastypastry.de",
+    "address_obj": {
+      "street1": "Bayreuther Str. 6",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10787"
+    },
+    "address": "Bayreuther Str. 6, 10787 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10642",
+        "name": "Cafe"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10686",
+        "name": "Street Food"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "11813181",
+    "name": "Salamat",
+    "latitude": "52.528736",
+    "longitude": "13.393801",
+    "num_reviews": "237",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/ce/18/9c/fardos-plate-with-chicken.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/ce/18/9c/fardos-plate-with-chicken.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/ce/18/9c/fardos-plate-with-chicken.jpg",
+          "height": "854"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/ce/18/9c/fardos-plate-with-chicken.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/ce/18/9c/fardos-plate-with-chicken.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-07-22T13:50:40-0400",
+      "caption": "Fardos-Plate with Chicken Shawarma",
+      "id": "332273820",
+      "helpful_votes": "9",
+      "published_date": "2018-07-22T13:50:40-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.614068508148193",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "24",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#24 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$6 - $19",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "nordirakische und arabische Küche Bezahlung nur in bar oder mit deutscher EC-Karte. Payment accepted only in cash or with German debit cards. NO CREDIT CARDS!",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d11813181-Reviews-Salamat-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d11813181-Salamat-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 28884994",
+    "website": "https://www.instagram.com/restaurant.salamat/",
+    "email": "salamat.berlin@gmail.com",
+    "address_obj": {
+      "street1": "Gartenstrasse 1",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10115"
+    },
+    "address": "Gartenstrasse 1, 10115 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10687",
+        "name": "Middle Eastern"
+      },
+      {
+        "key": "11744",
+        "name": "Arabic"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10751",
+        "name": "Halal"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "1342567",
+    "name": "Ristorante Peperoncino",
+    "latitude": "52.491886",
+    "longitude": "13.413935",
+    "num_reviews": "731",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/75/a1/3a/peperoncino.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/75/a1/3a/peperoncino.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "960",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/75/a1/3a/peperoncino.jpg",
+          "height": "720"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/75/a1/3a/peperoncino.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/75/a1/3a/peperoncino.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2015-11-08T14:04:37-0500",
+      "caption": "Peperoncino",
+      "id": "158703930",
+      "helpful_votes": "4",
+      "published_date": "2015-11-08T14:05:24-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.610326290130615",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "25",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#25 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$4 - $25",
+    "neighborhood_info": [
+      {
+        "location_id": "15620491",
+        "name": "Friedrichshain-Kreuzberg (Borough)"
+      },
+      {
+        "location_id": "7281217",
+        "name": "Kreuzberg"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d1342567-Reviews-Ristorante_Peperoncino-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d1342567-Ristorante_Peperoncino-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 69517659",
+    "website": "http://www.ristorantepeperoncino.de",
+    "email": "ciao@ristorantepeperoncino.de",
+    "address_obj": {
+      "street1": "Urbanstr. 137",
+      "street2": "",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10967"
+    },
+    "address": "Urbanstr. 137, 10967 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1350
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1350
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1350
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "4617",
+        "name": "Italian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "8596850",
+    "name": "Vedis",
+    "latitude": "52.541805",
+    "longitude": "13.411703",
+    "num_reviews": "1289",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/a1/bd/3d/our-bar.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/a1/bd/3d/our-bar.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/22/a1/bd/3d/our-bar.jpg",
+          "height": "852"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/22/a1/bd/3d/our-bar.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/a1/bd/3d/our-bar.jpg",
+          "height": "366"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2022-03-22T08:52:04-0400",
+      "caption": "Vedis glowing bar",
+      "id": "581025085",
+      "helpful_votes": "0",
+      "published_date": "2022-03-22T08:52:04-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.606114387512207",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "26",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#26 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$5 - $18",
+    "neighborhood_info": [
+      {
+        "location_id": "7281118",
+        "name": "Prenzlauer Berg"
+      },
+      {
+        "location_id": "15620492",
+        "name": "Pankow (Borough)"
+      }
+    ],
+    "description": "We offer you the entire culinary diversity of the Indian subcontinent. Our cooking style involves both elements from the north of the country and hence the Himalayan region and the southern tip of India. Besides a number of specialties from chicken, lamb and duck, you may also look forward to delicious fresh fish dishes. Especially popular are the speacialties from the Tandoori grill. Our comfortable and cozy Restaurant can be found in Prenzlauer Berg, or more precisely in the Schönhauser Allee 142 in Berlin. Only a few meters from the Eberswalder Straße, you can dine at the epicenter of Berlin's nightlife and can stop directly in one of the many bars after dessert. Many of our guests, however, chose it in Vedi's so good that they even order the same one or another cocktail. Enjoy our round the clock Happy Hour cocktails from € 4.90 In the event that \"your drink is not on the card, we are happy to provide any drink individually prepared''.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d8596850-Reviews-Vedis-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d8596850-Vedis-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 4485172",
+    "website": "http://vedis.berlin/",
+    "email": "info@vedis-berlin.de",
+    "address_obj": {
+      "street1": "Schonhauser Allee 142",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10437"
+    },
+    "address": "Schonhauser Allee 142, 10437 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1560
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10346",
+        "name": "Indian"
+      },
+      {
+        "key": "10668",
+        "name": "Grill"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "17610696",
+    "name": "Vedang - Green Burger | Mall Of Berlin",
+    "latitude": "52.51049",
+    "longitude": "13.380088",
+    "num_reviews": "621",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/1c/6f/2f/store-front.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/1c/6f/2f/store-front.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/1c/6f/2f/store-front.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/1c/6f/2f/store-front.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/1c/6f/2f/store-front.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-06-29T07:48:40-0400",
+      "caption": "Store Front",
+      "id": "404516655",
+      "helpful_votes": "2",
+      "published_date": "2019-06-29T07:48:40-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.601308345794678",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "27",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#27 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$5 - $10",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "Welcome to Vedang - green burger, where every bite supports sustainability. At Vedang, we are all about redefining taste. Our plant-based burgers are a game changer; they taste like real meat. However, we also understand that diversity is the spice of life. That's why we're thrilled to introduce our smash burgers: locally sourced, sustainable beef that's a treat for your taste buds.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d17610696-Reviews-Vedang_Green_Burger_Mall_Of_Berlin-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d17610696-Vedang_Green_Burger_Mall_Of_Berlin-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "fast_food",
+        "name": "Fast food"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 22002727",
+    "website": "http://www.vedang.de",
+    "email": "info@vedang.de",
+    "address_obj": {
+      "street1": "Leipziger Platz 12",
+      "street2": "Mall of Berlin",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10117"
+    },
+    "address": "Leipziger Platz 12 Mall of Berlin, 10117 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1200
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "9908",
+        "name": "American"
+      },
+      {
+        "key": "10646",
+        "name": "Fast Food"
+      },
+      {
+        "key": "10679",
+        "name": "Healthy"
+      },
+      {
+        "key": "10686",
+        "name": "Street Food"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "11666270",
+    "name": "Goji",
+    "latitude": "52.495266",
+    "longitude": "13.339956",
+    "num_reviews": "329",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/ba/2c/22/goji-frontansicht.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/ba/2c/22/goji-frontansicht.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/ba/2c/22/goji-frontansicht.jpg",
+          "height": "1209"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/14/ba/2c/22/goji-frontansicht.jpg",
+          "height": "968"
+        },
+        "medium": {
+          "width": "476",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/ba/2c/22/goji-frontansicht.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-09-20T09:06:01-0400",
+      "caption": "GOJI Frontansicht",
+      "id": "347745314",
+      "helpful_votes": "11",
+      "published_date": "2018-09-20T09:06:01-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.593629360198975",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "28",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#28 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.7",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$10 - $19",
+    "neighborhood_info": [
+      {
+        "location_id": "7281215",
+        "name": "Schoneberg"
+      },
+      {
+        "location_id": "15620496",
+        "name": "Tempelhof-Schoneberg (Borough)"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d11666270-Reviews-Goji-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d11666270-Goji-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 58600766",
+    "website": "http://goji-berlin.de/",
+    "email": "mail@goji-berlin.de",
+    "address_obj": {
+      "street1": "Motzstrasse 58",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10777"
+    },
+    "address": "Motzstrasse 58, 10777 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1320
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 1020,
+            "close_time": 1320
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "5379",
+        "name": "Chinese"
+      },
+      {
+        "key": "10659",
+        "name": "Asian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "715489",
+    "name": "Indisches Restaurant Maharadscha",
+    "latitude": "52.498737",
+    "longitude": "13.345059",
+    "num_reviews": "1769",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/3d/37/f5/indisches-restaurant.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/3d/37/f5/indisches-restaurant.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/3d/37/f5/indisches-restaurant.jpg",
+          "height": "720"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/3d/37/f5/indisches-restaurant.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/3d/37/f5/indisches-restaurant.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-06-10T13:21:32-0400",
+      "caption": "Indisches Restaurant Maharadscha",
+      "id": "322779125",
+      "helpful_votes": "1",
+      "published_date": "2018-06-10T13:21:32-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.591311931610107",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "29",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#29 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "price": "$9 - $21",
+    "neighborhood_info": [
+      {
+        "location_id": "7281215",
+        "name": "Schoneberg"
+      },
+      {
+        "location_id": "15620496",
+        "name": "Tempelhof-Schoneberg (Borough)"
+      }
+    ],
+    "description": " visit our Restaurant (maharaja) maharadscha for Best Indian food in Fugger str 21 \nwe are looking forward toyour visit",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d715489-Reviews-Indisches_Restaurant_Maharadscha-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d715489-Indisches_Restaurant_Maharadscha-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 2138826",
+    "website": "http://Maharadscha2.de",
+    "email": "maharadscha2@hotmail.de",
+    "address_obj": {
+      "street1": "Fuggerstr. 21",
+      "street2": "Corner Martin-Luther-Strasse",
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10777"
+    },
+    "address": "Fuggerstr. 21 Corner Martin-Luther-Strasse, 10777 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 720,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10346",
+        "name": "Indian"
+      },
+      {
+        "key": "10659",
+        "name": "Asian"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "booking": {
+      "provider": "TheFork",
+      "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=213330289&geo=715489&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2QrRnyhIfXYJiLVP9FyTfNQ&cs=1c7bf8224fffdcbf398cbd7c00c04a7ad"
+    },
+    "reserve_info": {
+      "id": "715489",
+      "provider": "TheFork",
+      "provider_img": "https://static.tacdn.com/img2/branding/hotels/TheFork-Logo-2023.png",
+      "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=213330289&geo=715489&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2QrRnyhIfXYJiLVP9FyTfNQ&cs=1c7bf8224fffdcbf398cbd7c00c04a7ad",
+      "booking_partner_id": "6",
+      "racable": true,
+      "api_bookable": true,
+      "timeslots": null,
+      "bestoffer": null,
+      "timeslot_offers": null,
+      "button_text": "Reserve",
+      "disclaimer_text": null,
+      "banner_text": null
+    },
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "12281216",
+    "name": "PeterPaul",
+    "latitude": "52.529938",
+    "longitude": "13.404248",
+    "num_reviews": "315",
+    "timezone": "Europe/Berlin",
+    "location_string": "Berlin",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/da/00/ab/peterpaul.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/da/00/ab/peterpaul.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1600",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/da/00/ab/peterpaul.jpg",
+          "height": "1200"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/da/00/ab/peterpaul.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/da/00/ab/peterpaul.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2017-04-02T09:00:41-0400",
+      "caption": "PeterPaul",
+      "id": "249168043",
+      "helpful_votes": "3",
+      "published_date": "2017-04-02T09:00:41-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "eu.germany.berlin",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.589992046356201",
+    "ranking_geo": "Berlin",
+    "ranking_geo_id": "187323",
+    "ranking_position": "30",
+    "ranking_denominator": "6906",
+    "ranking_category": "restaurant",
+    "ranking": "#30 of 9,336 Results",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "neighborhood_info": [
+      {
+        "location_id": "15620490",
+        "name": "Mitte (Borough)"
+      },
+      {
+        "location_id": "7281425",
+        "name": "Mitte"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d12281216-Reviews-PeterPaul-Berlin.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187323-d12281216-PeterPaul-Berlin.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Berlin",
+        "abbrv": null,
+        "location_id": "187323"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Berlin",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 30 43773043",
+    "website": "http://www.peterpaul.berlin",
+    "address_obj": {
+      "street1": "Torstr. 99",
+      "street2": null,
+      "city": "Berlin",
+      "state": null,
+      "country": "Germany",
+      "postalcode": "10119"
+    },
+    "address": "Torstr. 99, 10119 Berlin Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1470
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1080,
+            "close_time": 1500
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10347",
+        "name": "German"
+      },
+      {
+        "key": "10654",
+        "name": "European"
+      },
+      {
+        "key": "10746",
+        "name": "Central European"
+      },
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "dietary_restrictions": [
+      {
+        "key": "10665",
+        "name": "Vegetarian friendly"
+      },
+      {
+        "key": "10697",
+        "name": "Vegan options"
+      },
+      {
+        "key": "10992",
+        "name": "Gluten free options"
+      }
+    ],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  }
+]

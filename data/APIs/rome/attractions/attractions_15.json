@@ -1,0 +1,270 @@
+{
+  "location_id": "191105",
+  "name": "Museo Nazionale di Castel Sant'Angelo",
+  "latitude": "41.90263",
+  "longitude": "12.46633",
+  "num_reviews": "14719",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/05/33/5f/1b/castel-sant-angelo.jpg",
+        "height": "140"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/33/5f/1b/castel-sant-angelo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/33/5f/1b/castel-sant-angelo.jpg",
+        "height": "1125"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/05/33/5f/1b/castel-sant-angelo.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/33/5f/1b/castel-sant-angelo.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2014-01-02T12:55:00-0500",
+    "caption": "A front view of the cast.",
+    "id": "87252763",
+    "helpful_votes": "11",
+    "published_date": "2014-01-02T12:55:00-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.70075798034668",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "7",
+  "ranking_denominator": "2764",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#7 of 2,764 things to do in Rome",
+  "subcategory_ranking": "#7 of 2,764 things to do in Rome",
+  "ranking": "#7 of 2,764 things to do in Rome",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230922",
+      "name": "Vatican / Borgo"
+    },
+    {
+      "location_id": "7230923",
+      "name": "Prati"
+    }
+  ],
+  "description": "The Museum is divided into four sections, the history of Castel Sant'Angelo is illustrated by vintage prints, scenic views and interesting reconstructions ideals of the monument, as suggested by the imagination of artists and architects of the Renaissance, from its construction until the nineteenth century, in a path that highlights the intense and ongoing.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187791-d191105-Reviews-Museo_Nazionale_di_Castel_Sant_Angelo-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d191105-Museo_Nazionale_di_Castel_Sant_Angelo-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 681 9111",
+  "website": "https://www.facebook.com/MuseoCastelSantAngelo/",
+  "email": "pm-laz@beniculturali.it",
+  "address_obj": {
+    "street1": "Lungotevere Castello 50",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00193"
+  },
+  "address": "Lungotevere Castello 50, 00193 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1170
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1170
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1170
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1170
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1170
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1170
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "28",
+      "name": "Art Museums"
+    },
+    {
+      "key": "39",
+      "name": "Observation Decks & Towers"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FCastel-SantAngelo-National-Museum%2Fd511-14982P15%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=182955ac6ca6fd643&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=191105&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.04",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FCastel-SantAngelo-National-Museum%2Fd511-14982P15%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=182955ac6ca6fd643&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=191105&clt=TM&from=api&nt=true",
+        "price": "$28.42",
+        "rounded_up_price": "$29",
+        "offer_type": "",
+        "title": "Rome Castel Sant'Angelo Skip-the-Line Ticket",
+        "product_code": "14982P15",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/6e/20/a6.jpg",
+        "description": null,
+        "primary_category": "Museum Tickets & Passes"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FCastel-Sant-Angelo-Skip-the-Line-Ticket-and-Audio-Tour-on-Your-Smartphone%2Fd511-57246P56%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=07de33fa9f05906c6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=191105&clt=TM&from=api&nt=true",
+        "price": "$30.60",
+        "rounded_up_price": "$31",
+        "offer_type": "",
+        "title": "Rome Castel Sant'Angelo E-Ticket and Audio Guide",
+        "product_code": "57246P56",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/8f/ec/73.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FSkip-the-lines-Castel-SantAngelo-and-Pope-Paul-III-Apartments-Tour%2Fd511-20455P58%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1b91d19687dea2b3d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=191105&clt=TM&from=api&nt=true",
+        "price": "$326.79",
+        "rounded_up_price": "$327",
+        "offer_type": "",
+        "title": "Florence Castel Sant'Angelo Private Skip-the-Line Guided Tour",
+        "product_code": "20455P58",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/bb/db/df.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FGhost-and-Mystery-Walking-Tour-of-Rome%2Fd511-3731GHOST%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=54b4902ccc3e11b1c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=191105&clt=TM&from=api&nt=true",
+        "price": "$27.32",
+        "rounded_up_price": "$28",
+        "offer_type": "",
+        "title": "Rome Mysteries and Ghost Stories Nighttime Walking Tour",
+        "product_code": "3731GHOST",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/2e/98.jpg",
+        "description": null,
+        "primary_category": "Ghost & Vampire Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-Vatican-Night-Tour%2Fd511-61084P6%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d5059468ddbd3015b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=191105&clt=TM&from=api&nt=true",
+        "price": "$4.15",
+        "rounded_up_price": "$5",
+        "offer_type": "",
+        "title": "Rome: Vatican Night Tour",
+        "product_code": "61084P6",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/dd/b7.jpg",
+        "description": null,
+        "primary_category": "Night Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

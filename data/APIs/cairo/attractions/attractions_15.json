@@ -1,0 +1,208 @@
+{
+  "location_id": "308831",
+  "name": "The Hanging Church",
+  "latitude": "30.005266",
+  "longitude": "31.230183",
+  "num_reviews": "840",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/4b/d2/a6/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/4b/d2/a6/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/4b/d2/a6/caption.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/4b/d2/a6/caption.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/4b/d2/a6/caption.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-05-17T11:13:55-0400",
+    "caption": "Резьба",
+    "id": "256627366",
+    "helpful_votes": "2",
+    "published_date": "2017-05-17T11:13:55-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.045150279998779",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "9",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#9 of 316 things to do in Cairo",
+  "subcategory_ranking": "#9 of 316 things to do in Cairo",
+  "ranking": "#9 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "This church, originally built in the ancient fortress of Babylon in Old Cairo around 4th century AD, derives its name from its location suspended above two Roman gate towers.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d308831-Reviews-The_Hanging_Church-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d308831-The_Hanging_Church-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 128 157 2805",
+  "website": "http://www.coptic-cairo.com/oldcairo/church/mollaqa/mollaqa.html",
+  "address_obj": {
+    "street1": "Kars Al Shama'e",
+    "street2": "",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "4244001"
+  },
+  "address": "Kars Al Shama'e, Cairo 4244001 Egypt",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "175",
+      "name": "Churches & Cathedrals"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FCairo-Tour-to-Cave-Church-and-Coptic-Cairo%2Fd782-10124P50%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bd685182636adabba&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=308831&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FCairo-Tour-to-Cave-Church-and-Coptic-Cairo%2Fd782-10124P50%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bd685182636adabba&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=308831&clt=TM&from=api&nt=true",
+        "price": "$43.00",
+        "rounded_up_price": "$43",
+        "offer_type": "",
+        "title": "Cairo Churches Half-Day Tour with Coptic Cairo, Hanging Church",
+        "product_code": "10124P50",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/17/75/1c.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FPrivate-Tour-Coptic-Cairo-The-Hanging-Church-Abu-Serga-Ben-Ezra%2Fd782-3124CAI09%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9ab7f70990735ffa8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=308831&clt=TM&from=api&nt=true",
+        "price": "$74.82",
+        "rounded_up_price": "$75",
+        "offer_type": "",
+        "title": "Coptic Cairo Private Tour: Hanging Church, Abu Serga, Ben Ezra",
+        "product_code": "3124CAI09",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/d0/bc/6a.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FGiza%2FHalf-Day-Private-Tour-of-Coptic-Cairo-Including-Saint-Simon-Church-in-Moqqatam%2Fd23032-8243P23%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3d66e6d9938dcab48&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=308831&clt=TM&from=api&nt=true",
+        "price": "$42.90",
+        "rounded_up_price": "$43",
+        "offer_type": "",
+        "title": "Coptic Cairo Half-Day Private Tour Including St Simon Church",
+        "product_code": "8243P23",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/cc/c1.jpg",
+        "description": null,
+        "primary_category": "Half-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FFull-Day-Tour-Visiting-Coptic-and-Islamic-Cairo%2Fd782-17296P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=05a1b9e088fbc8924&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=308831&clt=TM&from=api&nt=true",
+        "price": "$6.40",
+        "rounded_up_price": "$7",
+        "offer_type": "",
+        "title": "Full Day Tour Visiting Coptic and Islamic Cairo",
+        "product_code": "17296P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/d6/43/be.jpg",
+        "description": null,
+        "primary_category": "City Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FPrivate-Full-day-to-Coptic-Cairo-Saint-Simon-and-Hanging-Churches-Coptic-Museum%2Fd782-87415P48%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4999f7bac9322e313&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=308831&clt=TM&from=api&nt=true",
+        "price": "$57.15",
+        "rounded_up_price": "$58",
+        "offer_type": "",
+        "title": "Coptic Cairo Private Full-Day Tour",
+        "product_code": "87415P48",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/bc/55/bb.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

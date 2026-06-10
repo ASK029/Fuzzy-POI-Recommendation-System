@@ -1,0 +1,272 @@
+{
+  "location_id": "12580575",
+  "name": "At The Top, Burj Khalifa",
+  "latitude": "25.197405",
+  "longitude": "55.27602",
+  "num_reviews": "3636",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/e0/0a/00/photo3jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/e0/0a/00/photo3jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/17/e0/0a/00/photo3jpg.jpg",
+        "height": "768"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/e0/0a/00/photo3jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/e0/0a/00/photo3jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2019-06-10T13:41:14-0400",
+    "caption": "",
+    "id": "400558592",
+    "helpful_votes": "3",
+    "published_date": "2019-06-10T13:41:14-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.105048656463623",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "29",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#29 of 682 things to do in Dubai",
+  "subcategory_ranking": "#29 of 682 things to do in Dubai",
+  "ranking": "#29 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "description": "Your chance to enter the record books The high point of any Khalifa experience is the view from At The Top observation deck Located on level 124 of the world's tallest tower, this observatory is destined to be the highlight of any visit to the Middle East.the journey to the top, visitors are entertained by a multi-media presentation of the exotic history of Dubai and the marvel of Burj Khalifa.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d12580575-Reviews-At_The_Top_Burj_Khalifa-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d12580575-At_The_Top_Burj_Khalifa-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 888 8124",
+  "website": "https://tickets.atthetop.ae/atthetop/ar-ae",
+  "address_obj": {
+    "street1": "1 Sheikh Mohammed Bin Rashid Blvd",
+    "street2": null,
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "1 Sheikh Mohammed Bin Rashid Blvd, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "39",
+      "name": "Observation Decks & Towers"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2F124th-Floor-Tickets-Non-Prime-hours%2Fd828-91912P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=84757daeb7db88fcf&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=12580575&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$31.70",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2F124th-Floor-Tickets-Non-Prime-hours%2Fd828-91912P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=84757daeb7db88fcf&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=12580575&clt=TM&from=api&nt=true",
+        "price": "$80.00",
+        "rounded_up_price": "$80",
+        "offer_type": "",
+        "title": "Burj Khalifa - At The Top Ticket Level 124 & 125",
+        "product_code": "91912P14",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/fb/2b/a8.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FAt-the-Top-Burj-Khalifa-Sky-Level-148-General-Admission%2Fd828-91912P30%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9947f5e0de27ccb88&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=12580575&clt=TM&from=api&nt=true",
+        "price": "$185.00",
+        "rounded_up_price": "$185",
+        "offer_type": "",
+        "title": "Burj Khalifa - At the Top Sky Ticket (Level 124, 125 & 148)",
+        "product_code": "91912P30",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/0a/ad/7c.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FBurj-Khalifa-At-the-Top-Observation-Deck-Admission-Ticket-Dubai%2Fd828-2168P63%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=dfb32de982e005797&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=12580575&clt=TM&from=api&nt=true",
+        "price": "$53.00",
+        "rounded_up_price": "$53",
+        "offer_type": "",
+        "title": "Burj Khalifa At the Top Observation Deck Admission Ticket Dubai",
+        "product_code": "2168P63",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/cb/3d/18.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FSkip-the-Line-Burj-Khalifa-Ticket-The-Lounge-152-153-and-154%2Fd828-2168P129%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=89150aad052442fc9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=12580575&clt=TM&from=api&nt=true",
+        "price": "$221.00",
+        "rounded_up_price": "$221",
+        "offer_type": "",
+        "title": "Burj Khalifa Ticket Skip-the-Line Admission Ticket and Upgrade",
+        "product_code": "2168P129",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/cb/3f/05.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FAt-The-Top-Burj-Khalifa-124th-Floor-Tickets-Prime-Hours%2Fd828-91912P15%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f8c09c15105baffe2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=12580575&clt=TM&from=api&nt=true",
+        "price": "$139.00",
+        "rounded_up_price": "$139",
+        "offer_type": "",
+        "title": "Dubai Burj Khalifa Tickets: Level 124 & 125 (Prime Hours)",
+        "product_code": "91912P15",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/fd/f1/5c.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "tags": {
+    "urgency_tag": {
+      "tag_text": "<span class=\"highlight\">At The Top, Burj Khalifa tickets tend to sell out</span> - be sure to book in advance!",
+      "attraction_type": "TICKETS"
+    }
+  }
+}

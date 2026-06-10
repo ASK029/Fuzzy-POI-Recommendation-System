@@ -1,0 +1,87 @@
+{
+  "location_id": "8384738",
+  "name": "Al Tawheed Mosque",
+  "num_reviews": "0",
+  "timezone": "Asia/Damascus",
+  "location_string": "Aleppo, Aleppo Governorate",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria",
+  "preferred_map_engine": "default",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295416-d8384738-Reviews-Al_Tawheed_Mosque-Aleppo_Aleppo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295416-d8384738-Al_Tawheed_Mosque-Aleppo_Aleppo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Aleppo",
+      "abbrv": null,
+      "location_id": "295416"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Aleppo Governorate",
+      "abbrv": null,
+      "location_id": "2625571"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Aleppo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": null,
+    "city": "Aleppo",
+    "state": null,
+    "country": "Syria",
+    "postalcode": null
+  },
+  "address": "Aleppo Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    }
+  ]
+}

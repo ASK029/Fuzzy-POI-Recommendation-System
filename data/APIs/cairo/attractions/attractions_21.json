@@ -1,0 +1,265 @@
+{
+  "location_id": "308895",
+  "name": "Museum of Islamic Arts",
+  "latitude": "30.044697",
+  "longitude": "31.252563",
+  "num_reviews": "155",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/d5/d1/60/an-outdoor-setting-at.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/d5/d1/60/an-outdoor-setting-at.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/d5/d1/60/an-outdoor-setting-at.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/d5/d1/60/an-outdoor-setting-at.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/d5/d1/60/an-outdoor-setting-at.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-01-21T17:38:35-0500",
+    "caption": "An outdoor setting at the Museum",
+    "id": "299225440",
+    "helpful_votes": "1",
+    "published_date": "2018-01-21T17:38:35-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.6767218112945557",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "23",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#23 of 316 things to do in Cairo",
+  "subcategory_ranking": "#23 of 316 things to do in Cairo",
+  "ranking": "#23 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Closes in 21 min",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d308895-Reviews-Museum_of_Islamic_Arts-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d308895-Museum_of_Islamic_Arts-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "3901520",
+  "website": "http://www.miaegypt.org",
+  "email": "islam_mus_director@hotmail.com",
+  "address_obj": {
+    "street1": "Port Said St.",
+    "street2": "Bab AL- Khalq",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11638"
+  },
+  "address": "Port Said St. Bab AL- Khalq, Cairo 11638 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 690
+        },
+        {
+          "open_time": 810,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "30",
+      "name": "History Museums"
+    },
+    {
+      "key": "28",
+      "name": "Art Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FMuseum-of-Islamic-Art-Cairo%2Fd782-151375P21%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=47d19fc24406c761f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=308895&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$35.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FMuseum-of-Islamic-Art-Cairo%2Fd782-151375P21%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=47d19fc24406c761f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=308895&clt=TM&from=api&nt=true",
+        "price": "$39.15",
+        "rounded_up_price": "$40",
+        "offer_type": "",
+        "title": "Museum of Islamic Art, Cairo",
+        "product_code": "151375P21",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/ff/32/60.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FJourney-Through-Islamic-Cairo%2Fd782-112954P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aa89707e01ea9eaf5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=308895&clt=TM&from=api&nt=true",
+        "price": "$150.00",
+        "rounded_up_price": "$150",
+        "offer_type": "",
+        "title": "Islamic Museum, Al Azhar Sultan Hassan, Refaii & Moez street",
+        "product_code": "112954P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/ec/11/5f.jpg",
+        "description": null,
+        "primary_category": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2Fgiza-pyramids%2Fd782-72399P60%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=5d68abff466e40419&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=308895&clt=TM&from=api&nt=true",
+        "price": "$50.00",
+        "rounded_up_price": "$50",
+        "offer_type": "",
+        "title": "Islamic Cairo and Museum of Islamic Arts Private Tour",
+        "product_code": "72399P60",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/77/d0/83.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FFull-day-to-Islamic-Cairo-Mohamed-Ali-Palace-Al-azhar-Park-Islamic-Museum%2Fd782-87415P49%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=35a167f5e91670ec5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=308895&clt=TM&from=api&nt=true",
+        "price": "$74.29",
+        "rounded_up_price": "$75",
+        "offer_type": "",
+        "title": "Full day to Islamic Cairo-Mohamed Ali Palace- Al azhar Park-Islamic Museum",
+        "product_code": "87415P49",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/c2/98/e4.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FCairo-History-Tour-in-depth%2Fd782-22224P6%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cc4e0dd313aa46bf8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=308895&clt=TM&from=api&nt=true",
+        "price": "$45.00",
+        "rounded_up_price": "$45",
+        "offer_type": "",
+        "title": "Islamic Cairo History Tour",
+        "product_code": "22224P6",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/5f/13/da.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "location_id": "3989474",
+  "name": "V Lounge & Restaurant",
+  "latitude": "31.961864",
+  "longitude": "35.87008",
+  "num_reviews": "257",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/a3/8b/01/steakhouses-in-amman.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/a3/8b/01/steakhouses-in-amman.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/a3/8b/01/steakhouses-in-amman.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/a3/8b/01/steakhouses-in-amman.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/a3/8b/01/steakhouses-in-amman.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2016-11-16T10:05:17-0500",
+    "caption": "Steakhouses in Amman don't come any better than this classy venue, famous for its gleaming bar.",
+    "id": "228821761",
+    "helpful_votes": "3",
+    "published_date": "2016-11-16T10:05:17-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.757974147796631",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "26",
+  "ranking_denominator": "925",
+  "ranking_category": "restaurant",
+  "ranking": "#25 of 1,102 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "description": "Steakhouses in Amman don't come any better than this classy venue, famous for its gleaming mahogany bar and superb service. Decorated with striking modern art and rocking gently to live music noon till midnight, this is the perfect spot for a successful business lunch or a special supper with friends. Sink into a plush armchair and tell your server how you'd like your tender Aberdeen Angus steak. Or perhaps you'd prefer a plate of sticky spare ribs or a simple but delicious club sandwich?",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d3989474-Reviews-V_Lounge_Restaurant-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d3989474-V_Lounge_Restaurant-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 6 551 0001",
+  "website": "https://www.ihg.com/crowneplaza/hotels/us/en/amman/ammhb/hoteldetail/dining#",
+  "email": "fb.cpamman@ihg.com",
+  "address_obj": {
+    "street1": "King Faisal Bin AbdulAziz Street, 6th Circle",
+    "street2": "Crowne Plaza Hotel Amman",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": "11195"
+  },
+  "address": "King Faisal Bin AbdulAziz Street, 6th Circle Crowne Plaza Hotel Amman, Amman 11195 Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 720,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10345",
+      "name": "Steakhouse"
+    },
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10648",
+      "name": "International"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

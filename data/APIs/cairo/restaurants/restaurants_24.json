@@ -1,0 +1,251 @@
+{
+  "location_id": "3175542",
+  "name": "Indira Indian Restaurant",
+  "latitude": "30.073812",
+  "longitude": "31.344172",
+  "num_reviews": "1787",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/50/9e/7a/dish.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/50/9e/7a/dish.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/50/9e/7a/dish.jpg",
+        "height": "836"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/19/50/9e/7a/dish.jpg",
+        "height": "669"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/50/9e/7a/dish.jpg",
+        "height": "359"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2019-09-19T09:02:48-0400",
+    "caption": "dish",
+    "id": "424713850",
+    "helpful_votes": "3",
+    "published_date": "2019-09-19T09:02:48-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.8793745040893555",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "23",
+  "ranking_denominator": "1462",
+  "ranking_category": "restaurant",
+  "ranking": "#21 of 2,583 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294201-d3175542-Reviews-Indira_Indian_Restaurant-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d3175542-Indira_Indian_Restaurant-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 2 24803007",
+  "website": "https://www.ihg.com/holidayinn/hotels/gb/en/cairo/croeg/hoteldetail/dining",
+  "email": "fbres.hicitystars@ihg.com",
+  "address_obj": {
+    "street1": "Holiday Inn Cairo Citystars",
+    "street2": "Ali Rashed Street",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11511"
+  },
+  "address": "Holiday Inn Cairo Citystars Ali Rashed Street, Cairo 11511 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10346",
+      "name": "Indian"
+    },
+    {
+      "key": "10659",
+      "name": "Asian"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "booking": {
+    "provider": "Servme",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Servme&src=265288495&geo=3175542&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=35874&bucket=919818&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324898756&managed=false&capped=false&gosox=YyOngmNEqhxZ_JSWu9Ud5egjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZx4oqg_U4sgtGx2oJhKaZpYE_h63FfxswzlO-448Y230&cs=137c551dd31bdb2dd4f6a1f8e2940e700"
+  },
+  "reserve_info": {
+    "id": "3175542",
+    "provider": "Servme",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/servme_11.06.2019.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Servme&src=265288495&geo=3175542&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=35874&bucket=919818&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324898756&managed=false&capped=false&gosox=YyOngmNEqhxZ_JSWu9Ud5egjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZx4oqg_U4sgtGx2oJhKaZpYE_h63FfxswzlO-448Y230&cs=137c551dd31bdb2dd4f6a1f8e2940e700",
+    "booking_partner_id": null,
+    "racable": false,
+    "api_bookable": false,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

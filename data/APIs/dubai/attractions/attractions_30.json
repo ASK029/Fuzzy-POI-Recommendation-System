@@ -1,0 +1,262 @@
+{
+  "location_id": "7595204",
+  "name": "City Walk",
+  "latitude": "25.207493",
+  "longitude": "55.262524",
+  "num_reviews": "815",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/f4/1d/de/city-walk-largejpg.jpg",
+        "height": "142"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/f4/1d/de/city-walk-largejpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/14/f4/1d/de/city-walk-largejpg.jpg",
+        "height": "582"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/14/f4/1d/de/city-walk-largejpg.jpg",
+        "height": "582"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/f4/1d/de/city-walk-largejpg.jpg",
+        "height": "313"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-10-06T07:24:17-0400",
+    "caption": "",
+    "id": "351542750",
+    "helpful_votes": "10",
+    "published_date": "2018-10-06T07:24:17-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.999667167663574",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "42",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#42 of 682 things to do in Dubai",
+  "subcategory_ranking": "#42 of 682 things to do in Dubai",
+  "ranking": "#42 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620601",
+      "name": "Al Satwa"
+    }
+  ],
+  "description": "City Walk is a design-inspired open-air lifestyle destination in Dubai, spanning over 10 million square feet of vibrant experiences. Situated on Al Safa Street, close to Sheikh Zayed Road and Jumeirah Street, this family-friendly hub integrates living, retail, F&B, entertainment, hospitality, and wellness options, creating a harmonious blend of comfort and community within one iconic location. Envisioned as a city within a city, City Walk has become the ultimate choice for residents and tourists seeking a sophisticated space to shop, dine, socialize, and spend quality time in a serene ambience. It also houses Canadian University Dubai and Talabat’s impressive 150,000 sq ft headquarters across two modern buildings. In 2023, the destination unveiled C2 at City Walk, a licensed district featuring some of Dubai’s most beloved dining and entertainment venues, including Brass Monkey, Nola, Mythos, Daikan, and La Serre, further enhancing its dynamic appeal.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d7595204-Reviews-City_Walk-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d7595204-City_Walk-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 590 5090",
+  "website": "http://citywalk.ae/",
+  "address_obj": {
+    "street1": "Al Wasl And Al Safa Road Junction",
+    "street2": null,
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "Al Wasl And Al Safa Road Junction, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "143",
+      "name": "Shopping Malls"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Modern-City-Tour%2Fd828-8264P8%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0403d1c50fd66d756&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=7595204&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.36",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Modern-City-Tour%2Fd828-8264P8%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0403d1c50fd66d756&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=7595204&clt=TM&from=api&nt=true",
+        "price": "$36.00",
+        "rounded_up_price": "$36",
+        "offer_type": "",
+        "title": "Dubai: Modern City Tour With Palm Jumeirah Monorail Ride",
+        "product_code": "8264P8",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/fb/0f/64.jpg",
+        "description": null,
+        "primary_category": "City Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FFull-Day-Dubai-Sightseeing-Tour-with-Lunch-at-the-Musical-Fountains%2Fd828-8264P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=11cb8a22ce4f53022&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=7595204&clt=TM&from=api&nt=true",
+        "price": "$90.00",
+        "rounded_up_price": "$90",
+        "offer_type": "",
+        "title": "Dubai Full-Day Sightseeing Tour with Musical Fountains Lunch",
+        "product_code": "8264P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/89/fc/a4.jpg",
+        "description": null,
+        "primary_category": "Full-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Electric-Bicycle-Tour%2Fd828-471354P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=001e26fa9eeb27065&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=7595204&clt=TM&from=api&nt=true",
+        "price": "$69.00",
+        "rounded_up_price": "$69",
+        "offer_type": "",
+        "title": "Dubai Electric Bicycle Tour",
+        "product_code": "471354P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/7b/8d/a2.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-By-Night-City-Layover-Tour-with-Pick-Up-and-Flexible-Timing%2Fd828-466822P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ef68742441587a746&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=7595204&clt=TM&from=api&nt=true",
+        "price": "$120.00",
+        "rounded_up_price": "$120",
+        "offer_type": "",
+        "title": "Dubai Night Layover: Private Guided Tour with Airport Transfers",
+        "product_code": "466822P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/80/1a/58.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Night-Sightseeing-Tour%2Fd828-168050P69%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0ce2ce6d12a8b54b6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=7595204&clt=TM&from=api&nt=true",
+        "price": "$160.00",
+        "rounded_up_price": "$160",
+        "offer_type": "",
+        "title": "Dubai Night Sightseeing Private Tour",
+        "product_code": "168050P69",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/7c/d4/fe.jpg",
+        "description": null,
+        "primary_category": "4WD, ATV & Off-Road Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

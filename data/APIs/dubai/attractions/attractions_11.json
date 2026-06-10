@@ -1,0 +1,267 @@
+{
+  "location_id": "561527",
+  "name": "Ski Dubai",
+  "latitude": "25.117172",
+  "longitude": "55.198368",
+  "num_reviews": "11091",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2c/3c/22/49/snowfall.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2c/3c/22/49/snowfall.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2c/3c/22/49/snowfall.jpg",
+        "height": "914"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2c/3c/22/49/snowfall.jpg",
+        "height": "731"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2c/3c/22/49/snowfall.jpg",
+        "height": "393"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2024-05-21T08:41:20-0400",
+    "caption": "Snowfall",
+    "id": "742138441",
+    "helpful_votes": "0",
+    "published_date": "2024-05-21T08:41:20-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.717942476272583",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "77",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#77 of 682 things to do in Dubai",
+  "subcategory_ranking": "#77 of 682 things to do in Dubai",
+  "ranking": "#77 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "description": "Located inside Dubai Mall of the Emirates, Ski Dubai is the world's third largest indoor ski slope and the first to open in the Middle East. With a chair lift and a t-bar, 6,000 tons of snow are at your disposal.Whether you just want to learn the basics, or get good enough to fly off a 10 ramp, our qualified instructors will help you improve your skills and have you carving up the powder in no time!Practice jumps, ramps and tricks in the dedicated freestyle zone.You can now meet the Snow Penguins in an up close and personal one-of-a-kind intimate encounter that the whole family will love.Snow Penguins at Ski Dubai are dedicated to teaching youngsters and adults about the nature of this remarkable colony of Gentoo and King Penguins through engaging and interactive programmes.Don't forget to watch the March of the Penguins several times a day which is free for the Snow Park guests.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d561527-Reviews-Ski_Dubai-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d561527-Ski_Dubai-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "52",
+      "name": "Water & Amusement Parks"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 409 4000",
+  "website": "https://www.skidxb.com/en-ae/ski-dubai",
+  "address_obj": {
+    "street1": "Shiekh Zayed Road",
+    "street2": "Mall of the Emirates",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": ""
+  },
+  "address": "Shiekh Zayed Road Mall of the Emirates, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "98",
+      "name": "Theme Parks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FSki-Dubai-Snow-Classic-Ticket%2Fd828-9443P155%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3096d2a2b1aabf5d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=561527&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$35.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FSki-Dubai-Snow-Classic-Ticket%2Fd828-9443P155%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3096d2a2b1aabf5d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=561527&clt=TM&from=api&nt=true",
+        "price": "$68.66",
+        "rounded_up_price": "$69",
+        "offer_type": "",
+        "title": "Dubai Indoor Ski Park Pass",
+        "product_code": "9443P155",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/6e/13/37.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FSki-Dubai-tour-with-transfers%2Fd828-188149P47%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c6d81abda09a0f3c3&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=561527&clt=TM&from=api&nt=true",
+        "price": "$115.00",
+        "rounded_up_price": "$115",
+        "offer_type": "",
+        "title": "Ski Dubai With Private Transfers",
+        "product_code": "188149P47",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/45/0d/81.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FAfternoon-Dubai-Sightseeing-Tour-including-The-Dancing-Fountains%2Fd828-34459P17%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f50dad1cf75abb2e8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=561527&clt=TM&from=api&nt=true",
+        "price": "$190.00",
+        "rounded_up_price": "$190",
+        "offer_type": "",
+        "title": "Afternoon Dubai Sightseeing Tour including The Dancing Fountains",
+        "product_code": "34459P17",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/d7/ba/9f.jpg",
+        "description": null,
+        "primary_category": "City Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FPrivate-Guide-In-and-Around-Dubai-Custom-Tour%2Fd828-29206P178%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=df80ddcc0eabc282b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=561527&clt=TM&from=api&nt=true",
+        "price": "$143.00",
+        "rounded_up_price": "$143",
+        "offer_type": "",
+        "title": "Private Dubai Guided Customized Tour",
+        "product_code": "29206P178",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/01/31/7b.jpg",
+        "description": null,
+        "primary_category": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Modern-Development-Tour%2Fd828-2168DXBBOOM%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9431df6ed3364c358&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=561527&clt=TM&from=api&nt=true",
+        "price": "$89.00",
+        "rounded_up_price": "$89",
+        "offer_type": "",
+        "title": "Dubai Architecture Tour, Half-Day with Private Guide",
+        "product_code": "2168DXBBOOM",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/f8/82/07.jpg",
+        "description": null,
+        "primary_category": "Half-day Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

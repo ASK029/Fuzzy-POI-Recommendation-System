@@ -1,0 +1,265 @@
+{
+  "location_id": "190545",
+  "name": "Berliner Dom",
+  "latitude": "52.51915",
+  "longitude": "13.401108",
+  "num_reviews": "10729",
+  "timezone": "Europe/Berlin",
+  "location_string": "Berlin",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/2c/54/54/photo0jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/2c/54/54/photo0jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "640",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/2c/54/54/photo0jpg.jpg",
+        "height": "626"
+      },
+      "large": {
+        "width": "640",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/2c/54/54/photo0jpg.jpg",
+        "height": "626"
+      },
+      "medium": {
+        "width": "460",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/2c/54/54/photo0jpg.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-01-16T14:40:39-0500",
+    "caption": "",
+    "id": "237786196",
+    "helpful_votes": "4",
+    "published_date": "2017-01-16T14:40:39-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.berlin",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9274730682373047",
+  "ranking_geo": "Berlin",
+  "ranking_geo_id": "187323",
+  "ranking_position": "41",
+  "ranking_denominator": "1922",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#41 of 1,922 things to do in Berlin",
+  "subcategory_ranking": "#41 of 1,922 things to do in Berlin",
+  "ranking": "#41 of 1,922 things to do in Berlin",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620490",
+      "name": "Mitte (Borough)"
+    },
+    {
+      "location_id": "7281425",
+      "name": "Mitte"
+    },
+    {
+      "location_id": "15620489",
+      "name": "Museum Island"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190545-Reviews-Berliner_Dom-Berlin.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187323-d190545-Berliner_Dom-Berlin.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Berlin",
+      "abbrv": null,
+      "location_id": "187323"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Berlin",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 30 20269136",
+  "website": "http://www.berlinerdom.de",
+  "email": "info@berlinerdom.de",
+  "address_obj": {
+    "street1": "Am Lustgarten",
+    "street2": null,
+    "city": "Berlin",
+    "state": null,
+    "country": "Germany",
+    "postalcode": "10178"
+  },
+  "address": "Am Lustgarten, 10178 Berlin Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 720,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "175",
+      "name": "Churches & Cathedrals"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBerlin-Highlights-and-Hidden-Sites-Historical-Walking-Tour%2Fd488-5560HIGHLIGHTS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=07cd7aac4eabcc7f0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190545&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$2.45",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBerlin-Highlights-and-Hidden-Sites-Historical-Walking-Tour%2Fd488-5560HIGHLIGHTS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=07cd7aac4eabcc7f0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190545&clt=TM&from=api&nt=true",
+        "price": "$18.48",
+        "rounded_up_price": "$19",
+        "offer_type": "",
+        "title": "Berlin Historical Walking Tour: Highlights and Hidden Sites",
+        "product_code": "5560HIGHLIGHTS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/49/e4/96.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FDiscover-Berlin-Half-Day-Walking-Tour%2Fd488-3817DISCOVER%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3f3d598fd6b46e1bb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190545&clt=TM&from=api&nt=true",
+        "price": "$21.86",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": "Berlin Mitte Walking Tour: Wall, Brandenburg Gate, Reichstag",
+        "product_code": "3817DISCOVER",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b0/78/0a.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2F3-Hour-Berlin-Highlights-Bike-Tour%2Fd488-3933P25%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=428cf18056f03e597&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190545&clt=TM&from=api&nt=true",
+        "price": "$37.16",
+        "rounded_up_price": "$38",
+        "offer_type": "",
+        "title": "Berlin Highlights 3-Hour Bike Tour",
+        "product_code": "3933P25",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/6f/f1/23.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBerlin-City-Hop-on-Hop-off-Tour%2Fd488-3080BBSCC%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=260c5e8b88ecff2f6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190545&clt=TM&from=api&nt=true",
+        "price": "$38.25",
+        "rounded_up_price": "$39",
+        "offer_type": "",
+        "title": "Berlin City Hop-on Hop-off Tour with Optional Cruise",
+        "product_code": "3080BBSCC",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/b2/42/b3.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBerlin-Bike-Tour%2Fd488-3933STDBIKE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=709ca6cfccdf34b3e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190545&clt=TM&from=api&nt=true",
+        "price": "$75.41",
+        "rounded_up_price": "$76",
+        "offer_type": "",
+        "title": "Berlin City Bike Tour with Beer Garden Stop",
+        "product_code": "3933STDBIKE",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/87/ac/49.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

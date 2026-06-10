@@ -1,0 +1,5750 @@
+[
+  {
+    "location_id": "243381",
+    "name": "Mercedes-Benz Museum",
+    "latitude": "48.78837",
+    "longitude": "9.23415",
+    "num_reviews": "8462",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+          "height": "1333"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/ef/f0/ca/museu-da-mercedes-benz.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2015-09-15T16:19:08-0400",
+      "caption": "visão geral",
+      "id": "149942474",
+      "helpful_votes": "10",
+      "published_date": "2015-09-15T16:19:08-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.230875015258789",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "2",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#2 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#2 of 295 things to do in Stuttgart",
+    "ranking": "#2 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "The Museum celebrates the automobile invented by Carl Benz in 1886: it relates its history and tells its stories, bringing both alive by placing them in the context of technology, day-to-day life, social history and popular culture. More than 160 vehicles of all types are the main protagonists. They range from some of the oldest automobiles ever built to legendary racing cars and futuristic research vehicles. Together with other exhibits, they form the centrepiece of the permanent exhibition covering a total of 16,500 square metres in twelve rooms. This unparalleled world can be discovered on two tours that follow a 'Legend' and 'Collection' narrative.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d243381-Reviews-Mercedes_Benz_Museum-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d243381-Mercedes_Benz_Museum-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      },
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 1730000",
+    "website": "http://www.mercedes-benz.com/museum/",
+    "email": "classic@daimler.com",
+    "address_obj": {
+      "street1": "Mercedesstrasse 100",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70372"
+    },
+    "address": "Mercedesstrasse 100, 70372 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "161",
+        "name": "Specialty Museums"
+      },
+      {
+        "key": "3",
+        "name": "Architectural Buildings"
+      },
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHeidelberg%2FIndividual-tour-with-Mercedes-S-Class%2Fd24030-147797P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=15700dc2a21baf00b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=243381&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$1.92",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHeidelberg%2FIndividual-tour-with-Mercedes-S-Class%2Fd24030-147797P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=15700dc2a21baf00b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+          "price": "$327.88",
+          "rounded_up_price": "$328",
+          "offer_type": "",
+          "title": "On tour with a friend and his luxury van",
+          "product_code": "147797P1",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/45/49/9f.jpg",
+          "description": null,
+          "primary_category": "Day Trips"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMunich%2FMYGUiDE-In-and-Around-BLACK-FOREST-Unique-and-Exclusive-3-Country-Tour-from-Munich%2Fd487-173111P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aab3198fb2640245f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+          "price": "$2,243.05",
+          "rounded_up_price": "$2,244",
+          "offer_type": "",
+          "title": "Black Forest: 3 Countries 4-Day Private Tour From Munich",
+          "product_code": "173111P13",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/d7/56/4f.jpg",
+          "description": null,
+          "primary_category": "Multi-day Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBaden-Wurttemberg%2FPrivate-Sightseeing-Flight-Around-Nottingham%2Fd25740-110321P51%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ad14bdd349629a4a1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+          "price": "$175.58",
+          "rounded_up_price": "$176",
+          "offer_type": "",
+          "title": "Private Sightseeing Flight around Stuttgart",
+          "product_code": "110321P51",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/d9/01/2d.jpg",
+          "description": null,
+          "primary_category": "Air Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Half-Day-City-Tour%2Fd28716-280895P459%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c516297a25ad5897a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+          "price": "$426.25",
+          "rounded_up_price": "$427",
+          "offer_type": "",
+          "title": "Stuttgart Half Day City Tour",
+          "product_code": "280895P459",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/73/b9/c1.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Full-Day-City-Tour-with-Free-Photography%2Fd28716-280895P458%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=577ff9877a4db075a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=243381&clt=TM&from=api&nt=true",
+          "price": "$825.17",
+          "rounded_up_price": "$826",
+          "offer_type": "",
+          "title": "Stuttgart Full Day City Tour with Free Photoshoot",
+          "product_code": "280895P458",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/73/b9/bf.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": true
+    }
+  },
+  {
+    "location_id": "257371",
+    "name": "Porsche Museum",
+    "latitude": "48.834465",
+    "longitude": "9.151934",
+    "num_reviews": "4826",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/b8/f0/3a/photo5jpg.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/b8/f0/3a/photo5jpg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/b8/f0/3a/photo5jpg.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/b8/f0/3a/photo5jpg.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/b8/f0/3a/photo5jpg.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2019-03-08T17:49:57-0500",
+      "caption": "",
+      "id": "381218874",
+      "helpful_votes": "3",
+      "published_date": "2019-03-08T17:49:57-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.034866809844971",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "8",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#8 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#8 of 295 things to do in Stuttgart",
+    "ranking": "#8 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.4",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d257371-Reviews-Porsche_Museum-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d257371-Porsche_Museum-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 91120911",
+    "website": "http://www.porsche.de/museum",
+    "email": "info.museum@porsche.de",
+    "address_obj": {
+      "street1": "Porscheplatz 1",
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70435"
+    },
+    "address": "Porscheplatz 1, 70435 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1080
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "161",
+        "name": "Specialty Museums"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMunich%2FMYGUiDE-In-and-Around-BLACK-FOREST-Unique-and-Exclusive-3-Country-Tour-from-Munich%2Fd487-173111P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aab3198fb2640245f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=257371&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$24.51",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMunich%2FMYGUiDE-In-and-Around-BLACK-FOREST-Unique-and-Exclusive-3-Country-Tour-from-Munich%2Fd487-173111P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aab3198fb2640245f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=257371&clt=TM&from=api&nt=true",
+          "price": "$2,243.05",
+          "rounded_up_price": "$2,244",
+          "offer_type": "",
+          "title": "Black Forest: 3 Countries 4-Day Private Tour From Munich",
+          "product_code": "173111P13",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/d7/56/4f.jpg",
+          "description": null,
+          "primary_category": "Multi-day Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMunich%2FWright-Europe-Escorted-Auto-Tours-Trips-And-Vacations%2Fd487-179466P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ec02958ee20f46dc6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=257371&clt=TM&from=api&nt=true",
+          "price": "$3,273.36",
+          "rounded_up_price": "$3,274",
+          "offer_type": "",
+          "title": "Germany 9-Day Auto & Castle Tour",
+          "product_code": "179466P1",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/eb/cf/d6.jpg",
+          "description": null,
+          "primary_category": "Multi-day Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMunich%2FConcorso-Villa-dEste-German-and-Italian-Car-Museums%2Fd487-271359P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=25c3b08b47ffef6a1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=257371&clt=TM&from=api&nt=true",
+          "price": "$3,803.43",
+          "rounded_up_price": "$3,804",
+          "offer_type": "",
+          "title": "Concorso Villa d´Este, German and Italian Car Museums",
+          "product_code": "271359P9",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/3f/7b/cc.jpg",
+          "description": null,
+          "primary_category": "4WD, ATV & Off-Road Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FZurich%2FBlack-Forest-Germany-Drive-Rhine-Falls-Porsche-Museum-Castle%2Fd577-92306P21%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=14aa91fb08f77dab8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=257371&clt=TM&from=api&nt=true",
+          "price": "$4,566.96",
+          "rounded_up_price": "$4,567",
+          "offer_type": "",
+          "title": "4-Day Germany Drive to Rhine Falls Porsche Museum and Castle",
+          "product_code": "92306P21",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/dc/55/2a.jpg",
+          "description": null,
+          "primary_category": "4WD, ATV & Off-Road Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": true
+    }
+  },
+  {
+    "location_id": "6652123",
+    "name": "Public Library Stuttgart",
+    "latitude": "48.789997",
+    "longitude": "9.183069",
+    "num_reviews": "622",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/e3/35/45/caption.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/e3/35/45/caption.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1200",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/e3/35/45/caption.jpg",
+          "height": "900"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/e3/35/45/caption.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/e3/35/45/caption.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2018-05-08T11:30:45-0400",
+      "caption": "図書館の吹き抜け",
+      "id": "316880197",
+      "helpful_votes": "8",
+      "published_date": "2018-05-08T11:30:45-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.0867838859558105",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "3",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#3 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#3 of 295 things to do in Stuttgart",
+    "ranking": "#3 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "open_now_text": "Closed today",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d6652123-Reviews-Public_Library_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d6652123-Public_Library_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "60",
+        "name": "Traveler Resources"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 21691100",
+    "website": "http://www.stuttgart.de/stadtbibliothek",
+    "address_obj": {
+      "street1": "Mailaender Platz 1",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70173"
+    },
+    "address": "Mailaender Platz 1, 70173 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1260
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1260
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "21",
+        "name": "Libraries"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FThe-Instagrammable-Places-of-Stuttgart-with-a-Local%2Fd28716-76654P206%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e3219018529302ff8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=6652123&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$0.10",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FThe-Instagrammable-Places-of-Stuttgart-with-a-Local%2Fd28716-76654P206%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e3219018529302ff8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=6652123&clt=TM&from=api&nt=true",
+          "price": "$108.20",
+          "rounded_up_price": "$109",
+          "offer_type": "",
+          "title": "Stuttgart Guided Instagram Tour",
+          "product_code": "76654P206",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/77/4b/2b.jpg",
+          "description": null,
+          "primary_category": "Walking Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-City-Exploration-Game-and-Tour-on-your-Phone%2Fd28716-462156P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d1ec28dbb07ff5281&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=6652123&clt=TM&from=api&nt=true",
+          "price": "$8.73",
+          "rounded_up_price": "$9",
+          "offer_type": "",
+          "title": "Stuttgart Exploration Game and City Tour on your Phone",
+          "product_code": "462156P9",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/dc/5a/c0.jpg",
+          "description": null,
+          "primary_category": "Historical & Heritage Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Self-Guided-English-Audio-Tour-on-your-Phone%2Fd28716-462156P73%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0f2b747efae64ac2b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=6652123&clt=TM&from=api&nt=true",
+          "price": "$9.29",
+          "rounded_up_price": "$10",
+          "offer_type": "",
+          "title": "Stuttgart Self-Guided English Audio Tour on your Phone",
+          "product_code": "462156P73",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/e5/4d/47.jpg",
+          "description": null,
+          "primary_category": "Historical & Heritage Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": true
+    }
+  },
+  {
+    "location_id": "4943582",
+    "name": "Hohenpark Killesberg",
+    "latitude": "48.804123",
+    "longitude": "9.173729",
+    "num_reviews": "609",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/a7/f5/6b/dahlien-auf-dem-killesberg.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/a7/f5/6b/dahlien-auf-dem-killesberg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/a7/f5/6b/dahlien-auf-dem-killesberg.jpg",
+          "height": "1333"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0c/a7/f5/6b/dahlien-auf-dem-killesberg.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/a7/f5/6b/dahlien-auf-dem-killesberg.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2016-08-23T11:21:02-0400",
+      "caption": "Dahlien auf dem Killesberg",
+      "id": "212333931",
+      "helpful_votes": "4",
+      "published_date": "2016-08-23T11:21:02-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.057306289672852",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "6",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#6 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#6 of 295 things to do in Stuttgart",
+    "ranking": "#6 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d4943582-Reviews-Hohenpark_Killesberg-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d4943582-Hohenpark_Killesberg-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "57",
+        "name": "Nature & Parks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 22280",
+    "website": "http://www.stuttgart.de/hoehenpark-killesberg",
+    "address_obj": {
+      "street1": "Thomastrasse 101",
+      "street2": "Stresemannstraße",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70191"
+    },
+    "address": "Thomastrasse 101 Stresemannstraße, 70191 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "70",
+        "name": "Parks"
+      }
+    ],
+    "animal_welfare_tag": {
+      "tag_text": "Features Animals",
+      "msg_header": "This attraction features animals",
+      "msg_body": "Click below for expert advice on animal welfare in tourism.",
+      "learn_more_text": "Learn more",
+      "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+    },
+    "tags": {
+      "animal_welfare_tag": {
+        "tag_text": "Features Animals",
+        "msg_header": "This attraction features animals",
+        "msg_body": "Click below for expert advice on animal welfare in tourism.",
+        "learn_more_text": "Learn more",
+        "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+      }
+    }
+  },
+  {
+    "location_id": "8820363",
+    "name": "Stuttgarter Weihnachtsmarkt",
+    "latitude": "48.795517",
+    "longitude": "9.220728",
+    "num_reviews": "310",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/df/5e/c7/christmas-market.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/df/5e/c7/christmas-market.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/df/5e/c7/christmas-market.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/df/5e/c7/christmas-market.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/df/5e/c7/christmas-market.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2016-12-14T08:59:50-0500",
+      "caption": "christmas market",
+      "id": "232742599",
+      "helpful_votes": "4",
+      "published_date": "2016-12-14T08:59:50-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.07980489730835",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "4",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#4 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#4 of 295 things to do in Stuttgart",
+    "ranking": "#4 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484599",
+        "name": "Rathaus"
+      }
+    ],
+    "description": "For nearly a month leading up to Christmas, the Stuttgarter Weihnachtsmarkt welcomes over 3 million visitors to shop for wood toys, figurines, and antiques and warm their bellies with mulled wine and fresh gingerbread. Little ones scoot about Children's Fairyland, riding the steam train, designing their own candles, and snacking on chocolate-covered fruit. The market's nativity scene features live lambs, sheep, donkeys, and a goat, and crowds gather for daily concerts performed by choirs and music groups from the Stuttgart region. A tradition dating back over 300 years, the Stuttgarter Weihnachtsmarkt stands as one of Europe's oldest and most lively Christmas markets.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d8820363-Reviews-Stuttgarter_Weihnachtsmarkt-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d8820363-Stuttgarter_Weihnachtsmarkt-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "62",
+        "name": "Events"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 95543300",
+    "website": "http://stuttgarter-weihnachtsmarkt.de/",
+    "address_obj": {
+      "street1": "Mercedesstrasse 50",
+      "street2": "Schillerplatz",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70372"
+    },
+    "address": "Mercedesstrasse 50 Schillerplatz, 70372 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "282",
+        "name": "Cultural Events"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Christmas-Market-Tour%2Fd28716-88037P218%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=09e6a3fffedc95ffa&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=8820363&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$2.81",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Christmas-Market-Tour%2Fd28716-88037P218%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=09e6a3fffedc95ffa&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=8820363&clt=TM&from=api&nt=true",
+          "price": "$256.82",
+          "rounded_up_price": "$257",
+          "offer_type": "",
+          "title": "Stuttgart Christmas Market Tour With A Professional Guide",
+          "product_code": "88037P218",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/22/3c/a2.jpg",
+          "description": null,
+          "primary_category": "Christmas"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": false
+    }
+  },
+  {
+    "location_id": "522407",
+    "name": "Wilhelma Zoologisch-Botanischer Garten",
+    "latitude": "48.804104",
+    "longitude": "9.207996",
+    "num_reviews": "2342",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/91/74/0f/teil-der-fuchsienausstellung.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/91/74/0f/teil-der-fuchsienausstellung.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1618",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/91/74/0f/teil-der-fuchsienausstellung.jpg",
+          "height": "1080"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/91/74/0f/teil-der-fuchsienausstellung.jpg",
+          "height": "684"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/91/74/0f/teil-der-fuchsienausstellung.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-09-06T14:46:45-0400",
+      "caption": "Teil der Fuchsienausstellung, jeweils von Juni bis September",
+      "id": "277967887",
+      "helpful_votes": "6",
+      "published_date": "2017-09-06T14:46:45-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.7693569660186768",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "15",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#15 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#15 of 295 things to do in Stuttgart",
+    "ranking": "#15 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.4",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d522407-Reviews-Wilhelma_Zoologisch_Botanischer_Garten-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d522407-Wilhelma_Zoologisch_Botanischer_Garten-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "48",
+        "name": "Zoos & Aquariums"
+      },
+      {
+        "key": "57",
+        "name": "Nature & Parks"
+      },
+      {
+        "key": "61",
+        "name": "Outdoor Activities"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 54020",
+    "website": "http://www.wilhelma.de",
+    "email": "info@wilhelma.de",
+    "address_obj": {
+      "street1": "Wilhelma 13",
+      "street2": "Neckartalstrasse",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70376"
+    },
+    "address": "Wilhelma 13 Neckartalstrasse, 70376 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 495,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 495,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 495,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 495,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 495,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 495,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 495,
+            "close_time": 1200
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "58",
+        "name": "Gardens"
+      },
+      {
+        "key": "134",
+        "name": "Zoos"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBaden-Wurttemberg%2FPrivate-Sightseeing-Flight-Around-Nottingham%2Fd25740-110321P51%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ad14bdd349629a4a1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=522407&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$1.92",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBaden-Wurttemberg%2FPrivate-Sightseeing-Flight-Around-Nottingham%2Fd25740-110321P51%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ad14bdd349629a4a1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=522407&clt=TM&from=api&nt=true",
+          "price": "$175.58",
+          "rounded_up_price": "$176",
+          "offer_type": "",
+          "title": "Private Sightseeing Flight around Stuttgart",
+          "product_code": "110321P51",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/d9/01/2d.jpg",
+          "description": null,
+          "primary_category": "Air Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": false
+    },
+    "animal_welfare_tag": {
+      "tag_text": "Features Animals",
+      "msg_header": "This attraction features animals",
+      "msg_body": "Click below for expert advice on animal welfare in tourism.",
+      "learn_more_text": "Learn more",
+      "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+    },
+    "tags": {
+      "animal_welfare_tag": {
+        "tag_text": "Features Animals",
+        "msg_header": "This attraction features animals",
+        "msg_body": "Click below for expert advice on animal welfare in tourism.",
+        "learn_more_text": "Learn more",
+        "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+      }
+    }
+  },
+  {
+    "location_id": "187291",
+    "ad_position": "inline1",
+    "ad_size": "8X8",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "detail": "0",
+    "page_type": "attractions",
+    "mob_ptype": "app_attractions"
+  },
+  {
+    "location_id": "13291062",
+    "name": "Miniaturwelten Stuttgart",
+    "latitude": "48.782906",
+    "longitude": "9.180783",
+    "num_reviews": "46",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/6c/64/5d/true-to-scale-replica.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/6c/64/5d/true-to-scale-replica.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/6c/64/5d/true-to-scale-replica.jpg",
+          "height": "848"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/19/6c/64/5d/true-to-scale-replica.jpg",
+          "height": "678"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/6c/64/5d/true-to-scale-replica.jpg",
+          "height": "364"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-09-28T17:48:05-0400",
+      "caption": "True-to-scale replica of the Stuttgart main station.",
+      "id": "426533981",
+      "helpful_votes": "0",
+      "published_date": "2019-09-28T17:48:05-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.1682050228118896",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "35",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#35 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#35 of 295 things to do in Stuttgart",
+    "ranking": "#35 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "The museum Miniaturwelten Stuttgart, located in the beautiful city of Stuttgart, is a true-to-scale replica of the Stuttgart main station from the 80s and 90s. This unique historical cultural asset is the life's work of a man named Wolfgang Frey, who created this legendary model railway layout over an epoch of 30 years. Over 500 buildings were photographed, sketched and recreated by a single man. For every cult enthusiast and artist who appreciates the love in detail, this true-to-scale depiction of the Stuttgart terminus is a true masterpiece.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d13291062-Reviews-Miniaturwelten_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d13291062-Miniaturwelten_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 7032 287992",
+    "website": "https://www.miniaturweltenstuttgart.de/",
+    "email": "info@miniaturweltenstuttgart.de",
+    "address_obj": {
+      "street1": "Arnulf-Klett Platz 1-3",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70173"
+    },
+    "address": "Arnulf-Klett Platz 1-3, 70173 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 780,
+            "close_time": 1020
+          }
+        ],
+        [],
+        [],
+        [],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 780,
+            "close_time": 1020
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "161",
+        "name": "Specialty Museums"
+      }
+    ]
+  },
+  {
+    "location_id": "243380",
+    "name": "Fernsehturm Stuttgart",
+    "latitude": "48.755753",
+    "longitude": "9.190115",
+    "num_reviews": "1191",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/76/30/e1/der-fernsehturm-ist-zwar.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/76/30/e1/der-fernsehturm-ist-zwar.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/76/30/e1/der-fernsehturm-ist-zwar.jpg",
+          "height": "902"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/21/76/30/e1/der-fernsehturm-ist-zwar.jpg",
+          "height": "721"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/76/30/e1/der-fernsehturm-ist-zwar.jpg",
+          "height": "388"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2021-11-26T05:10:26-0500",
+      "caption": "Der Fernsehturm ist zwar nur 217 m hoch. Da er auf dem Hohen Bopser, der höchsten Erhebung Stuttgarts, steht, befindet man sich auf der großen Aussichtsplattform 636 m über dem Meeresspiegel und genießt einen fantastischen Rundumblick.",
+      "id": "561393889",
+      "helpful_votes": "1",
+      "published_date": "2021-11-26T05:10:26-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.765657901763916",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "16",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#16 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#16 of 295 things to do in Stuttgart",
+    "ranking": "#16 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.2",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484602",
+        "name": "Waldau"
+      }
+    ],
+    "description": "The world's very first television tower is to be found in Stuttgart. For more than 60 years now the 217-metre-high tower has defied wind and weather. When building commenced, many of Stuttgart's inhabitants were doubtful as to whether the first ever tower to be constructed from reinforced concrete would hold. After a construction period lasting 20 months, the Stuttgart Television Tower was inaugurated on 5th February 1956. It became a prototype that was imitated and refined all over the world – from Frankfurt and Dortmund to Johannesburg and Wuhan in China.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d243380-Reviews-Fernsehturm_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d243380-Fernsehturm_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 232597",
+    "website": "https://www.fernsehturm-stuttgart.de",
+    "email": "info@fernsehturm-stuttgart.de",
+    "address_obj": {
+      "street1": "Jahnstrasse 120",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70597"
+    },
+    "address": "Jahnstrasse 120, 70597 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 600,
+            "close_time": 1320
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1320
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1320
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "39",
+        "name": "Observation Decks & Towers"
+      },
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      }
+    ]
+  },
+  {
+    "location_id": "243382",
+    "name": "Staatsgalerie Stuttgart",
+    "latitude": "48.780106",
+    "longitude": "9.186581",
+    "num_reviews": "613",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/5d/c1/1e/staatsgalerie-stuttgart.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/5d/c1/1e/staatsgalerie-stuttgart.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/5d/c1/1e/staatsgalerie-stuttgart.jpg",
+          "height": "1330"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/5d/c1/1e/staatsgalerie-stuttgart.jpg",
+          "height": "680"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/5d/c1/1e/staatsgalerie-stuttgart.jpg",
+          "height": "366"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-05-24T03:06:11-0400",
+      "caption": "",
+      "id": "257802526",
+      "helpful_votes": "3",
+      "published_date": "2017-05-24T03:06:11-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.9810478687286377",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "9",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#9 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#9 of 295 things to do in Stuttgart",
+    "ranking": "#9 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.4",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484597",
+        "name": "Oberer Schlossgarten"
+      }
+    ],
+    "description": "With its rich collection of masterworks dating from the fourteenth century to the present, the Staatsgalerie Stuttgart is among Germany’s most popular museums. Both its impressive museum complex and its holdings mirror the link between tradition and modernity. The Staatsgalerie Stuttgart presents its superb collection on some 9,000 square metres of exhibition space offered by the old building of 1843, the famous post-modern Stirling Building, and the Steib Halls constructed in 2002. Among the prominent holdings are the approximately 400,000 works belonging to the Department of Prints, Drawings and Photographs, Early Swabian panel painting and outstanding examples of nineteenth-century Swabian Neoclassicism. The chief emphasis of the museum collection is undoubtedly the Classical Modern period with art spanning the years from 1900 to 1980. Special highlights here are Oskar Schlemmer’s Figurines for the Triadic Ballet of the early 1920s, Henri Matisse’s famous Backs (1909-‒30), numerous works by Picasso including the sculptural group The Bathers (1956), and the Joseph Beuys room installed by the artist himself.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d243382-Reviews-Staatsgalerie_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d243382-Staatsgalerie_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      },
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 470400",
+    "website": "http://www.staatsgalerie.de",
+    "email": "info@staatsgalerie.de",
+    "address_obj": {
+      "street1": "Konrad-Adenauer-Str. 30-32",
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70173"
+    },
+    "address": "Konrad-Adenauer-Str. 30-32, 70173 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "3",
+        "name": "Architectural Buildings"
+      },
+      {
+        "key": "28",
+        "name": "Art Museums"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FArt-and-Culture-of-Stuttgart-with-a-Local%2Fd28716-76654P205%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d271045bcb821e64d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=243382&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$0.10",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FArt-and-Culture-of-Stuttgart-with-a-Local%2Fd28716-76654P205%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d271045bcb821e64d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=243382&clt=TM&from=api&nt=true",
+          "price": "$108.20",
+          "rounded_up_price": "$109",
+          "offer_type": "",
+          "title": "Stuttgart Private Art and Culture Tour",
+          "product_code": "76654P205",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/68/7f.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FDiscover-Stuttgart-in-60-Minutes-with-a-Local%2Fd28716-76654P37%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=57bbf0fb8905a9b7f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=243382&clt=TM&from=api&nt=true",
+          "price": "$75.41",
+          "rounded_up_price": "$76",
+          "offer_type": "",
+          "title": "Stuttgart Highlights Tour With a Local",
+          "product_code": "76654P37",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/68/7f.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Scavenger-Hunt-and-Highlights-Self-Guided-Tour%2Fd28716-178424P232%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2435ff182eddc8951&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=243382&clt=TM&from=api&nt=true",
+          "price": "$8.73",
+          "rounded_up_price": "$9",
+          "offer_type": "",
+          "title": "Stuttgart Scavenger Hunt and Highlights Self-Guided Tour",
+          "product_code": "178424P232",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/30/bd/8c.jpg",
+          "description": null,
+          "primary_category": "Escape Games"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": true
+    }
+  },
+  {
+    "location_id": "311582",
+    "name": "Palace Square",
+    "latitude": "48.77848",
+    "longitude": "9.179547",
+    "num_reviews": "1681",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/23/7e/75/20181022-153852-largejpg.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/23/7e/75/20181022-153852-largejpg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1032",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/23/7e/75/20181022-153852-largejpg.jpg",
+          "height": "774"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/23/7e/75/20181022-153852-largejpg.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/23/7e/75/20181022-153852-largejpg.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2018-10-23T17:05:06-0400",
+      "caption": "",
+      "id": "354647669",
+      "helpful_votes": "2",
+      "published_date": "2018-10-23T17:05:06-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.8869094848632812",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "11",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#11 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#11 of 295 things to do in Stuttgart",
+    "ranking": "#11 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.4",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484597",
+        "name": "Oberer Schlossgarten"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d311582-Reviews-Palace_Square-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d311582-Palace_Square-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 22280",
+    "website": "https://www.stuttgart-tourist.de/en/a-schlossplatz-stuttgart-palace-square",
+    "address_obj": {
+      "street1": null,
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70173"
+    },
+    "address": "70173 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 0,
+            "close_time": 1439
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "17",
+        "name": "Historic Sites"
+      },
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FBest-of-Stuttgart-with-professional-guide%2Fd28716-89617P112%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=91cc7f86fc89207f2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=311582&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$0.10",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FBest-of-Stuttgart-with-professional-guide%2Fd28716-89617P112%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=91cc7f86fc89207f2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=311582&clt=TM&from=api&nt=true",
+          "price": "$448.11",
+          "rounded_up_price": "$449",
+          "offer_type": "",
+          "title": "Stuttgart Highlights Private Guided Tour",
+          "product_code": "89617P112",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/d9/0c/9b.jpg",
+          "description": null,
+          "primary_category": "Historical & Heritage Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FPhotogenic-Stuttgart-with-a-Local%2Fd28716-76654P36%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1cccb839249ec23e3&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=311582&clt=TM&from=api&nt=true",
+          "price": "$86.56",
+          "rounded_up_price": "$87",
+          "offer_type": "",
+          "title": "Stuttgart Photogenic Places Small-Group Tour",
+          "product_code": "76654P36",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/69/45.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FHistorical-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f421cda3f6d3c84e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=311582&clt=TM&from=api&nt=true",
+          "price": "$601.12",
+          "rounded_up_price": "$602",
+          "offer_type": "",
+          "title": "Stuttgart Private Walking Tour with a Local",
+          "product_code": "76654P34",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/67/ea.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-City-Exploration-Game-and-Tour-on-your-Phone%2Fd28716-462156P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d1ec28dbb07ff5281&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=311582&clt=TM&from=api&nt=true",
+          "price": "$8.73",
+          "rounded_up_price": "$9",
+          "offer_type": "",
+          "title": "Stuttgart Exploration Game and City Tour on your Phone",
+          "product_code": "462156P9",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/dc/5a/c0.jpg",
+          "description": null,
+          "primary_category": "Historical & Heritage Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Self-Guided-English-Audio-Tour-on-your-Phone%2Fd28716-462156P73%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0f2b747efae64ac2b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=311582&clt=TM&from=api&nt=true",
+          "price": "$9.29",
+          "rounded_up_price": "$10",
+          "offer_type": "",
+          "title": "Stuttgart Self-Guided English Audio Tour on your Phone",
+          "product_code": "462156P73",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/e5/4d/47.jpg",
+          "description": null,
+          "primary_category": "Historical & Heritage Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": true
+    }
+  },
+  {
+    "location_id": "3258673",
+    "name": "Killesbergturm",
+    "latitude": "48.805294",
+    "longitude": "9.171248",
+    "num_reviews": "362",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/b2/77/f8/killesbergturm.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/b2/77/f8/killesbergturm.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1125",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/b2/77/f8/killesbergturm.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-p/0e/b2/77/f8/killesbergturm.jpg",
+          "height": "733"
+        },
+        "medium": {
+          "width": "338",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/b2/77/f8/killesbergturm.jpg",
+          "height": "450"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2017-03-18T08:54:18-0400",
+      "caption": "Killesbergturm",
+      "id": "246577144",
+      "helpful_votes": "6",
+      "published_date": "2017-03-18T08:54:18-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.056663513183594",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "7",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#7 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#7 of 295 things to do in Stuttgart",
+    "ranking": "#7 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d3258673-Reviews-Killesbergturm-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d3258673-Killesbergturm-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 9979936",
+    "website": "http://www.killesbergturm.de",
+    "address_obj": {
+      "street1": "Thomastrasse 99",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70192"
+    },
+    "address": "Thomastrasse 99, 70192 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 420,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 420,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 420,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 420,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 420,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 420,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 420,
+            "close_time": 1080
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      }
+    ]
+  },
+  {
+    "location_id": "2281822",
+    "name": "Mercedes Benz Arena",
+    "latitude": "48.79233",
+    "longitude": "9.232306",
+    "num_reviews": "404",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/da/df/df/wahnsinnsspiel-zw-vfb.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/da/df/df/wahnsinnsspiel-zw-vfb.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2048",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/da/df/df/wahnsinnsspiel-zw-vfb.jpg",
+          "height": "1536"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/da/df/df/wahnsinnsspiel-zw-vfb.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/da/df/df/wahnsinnsspiel-zw-vfb.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2017-04-02T14:24:20-0400",
+      "caption": "Wahnsinnsspiel zw. VfB Stuttgart und der SG Dynamo Dresden. Ausverkauftes Stadion.",
+      "id": "249225183",
+      "helpful_votes": "8",
+      "published_date": "2017-04-02T14:24:20-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.9308133125305176",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "10",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#10 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#10 of 295 things to do in Stuttgart",
+    "ranking": "#10 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.4",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d2281822-Reviews-Mercedes_Benz_Arena-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d2281822-Mercedes_Benz_Arena-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 99331893",
+    "website": "http://www.mercedes-benz-arena-stuttgart.de/mba/",
+    "email": "arenatour@vfb-stuttgart.de",
+    "address_obj": {
+      "street1": "Mercedesstr. 87",
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70372"
+    },
+    "address": "Mercedesstr. 87, 70372 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "120",
+        "name": "Arenas & Stadiums"
+      }
+    ],
+    "tags": {
+      "urgency_tag": {
+        "tag_text": "<span class=\"highlight\">In high demand</span> - travelers recommend booking ahead!",
+        "attraction_type": "PRODUCTS"
+      }
+    }
+  },
+  {
+    "location_id": "669189",
+    "name": "Konigstrasse",
+    "latitude": "48.778152",
+    "longitude": "9.177954",
+    "num_reviews": "1679",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/12/33/b2/photo3jpg.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/12/33/b2/photo3jpg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2048",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/12/33/b2/photo3jpg.jpg",
+          "height": "1536"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/12/33/b2/photo3jpg.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/12/33/b2/photo3jpg.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-10-24T15:58:46-0400",
+      "caption": "",
+      "id": "286405554",
+      "helpful_votes": "3",
+      "published_date": "2017-10-24T15:58:46-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.6997039318084717",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "18",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#18 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#18 of 295 things to do in Stuttgart",
+    "ranking": "#18 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.2",
+    "is_closed": false,
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484594",
+        "name": "Hauptbahnhof"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d669189-Reviews-Konigstrasse-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d669189-Konigstrasse-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.koenigstr.de",
+    "address_obj": {
+      "street1": null,
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70173"
+    },
+    "address": "70173 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FHistorical-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f421cda3f6d3c84e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=669189&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$6.57",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FHistorical-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f421cda3f6d3c84e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=669189&clt=TM&from=api&nt=true",
+          "price": "$601.12",
+          "rounded_up_price": "$602",
+          "offer_type": "",
+          "title": "Stuttgart Private Walking Tour with a Local",
+          "product_code": "76654P34",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/67/ea.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": false
+    }
+  },
+  {
+    "location_id": "7116780",
+    "name": "Standseilbahn Stuttgart",
+    "latitude": "48.75596",
+    "longitude": "9.142092",
+    "num_reviews": "197",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/85/a9/b7/oben-angekommenbergstation.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/85/a9/b7/oben-angekommenbergstation.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/85/a9/b7/oben-angekommenbergstation.jpg",
+          "height": "1333"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0c/85/a9/b7/oben-angekommenbergstation.jpg",
+          "height": "682"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/85/a9/b7/oben-angekommenbergstation.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2016-08-14T08:18:34-0400",
+      "caption": "Oben angekommen.......Bergstation Waldfriedhof der Standseilbahn.",
+      "id": "210086327",
+      "helpful_votes": "2",
+      "published_date": "2016-08-14T08:18:34-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.6383821964263916",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "20",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#20 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#20 of 295 things to do in Stuttgart",
+    "ranking": "#20 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484592",
+        "name": "Degerloch"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d7116780-Reviews-Standseilbahn_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d7116780-Standseilbahn_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "59",
+        "name": "Transportation"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": "Sudheimer Platz",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70199"
+    },
+    "address": "Sudheimer Platz, 70199 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "49",
+        "name": "Tramways"
+      }
+    ]
+  },
+  {
+    "location_id": "187291",
+    "ad_position": "inline2",
+    "ad_size": "8X8",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "detail": "0",
+    "page_type": "attractions",
+    "mob_ptype": "app_attractions"
+  },
+  {
+    "location_id": "8820178",
+    "name": "Cannstatter Volksfest",
+    "latitude": "48.79711",
+    "longitude": "9.217099",
+    "num_reviews": "141",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/e4/20/49/caption.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/e4/20/49/caption.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/e4/20/49/caption.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/e4/20/49/caption.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/e4/20/49/caption.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-10-06T18:15:33-0400",
+      "caption": "Символ фестиваля, его центр и сувенирный магазин",
+      "id": "283385929",
+      "helpful_votes": "0",
+      "published_date": "2017-10-09T05:13:09-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.2715258598327637",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "27",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#27 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#27 of 295 things to do in Stuttgart",
+    "ranking": "#27 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.4",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "Cannstatter Volksfest in Stuttgart strikes a perfect balance between its funfair and beer celebration, managing to draw both families looking for wholesome fun and revelers seeking rowdier excitement. Over 17 days in late September and early October, about 4 million visitors sample the giant array of funfair rides and attractions, sway under the vibrant canopies of giant beer tents, and peruse myriad stalls in the lively traders' market. Opening day kicks off with the mayor tapping the first keg, while sensational musical fireworks close out the event over two weeks later. In between, the grand parade on the first Sunday and the hot air balloon race the following Sunday serve as festival highlights.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d8820178-Reviews-Cannstatter_Volksfest-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d8820178-Cannstatter_Volksfest-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "62",
+        "name": "Events"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 95543300",
+    "website": "http://www.wasen.de",
+    "email": "info@in.stuttgart.de",
+    "address_obj": {
+      "street1": "Mercedesstr. 50",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70372"
+    },
+    "address": "Mercedesstr. 50, 70372 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "285",
+        "name": "Food & Drink Festivals"
+      }
+    ]
+  },
+  {
+    "location_id": "243376",
+    "name": "Landesmuseum Wurttemberg",
+    "latitude": "48.777348",
+    "longitude": "9.179635",
+    "num_reviews": "371",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/69/2f/7e/castillo-antiguo.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/69/2f/7e/castillo-antiguo.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "3872",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/69/2f/7e/castillo-antiguo.jpg",
+          "height": "2581"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/69/2f/7e/castillo-antiguo.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/69/2f/7e/castillo-antiguo.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2016-10-24T15:43:35-0400",
+      "caption": "Castillo antiguo",
+      "id": "224997246",
+      "helpful_votes": "1",
+      "published_date": "2016-10-24T15:43:35-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.8343403339385986",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "12",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#12 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#12 of 295 things to do in Stuttgart",
+    "ranking": "#12 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.3",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484599",
+        "name": "Rathaus"
+      }
+    ],
+    "description": "The Württemberg State Museum is the largest museum of cultural history in Baden-Württemberg. The museum's collections cover archaeology, art history and cultural history, taking you on a tour through Wurttemberg's past. The collections shine with their diversity and important cultural treasures. Valuable artefacts, exciting stories and compact, accessible background information turn every visit into an experience. The Dürnitz museum foyer, an attractive, freely accessible hall, offers a café, cosy lounge furniture, free Wi-Fi and a shop.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d243376-Reviews-Landesmuseum_Wurttemberg-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d243376-Landesmuseum_Wurttemberg-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      },
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 89535111",
+    "website": "http://www.landesmuseum-stuttgart.de",
+    "email": "info@landesmuseum-stuttgart.de",
+    "address_obj": {
+      "street1": "Schillerplatz 6",
+      "street2": "Old Castle",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70173"
+    },
+    "address": "Schillerplatz 6 Old Castle, 70173 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "6",
+        "name": "Castles"
+      },
+      {
+        "key": "30",
+        "name": "History Museums"
+      }
+    ]
+  },
+  {
+    "location_id": "4081012",
+    "name": "Rubble Hill",
+    "latitude": "48.7653",
+    "longitude": "9.131883",
+    "num_reviews": "204",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/ed/73/82/20160814-150015-largejpg.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/ed/73/82/20160814-150015-largejpg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1008",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/ed/73/82/20160814-150015-largejpg.jpg",
+          "height": "756"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/ed/73/82/20160814-150015-largejpg.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0c/ed/73/82/20160814-150015-largejpg.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2016-09-12T06:43:08-0400",
+      "caption": "",
+      "id": "216888194",
+      "helpful_votes": "1",
+      "published_date": "2016-09-12T06:43:08-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.75608491897583",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "17",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#17 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#17 of 295 things to do in Stuttgart",
+    "ranking": "#17 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d4081012-Reviews-Rubble_Hill-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d4081012-Rubble_Hill-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.stuttgart-tourist.de/a-birkenkopf-monte-scherbelino-stuttgart",
+    "address_obj": {
+      "street1": null,
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70197"
+    },
+    "address": "70197 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      }
+    ]
+  },
+  {
+    "location_id": "1850872",
+    "name": "Grabkapelle auf dem Wuerttemberg",
+    "latitude": "48.7821",
+    "longitude": "9.268538",
+    "num_reviews": "312",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+          "height": "854"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+          "height": "684"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-07-06T06:10:55-0400",
+      "caption": "Grabkapelle auf dem Württemberg",
+      "id": "461466910",
+      "helpful_votes": "0",
+      "published_date": "2020-07-06T06:10:55-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.069322109222412",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "5",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#5 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#5 of 295 things to do in Stuttgart",
+    "ranking": "#5 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "The Sepuchral Chapel on the Württemberg hill was erected by King Wilhelm I. in memoryof his beloved wife Katharina, who died at a young age. Offering a spectacular view of Stuttgart, this Monument to eternal love is considered Baden-Württemberg's most romantic spot.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d1850872-Reviews-Grabkapelle_auf_dem_Wuerttemberg-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d1850872-Grabkapelle_auf_dem_Wuerttemberg-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 337149",
+    "website": "http://www.grabkapelle-rotenberg.de/",
+    "email": "info@grabkapelle-rotenberg.de",
+    "address_obj": {
+      "street1": "Wuerttembergstr. 340",
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70327"
+    },
+    "address": "Wuerttembergstr. 340, 70327 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 660,
+            "close_time": 960
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 660,
+            "close_time": 960
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 960
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 960
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 960
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 960
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "ta_message": {
+      "is_red": false,
+      "is_sensitive_issue": false,
+      "text": "Temporarily closed",
+      "owner_response": null
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "17",
+        "name": "Historic Sites"
+      },
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      },
+      {
+        "key": "3",
+        "name": "Architectural Buildings"
+      }
+    ]
+  },
+  {
+    "location_id": "669188",
+    "name": "Solitude Palace",
+    "latitude": "48.78686",
+    "longitude": "9.084336",
+    "num_reviews": "402",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/74/f0/d7/hauptgebaude-schloss.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/74/f0/d7/hauptgebaude-schloss.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/74/f0/d7/hauptgebaude-schloss.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/74/f0/d7/hauptgebaude-schloss.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/74/f0/d7/hauptgebaude-schloss.jpg",
+          "height": "187"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2018-06-24T10:13:10-0400",
+      "caption": "Hauptgebäude Schloss Solitude",
+      "id": "326430935",
+      "helpful_votes": "1",
+      "published_date": "2018-06-24T10:13:10-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.825183629989624",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "13",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#13 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#13 of 295 things to do in Stuttgart",
+    "ranking": "#13 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.2",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "Solitude Palace is Duke Carl Eugen's most ambitious and most personal creation. An impressive architectural ensemble and spectacular views make it exceptional.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d669188-Reviews-Solitude_Palace-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d669188-Solitude_Palace-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 3514772",
+    "website": "http://www.schloss-solitude.de",
+    "email": "info@schloss-solitude.de",
+    "address_obj": {
+      "street1": "Solitude 1",
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70197"
+    },
+    "address": "Solitude 1, 70197 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [],
+        [],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "17",
+        "name": "Historic Sites"
+      },
+      {
+        "key": "3",
+        "name": "Architectural Buildings"
+      },
+      {
+        "key": "6",
+        "name": "Castles"
+      }
+    ]
+  },
+  {
+    "location_id": "2291761",
+    "name": "Feuerseeplatz",
+    "latitude": "48.77315",
+    "longitude": "9.164847",
+    "num_reviews": "290",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/05/1d/7a/e3/feuerseeplatz.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/1d/7a/e3/feuerseeplatz.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/1d/7a/e3/feuerseeplatz.jpg",
+          "height": "1335"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/05/1d/7a/e3/feuerseeplatz.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/1d/7a/e3/feuerseeplatz.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2013-12-07T22:27:38-0500",
+      "caption": "Johanneskircke am Feuersee - Stuttgart Germany",
+      "id": "85818083",
+      "helpful_votes": "7",
+      "published_date": "2013-12-07T22:27:38-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.787966251373291",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "14",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#14 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#14 of 295 things to do in Stuttgart",
+    "ranking": "#14 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.3",
+    "is_closed": false,
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484593",
+        "name": "Feuersee"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d2291761-Reviews-Feuerseeplatz-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d2291761-Feuerseeplatz-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "address_obj": {
+      "street1": null,
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70178"
+    },
+    "address": "70178 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      },
+      {
+        "key": "175",
+        "name": "Churches & Cathedrals"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FHistorical-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f421cda3f6d3c84e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=2291761&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$6.57",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FHistorical-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f421cda3f6d3c84e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=2291761&clt=TM&from=api&nt=true",
+          "price": "$601.12",
+          "rounded_up_price": "$602",
+          "offer_type": "",
+          "title": "Stuttgart Private Walking Tour with a Local",
+          "product_code": "76654P34",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/67/ea.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": false
+    }
+  },
+  {
+    "location_id": "522630",
+    "name": "Weissenhof Colony",
+    "latitude": "48.80076",
+    "longitude": "9.17708",
+    "num_reviews": "141",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/96/a8/88/weissenhof-colony-weissenhofsi.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/96/a8/88/weissenhof-colony-weissenhofsi.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/96/a8/88/weissenhof-colony-weissenhofsi.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/96/a8/88/weissenhof-colony-weissenhofsi.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/96/a8/88/weissenhof-colony-weissenhofsi.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2014-09-18T12:28:54-0400",
+      "caption": "Museo Le Corbusier",
+      "id": "110536840",
+      "helpful_votes": "0",
+      "published_date": "2014-09-26T04:02:24-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.4086742401123047",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "22",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#22 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#22 of 295 things to do in Stuttgart",
+    "ranking": "#22 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d522630-Reviews-Weissenhof_Colony-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d522630-Weissenhof_Colony-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      },
+      {
+        "key": "51",
+        "name": "Other"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 2579187",
+    "website": "http://www.weissenhofsiedlung.de",
+    "email": "info@freunde-weissenhof.de",
+    "address_obj": {
+      "street1": "Am Weissenhof 20",
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70191"
+    },
+    "address": "Am Weissenhof 20, 70191 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 660,
+            "close_time": 1080
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1080
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1080
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "3",
+        "name": "Architectural Buildings"
+      },
+      {
+        "key": "34",
+        "name": "Neighborhoods"
+      }
+    ]
+  },
+  {
+    "location_id": "8820232",
+    "name": "Stuttgart Spring Festival",
+    "latitude": "48.79873",
+    "longitude": "9.215184",
+    "num_reviews": "70",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/10/70/37/spring-fest.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/10/70/37/spring-fest.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/10/70/37/spring-fest.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/10/70/37/spring-fest.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/10/70/37/spring-fest.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-04-23T10:49:00-0400",
+      "caption": "Spring Fest",
+      "id": "252735543",
+      "helpful_votes": "1",
+      "published_date": "2017-04-23T10:49:00-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.190582752227783",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "32",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#32 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#32 of 295 things to do in Stuttgart",
+    "ranking": "#32 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "It’s not a party until the mayor pops open his barrel of beer… at least that’s what they say in Stuttgart. Frühlingsfest is the festival of spring. For two weeks, in the Bad Cannstatt area of Stuttgart, the festival marks the start of the warmer months and new beginnings. What started as a celebration back in 1818 to mark the end of years of suffering hunger, today the festival is all about guzzling beer, riding the Ferris Wheel, and perusing the markets. An authentic German event, Frühlingsfest is full of family attractions and traditional markets, helping all those who attend to embrace the season of new life. ",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d8820232-Reviews-Stuttgart_Spring_Festival-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d8820232-Stuttgart_Spring_Festival-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "62",
+        "name": "Events"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 95543300",
+    "website": "http://stuttgarter-fruehlingsfest.de/de/home/",
+    "address_obj": {
+      "street1": "Mercedesstr. 50",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70372"
+    },
+    "address": "Mercedesstr. 50, 70372 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "285",
+        "name": "Food & Drink Festivals"
+      }
+    ]
+  },
+  {
+    "location_id": "187291",
+    "ad_position": "inline3",
+    "ad_size": "8X8",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "detail": "0",
+    "page_type": "attractions",
+    "mob_ptype": "app_attractions"
+  },
+  {
+    "location_id": "598921",
+    "name": "Schlossgarten",
+    "latitude": "48.780933",
+    "longitude": "9.182904",
+    "num_reviews": "226",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/30/f8/e3/schlossgarten.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/30/f8/e3/schlossgarten.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/30/f8/e3/schlossgarten.jpg",
+          "height": "412"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/30/f8/e3/schlossgarten.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/04/30/f8/e3/schlossgarten.jpg",
+          "height": "187"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2013-07-14T12:43:21-0400",
+      "caption": "schloßgarten",
+      "id": "70318307",
+      "helpful_votes": "1",
+      "published_date": "2013-07-14T12:43:21-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.273423433303833",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "26",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#26 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#26 of 295 things to do in Stuttgart",
+    "ranking": "#26 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.1",
+    "is_closed": false,
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484597",
+        "name": "Oberer Schlossgarten"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d598921-Reviews-Schlossgarten-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d598921-Schlossgarten-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "57",
+        "name": "Nature & Parks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.schlossgarten.de/",
+    "email": "webmaster@schlossgarten.de",
+    "address_obj": {
+      "street1": "",
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": ""
+    },
+    "address": "Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "70",
+        "name": "Parks"
+      },
+      {
+        "key": "58",
+        "name": "Gardens"
+      }
+    ]
+  },
+  {
+    "location_id": "2283944",
+    "name": "Naturkunde Museum Stuttgart",
+    "latitude": "48.805367",
+    "longitude": "9.190167",
+    "num_reviews": "140",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/ba/5e/75/stuttgart-state-museum.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/ba/5e/75/stuttgart-state-museum.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/08/ba/5e/75/stuttgart-state-museum.jpg",
+          "height": "768"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/ba/5e/75/stuttgart-state-museum.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/ba/5e/75/stuttgart-state-museum.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2015-08-23T05:47:17-0400",
+      "caption": "Natural History Museum",
+      "id": "146431605",
+      "helpful_votes": "3",
+      "published_date": "2015-08-23T05:47:17-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.2054367065429688",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "30",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#30 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#30 of 295 things to do in Stuttgart",
+    "ranking": "#30 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.2",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "The Stuttgart State Museum of Natural History is one of Baden-Württemberg’s most popular museums. A total of 6200 m² exhibition space and numerous activities guarantee an entertaining visit and provide interesting insights into the evolution and diversity of life. The exhibitions are housed in two separate buildings. In the Museum am Löwentor, you can find the paleontological exhibition, documenting the history of life on Earth. In contrast, Schloss Rosenstein provides an overview of present-day animal diversity and Earth’s major ecosystems. With its collections exceeding a total of 11 million objects, the Stuttgart State Museum of Natural History is among Germany’s biggest natural history museums. These collections constitute the basis for the scientific research conducted at the museum.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d2283944-Reviews-Naturkunde_Museum_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d2283944-Naturkunde_Museum_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 89360",
+    "website": "http://www.naturkundemuseum-bw.de/en/",
+    "email": "museum@smns-bw.de",
+    "address_obj": {
+      "street1": "Rosenstein, 1",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70191"
+    },
+    "address": "Rosenstein, 1, 70191 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 600,
+            "close_time": 1080
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1080
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "33",
+        "name": "Natural History Museums"
+      }
+    ]
+  },
+  {
+    "location_id": "6784164",
+    "name": "Johanneskirche",
+    "latitude": "48.77349",
+    "longitude": "9.164471",
+    "num_reviews": "130",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/f3/21/b7/toll.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/f3/21/b7/toll.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2048",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/f3/21/b7/toll.jpg",
+          "height": "1536"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/f3/21/b7/toll.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/f3/21/b7/toll.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-07-19T18:05:23-0400",
+      "caption": "Toll!",
+      "id": "267592119",
+      "helpful_votes": "8",
+      "published_date": "2017-07-19T18:05:23-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.4306399822235107",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "21",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#21 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#21 of 295 things to do in Stuttgart",
+    "ranking": "#21 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.4",
+    "is_closed": false,
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484593",
+        "name": "Feuersee"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d6784164-Reviews-Johanneskirche-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d6784164-Johanneskirche-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "47",
+        "name": "Sights & Landmarks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 628019",
+    "website": "http://www.johannesgemeinde-stuttgart.de/",
+    "address_obj": {
+      "street1": "Gutenbergstr. 11",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70176"
+    },
+    "address": "Gutenbergstr. 11, 70176 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "163",
+        "name": "Points of Interest & Landmarks"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FPhotogenic-Stuttgart-with-a-Local%2Fd28716-76654P36%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1cccb839249ec23e3&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=6784164&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$0.95",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FPhotogenic-Stuttgart-with-a-Local%2Fd28716-76654P36%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1cccb839249ec23e3&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=6784164&clt=TM&from=api&nt=true",
+          "price": "$86.56",
+          "rounded_up_price": "$87",
+          "offer_type": "",
+          "title": "Stuttgart Photogenic Places Small-Group Tour",
+          "product_code": "76654P36",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/69/45.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FArchitectural-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P35%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4670b8c89021f591c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=6784164&clt=TM&from=api&nt=true",
+          "price": "$601.12",
+          "rounded_up_price": "$602",
+          "offer_type": "",
+          "title": "Stuttgart Private Architecture Walking Tour",
+          "product_code": "76654P35",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/68/53.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": true
+    }
+  },
+  {
+    "location_id": "2669011",
+    "name": "Strotmanns Magic Lounge",
+    "latitude": "48.815556",
+    "longitude": "9.213336",
+    "num_reviews": "242",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/09/a6/36/strotmanns-magic-lounge.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/09/a6/36/strotmanns-magic-lounge.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/09/a6/36/strotmanns-magic-lounge.jpg",
+          "height": "1335"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0a/09/a6/36/strotmanns-magic-lounge.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/09/a6/36/strotmanns-magic-lounge.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-01-14T14:02:47-0500",
+      "caption": "Das Auditorium",
+      "id": "168404534",
+      "helpful_votes": "2",
+      "published_date": "2016-01-14T14:02:47-0500",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.375763893127441",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "1",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#1 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#1 of 295 things to do in Stuttgart",
+    "ranking": "#1 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d2669011-Reviews-Strotmanns_Magic_Lounge-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d2669011-Strotmanns_Magic_Lounge-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "58",
+        "name": "Concerts & Shows"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 49091700",
+    "website": "http://www.strotmanns.com",
+    "email": "info@strotmanns.com",
+    "address_obj": {
+      "street1": "Naststr. 41",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70376"
+    },
+    "address": "Naststr. 41, 70376 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 600,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1380
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1380
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "116",
+        "name": "Theaters"
+      }
+    ],
+    "tags": {
+      "urgency_tag": {
+        "tag_text": "<span class=\"highlight\">In high demand</span> - travelers recommend booking ahead!",
+        "attraction_type": "PRODUCTS"
+      }
+    }
+  },
+  {
+    "location_id": "1875301",
+    "name": "Schillerplatz",
+    "latitude": "48.77724",
+    "longitude": "9.17845",
+    "num_reviews": "215",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/9a/f3/0d/schillerplatz.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/9a/f3/0d/schillerplatz.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/9a/f3/0d/schillerplatz.jpg",
+          "height": "1125"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/9a/f3/0d/schillerplatz.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/9a/f3/0d/schillerplatz.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-06-18T04:51:56-0400",
+      "caption": "",
+      "id": "261813005",
+      "helpful_votes": "1",
+      "published_date": "2017-06-18T04:51:56-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.641004800796509",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "19",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#19 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#19 of 295 things to do in Stuttgart",
+    "ranking": "#19 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.2",
+    "is_closed": false,
+    "is_long_closed": false,
+    "neighborhood_info": [
+      {
+        "location_id": "20484599",
+        "name": "Rathaus"
+      }
+    ],
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d1875301-Reviews-Schillerplatz-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d1875301-Schillerplatz-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "57",
+        "name": "Nature & Parks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.stuttgart-tourist.de/a-schillerplatz-stuttgart",
+    "address_obj": {
+      "street1": "Schillerplatz Square",
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70173"
+    },
+    "address": "Schillerplatz Square, 70173 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "70",
+        "name": "Parks"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FHistorical-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f421cda3f6d3c84e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1875301&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$0.09",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FHistorical-Walk-of-Stuttgart-with-a-Local%2Fd28716-76654P34%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f421cda3f6d3c84e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+          "price": "$601.12",
+          "rounded_up_price": "$602",
+          "offer_type": "",
+          "title": "Stuttgart Private Walking Tour with a Local",
+          "product_code": "76654P34",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/51/67/ea.jpg",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FBest-of-Stuttgart-with-professional-guide%2Fd28716-89617P112%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=91cc7f86fc89207f2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+          "price": "$448.11",
+          "rounded_up_price": "$449",
+          "offer_type": "",
+          "title": "Stuttgart Highlights Private Guided Tour",
+          "product_code": "89617P112",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/d9/0c/9b.jpg",
+          "description": null,
+          "primary_category": "Historical & Heritage Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-self-guided-historical-walking-tour%2Fd28716-5530694P33%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6e62012d81f7b706f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+          "price": "$7.64",
+          "rounded_up_price": "$8",
+          "offer_type": "",
+          "title": "Stuttgart Interactive City Tour",
+          "product_code": "5530694P33",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/55/1f/59.jpg",
+          "description": null,
+          "primary_category": "Historical & Heritage Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-City-Exploration-Game-and-Tour-on-your-Phone%2Fd28716-462156P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d1ec28dbb07ff5281&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+          "price": "$8.73",
+          "rounded_up_price": "$9",
+          "offer_type": "",
+          "title": "Stuttgart Exploration Game and City Tour on your Phone",
+          "product_code": "462156P9",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/dc/5a/c0.jpg",
+          "description": null,
+          "primary_category": "Historical & Heritage Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Scavenger-Hunt-and-Highlights-Self-Guided-Tour%2Fd28716-178424P232%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2435ff182eddc8951&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=1875301&clt=TM&from=api&nt=true",
+          "price": "$8.73",
+          "rounded_up_price": "$9",
+          "offer_type": "",
+          "title": "Stuttgart Scavenger Hunt and Highlights Self-Guided Tour",
+          "product_code": "178424P232",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/30/bd/8c.jpg",
+          "description": null,
+          "primary_category": "Escape Games"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": true
+    }
+  },
+  {
+    "location_id": "669171",
+    "name": "Carl-Zeiss-Planetarium",
+    "latitude": "48.78332",
+    "longitude": "9.18688",
+    "num_reviews": "85",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/05/f5/23/28/carl-zeiss-planetarium.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/f5/23/28/carl-zeiss-planetarium.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1632",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/f5/23/28/carl-zeiss-planetarium.jpg",
+          "height": "1224"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/f5/23/28/carl-zeiss-planetarium.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/05/f5/23/28/carl-zeiss-planetarium.jpg",
+          "height": "187"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2014-06-02T11:00:08-0400",
+      "caption": "Beautiful",
+      "id": "99951400",
+      "helpful_votes": "30",
+      "published_date": "2014-06-02T11:00:08-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.9625959396362305",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "47",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#47 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#47 of 295 things to do in Stuttgart",
+    "ranking": "#47 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "3.9",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d669171-Reviews-Carl_Zeiss_Planetarium-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d669171-Carl_Zeiss_Planetarium-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 21689015",
+    "website": "http://www.planetarium-stuttgart.de/",
+    "email": "planetarium@stuttgart.de",
+    "address_obj": {
+      "street1": "Willy-Brandt-Str. 25",
+      "street2": "Mittlerer Schloßgarten",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70173"
+    },
+    "address": "Willy-Brandt-Str. 25 Mittlerer Schloßgarten, 70173 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 750,
+            "close_time": 1170
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 540,
+            "close_time": 750
+          },
+          {
+            "open_time": 840,
+            "close_time": 960
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 750
+          },
+          {
+            "open_time": 840,
+            "close_time": 1200
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 750
+          },
+          {
+            "open_time": 840,
+            "close_time": 960
+          }
+        ],
+        [
+          {
+            "open_time": 840,
+            "close_time": 1290
+          }
+        ],
+        [
+          {
+            "open_time": 750,
+            "close_time": 1155
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "40",
+        "name": "Observatories & Planetariums"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FBest-of-Stuttgart-with-professional-guide%2Fd28716-89617P112%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=91cc7f86fc89207f2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=669171&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$4.90",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FBest-of-Stuttgart-with-professional-guide%2Fd28716-89617P112%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=91cc7f86fc89207f2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=669171&clt=TM&from=api&nt=true",
+          "price": "$448.11",
+          "rounded_up_price": "$449",
+          "offer_type": "",
+          "title": "Stuttgart Highlights Private Guided Tour",
+          "product_code": "89617P112",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/d9/0c/9b.jpg",
+          "description": null,
+          "primary_category": "Historical & Heritage Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": false
+    }
+  },
+  {
+    "location_id": "2287121",
+    "name": "Schweine-Museum",
+    "latitude": "48.785812",
+    "longitude": "9.219915",
+    "num_reviews": "309",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/0c/dc/33/photo5jpg.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/0c/dc/33/photo5jpg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2048",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/dc/33/photo5jpg.jpg",
+          "height": "1536"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/0c/dc/33/photo5jpg.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/0c/dc/33/photo5jpg.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-07-28T06:03:14-0400",
+      "caption": "",
+      "id": "269278259",
+      "helpful_votes": "10",
+      "published_date": "2017-07-28T06:03:14-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.180582284927368",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "33",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#33 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#33 of 295 things to do in Stuttgart",
+    "ranking": "#33 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "3.8",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d2287121-Reviews-Schweine_Museum-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d2287121-Schweine_Museum-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "49",
+        "name": "Museums"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+49 711 66419600",
+    "website": "http://www.schweinemuseum.de/",
+    "email": "saugut@schweinemuseum.de",
+    "address_obj": {
+      "street1": "Schlachthofstr. 2a",
+      "street2": null,
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70188"
+    },
+    "address": "Schlachthofstr. 2a, 70188 Stuttgart, Baden-Wurttemberg Germany",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 660,
+            "close_time": 1020
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1020
+          }
+        ]
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "161",
+        "name": "Specialty Museums"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FThe-Instagrammable-Places-of-Stuttgart-with-a-Local%2Fd28716-76654P206%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e3219018529302ff8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=2287121&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$1.18",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FThe-Instagrammable-Places-of-Stuttgart-with-a-Local%2Fd28716-76654P206%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e3219018529302ff8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=2287121&clt=TM&from=api&nt=true",
+          "price": "$108.20",
+          "rounded_up_price": "$109",
+          "offer_type": "",
+          "title": "Stuttgart Guided Instagram Tour",
+          "product_code": "76654P206",
+          "partner": "Viator",
+          "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/77/4b/2b.jpg",
+          "description": null,
+          "primary_category": "Walking Tours"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": false
+    }
+  },
+  {
+    "location_id": "2291780",
+    "name": "Max-Eyth See",
+    "latitude": "48.83283",
+    "longitude": "9.216292",
+    "num_reviews": "122",
+    "timezone": "Europe/Berlin",
+    "location_string": "Stuttgart, Baden-Wurttemberg",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/18/16/cd/prima.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/18/16/cd/prima.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/18/16/cd/prima.jpg",
+          "height": "720"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/18/16/cd/prima.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/18/16/cd/prima.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2017-07-31T17:11:05-0400",
+      "caption": "Prima!",
+      "id": "270014157",
+      "helpful_votes": "3",
+      "published_date": "2017-07-31T17:11:05-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "eu.germany.stuttgart",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.023714065551758",
+    "ranking_geo": "Stuttgart",
+    "ranking_geo_id": "187291",
+    "ranking_position": "43",
+    "ranking_denominator": "295",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#43 of 295 things to do in Stuttgart",
+    "subcategory_ranking": "#43 of 295 things to do in Stuttgart",
+    "ranking": "#43 of 295 things to do in Stuttgart",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "3.9",
+    "is_closed": false,
+    "is_long_closed": false,
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d2291780-Reviews-Max_Eyth_See-Stuttgart_Baden_Wurttemberg.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g187291-d2291780-Max_Eyth_See-Stuttgart_Baden_Wurttemberg.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Stuttgart",
+        "abbrv": null,
+        "location_id": "187291"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "state",
+            "name": "State"
+          }
+        ],
+        "name": "Baden-Wurttemberg",
+        "abbrv": null,
+        "location_id": "187276"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Germany",
+        "abbrv": null,
+        "location_id": "187275"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "57",
+        "name": "Nature & Parks"
+      }
+    ],
+    "parent_display_name": "Stuttgart",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.stuttgart.de/item/show/54069",
+    "address_obj": {
+      "street1": "Muhlhauser Str 275",
+      "street2": "",
+      "city": "Stuttgart",
+      "state": "Baden-Wurttemberg",
+      "country": "Germany",
+      "postalcode": "70378"
+    },
+    "address": "Muhlhauser Str 275, 70378 Stuttgart, Baden-Wurttemberg Germany",
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "162",
+        "name": "Bodies of Water"
+      }
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+{
+  "location_id": "271009",
+  "name": "Spotify Camp Nou",
+  "latitude": "41.380924",
+  "longitude": "2.122952",
+  "num_reviews": "40366",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/50/29/36/spotify-camp-nou-gol.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/50/29/36/spotify-camp-nou-gol.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/50/29/36/spotify-camp-nou-gol.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/26/50/29/36/spotify-camp-nou-gol.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/50/29/36/spotify-camp-nou-gol.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2022-10-04T10:53:49-0400",
+    "caption": "Spotify Camp Nou Gol de Pedri",
+    "id": "642787638",
+    "helpful_votes": "1",
+    "published_date": "2022-10-04T10:53:49-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.360937118530273",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "12",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#12 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#12 of 1,549 things to do in Barcelona",
+  "ranking": "#12 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15565895",
+      "name": "La Maternitat i Sant Ramon"
+    }
+  ],
+  "description": "This gigantic stadium is the largest soccer stadium in Europe, with a seating capacity of 100,000",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d271009-Reviews-Spotify_Camp_Nou-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d271009-Spotify_Camp_Nou-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 902 18 99 00",
+  "website": "http://www.fcbarcelona.es/tour/comprar-entradas",
+  "email": "museu@fcbarcelona.cat",
+  "address_obj": {
+    "street1": "Carrer d'Aristides Maillol, 12",
+    "street2": null,
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08028"
+  },
+  "address": "Carrer d'Aristides Maillol, 12, 08028 Barcelona Spain",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "120",
+      "name": "Arenas & Stadiums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FCity-Sightseeing-Barcelona-Hop-On-Hop-Off-Tour%2Fd562-2916BARCELONA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e1feb9331a0d2ea7a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=271009&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$8.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FCity-Sightseeing-Barcelona-Hop-On-Hop-Off-Tour%2Fd562-2916BARCELONA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e1feb9331a0d2ea7a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=271009&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona City Sightseeing Hop-On Hop-Off Bus Tour",
+        "product_code": "2916BARCELONA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/7f/a3.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Shore-Excursion-Barcelona-City-Hop-on-Hop-off-Tour%2Fd562-2140BCNHOPPRT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=749ea81e9cb248515&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=271009&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona Hop-On Hop-Off Sightseeing Bus from Cruise Terminal",
+        "product_code": "2140BCNHOPPRT",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/71/96/90.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-City-tours%2Fd562-73995P8%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2cd0e28086ad38a1f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=271009&clt=TM&from=api&nt=true",
+        "price": "$10.93",
+        "rounded_up_price": "$11",
+        "offer_type": "",
+        "title": "Barcelona Self-Guided Audio Walking Tour",
+        "product_code": "73995P8",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/25/46/15.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FPrivate-Tour-Camp-Nou-Tour-Including-Optional-Barcelona-Royal-Polo-Club-Lunch%2Fd562-8647CAMPNOU%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2e964506a1c1efd4f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=271009&clt=TM&from=api&nt=true",
+        "price": "$538.44",
+        "rounded_up_price": "$539",
+        "offer_type": "",
+        "title": "Barcelona Camp Nou Private Tour and Optional Polo Club Lunch",
+        "product_code": "8647CAMPNOU",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/79/84.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Hop-on-Hop-Off-Tour-East-to-West-Route%2Fd562-2140BCNHOP%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=762a16083ff740334&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=271009&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona Hop-On Hop-Off Bus Ticket with Optional Boat",
+        "product_code": "2140BCNHOP",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/71/98/1b.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

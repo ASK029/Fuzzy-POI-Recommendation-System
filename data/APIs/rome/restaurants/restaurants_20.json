@@ -1,0 +1,230 @@
+{
+  "location_id": "17412951",
+  "name": "Pinsitaly Trevi",
+  "latitude": "41.90177",
+  "longitude": "12.484427",
+  "num_reviews": "2148",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/9b/00/5c/pinsitaly-trevi.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/9b/00/5c/pinsitaly-trevi.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/9b/00/5c/pinsitaly-trevi.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/9b/00/5c/pinsitaly-trevi.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/9b/00/5c/pinsitaly-trevi.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2021-08-16T03:30:57-0400",
+    "caption": "Pinsitaly Trevi",
+    "id": "496697436",
+    "helpful_votes": "2",
+    "published_date": "2021-08-16T03:30:57-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.857975959777832",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "17",
+  "ranking_denominator": "11293",
+  "ranking_category": "restaurant",
+  "ranking": "#17 of 12,834 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$5 - $15",
+  "neighborhood_info": [
+    {
+      "location_id": "7230906",
+      "name": "Trevi"
+    },
+    {
+      "location_id": "15621860",
+      "name": "Centro"
+    }
+  ],
+  "description": "Welcome and tidy place where you can taste the only original roman pinsa in it's fragrance and digestibility in the magic roman atmosphere, at only 100 m from the magnificent Trevi's Fountain",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187791-d17412951-Reviews-Pinsitaly_Trevi-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d17412951-Pinsitaly_Trevi-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 275 3973",
+  "website": "http://www.facebook.com/pinsitalytrevi",
+  "address_obj": {
+    "street1": "Via Della Panetteria, 12",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00187"
+  },
+  "address": "Via Della Panetteria, 12, 00187 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 630,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 630,
+          "close_time": 1350
+        }
+      ],
+      [
+        {
+          "open_time": 630,
+          "close_time": 1350
+        }
+      ],
+      [
+        {
+          "open_time": 630,
+          "close_time": 1350
+        }
+      ],
+      [
+        {
+          "open_time": 630,
+          "close_time": 1350
+        }
+      ],
+      [
+        {
+          "open_time": 630,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 630,
+          "close_time": 1380
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "4617",
+      "name": "Italian"
+    },
+    {
+      "key": "10641",
+      "name": "Pizza"
+    },
+    {
+      "key": "10646",
+      "name": "Fast Food"
+    },
+    {
+      "key": "20067",
+      "name": "Romana"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

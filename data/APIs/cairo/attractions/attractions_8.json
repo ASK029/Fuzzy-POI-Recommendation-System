@@ -1,0 +1,214 @@
+{
+  "location_id": "308820",
+  "name": "Cairo Citadel",
+  "latitude": "30.028755",
+  "longitude": "31.259718",
+  "num_reviews": "1339",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/03/39/9e/3f/citadel-al-qalaa.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/03/39/9e/3f/citadel-al-qalaa.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/03/39/9e/3f/citadel-al-qalaa.jpg",
+        "height": "683"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/03/39/9e/3f/citadel-al-qalaa.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/03/39/9e/3f/citadel-al-qalaa.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2012-12-16T19:45:56-0500",
+    "caption": "Main view of the Citadel\r\n",
+    "id": "54107711",
+    "helpful_votes": "3",
+    "published_date": "2012-12-16T19:45:56-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.8802943229675293",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "19",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#19 of 316 things to do in Cairo",
+  "subcategory_ranking": "#19 of 316 things to do in Cairo",
+  "ranking": "#19 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "This massive stone fortress, built by Salah ad-Din in the 12th century, was crowned with the Mosque of Mohammed Ali 700 years later.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d308820-Reviews-Cairo_Citadel-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d308820-Cairo_Citadel-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Salah Salem St",
+    "street2": null,
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11511"
+  },
+  "address": "Salah Salem St, Cairo 11511 Egypt",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FDAY-TRIP-TO-GIZA-PYRAMIDS-OLD-CAIRO-CITADELand-BAZAAR%2Fd782-10726P54%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=498fe2aaad88dd9ec&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=308820&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FDAY-TRIP-TO-GIZA-PYRAMIDS-OLD-CAIRO-CITADELand-BAZAAR%2Fd782-10726P54%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=498fe2aaad88dd9ec&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=308820&clt=TM&from=api&nt=true",
+        "price": "$6.40",
+        "rounded_up_price": "$7",
+        "offer_type": "",
+        "title": "Day Trip to Giza Pyramids Old Cairo Citadel and Bazaar",
+        "product_code": "10726P54",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/2a/2e/1b.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2Fperfect-two-days-Tour-of-Cairo-Egypt%2Fd782-18966P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c8070eeff030ed2e3&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=308820&clt=TM&from=api&nt=true",
+        "price": "$76.35",
+        "rounded_up_price": "$77",
+        "offer_type": "",
+        "title": "Cairo, Giza and Saqqara 2-Day Private Guided Tour",
+        "product_code": "18966P16",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/93/a7/42.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FFull-Day-CAIRO-The-Pyramids-Egyptian-Museum-and-The-Citadel%2Fd782-8672P104%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=b9a1a7557db7b4c1c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=308820&clt=TM&from=api&nt=true",
+        "price": "$60.58",
+        "rounded_up_price": "$61",
+        "offer_type": "",
+        "title": "Old Cairo Private Guided Day Trip with Khan el Khalili",
+        "product_code": "8672P104",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/85/31.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FComplete-Cairo-tour-with-tickets%2Fd782-175595P64%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=395d271a7abdc1014&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=308820&clt=TM&from=api&nt=true",
+        "price": "$27.00",
+        "rounded_up_price": "$27",
+        "offer_type": "",
+        "title": "Old Cairo Private Guided Tour with Tickets, Lunch and Wi-Fi",
+        "product_code": "175595P64",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/67/b4/75.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FHighlights-of-Cairo-Sightseeing-Tour-Visiting-Egyptian-Museum-Citadel-with-Mohamed-Ali-Mosque-and-khan-khalili-Bazaar%2Fd782-10726P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=5b2d27768ed0b5d3a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=308820&clt=TM&from=api&nt=true",
+        "price": "$6.40",
+        "rounded_up_price": "$7",
+        "offer_type": "",
+        "title": "Cairo with Egyptian Museum and Khan Khalili Bazaar Day Tour",
+        "product_code": "10726P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/db/b7/85.jpg",
+        "description": null,
+        "primary_category": "City Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

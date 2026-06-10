@@ -1,0 +1,281 @@
+{
+  "location_id": "191001",
+  "name": "Domus Aurea",
+  "latitude": "41.891148",
+  "longitude": "12.495586",
+  "num_reviews": "1491",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/de/4d/97/mas-pinturas-en-el-techo.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/de/4d/97/mas-pinturas-en-el-techo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/de/4d/97/mas-pinturas-en-el-techo.jpg",
+        "height": "852"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/de/4d/97/mas-pinturas-en-el-techo.jpg",
+        "height": "681"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/de/4d/97/mas-pinturas-en-el-techo.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-07-27T04:39:15-0400",
+    "caption": "Más pinturas en el techo",
+    "id": "333335959",
+    "helpful_votes": "0",
+    "published_date": "2018-07-27T04:39:15-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9882965087890625",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "79",
+  "ranking_denominator": "2764",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#79 of 2,764 things to do in Rome",
+  "subcategory_ranking": "#79 of 2,764 things to do in Rome",
+  "ranking": "#79 of 2,764 things to do in Rome",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621860",
+      "name": "Centro"
+    },
+    {
+      "location_id": "7230909",
+      "name": "Monti"
+    }
+  ],
+  "description": "The imperial estate of Nero was built in 64AD, which is comprised of a series of pavilions, set in an articulated garden with an artificial lake in its center.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187791-d191001-Reviews-Domus_Aurea-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d191001-Domus_Aurea-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 3996 7700",
+  "website": "http://www.coopculture.it/en/poi/domus-aurea",
+  "email": "info@coopculture.it",
+  "address_obj": {
+    "street1": "Viale della Domus Aurea 1",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00184"
+  },
+  "address": "Viale della Domus Aurea 1, 00184 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1110
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1110
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "2",
+      "name": "Ancient Ruins"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FNeros-Palace-Tour-with-Colosseum-and-Ancient-City-Tours%2Fd511-8305P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6c899756f96313471&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=191001&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.46",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FNeros-Palace-Tour-with-Colosseum-and-Ancient-City-Tours%2Fd511-8305P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6c899756f96313471&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=191001&clt=TM&from=api&nt=true",
+        "price": "$398.38",
+        "rounded_up_price": "$399",
+        "offer_type": "",
+        "title": "Rome Private Nero's Golden Palace With Colosseum and Forum",
+        "product_code": "8305P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/74/ef/dd.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FNeros-Golden-House-virtual-reality-tour%2Fd511-90310P30%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d84f128149ab99bfd&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=191001&clt=TM&from=api&nt=true",
+        "price": "$41.53",
+        "rounded_up_price": "$42",
+        "offer_type": "",
+        "title": "A Virtual Reality-Assisted Tour of the Domus Aurea",
+        "product_code": "90310P30",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/b3/47/ab.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FAirport-Transfer-Arrivals-plus-Tour-of-the-Rome%2Fd511-13124P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=00d3e390942bf7aa0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=191001&clt=TM&from=api&nt=true",
+        "price": "$469.05",
+        "rounded_up_price": "$470",
+        "offer_type": "",
+        "title": "Rome Airport to City Transfer plus Driving Tour",
+        "product_code": "13124P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/2a/46/58.jpg",
+        "description": null,
+        "primary_category": "Transportation Services"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FNeros-Golden-House-virtual-reality-tour%2Fd511-179523P26%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8438db76a3aca9167&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=191001&clt=TM&from=api&nt=true",
+        "price": "$41.53",
+        "rounded_up_price": "$42",
+        "offer_type": "",
+        "title": "Golden House of Nero Virtual Reality Tour plus Exhibition",
+        "product_code": "179523P26",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/6b/f1/2c.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FDomus-Aurea-Guided-Tour-The-Golden-House-of-Nero%2Fd511-31810P17%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3bb922d114cd293b4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=191001&clt=TM&from=api&nt=true",
+        "price": "$108.20",
+        "rounded_up_price": "$109",
+        "offer_type": "",
+        "title": "Rome Guided Tour of Domus Aurea",
+        "product_code": "31810P17",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/e8/ef/b1.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "tags": {
+    "urgency_tag": {
+      "tag_text": "<span class=\"highlight\">In high demand</span> - travelers recommend booking ahead!",
+      "attraction_type": "PRODUCTS"
+    }
+  }
+}

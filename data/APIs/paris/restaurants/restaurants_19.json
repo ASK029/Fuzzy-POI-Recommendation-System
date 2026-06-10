@@ -1,0 +1,33 @@
+{
+  "location_id": "187147",
+  "ad_position": "inline3",
+  "ad_size": "8X8",
+  "doubleclick_zone": "eu.france.paris",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "detail": "0",
+  "page_type": "restaurants",
+  "mob_ptype": "app_restaurants"
+}

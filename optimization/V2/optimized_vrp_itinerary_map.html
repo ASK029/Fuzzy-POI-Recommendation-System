@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b5b6181f30a860256e70d8150a08abc2 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+    <h3 style="position: fixed; top: 10px; left: 50px; z-index: 9999;
+               background: white; padding: 8px 12px; border: 1px solid #bbb;
+               font-family: sans-serif; margin: 0;">
+        Optimized VRP itinerary
+    </h3>
+    
+    
+            <div class="folium-map" id="map_b5b6181f30a860256e70d8150a08abc2" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_b5b6181f30a860256e70d8150a08abc2 = L.map(
+                "map_b5b6181f30a860256e70d8150a08abc2",
+                {
+                    center: [36.11489914285714, -115.15181314285714],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_643376dcf858374cb783990b71c791a2 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_643376dcf858374cb783990b71c791a2.addTo(map_b5b6181f30a860256e70d8150a08abc2);
+        
+    
+            var marker_c1e8793a85ceb8f16ec1a4840ef95e7c = L.marker(
+                [36.1147, -115.1728],
+                {
+}
+            ).addTo(map_b5b6181f30a860256e70d8150a08abc2);
+        
+    
+            var icon_0aa30b0d4431dba561a31dc257891f77 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e766ad92193edbdb206d0e8f171e86de = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_f00f514e66dbe1384731626e0ee29199 = $(`<div id="html_f00f514e66dbe1384731626e0ee29199" style="width: 100.0%; height: 100.0%;"><b>Hotel</b><br>Start and end point</div>`)[0];
+                popup_e766ad92193edbdb206d0e8f171e86de.setContent(html_f00f514e66dbe1384731626e0ee29199);
+            
+        
+
+        marker_c1e8793a85ceb8f16ec1a4840ef95e7c.bindPopup(popup_e766ad92193edbdb206d0e8f171e86de)
+        ;
+
+        
+    
+    
+            marker_c1e8793a85ceb8f16ec1a4840ef95e7c.bindTooltip(
+                `<div>
+                     Hotel
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c1e8793a85ceb8f16ec1a4840ef95e7c.setIcon(icon_0aa30b0d4431dba561a31dc257891f77);
+            
+    
+            var feature_group_e21a496cdc7afc8dd8b8a6107924eca8 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_71bf4c9c89af221cce93732c60ab4925 = L.polyline(
+                [[36.1147, -115.1728], [36.1356, -115.427], [36.159775, -115.17124], [36.159775, -115.17124], [36.112858, -115.173], [36.112858, -115.173], [36.11212, -115.174706], [36.113144, -115.17655], [36.1147, -115.1728]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(feature_group_e21a496cdc7afc8dd8b8a6107924eca8);
+        
+    
+            poly_line_71bf4c9c89af221cce93732c60ab4925.bindTooltip(
+                `<div>
+                     Day1 route
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0dfb2ebe0da06e10eae2f7064951e8c9 = L.marker(
+                [36.1356, -115.427],
+                {
+}
+            ).addTo(feature_group_e21a496cdc7afc8dd8b8a6107924eca8);
+        
+    
+            var icon_a253d46e6862a01b742f814eca9b26c1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7af7c989e799c8e2b7c900afd118119c = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_4b47f059c8f22bac690280fa36794cd6 = $(`<div id="html_4b47f059c8f22bac690280fa36794cd6" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">1. Red Rock Canyon National Conservation Area</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> 09:26 - 10:26<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.7<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 26.5 min<br>     </div>     </div>`)[0];
+                popup_7af7c989e799c8e2b7c900afd118119c.setContent(html_4b47f059c8f22bac690280fa36794cd6);
+            
+        
+
+        marker_0dfb2ebe0da06e10eae2f7064951e8c9.bindPopup(popup_7af7c989e799c8e2b7c900afd118119c)
+        ;
+
+        
+    
+    
+            marker_0dfb2ebe0da06e10eae2f7064951e8c9.bindTooltip(
+                `<div>
+                     Day1 stop 1: Red Rock Canyon National Conservation Area
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0dfb2ebe0da06e10eae2f7064951e8c9.setIcon(icon_a253d46e6862a01b742f814eca9b26c1);
+            
+    
+            var marker_1ad5574c73aaf42cb547faee043fbc88 = L.marker(
+                [36.159775, -115.17124],
+                {
+}
+            ).addTo(feature_group_e21a496cdc7afc8dd8b8a6107924eca8);
+        
+    
+            var icon_5fc8ce96963661ebbac1ba55284013c9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f4cc2fc4060d8fece20164f717f5b945 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_6a91d1bddf9ffe0ef3b2061f28f88012 = $(`<div id="html_6a91d1bddf9ffe0ef3b2061f28f88012" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">2. Omelet House</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> 10:49 - 11:49<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.6<br><b>Budget:</b> 20.0<br><b>Travel from previous:</b> 23.1 min<br>     </div>     </div>`)[0];
+                popup_f4cc2fc4060d8fece20164f717f5b945.setContent(html_6a91d1bddf9ffe0ef3b2061f28f88012);
+            
+        
+
+        marker_1ad5574c73aaf42cb547faee043fbc88.bindPopup(popup_f4cc2fc4060d8fece20164f717f5b945)
+        ;
+
+        
+    
+    
+            marker_1ad5574c73aaf42cb547faee043fbc88.bindTooltip(
+                `<div>
+                     Day1 stop 2: Omelet House
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1ad5574c73aaf42cb547faee043fbc88.setIcon(icon_5fc8ce96963661ebbac1ba55284013c9);
+            
+    
+            var marker_f753d95d1d004a0674fe0e8b461056c4 = L.marker(
+                [36.159775, -115.17124],
+                {
+}
+            ).addTo(feature_group_e21a496cdc7afc8dd8b8a6107924eca8);
+        
+    
+            var icon_8a277deb0f24a004f54e82b4d929e89a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_080847b2cee8b1314b2839453cffee8a = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_082726b71c316fe66c41996e79cff2ad = $(`<div id="html_082726b71c316fe66c41996e79cff2ad" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">3. Omelet House</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> 11:49 - 12:49<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.6<br><b>Budget:</b> 20.0<br><b>Travel from previous:</b> 0.0 min<br>     </div>     </div>`)[0];
+                popup_080847b2cee8b1314b2839453cffee8a.setContent(html_082726b71c316fe66c41996e79cff2ad);
+            
+        
+
+        marker_f753d95d1d004a0674fe0e8b461056c4.bindPopup(popup_080847b2cee8b1314b2839453cffee8a)
+        ;
+
+        
+    
+    
+            marker_f753d95d1d004a0674fe0e8b461056c4.bindTooltip(
+                `<div>
+                     Day1 stop 3: Omelet House
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f753d95d1d004a0674fe0e8b461056c4.setIcon(icon_8a277deb0f24a004f54e82b4d929e89a);
+            
+    
+            var marker_c5964e43bc7aebe88871c62ebe0b00d1 = L.marker(
+                [36.112858, -115.173],
+                {
+}
+            ).addTo(feature_group_e21a496cdc7afc8dd8b8a6107924eca8);
+        
+    
+            var icon_dfcfab0c52968308ed5964b2f8e672a7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3dea4c0fd97866c166b6156d14efca5c = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_901ef9ee60bb1514d5338fbdd3697198 = $(`<div id="html_901ef9ee60bb1514d5338fbdd3697198" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">4. The Las Vegas Strip</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> 12:55 - 13:55<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.4<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 5.8 min<br>     </div>     </div>`)[0];
+                popup_3dea4c0fd97866c166b6156d14efca5c.setContent(html_901ef9ee60bb1514d5338fbdd3697198);
+            
+        
+
+        marker_c5964e43bc7aebe88871c62ebe0b00d1.bindPopup(popup_3dea4c0fd97866c166b6156d14efca5c)
+        ;
+
+        
+    
+    
+            marker_c5964e43bc7aebe88871c62ebe0b00d1.bindTooltip(
+                `<div>
+                     Day1 stop 4: The Las Vegas Strip
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c5964e43bc7aebe88871c62ebe0b00d1.setIcon(icon_dfcfab0c52968308ed5964b2f8e672a7);
+            
+    
+            var marker_a3d9e3ed58ddbd8cc43d1f376f5f0e20 = L.marker(
+                [36.112858, -115.173],
+                {
+}
+            ).addTo(feature_group_e21a496cdc7afc8dd8b8a6107924eca8);
+        
+    
+            var icon_ce7ccec3826140657cf28ad45f3b42dd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3edb774cd0318c5ae1385a492a9f028e = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_66d739d6a0cdd0829d1f2bce5aac910b = $(`<div id="html_66d739d6a0cdd0829d1f2bce5aac910b" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">5. The Las Vegas Strip</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> 13:55 - 14:55<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.4<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 0.0 min<br>     </div>     </div>`)[0];
+                popup_3edb774cd0318c5ae1385a492a9f028e.setContent(html_66d739d6a0cdd0829d1f2bce5aac910b);
+            
+        
+
+        marker_a3d9e3ed58ddbd8cc43d1f376f5f0e20.bindPopup(popup_3edb774cd0318c5ae1385a492a9f028e)
+        ;
+
+        
+    
+    
+            marker_a3d9e3ed58ddbd8cc43d1f376f5f0e20.bindTooltip(
+                `<div>
+                     Day1 stop 5: The Las Vegas Strip
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a3d9e3ed58ddbd8cc43d1f376f5f0e20.setIcon(icon_ce7ccec3826140657cf28ad45f3b42dd);
+            
+    
+            var marker_3ecaa46c2cd8332e4c0fd1ae65303984 = L.marker(
+                [36.11212, -115.174706],
+                {
+}
+            ).addTo(feature_group_e21a496cdc7afc8dd8b8a6107924eca8);
+        
+    
+            var icon_104c51c8a3ea42ea583acdcf7017c8d5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d512d3db0a6ed2c794e96b571e8cafff = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_a868b8de1e2a2570665dc291be0494d0 = $(`<div id="html_a868b8de1e2a2570665dc291be0494d0" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">6. Fountains of Bellagio</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> 14:55 - 15:55<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.7<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 0.4 min<br>     </div>     </div>`)[0];
+                popup_d512d3db0a6ed2c794e96b571e8cafff.setContent(html_a868b8de1e2a2570665dc291be0494d0);
+            
+        
+
+        marker_3ecaa46c2cd8332e4c0fd1ae65303984.bindPopup(popup_d512d3db0a6ed2c794e96b571e8cafff)
+        ;
+
+        
+    
+    
+            marker_3ecaa46c2cd8332e4c0fd1ae65303984.bindTooltip(
+                `<div>
+                     Day1 stop 6: Fountains of Bellagio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3ecaa46c2cd8332e4c0fd1ae65303984.setIcon(icon_104c51c8a3ea42ea583acdcf7017c8d5);
+            
+    
+            var marker_d53264e334844b2501c402ff0596f3cd = L.marker(
+                [36.113144, -115.17655],
+                {
+}
+            ).addTo(feature_group_e21a496cdc7afc8dd8b8a6107924eca8);
+        
+    
+            var icon_6271fa9da3f9d373a50d3fb500bf028b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1ac432a6f073e6be6d3136ba89f3fc60 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_a41318f68ddaad3cf16c680262553675 = $(`<div id="html_a41318f68ddaad3cf16c680262553675" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">7. Casino at Bellagio</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day1<br><b>Time:</b> 15:55 - 16:55<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.4<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 0.1 min<br>     </div>     </div>`)[0];
+                popup_1ac432a6f073e6be6d3136ba89f3fc60.setContent(html_a41318f68ddaad3cf16c680262553675);
+            
+        
+
+        marker_d53264e334844b2501c402ff0596f3cd.bindPopup(popup_1ac432a6f073e6be6d3136ba89f3fc60)
+        ;
+
+        
+    
+    
+            marker_d53264e334844b2501c402ff0596f3cd.bindTooltip(
+                `<div>
+                     Day1 stop 7: Casino at Bellagio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d53264e334844b2501c402ff0596f3cd.setIcon(icon_6271fa9da3f9d373a50d3fb500bf028b);
+            
+    
+            feature_group_e21a496cdc7afc8dd8b8a6107924eca8.addTo(map_b5b6181f30a860256e70d8150a08abc2);
+        
+    
+            var feature_group_5e19b890d9c28fb7e8ded65aee5821c0 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_bb6e0ac08d5bb21d717cb8d4e81e1fa9 = L.polyline(
+                [[36.1147, -115.1728], [36.170727, -115.14382], [36.01248, -114.74202], [36.100136, -115.112076], [36.100136, -115.112076], [36.13085, -115.115364], [36.13085, -115.115364], [36.1147, -115.1728]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5e19b890d9c28fb7e8ded65aee5821c0);
+        
+    
+            poly_line_bb6e0ac08d5bb21d717cb8d4e81e1fa9.bindTooltip(
+                `<div>
+                     Day2 route
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_8c8899fc0cf22047819f91b45e2175b8 = L.marker(
+                [36.170727, -115.14382],
+                {
+}
+            ).addTo(feature_group_5e19b890d9c28fb7e8ded65aee5821c0);
+        
+    
+            var icon_7114447355cecb6457b5beefb0acbd9c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_369f7bc5bc0ab9c66b8b2483a9064636 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_08a84d5ee2c3efe1e5a50d5436edce3c = $(`<div id="html_08a84d5ee2c3efe1e5a50d5436edce3c" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">1. Fremont Street Experience</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> 09:07 - 10:07<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.2<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 7.5 min<br>     </div>     </div>`)[0];
+                popup_369f7bc5bc0ab9c66b8b2483a9064636.setContent(html_08a84d5ee2c3efe1e5a50d5436edce3c);
+            
+        
+
+        marker_8c8899fc0cf22047819f91b45e2175b8.bindPopup(popup_369f7bc5bc0ab9c66b8b2483a9064636)
+        ;
+
+        
+    
+    
+            marker_8c8899fc0cf22047819f91b45e2175b8.bindTooltip(
+                `<div>
+                     Day2 stop 1: Fremont Street Experience
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8c8899fc0cf22047819f91b45e2175b8.setIcon(icon_7114447355cecb6457b5beefb0acbd9c);
+            
+    
+            var marker_df0681e1d6fd44e3b04711f953145f14 = L.marker(
+                [36.01248, -114.74202],
+                {
+}
+            ).addTo(feature_group_5e19b890d9c28fb7e8ded65aee5821c0);
+        
+    
+            var icon_7969697c8ab714f85cbd0273267a52e5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e6396ec390f55450e87097f408c50aca = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_ebd6b188bac396303ac6ca1fbdb900bc = $(`<div id="html_ebd6b188bac396303ac6ca1fbdb900bc" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">2. Hoover Dam Bypass</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> 10:43 - 11:43<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.5<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 35.5 min<br>     </div>     </div>`)[0];
+                popup_e6396ec390f55450e87097f408c50aca.setContent(html_ebd6b188bac396303ac6ca1fbdb900bc);
+            
+        
+
+        marker_df0681e1d6fd44e3b04711f953145f14.bindPopup(popup_e6396ec390f55450e87097f408c50aca)
+        ;
+
+        
+    
+    
+            marker_df0681e1d6fd44e3b04711f953145f14.bindTooltip(
+                `<div>
+                     Day2 stop 2: Hoover Dam Bypass
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_df0681e1d6fd44e3b04711f953145f14.setIcon(icon_7969697c8ab714f85cbd0273267a52e5);
+            
+    
+            var marker_3e851d8def661a2a3d8976346d77cd61 = L.marker(
+                [36.100136, -115.112076],
+                {
+}
+            ).addTo(feature_group_5e19b890d9c28fb7e8ded65aee5821c0);
+        
+    
+            var icon_2a9fb8f98d1e9385ccbb0c748e4088ba = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_03a7fa4040c96457eb6b1195faf211c9 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_9c3ce218b8b72211835011027ec46415 = $(`<div id="html_9c3ce218b8b72211835011027ec46415" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">3. Casa Di Amore</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> 12:16 - 13:16<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.5<br><b>Budget:</b> 25.0<br><b>Travel from previous:</b> 33.4 min<br>     </div>     </div>`)[0];
+                popup_03a7fa4040c96457eb6b1195faf211c9.setContent(html_9c3ce218b8b72211835011027ec46415);
+            
+        
+
+        marker_3e851d8def661a2a3d8976346d77cd61.bindPopup(popup_03a7fa4040c96457eb6b1195faf211c9)
+        ;
+
+        
+    
+    
+            marker_3e851d8def661a2a3d8976346d77cd61.bindTooltip(
+                `<div>
+                     Day2 stop 3: Casa Di Amore
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3e851d8def661a2a3d8976346d77cd61.setIcon(icon_2a9fb8f98d1e9385ccbb0c748e4088ba);
+            
+    
+            var marker_4f26c02e6380924ed24c1772fdc8e1cf = L.marker(
+                [36.100136, -115.112076],
+                {
+}
+            ).addTo(feature_group_5e19b890d9c28fb7e8ded65aee5821c0);
+        
+    
+            var icon_0ea4707708657af30692139046743fba = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ac4f1988675ac734adffa71808f5ff06 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_a524cd4ac6b788eba5693ba665ed1403 = $(`<div id="html_a524cd4ac6b788eba5693ba665ed1403" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">4. Casa Di Amore</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> 13:16 - 14:16<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.5<br><b>Budget:</b> 25.0<br><b>Travel from previous:</b> 0.0 min<br>     </div>     </div>`)[0];
+                popup_ac4f1988675ac734adffa71808f5ff06.setContent(html_a524cd4ac6b788eba5693ba665ed1403);
+            
+        
+
+        marker_4f26c02e6380924ed24c1772fdc8e1cf.bindPopup(popup_ac4f1988675ac734adffa71808f5ff06)
+        ;
+
+        
+    
+    
+            marker_4f26c02e6380924ed24c1772fdc8e1cf.bindTooltip(
+                `<div>
+                     Day2 stop 4: Casa Di Amore
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_4f26c02e6380924ed24c1772fdc8e1cf.setIcon(icon_0ea4707708657af30692139046743fba);
+            
+    
+            var marker_488bcfa552ff9af64279c4fb2b47c384 = L.marker(
+                [36.13085, -115.115364],
+                {
+}
+            ).addTo(feature_group_5e19b890d9c28fb7e8ded65aee5821c0);
+        
+    
+            var icon_7c622ec4dd694535ce58a9e638b599c0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e6df6affe19d4e921cf6e3c123857e4a = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_d4e830cc1c2dfd8280599d040af3e047 = $(`<div id="html_d4e830cc1c2dfd8280599d040af3e047" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">5. EGGscellent</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> 14:20 - 15:20<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.8<br><b>Budget:</b> 10.0<br><b>Travel from previous:</b> 4.0 min<br>     </div>     </div>`)[0];
+                popup_e6df6affe19d4e921cf6e3c123857e4a.setContent(html_d4e830cc1c2dfd8280599d040af3e047);
+            
+        
+
+        marker_488bcfa552ff9af64279c4fb2b47c384.bindPopup(popup_e6df6affe19d4e921cf6e3c123857e4a)
+        ;
+
+        
+    
+    
+            marker_488bcfa552ff9af64279c4fb2b47c384.bindTooltip(
+                `<div>
+                     Day2 stop 5: EGGscellent
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_488bcfa552ff9af64279c4fb2b47c384.setIcon(icon_7c622ec4dd694535ce58a9e638b599c0);
+            
+    
+            var marker_c58ec2684ac0529f97e8c0e0a1a397d8 = L.marker(
+                [36.13085, -115.115364],
+                {
+}
+            ).addTo(feature_group_5e19b890d9c28fb7e8ded65aee5821c0);
+        
+    
+            var icon_9b79e248afbbeffa552c6e714fd84265 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ddfaf8e04e7d568ac6f418e6f57c17ea = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_0f2d87b5333b411638cf1f196ff09f4e = $(`<div id="html_0f2d87b5333b411638cf1f196ff09f4e" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">6. EGGscellent</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day2<br><b>Time:</b> 15:20 - 16:20<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.8<br><b>Budget:</b> 10.0<br><b>Travel from previous:</b> 0.0 min<br>     </div>     </div>`)[0];
+                popup_ddfaf8e04e7d568ac6f418e6f57c17ea.setContent(html_0f2d87b5333b411638cf1f196ff09f4e);
+            
+        
+
+        marker_c58ec2684ac0529f97e8c0e0a1a397d8.bindPopup(popup_ddfaf8e04e7d568ac6f418e6f57c17ea)
+        ;
+
+        
+    
+    
+            marker_c58ec2684ac0529f97e8c0e0a1a397d8.bindTooltip(
+                `<div>
+                     Day2 stop 6: EGGscellent
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c58ec2684ac0529f97e8c0e0a1a397d8.setIcon(icon_9b79e248afbbeffa552c6e714fd84265);
+            
+    
+            feature_group_5e19b890d9c28fb7e8ded65aee5821c0.addTo(map_b5b6181f30a860256e70d8150a08abc2);
+        
+    
+            var feature_group_07740aa66055747fde821c9f0224ff51 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var poly_line_133f1eae5524b04bfc2684fda10ed986 = L.polyline(
+                [[36.1147, -115.1728], [36.117783, -115.17258], [36.12764, -115.17304], [36.122715, -115.16892], [36.072174, -115.179665], [36.082073, -115.172775], [36.112244, -115.17042], [36.112244, -115.17042], [36.1147, -115.1728]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(feature_group_07740aa66055747fde821c9f0224ff51);
+        
+    
+            poly_line_133f1eae5524b04bfc2684fda10ed986.bindTooltip(
+                `<div>
+                     Day3 route
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5a4fbfd58167fbde63e4058ec7d770cc = L.marker(
+                [36.117783, -115.17258],
+                {
+}
+            ).addTo(feature_group_07740aa66055747fde821c9f0224ff51);
+        
+    
+            var icon_6fb6553d7efdbc03582bbe7b8abb1fcf = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e87bea2e7d9fb364108cc94086b1fac1 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_376c01b3680f095e3f9d8e69f19b003a = $(`<div id="html_376c01b3680f095e3f9d8e69f19b003a" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">1. The Linq Promenade</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> 09:00 - 10:00<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.4<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 0.4 min<br>     </div>     </div>`)[0];
+                popup_e87bea2e7d9fb364108cc94086b1fac1.setContent(html_376c01b3680f095e3f9d8e69f19b003a);
+            
+        
+
+        marker_5a4fbfd58167fbde63e4058ec7d770cc.bindPopup(popup_e87bea2e7d9fb364108cc94086b1fac1)
+        ;
+
+        
+    
+    
+            marker_5a4fbfd58167fbde63e4058ec7d770cc.bindTooltip(
+                `<div>
+                     Day3 stop 1: The Linq Promenade
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5a4fbfd58167fbde63e4058ec7d770cc.setIcon(icon_6fb6553d7efdbc03582bbe7b8abb1fcf);
+            
+    
+            var marker_8de57d512a2ef6ae510343f17672b39e = L.marker(
+                [36.12764, -115.17304],
+                {
+}
+            ).addTo(feature_group_07740aa66055747fde821c9f0224ff51);
+        
+    
+            var icon_06ec020d4a9f4a8b0e9ee3c4bb5c12ef = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_15e98aa2c300df112f5b40b22afba053 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_5462a31c1406fcc6f72f0b490df47fdc = $(`<div id="html_5462a31c1406fcc6f72f0b490df47fdc" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">2. Fashion Show Las Vegas</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> 10:03 - 11:03<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.3<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 3.1 min<br>     </div>     </div>`)[0];
+                popup_15e98aa2c300df112f5b40b22afba053.setContent(html_5462a31c1406fcc6f72f0b490df47fdc);
+            
+        
+
+        marker_8de57d512a2ef6ae510343f17672b39e.bindPopup(popup_15e98aa2c300df112f5b40b22afba053)
+        ;
+
+        
+    
+    
+            marker_8de57d512a2ef6ae510343f17672b39e.bindTooltip(
+                `<div>
+                     Day3 stop 2: Fashion Show Las Vegas
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8de57d512a2ef6ae510343f17672b39e.setIcon(icon_06ec020d4a9f4a8b0e9ee3c4bb5c12ef);
+            
+    
+            var marker_1bf8e6a9f5858e0b15dcbac2c2aef3bb = L.marker(
+                [36.122715, -115.16892],
+                {
+}
+            ).addTo(feature_group_07740aa66055747fde821c9f0224ff51);
+        
+    
+            var icon_02da25d6a9caf15dcbf0972c6f5ca19e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2f0f91db24f88d6ccda684bbf846a01a = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_470aa144be3145cbaa08a65d6a55b7fb = $(`<div id="html_470aa144be3145cbaa08a65d6a55b7fb" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">3. The Grand Canal Shoppes at The Venetian Resort</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> 11:06 - 12:06<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.5<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 3.1 min<br>     </div>     </div>`)[0];
+                popup_2f0f91db24f88d6ccda684bbf846a01a.setContent(html_470aa144be3145cbaa08a65d6a55b7fb);
+            
+        
+
+        marker_1bf8e6a9f5858e0b15dcbac2c2aef3bb.bindPopup(popup_2f0f91db24f88d6ccda684bbf846a01a)
+        ;
+
+        
+    
+    
+            marker_1bf8e6a9f5858e0b15dcbac2c2aef3bb.bindTooltip(
+                `<div>
+                     Day3 stop 3: The Grand Canal Shoppes at The Venetian Resort
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1bf8e6a9f5858e0b15dcbac2c2aef3bb.setIcon(icon_02da25d6a9caf15dcbf0972c6f5ca19e);
+            
+    
+            var marker_c49e224dc5d3a4fdca6da7ff1bdd1ebf = L.marker(
+                [36.072174, -115.179665],
+                {
+}
+            ).addTo(feature_group_07740aa66055747fde821c9f0224ff51);
+        
+    
+            var icon_944be5b5cf75f03bc75d53ab3f8efeac = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_309cce1c82c6ec2fc2dbd09e9b4150f0 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_4f681538a363d6981967f8200d58168d = $(`<div id="html_4f681538a363d6981967f8200d58168d" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">4. Shelby American, Inc.</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> 12:15 - 13:15<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.6<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 8.4 min<br>     </div>     </div>`)[0];
+                popup_309cce1c82c6ec2fc2dbd09e9b4150f0.setContent(html_4f681538a363d6981967f8200d58168d);
+            
+        
+
+        marker_c49e224dc5d3a4fdca6da7ff1bdd1ebf.bindPopup(popup_309cce1c82c6ec2fc2dbd09e9b4150f0)
+        ;
+
+        
+    
+    
+            marker_c49e224dc5d3a4fdca6da7ff1bdd1ebf.bindTooltip(
+                `<div>
+                     Day3 stop 4: Shelby American, Inc.
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c49e224dc5d3a4fdca6da7ff1bdd1ebf.setIcon(icon_944be5b5cf75f03bc75d53ab3f8efeac);
+            
+    
+            var marker_2491b4bf4237b2abb0c4c60d708aa231 = L.marker(
+                [36.082073, -115.172775],
+                {
+}
+            ).addTo(feature_group_07740aa66055747fde821c9f0224ff51);
+        
+    
+            var icon_ffddccfb7f3871ad2c1b8ec7bad49fc1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e24947a5728be172fab8afd678eeb36e = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_77ef6d460ad1251cb8fce6a37ad51b56 = $(`<div id="html_77ef6d460ad1251cb8fce6a37ad51b56" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">5. Welcome to Fabulous Las Vegas Sign</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> 13:17 - 14:17<br><b>Type:</b> Attraction<br><b>Rating:</b> 4.3<br><b>Budget:</b> 0.0<br><b>Travel from previous:</b> 2.8 min<br>     </div>     </div>`)[0];
+                popup_e24947a5728be172fab8afd678eeb36e.setContent(html_77ef6d460ad1251cb8fce6a37ad51b56);
+            
+        
+
+        marker_2491b4bf4237b2abb0c4c60d708aa231.bindPopup(popup_e24947a5728be172fab8afd678eeb36e)
+        ;
+
+        
+    
+    
+            marker_2491b4bf4237b2abb0c4c60d708aa231.bindTooltip(
+                `<div>
+                     Day3 stop 5: Welcome to Fabulous Las Vegas Sign
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2491b4bf4237b2abb0c4c60d708aa231.setIcon(icon_ffddccfb7f3871ad2c1b8ec7bad49fc1);
+            
+    
+            var marker_3598b271090ef4d544ad300efabcba49 = L.marker(
+                [36.112244, -115.17042],
+                {
+}
+            ).addTo(feature_group_07740aa66055747fde821c9f0224ff51);
+        
+    
+            var icon_c8df095f27e79285ac45f0559acca6a2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a915269ce23702d6a985492b1aae7cc1 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_556af3c9f159f4123a647d9d98b08ff0 = $(`<div id="html_556af3c9f159f4123a647d9d98b08ff0" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">6. Alexxa's</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> 14:21 - 15:21<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.3<br><b>Budget:</b> 20.0<br><b>Travel from previous:</b> 3.6 min<br>     </div>     </div>`)[0];
+                popup_a915269ce23702d6a985492b1aae7cc1.setContent(html_556af3c9f159f4123a647d9d98b08ff0);
+            
+        
+
+        marker_3598b271090ef4d544ad300efabcba49.bindPopup(popup_a915269ce23702d6a985492b1aae7cc1)
+        ;
+
+        
+    
+    
+            marker_3598b271090ef4d544ad300efabcba49.bindTooltip(
+                `<div>
+                     Day3 stop 6: Alexxa's
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3598b271090ef4d544ad300efabcba49.setIcon(icon_c8df095f27e79285ac45f0559acca6a2);
+            
+    
+            var marker_b8c2d6f52fe0ddac018b117c4de3ddfd = L.marker(
+                [36.112244, -115.17042],
+                {
+}
+            ).addTo(feature_group_07740aa66055747fde821c9f0224ff51);
+        
+    
+            var icon_4b5d5765ee125b45dca2967f9b318c69 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f60899c371bb1076270ad0fee11821a3 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_504a082ce590baf7438d4eeee13bbbe2 = $(`<div id="html_504a082ce590baf7438d4eeee13bbbe2" style="width: 100.0%; height: 100.0%;">     <div style="min-width: 180px; font-family: sans-serif;">         <h4 style="margin: 0 0 5px;">7. Alexxa's</h4>         <hr style="margin: 5px 0;">         <b>Day:</b> Day3<br><b>Time:</b> 15:21 - 16:21<br><b>Type:</b> Restaurant<br><b>Rating:</b> 4.3<br><b>Budget:</b> 30.0<br><b>Travel from previous:</b> 0.0 min<br>     </div>     </div>`)[0];
+                popup_f60899c371bb1076270ad0fee11821a3.setContent(html_504a082ce590baf7438d4eeee13bbbe2);
+            
+        
+
+        marker_b8c2d6f52fe0ddac018b117c4de3ddfd.bindPopup(popup_f60899c371bb1076270ad0fee11821a3)
+        ;
+
+        
+    
+    
+            marker_b8c2d6f52fe0ddac018b117c4de3ddfd.bindTooltip(
+                `<div>
+                     Day3 stop 7: Alexxa's
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b8c2d6f52fe0ddac018b117c4de3ddfd.setIcon(icon_4b5d5765ee125b45dca2967f9b318c69);
+            
+    
+            feature_group_07740aa66055747fde821c9f0224ff51.addTo(map_b5b6181f30a860256e70d8150a08abc2);
+        
+    
+            var layer_control_be9b378b1d7eee0e20fbaf0b18a483f6_layers = {
+                base_layers : {
+                    "cartodbpositron" : tile_layer_643376dcf858374cb783990b71c791a2,
+                },
+                overlays :  {
+                    "Day1" : feature_group_e21a496cdc7afc8dd8b8a6107924eca8,
+                    "Day2" : feature_group_5e19b890d9c28fb7e8ded65aee5821c0,
+                    "Day3" : feature_group_07740aa66055747fde821c9f0224ff51,
+                },
+            };
+            let layer_control_be9b378b1d7eee0e20fbaf0b18a483f6 = L.control.layers(
+                layer_control_be9b378b1d7eee0e20fbaf0b18a483f6_layers.base_layers,
+                layer_control_be9b378b1d7eee0e20fbaf0b18a483f6_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": false,
+  "autoZIndex": true,
+}
+            ).addTo(map_b5b6181f30a860256e70d8150a08abc2);
+
+        
+</script>
+</html>

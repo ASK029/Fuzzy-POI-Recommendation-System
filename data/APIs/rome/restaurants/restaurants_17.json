@@ -1,0 +1,254 @@
+{
+  "location_id": "18850657",
+  "name": "Bono Bottega Nostrana - San Pietro",
+  "latitude": "41.899536",
+  "longitude": "12.453533",
+  "num_reviews": "1880",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/dc/1d/62/preferisci-rimanere-leggero.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/dc/1d/62/preferisci-rimanere-leggero.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/dc/1d/62/preferisci-rimanere-leggero.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/25/dc/1d/62/preferisci-rimanere-leggero.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/dc/1d/62/preferisci-rimanere-leggero.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2022-09-15T10:12:42-0400",
+    "caption": "Preferisci rimanere leggero o emozionarti al primo morso? ",
+    "id": "635182434",
+    "helpful_votes": "0",
+    "published_date": "2022-09-15T10:12:42-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.861512660980225",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "15",
+  "ranking_denominator": "11293",
+  "ranking_category": "restaurant",
+  "ranking": "#15 of 12,834 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$",
+  "price": "$3 - $15",
+  "neighborhood_info": [
+    {
+      "location_id": "15621842",
+      "name": "Aurelio"
+    },
+    {
+      "location_id": "7230912",
+      "name": "Trastevere"
+    }
+  ],
+  "description": "Paninoteca Pizzicheria..pane Fatto In Casa, Salumi E Formaggi Di Primissima Qualità. Vini, Birre Alla Spina E Cocktails Fino A Tarda Notte",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187791-d18850657-Reviews-Bono_Bottega_Nostrana_San_Pietro-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d18850657-Bono_Bottega_Nostrana_San_Pietro-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 8923 6830",
+  "website": "https://www.instagram.com/bono.roma/",
+  "email": "luca.angelucci@botteganostrana.com",
+  "address_obj": {
+    "street1": "Via di Porta Cavalleggeri 109/111",
+    "street2": "Centro Commerciale San Pietro",
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00165"
+  },
+  "address": "Via di Porta Cavalleggeri 109/111 Centro Commerciale San Pietro, 00165 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 480,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1560
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "4617",
+      "name": "Italian"
+    },
+    {
+      "key": "10649",
+      "name": "Mediterranean"
+    },
+    {
+      "key": "20067",
+      "name": "Romana"
+    },
+    {
+      "key": "20068",
+      "name": "Lazio"
+    },
+    {
+      "key": "20075",
+      "name": "Central-Italian"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "booking": {
+    "provider": "TheFork",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=222887333&geo=18850657&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=327998557&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2ZWMFMX5Wy8kVt777_wwRog&cs=1a7fa51d016192eba6a78a0f4dcf6c03f"
+  },
+  "reserve_info": {
+    "id": "18850657",
+    "provider": "TheFork",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/TheFork-Logo-2023.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=222887333&geo=18850657&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=327998557&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2ZWMFMX5Wy8kVt777_wwRog&cs=1a7fa51d016192eba6a78a0f4dcf6c03f",
+    "booking_partner_id": "6",
+    "racable": true,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

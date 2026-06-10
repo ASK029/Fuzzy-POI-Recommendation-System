@@ -1,0 +1,282 @@
+{
+  "location_id": "192274",
+  "name": "Basilica di Santa Maria Maggiore",
+  "latitude": "41.897087",
+  "longitude": "12.499375",
+  "num_reviews": "16652",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/63/3f/82/img-20190207-094757-largejpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/63/3f/82/img-20190207-094757-largejpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "992",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/63/3f/82/img-20190207-094757-largejpg.jpg",
+        "height": "744"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/63/3f/82/img-20190207-094757-largejpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/63/3f/82/img-20190207-094757-largejpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2019-02-07T14:20:19-0500",
+    "caption": "",
+    "id": "375603074",
+    "helpful_votes": "16",
+    "published_date": "2019-02-07T14:20:19-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "5.0",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "1",
+  "ranking_denominator": "2764",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 2,764 things to do in Rome",
+  "subcategory_ranking": "#1 of 2,764 things to do in Rome",
+  "ranking": "#1 of 2,764 things to do in Rome",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621860",
+      "name": "Centro"
+    },
+    {
+      "location_id": "15621904",
+      "name": "Termini"
+    },
+    {
+      "location_id": "7230909",
+      "name": "Monti"
+    }
+  ],
+  "description": "One of seven pilgrimage basilicas in the world, this church was founded in 432 AD and is where the famous architect Bernini is buried.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187791-d192274-Reviews-Basilica_di_Santa_Maria_Maggiore-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d192274-Basilica_di_Santa_Maria_Maggiore-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 6988 6800",
+  "website": "http://www.vatican.va/various/basiliche/sm_maggiore/index_fr.html",
+  "address_obj": {
+    "street1": "Piazza di Santa Maria Maggiore 42",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00185"
+  },
+  "address": "Piazza di Santa Maria Maggiore 42, 00185 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 420,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1140
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "175",
+      "name": "Churches & Cathedrals"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FBasilica-of-Santa-Maria-Maggiore-Tour%2Fd511-12855P123%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=576a8852e82e63d35&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=192274&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FBasilica-of-Santa-Maria-Maggiore-Tour%2Fd511-12855P123%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=576a8852e82e63d35&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=192274&clt=TM&from=api&nt=true",
+        "price": "$157.38",
+        "rounded_up_price": "$158",
+        "offer_type": "",
+        "title": "Rome Small-Group Santa Maria Maggiore Tour",
+        "product_code": "12855P123",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/8d/5d/91.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FSmall-Group-Walking-Tour-of-Roman-Churches%2Fd511-20455P105%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3c41f7c42a2c0ad6d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=192274&clt=TM&from=api&nt=true",
+        "price": "$321.32",
+        "rounded_up_price": "$322",
+        "offer_type": "",
+        "title": "Rome Small-Group Churches Tour with Basilica di Santa Prassede",
+        "product_code": "20455P105",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/bf/f3/ab.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-Hop-On-Hop-Off-Sightseeing-Tour%2Fd511-6980ROME%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3026d6186efebbe1d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=192274&clt=TM&from=api&nt=true",
+        "price": "$20.77",
+        "rounded_up_price": "$21",
+        "offer_type": "",
+        "title": "Rome Hop-On Hop-Off Bus Tour with Four Ticket Options",
+        "product_code": "6980ROME",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/16/8a/a7.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FPrivate-Tour-of-Rome-Catholic%2Fd511-14065P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fb5b36459751421eb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=192274&clt=TM&from=api&nt=true",
+        "price": "$60.11",
+        "rounded_up_price": "$61",
+        "offer_type": "",
+        "title": "Private Tour of Catholic Rome",
+        "product_code": "14065P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/fb/9c/de.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-by-Vespa-Sidecar-Tour%2Fd511-75037P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=79c8a97ba0a72a5df&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=192274&clt=TM&from=api&nt=true",
+        "price": "$147.55",
+        "rounded_up_price": "$148",
+        "offer_type": "",
+        "title": "Rome Vespa Sidecar Tour with Roman Breakfast",
+        "product_code": "75037P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/80/9d.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

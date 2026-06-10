@@ -1,0 +1,279 @@
+{
+  "location_id": "244447",
+  "name": "Royal Palace Amsterdam",
+  "latitude": "52.373188",
+  "longitude": "4.891375",
+  "num_reviews": "3554",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/f2/25/d6/night-view.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/f2/25/d6/night-view.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/f2/25/d6/night-view.jpg",
+        "height": "1365"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/06/f2/25/d6/night-view.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/f2/25/d6/night-view.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2014-11-23T16:39:40-0500",
+    "caption": "Night View",
+    "id": "116532694",
+    "helpful_votes": "5",
+    "published_date": "2014-11-23T16:39:40-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.874777317047119",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "38",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#38 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#38 of 1,200 things to do in Amsterdam",
+  "ranking": "#38 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.2",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620085",
+      "name": "Burgwallen-Nieuwe Zijde"
+    },
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "15620171",
+      "name": "Old Center"
+    },
+    {
+      "location_id": "15620184",
+      "name": "Dam Square & Damstraat"
+    }
+  ],
+  "description": "The Royal Palace Amsterdam is in use by the Dutch Royal House. Most of the year, the Royal Palace is alsof open for visitors. You are welcome to discover the rich history and interior of this magnificent building in the heart of Amsterdam. Visitors are welcome to discover the building's rich past and legacies left by it's successive occupants - as Amsterdam's Town Hall for 150 years, the French Royal and Imperial Palace for 5 years and the Palace of the House of Orange for the past two centuries. The Royal Palace was built in the seventeenth century as the Town Hall of Amsterdam, after a design by Jacob van Campen. It's paintings and sculptures were made by some of the most distinguished artists of the time and allude to the city's influence and prosperity in the Dutch Golden Age. In 1808 Louis Napoleon, brother of the French Emperor Napoleon Bonaparte, became King of Holland and converted the Town Hall into a Palace. The superb collection of Empire furniture, clocks and chandeliers date from that period. The collection of Empire furniture is one of the best preserved and most complete collections in the world. The rooms in the Palace are decorated with artworks from the collection of the House of Orange-Nassau Historic Collections Trust. Many paintings show the various members of the family of Orange-Nassau",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d244447-Reviews-Royal_Palace_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d244447-Royal_Palace_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 522 6161",
+  "website": "http://www.paleisamsterdam.nl/",
+  "email": "info@dkh.nl",
+  "address_obj": {
+    "street1": "Nieuwezijds Voorburgwal 147",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1012 RJ"
+  },
+  "address": "Nieuwezijds Voorburgwal 147, 1012 RJ Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "15",
+      "name": "Government Buildings"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAbsolutely-Amsterdam-Tour%2Fd525-152260P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9686e210309d82ace&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=244447&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAbsolutely-Amsterdam-Tour%2Fd525-152260P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9686e210309d82ace&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=244447&clt=TM&from=api&nt=true",
+        "price": "$5.46",
+        "rounded_up_price": "$6",
+        "offer_type": "",
+        "title": "Amsterdam Highlights Small-Group Walking Tour",
+        "product_code": "152260P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/6e/ce/a8.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBrussels%2FAmsterdam-Day-Trip-from-Brussels%2Fd458-2200DEAH%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c8165542ac90483b5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=244447&clt=TM&from=api&nt=true",
+        "price": "$66.67",
+        "rounded_up_price": "$67",
+        "offer_type": "",
+        "title": "Brussels to Amsterdam Day Trip with Kinderdijk Windmills",
+        "product_code": "2200DEAH",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/d9/be/d2.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Walking-Tour%2Fd525-6412WALK%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1dfc8a3278cc8da7f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=244447&clt=TM&from=api&nt=true",
+        "price": "$29.51",
+        "rounded_up_price": "$30",
+        "offer_type": "",
+        "title": "Amsterdam Small-Group Walking Tour with Two Tour Times",
+        "product_code": "6412WALK",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/c6/99/3a.jpg",
+        "description": null,
+        "primary_category": "Walking Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Walking-Tour%2Fd525-126353P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=453df2b0272370f56&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=244447&clt=TM&from=api&nt=true",
+        "price": "$137.44",
+        "rounded_up_price": "$138",
+        "offer_type": "",
+        "title": "Amsterdam Highlights Private Half-Day Walking Tour",
+        "product_code": "126353P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/82/a0/66.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FLgbt-History-Tour-Amsterdam-2-hours-walk-about-lgbt-emancipation%2Fd525-73857P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f60479fdf1337028b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=244447&clt=TM&from=api&nt=true",
+        "price": "$38.25",
+        "rounded_up_price": "$39",
+        "offer_type": "",
+        "title": "LGBTQI+ History Tour of Amsterdam",
+        "product_code": "73857P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/96/6c/ae.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

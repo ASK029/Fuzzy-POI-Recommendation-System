@@ -1,0 +1,224 @@
+{
+  "location_id": "2136682",
+  "name": "Classic Remise Berlin",
+  "latitude": "52.530354",
+  "longitude": "13.318432",
+  "num_reviews": "1148",
+  "timezone": "Europe/Berlin",
+  "location_string": "Berlin",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/c5/82/0b/classic-remise-berlin.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/c5/82/0b/classic-remise-berlin.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/c5/82/0b/classic-remise-berlin.jpg",
+        "height": "1366"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0e/c5/82/0b/classic-remise-berlin.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/c5/82/0b/classic-remise-berlin.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-03-24T17:21:51-0400",
+    "caption": "Classic Remise Berlin",
+    "id": "247824907",
+    "helpful_votes": "8",
+    "published_date": "2017-03-24T17:21:51-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.berlin",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.191770553588867",
+  "ranking_geo": "Berlin",
+  "ranking_geo_id": "187323",
+  "ranking_position": "16",
+  "ranking_denominator": "1922",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#16 of 1,922 things to do in Berlin",
+  "subcategory_ranking": "#16 of 1,922 things to do in Berlin",
+  "ranking": "#16 of 1,922 things to do in Berlin",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620490",
+      "name": "Mitte (Borough)"
+    },
+    {
+      "location_id": "7281425",
+      "name": "Mitte"
+    },
+    {
+      "location_id": "7281900",
+      "name": "Moabit"
+    }
+  ],
+  "description": "A classic car center with vintage cars for sale, glass garages, serviceActually no museum, but museum atmosphere in an old street car (tram) depotRestaurant and event locationNo admission fee",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2136682-Reviews-Classic_Remise_Berlin-Berlin.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187323-d2136682-Classic_Remise_Berlin-Berlin.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Berlin",
+      "abbrv": null,
+      "location_id": "187323"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Berlin",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 30 3640780",
+  "website": "http://www.remise.de",
+  "email": "berlin@remise.de",
+  "address_obj": {
+    "street1": "Wiebestrasse 36 _ 37",
+    "street2": "",
+    "city": "Berlin",
+    "state": null,
+    "country": "Germany",
+    "postalcode": "10553"
+  },
+  "address": "Wiebestrasse 36 _ 37, 10553 Berlin Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FPhotography-City-Tour-Berlin-with-vehicle%2Fd488-132938P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7f93227a4960e6d94&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=2136682&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.03",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FPhotography-City-Tour-Berlin-with-vehicle%2Fd488-132938P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7f93227a4960e6d94&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=2136682&clt=TM&from=api&nt=true",
+        "price": "$644.83",
+        "rounded_up_price": "$645",
+        "offer_type": "",
+        "title": "Berlin Private Sightseeing Car Tour With a Photographer Guide",
+        "product_code": "132938P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/3a/5f/86.jpg",
+        "description": null,
+        "primary_category": "Half-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBerlin-Classic-Remise-Private-Tour-with-Transfer%2Fd488-265432P307%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4022c1eba279fb3fc&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=2136682&clt=TM&from=api&nt=true",
+        "price": "$276.84",
+        "rounded_up_price": "$277",
+        "offer_type": "",
+        "title": "Berlin: Classic Remise Private Tour with Transfer ",
+        "product_code": "265432P307",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/9a/16/9f.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

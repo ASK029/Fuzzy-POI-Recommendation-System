@@ -1,0 +1,22 @@
+{
+  "location_id": "294011",
+  "ad_position": "inline1",
+  "ad_size": "8X8",
+  "doubleclick_zone": "me.syria.damascus",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "detail": "0",
+  "page_type": "attractions",
+  "mob_ptype": "app_attractions"
+}

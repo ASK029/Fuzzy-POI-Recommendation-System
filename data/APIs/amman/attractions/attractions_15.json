@@ -1,0 +1,206 @@
+{
+  "location_id": "655179",
+  "name": "Qasr Al-Harranah",
+  "latitude": "31.728897",
+  "longitude": "36.462852",
+  "num_reviews": "363",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/51/1b/3f/photo0jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/51/1b/3f/photo0jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/51/1b/3f/photo0jpg.jpg",
+        "height": "1536"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/51/1b/3f/photo0jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/51/1b/3f/photo0jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-02-02T04:27:18-0500",
+    "caption": "",
+    "id": "240196415",
+    "helpful_votes": "0",
+    "published_date": "2017-02-02T04:27:18-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.6621298789978027",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "9",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#9 of 118 things to do in Amman",
+  "subcategory_ranking": "#9 of 118 things to do in Amman",
+  "ranking": "#9 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.1",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d655179-Reviews-Qasr_Al_Harranah-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d655179-Qasr_Al_Harranah-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Al-Azraq Hwy",
+    "street2": null,
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": null
+  },
+  "address": "Al-Azraq Hwy, Amman Jordan",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "2",
+      "name": "Ancient Ruins"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-Tour-Desert-Castle-Tour-of-Eastern-Jordan-from-Amman%2Fd5503-2268ZT029DT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=69a932ddf337772fb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=655179&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$74.99",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-Tour-Desert-Castle-Tour-of-Eastern-Jordan-from-Amman%2Fd5503-2268ZT029DT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=69a932ddf337772fb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=655179&clt=TM&from=api&nt=true",
+        "price": "$93.33",
+        "rounded_up_price": "$94",
+        "offer_type": "",
+        "title": "Private Tour of Desert Castles Eastern Jordan with optional Azraq Wetland Visit",
+        "product_code": "2268ZT029DT",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/dd/d4/a9.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FJordan-Horizons-Tours-Eastern-Desert-Castles-Half-Day-Trip-from-Amman%2Fd5503-124334P61%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3da70ff24b3a4098d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=655179&clt=TM&from=api&nt=true",
+        "price": "$133.34",
+        "rounded_up_price": "$134",
+        "offer_type": "",
+        "title": "Eastern Desert Castles Half Day Trip from Amman",
+        "product_code": "124334P61",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/3d/b3/7e.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FHalf-Day-Tour-Desert-Castles-and-Cave-of-the-Seven-Sleepers%2Fd5503-22721P91%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3d49b7d430edb11f8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=655179&clt=TM&from=api&nt=true",
+        "price": "$83.57",
+        "rounded_up_price": "$84",
+        "offer_type": "",
+        "title": "Private Castles and Cave of Seven Sleepers Tour from Amman",
+        "product_code": "22721P91",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/9c/40/65.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FJordan-Horizons-Tours-Amman-Tour-and-Eastern-Desert-Castles-Day-Trip-from-Amman%2Fd5503-124334P55%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ec0de85207b9fd385&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=655179&clt=TM&from=api&nt=true",
+        "price": "$179.49",
+        "rounded_up_price": "$180",
+        "offer_type": "",
+        "title": "Amman Tour & Eastern Desert Castles Day Trip from Amman",
+        "product_code": "124334P55",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/58/f4/58.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FJordan-Horizons-Tours-Desert-Castles-Shaumari-Reserve-and-Azraq-Trip-from-Amman%2Fd5503-124334P62%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=54d9c961693577173&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=655179&clt=TM&from=api&nt=true",
+        "price": "$220.52",
+        "rounded_up_price": "$221",
+        "offer_type": "",
+        "title": "Private Eastern Desert Experience: Castles, Oryx and Wetlands",
+        "product_code": "124334P62",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/5e/02/24.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

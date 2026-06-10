@@ -1,0 +1,279 @@
+{
+  "location_id": "188757",
+  "name": "Louvre Museum",
+  "latitude": "48.861",
+  "longitude": "2.335833",
+  "num_reviews": "102629",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/4f/70/dc/cour-napoleon-et-pyramide.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/4f/70/dc/cour-napoleon-et-pyramide.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1200",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/4f/70/dc/cour-napoleon-et-pyramide.jpg",
+        "height": "801"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/22/4f/70/dc/cour-napoleon-et-pyramide.jpg",
+        "height": "684"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/4f/70/dc/cour-napoleon-et-pyramide.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2022-03-04T10:38:46-0500",
+    "caption": "Cour Napoléon et pyramide © I.M. Pei Musée du Louvre © Musée du Louvre, dist. RMN - Grand Palais Olivier Ouadah",
+    "id": "575631580",
+    "helpful_votes": "23",
+    "published_date": "2022-03-04T10:38:46-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.3982367515563965",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "16",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#16 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#16 of 4,164 things to do in Paris",
+  "ranking": "#16 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7236762",
+      "name": "Louvre / Palais-Royal"
+    },
+    {
+      "location_id": "15621628",
+      "name": "1st Arr. - Louvre"
+    },
+    {
+      "location_id": "13209510",
+      "name": "Saint-Germain-l'Auxerrois"
+    }
+  ],
+  "description": "As one of the largest, oldest, and grandest museums in the world, the Louvre hosts a treasure trove of artworks spanning diverse cultures and periods of history. Marvel at the museum’s greatest hits: the Mona Lisa, the Venus de Milo, Winged Victory, and stunning collections of prized paintings and Greek and Roman statues. It’s not possible to see all of the museum in one visit, so be inspired to return for your next trip to Paris. Buy timed-entry tickets online to skip the lines as the museum is usually packed. You can also join a guided tour to enjoy a curated experience organized and led by an expert. – Tripadvisor",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188757-Reviews-Louvre_Museum-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d188757-Louvre_Museum-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 40 20 53 17",
+  "website": "http://www.louvre.fr",
+  "email": "info@louvre.fr",
+  "address_obj": {
+    "street1": "99 Rue de Rivoli",
+    "street2": null,
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75001"
+  },
+  "address": "99 Rue de Rivoli, 75001 Paris France",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "28",
+      "name": "Art Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSkip-the-Line-Louvre-Museum-Walking-Tour-including-Venus-de-Milo-and-Mona-Lisa%2Fd479-3731LOUVRE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aa88ab854ea8d1b4a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=188757&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$2.61",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSkip-the-Line-Louvre-Museum-Walking-Tour-including-Venus-de-Milo-and-Mona-Lisa%2Fd479-3731LOUVRE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aa88ab854ea8d1b4a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=188757&clt=TM&from=api&nt=true",
+        "price": "$71.04",
+        "rounded_up_price": "$72",
+        "offer_type": "",
+        "title": "Paris: Louvre Skip-the-Line Tour with Private Tour Upgrade",
+        "product_code": "3731LOUVRE",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/ce/b7/65.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FLouvre-Museum-Entry-and-Cruise-Skip-the-Line-To-Mona-Lisa-Option%2Fd479-2050GLO%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4fb24e8be7767308b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=188757&clt=TM&from=api&nt=true",
+        "price": "$54.65",
+        "rounded_up_price": "$55",
+        "offer_type": "",
+        "title": "Louvre Museum Entry",
+        "product_code": "2050GLO",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b2/86/ee.jpg",
+        "description": null,
+        "primary_category": "Museum Tickets & Passes"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FLouvre-Skip-The-Line-Tickets-with-A-Host-and-Choice-of-Itineraries%2Fd479-47475P8%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4604aa80cfcddcd4a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=188757&clt=TM&from=api&nt=true",
+        "price": "$49.18",
+        "rounded_up_price": "$50",
+        "offer_type": "",
+        "title": "Paris: Louvre Museum Guided Outdoor or Indoor Highlights Tour",
+        "product_code": "47475P8",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/40/70/66.jpg",
+        "description": null,
+        "primary_category": "Literary, Art & Music Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2F15-Hour-Louvre-Museum-Must-See-Private-Guided-Tour%2Fd479-6159P12%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=abdd581a725053809&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=188757&clt=TM&from=api&nt=true",
+        "price": "$92.90",
+        "rounded_up_price": "$93",
+        "offer_type": "",
+        "title": "Louvre Museum Private or Small-Group Skip-the-Line Tour",
+        "product_code": "6159P12",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/73/91/78.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FA-Day-in-Paris-Louvre-Reserved-Access-and-1-hour-Cruise%2Fd479-9205P15%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=07c70ba480c7fa2bb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=188757&clt=TM&from=api&nt=true",
+        "price": "$64.48",
+        "rounded_up_price": "$65",
+        "offer_type": "",
+        "title": "Louvre Museum and Seine River Cruise Combo Package",
+        "product_code": "9205P15",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/01/ec/7f.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

@@ -1,0 +1,147 @@
+{
+  "location_id": "598921",
+  "name": "Schlossgarten",
+  "latitude": "48.780933",
+  "longitude": "9.182904",
+  "num_reviews": "226",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/30/f8/e3/schlossgarten.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/30/f8/e3/schlossgarten.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/30/f8/e3/schlossgarten.jpg",
+        "height": "412"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/30/f8/e3/schlossgarten.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/04/30/f8/e3/schlossgarten.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2013-07-14T12:43:21-0400",
+    "caption": "schloßgarten",
+    "id": "70318307",
+    "helpful_votes": "1",
+    "published_date": "2013-07-14T12:43:21-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.273423433303833",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "26",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#26 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#26 of 295 things to do in Stuttgart",
+  "ranking": "#26 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.1",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "20484597",
+      "name": "Oberer Schlossgarten"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d598921-Reviews-Schlossgarten-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d598921-Schlossgarten-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "http://www.schlossgarten.de/",
+  "email": "webmaster@schlossgarten.de",
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": ""
+  },
+  "address": "Stuttgart, Baden-Wurttemberg Germany",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "70",
+      "name": "Parks"
+    },
+    {
+      "key": "58",
+      "name": "Gardens"
+    }
+  ]
+}

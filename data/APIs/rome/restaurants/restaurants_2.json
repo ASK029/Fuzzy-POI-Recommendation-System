@@ -1,0 +1,229 @@
+{
+  "location_id": "8508268",
+  "name": "Bar Palomba",
+  "latitude": "41.90841",
+  "longitude": "12.456694",
+  "num_reviews": "1201",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2b/a6/ef/28/bar-palomba.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2b/a6/ef/28/bar-palomba.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/a6/ef/28/bar-palomba.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2b/a6/ef/28/bar-palomba.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/2b/a6/ef/28/bar-palomba.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2024-03-17T13:13:02-0400",
+    "caption": "Bar palomba😎😎💪💪",
+    "id": "732360488",
+    "helpful_votes": "1",
+    "published_date": "2024-03-17T13:13:02-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.910406112670898",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "2",
+  "ranking_denominator": "11293",
+  "ranking_category": "restaurant",
+  "ranking": "#2 of 12,834 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$",
+  "neighborhood_info": [
+    {
+      "location_id": "7230923",
+      "name": "Prati"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187791-d8508268-Reviews-Bar_Palomba-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d8508268-Bar_Palomba-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "cafe",
+      "name": "Café"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 3972 6238",
+  "website": "http://www.facebook.com/Bar-Palomba-598289856854816/",
+  "address_obj": {
+    "street1": "Via Vespasiano, 52",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00192"
+  },
+  "address": "Via Vespasiano, 52, 00192 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 420,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 1200
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "4617",
+      "name": "Italian"
+    },
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10642",
+      "name": "Cafe"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "20067",
+      "name": "Romana"
+    },
+    {
+      "key": "20068",
+      "name": "Lazio"
+    },
+    {
+      "key": "20075",
+      "name": "Central-Italian"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

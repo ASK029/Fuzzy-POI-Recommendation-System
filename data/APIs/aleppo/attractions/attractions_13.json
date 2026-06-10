@@ -1,0 +1,93 @@
+{
+  "location_id": "324961",
+  "name": "Villa Rose",
+  "num_reviews": "1",
+  "timezone": "Asia/Damascus",
+  "location_string": "Aleppo, Aleppo Governorate",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7300000190734863",
+  "ranking_geo": "Aleppo",
+  "ranking_geo_id": "295416",
+  "ranking_position": "12",
+  "ranking_denominator": "17",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#12 of 17 things to do in Aleppo",
+  "subcategory_ranking": "#12 of 17 things to do in Aleppo",
+  "ranking": "#12 of 17 things to do in Aleppo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295416-d324961-Reviews-Villa_Rose-Aleppo_Aleppo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295416-d324961-Villa_Rose-Aleppo_Aleppo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Aleppo",
+      "abbrv": null,
+      "location_id": "295416"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Aleppo Governorate",
+      "abbrv": null,
+      "location_id": "2625571"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Aleppo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Soulaymanieh",
+    "street2": "",
+    "city": "Aleppo",
+    "state": null,
+    "country": "Syria",
+    "postalcode": ""
+  },
+  "address": "Soulaymanieh, Aleppo Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    }
+  ]
+}

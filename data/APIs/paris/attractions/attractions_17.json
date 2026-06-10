@@ -1,0 +1,220 @@
+{
+  "location_id": "292257",
+  "name": "Le Marais",
+  "latitude": "48.861237",
+  "longitude": "2.358197",
+  "num_reviews": "13000",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/ad/0a/72/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/ad/0a/72/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/ad/0a/72/caption.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/ad/0a/72/caption.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/ad/0a/72/caption.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-04-18T07:13:28-0400",
+    "caption": "квартал Маре",
+    "id": "313330290",
+    "helpful_votes": "5",
+    "published_date": "2018-04-18T07:13:28-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.889438629150391",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "4",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#4 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#4 of 4,164 things to do in Paris",
+  "ranking": "#4 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621598",
+      "name": "Saint-Gervais"
+    },
+    {
+      "location_id": "7236763",
+      "name": "Le Marais"
+    }
+  ],
+  "description": "Get lost in one of the most charming neighborhoods in Paris, brimming with unique boutiques and stylish art galleries. Besides its vibrant LGBTQIA+ community, Le Marais also has a rich Jewish heritage, with winding streets lined with historic medieval architecture. If you're looking for a night out, head to one of the many gay bars or clubs that the area is known for. Take a walking tour to discover fascinating insights about the neighborhood, or a food tour to have a taste of the area's vibrant culinary scene—travelers say the falafel is some of the best! Visit during the week for fewer crowds and wear comfortable walking shoes to navigate the neighborhood's cobblestone streets.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d292257-Reviews-Le_Marais-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d292257-Le_Marais-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": null,
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": null
+  },
+  "address": "Paris France",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "34",
+      "name": "Neighborhoods"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FLe-Marais-Explore-The-Old-Paris%2Fd479-30791P283%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=5291066b498d284a0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=292257&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$7.50",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FLe-Marais-Explore-The-Old-Paris%2Fd479-30791P283%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=5291066b498d284a0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=292257&clt=TM&from=api&nt=true",
+        "price": "$107.41",
+        "rounded_up_price": "$108",
+        "offer_type": "",
+        "title": "Le Marais Private Walking Tour with a Local, Explore its Old World Charm ",
+        "product_code": "30791P283",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/77/c6/f7.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSemi-Private-Guided-Walking-Tour-Le-Marais-District-Jewish-Quarter%2Fd479-6353P26%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=45f905730b668af51&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=292257&clt=TM&from=api&nt=true",
+        "price": "$53.93",
+        "rounded_up_price": "$54",
+        "offer_type": "",
+        "title": "Paris: Le Marais, Jewish Quarter Small-Group or Private Tour",
+        "product_code": "6353P26",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/16/d5/da.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FFall-in-love-with-Paris-in-3-hours%2Fd479-123350P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6269539ab37f7bbd8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=292257&clt=TM&from=api&nt=true",
+        "price": "$163.94",
+        "rounded_up_price": "$164",
+        "offer_type": "",
+        "title": "Paris: Secret Corners Insider Walking Tour",
+        "product_code": "123350P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/0d/db/ae.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FPrivate-Shopping-Tour-with-a-Personal-Shopper%2Fd479-10392P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=550ab2bd02151bbe4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=292257&clt=TM&from=api&nt=true",
+        "price": "$327.88",
+        "rounded_up_price": "$328",
+        "offer_type": "",
+        "title": "The Parisian Experience: Styling & Shopping Experience in Paris",
+        "product_code": "10392P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/e3/90/4a.jpg",
+        "description": null,
+        "primary_category": "Shopping Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FPrivate-Guided-Walking-Tour-Le-Marais-District-Jewish-Quarter%2Fd479-6353P25%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=18c87f908ad92e006&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=292257&clt=TM&from=api&nt=true",
+        "price": "$53.93",
+        "rounded_up_price": "$54",
+        "offer_type": "",
+        "title": "Paris: Le Marais Private or Small-Group Walking Tour",
+        "product_code": "6353P25",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/16/d5/da.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

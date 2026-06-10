@@ -1,0 +1,218 @@
+{
+  "location_id": "191109",
+  "name": "St. Peter's Square",
+  "latitude": "41.90217",
+  "longitude": "12.457281",
+  "num_reviews": "9033",
+  "timezone": "Europe/Vatican",
+  "location_string": "Vatican City, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/1d/d8/2f/st-peter-s-square-piazza.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/1d/d8/2f/st-peter-s-square-piazza.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1999",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/1d/d8/2f/st-peter-s-square-piazza.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/1d/d8/2f/st-peter-s-square-piazza.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/1d/d8/2f/st-peter-s-square-piazza.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2014-07-02T08:17:45-0400",
+    "caption": "Piazza San Pietro",
+    "id": "102619183",
+    "helpful_votes": "10",
+    "published_date": "2014-07-02T12:02:05-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.italy.lazio.vatican_city",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.216245651245117",
+  "ranking_geo": "Vatican City",
+  "ranking_geo_id": "187793",
+  "ranking_position": "8",
+  "ranking_denominator": "57",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#8 of 57 things to do in Vatican City",
+  "subcategory_ranking": "#8 of 57 things to do in Vatican City",
+  "ranking": "#8 of 57 things to do in Vatican City",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230922",
+      "name": "Vatican / Borgo"
+    }
+  ],
+  "description": "This grand and magnificent square has retained its classical beauty and serves as the place from which the masses receive the Pope's weekly blessing.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187793-d191109-Reviews-St_Peter_s_Square-Vatican_City_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187793-d191109-St_Peter_s_Square-Vatican_City_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Vatican City",
+      "abbrv": null,
+      "location_id": "187793"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Vatican City",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "https://www.basilicasanpietro.va/en/san-pietro/the-square",
+  "address_obj": {
+    "street1": "Borgo Santo Spirito",
+    "street2": "Piazza Papa Pio XII",
+    "city": "Vatican City",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00120"
+  },
+  "address": "Borgo Santo Spirito Piazza Papa Pio XII, 00120 Vatican City Italy",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FSkip-the-Line-Group-Tour-of-the-Vatican-Sistine-Chapel-and-St-Peters-Basilica%2Fd511-120123P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=22e4f1af55a3be52f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=191109&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FSkip-the-Line-Group-Tour-of-the-Vatican-Sistine-Chapel-and-St-Peters-Basilica%2Fd511-120123P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=22e4f1af55a3be52f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=191109&clt=TM&from=api&nt=true",
+        "price": "$16.39",
+        "rounded_up_price": "$17",
+        "offer_type": "",
+        "title": "Vatican Museums Skip-the-Line Tour with Sistine Chapel",
+        "product_code": "120123P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/1d/5b/73.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FSkip-the-Line-Vatican-Museums-and-Sistine-Chapel-Guided-Tour%2Fd511-3731VATICAN%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=04afc5eb1d871cf2f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=191109&clt=TM&from=api&nt=true",
+        "price": "$86.34",
+        "rounded_up_price": "$87",
+        "offer_type": "",
+        "title": "Rome Vatican St. Peter's Basilica Tour with Small Group Option",
+        "product_code": "3731VATICAN",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ba/c1/d8.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-St-Peters-Basilica-Guided-Tour-with-Dome-Climb-and-Crypt%2Fd511-15693P41%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=509df1ac3a2f8c560&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=191109&clt=TM&from=api&nt=true",
+        "price": "$80.88",
+        "rounded_up_price": "$81",
+        "offer_type": "",
+        "title": "Skip-the-Line Tour to St Peter's Basilica with Dome and Crypt",
+        "product_code": "15693P41",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/3b/cf/cf.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-Vatican-Night-Tour%2Fd511-61084P6%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d5059468ddbd3015b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=191109&clt=TM&from=api&nt=true",
+        "price": "$4.15",
+        "rounded_up_price": "$5",
+        "offer_type": "",
+        "title": "Rome: Vatican Night Tour",
+        "product_code": "61084P6",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/dd/b7.jpg",
+        "description": null,
+        "primary_category": "Night Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FRome-by-Vespa-Sidecar-Tour%2Fd511-75037P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=79c8a97ba0a72a5df&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=191109&clt=TM&from=api&nt=true",
+        "price": "$147.55",
+        "rounded_up_price": "$148",
+        "offer_type": "",
+        "title": "Rome Vespa Sidecar Tour with Roman Breakfast",
+        "product_code": "75037P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/80/9d.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

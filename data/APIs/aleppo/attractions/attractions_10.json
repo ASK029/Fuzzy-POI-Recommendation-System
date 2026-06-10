@@ -1,0 +1,133 @@
+{
+  "location_id": "324681",
+  "name": "General Park",
+  "num_reviews": "2",
+  "timezone": "Asia/Damascus",
+  "location_string": "Aleppo, Aleppo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/05/6a/27/6e/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/6a/27/6e/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1632",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/6a/27/6e/caption.jpg",
+        "height": "1224"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/6a/27/6e/caption.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/05/6a/27/6e/caption.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2014-02-19T20:01:38-0500",
+    "caption": "الحديقة العامة",
+    "id": "90842990",
+    "helpful_votes": "5",
+    "published_date": "2014-02-20T10:38:50-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7404119968414307",
+  "ranking_geo": "Aleppo",
+  "ranking_geo_id": "295416",
+  "ranking_position": "9",
+  "ranking_denominator": "17",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#9 of 17 things to do in Aleppo",
+  "subcategory_ranking": "#9 of 17 things to do in Aleppo",
+  "ranking": "#9 of 17 things to do in Aleppo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295416-d324681-Reviews-General_Park-Aleppo_Aleppo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295416-d324681-General_Park-Aleppo_Aleppo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Aleppo",
+      "abbrv": null,
+      "location_id": "295416"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Aleppo Governorate",
+      "abbrv": null,
+      "location_id": "2625571"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Aleppo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Aleppo",
+    "state": null,
+    "country": "Syria",
+    "postalcode": ""
+  },
+  "address": "Aleppo Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "70",
+      "name": "Parks"
+    }
+  ]
+}

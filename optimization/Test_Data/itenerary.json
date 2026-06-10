@@ -1,0 +1,184 @@
+{
+  "itinerary": {
+    "Day1": {
+      "Morning": [
+        {
+          "place": "Moscow Metro",
+          "description": "Explore the ornate stations, often called \"underground palaces.\"",
+          "type": "Attraction (Sights & Landmarks, Transportation, Architectural Buildings, Mass Transportation Systems)",
+          "expected_budget": "unknown",
+          "rating": 4.6,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/10/c4/f2/62/estacion-con-sus-pinturas.jpg",
+          "location": {
+            "lat": 55.755825,
+            "lon": 37.6173
+          }
+        },
+        {
+          "place": "Aleksandrovskiy Sad",
+          "description": "Stroll through these beautiful gardens near the Kremlin.",
+          "type": "Attraction (Nature & Parks, Gardens)",
+          "expected_budget": "unknown",
+          "rating": 4.6,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/08/df/3c/86/caption.jpg",
+          "location": {
+            "lat": 55.75528,
+            "lon": 37.61582
+          }
+        }
+      ],
+      "Afternoon": [
+        {
+          "place": "GUM",
+          "description": "Visit Russia's largest department store, located opposite the Kremlin.",
+          "type": "Attraction (Shopping, Sights & Landmarks, Architectural Buildings, Department Stores)",
+          "expected_budget": "unknown",
+          "rating": 4.4,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/0f/55/8a/b5/20170517-204748-largejpg.jpg",
+          "location": {
+            "lat": 55.75444,
+            "lon": 37.621056
+          }
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "description": "Enjoy artisan pies, coffee, and tea at this highly-rated restaurant located inside Danilovsky Market.",
+          "type": "Restaurant (Sit down)",
+          "expected_budget": "$150",
+          "rating": 4.8,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/d0/b4/96/caption.jpg",
+          "location": {
+            "lat": 55.712,
+            "lon": 37.6209
+          }
+        }
+      ],
+      "Evening": [
+        {
+          "place": "Danilovsky Market",
+          "description": "Explore this vibrant market, known for its food stalls and local produce.",
+          "type": "Attraction (Shopping, Flea & Street Markets)",
+          "expected_budget": "unknown",
+          "rating": 4.3,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/23/d1/73/caption.jpg",
+          "location": {
+            "lat": 55.712082,
+            "lon": 37.620792
+          }
+        },
+        {
+          "place": "New Tretyakov Gallery",
+          "description": "Discover modern Russian art, including works by Chagall and Malevich, and explore the surrounding Sculpture Park.",
+          "type": "Attraction (Museums, Art Museums)",
+          "expected_budget": "unknown",
+          "rating": 4.5,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/17/12/8c/5e/caption.jpg",
+          "location": {
+            "lat": 55.73507,
+            "lon": 37.606388
+          }
+        }
+      ]
+    },
+    "Day2": {
+      "Morning": [
+        {
+          "place": "Gorky Central Park of Culture and Leisure",
+          "description": "Enjoy the extensive recreational offerings, including gardens, cycling paths, and cafes.",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "expected_budget": "unknown",
+          "rating": 4.5,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/13/85/c7/14/at-the-north-entrance.jpg",
+          "location": {
+            "lat": 55.728367,
+            "lon": 37.60129
+          }
+        }
+      ],
+      "Afternoon": [
+        {
+          "place": "Neskuchny Garden",
+          "description": "Wander through this historic park, adjacent to Gorky Park, known for its natural beauty.",
+          "type": "Attraction (Nature & Parks, Parks)",
+          "expected_budget": "unknown",
+          "rating": 4.7,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/f1/64/ab/caption.jpg",
+          "location": {
+            "lat": 55.715656,
+            "lon": 37.586414
+          }
+        },
+        {
+          "place": "Lyubov Pirogova",
+          "description": "Return for another delicious meal of artisan pies.",
+          "type": "Restaurant (Sit down)",
+          "expected_budget": "$150",
+          "rating": 4.8,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/d0/b4/96/caption.jpg",
+          "location": {
+            "lat": 55.712,
+            "lon": 37.6209
+          }
+        }
+      ],
+      "Evening": [
+        {
+          "place": "Moscow-City",
+          "description": "Admire the impressive modern skyscrapers and enjoy the city views.",
+          "type": "Attraction (Sights & Landmarks, Points of Interest & Landmarks)",
+          "expected_budget": "unknown",
+          "rating": 4.4,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/89/63/57/moscow-city.jpg",
+          "location": {
+            "lat": 55.74811,
+            "lon": 37.53849
+          }
+        }
+      ]
+    },
+    "Day3": {
+      "Morning": [
+        {
+          "place": "Kolomenskoye Historical and Architectural Museum and Reserve",
+          "description": "Explore this former village and archaeological site, once a summer residence of tsars, now a museum and reserve.",
+          "type": "Attraction (Sights & Landmarks, Museums, Historic Sites, Specialty Museums)",
+          "expected_budget": "unknown",
+          "rating": 4.7,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/14/71/ab/caption.jpg",
+          "location": {
+            "lat": 55.66015,
+            "lon": 37.662205
+          }
+        }
+      ],
+      "Afternoon": [
+        {
+          "place": "Lyubov Pirogova",
+          "description": "Have your final meal of artisan pies at this cozy spot.",
+          "type": "Restaurant (Sit down)",
+          "expected_budget": "$150",
+          "rating": 4.8,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/d0/b4/96/caption.jpg",
+          "location": {
+            "lat": 55.712,
+            "lon": 37.6209
+          }
+        }
+      ],
+      "Evening": [
+        {
+          "place": "Bolshoi Theatre",
+          "description": "Marvel at the magnificent exterior of one of the world's finest opera and ballet theatres.",
+          "type": "Attraction (Sights & Landmarks, Concerts & Shows, Theaters, Architectural Buildings)",
+          "expected_budget": "unknown",
+          "rating": 4.6,
+          "image": "https://media-cdn.tripadvisor.com/media/photo-f/16/a2/db/26/bolschoi-theater.jpg",
+          "location": {
+            "lat": 55.76002,
+            "lon": 37.61863
+          }
+        }
+      ]
+    }
+  }
+}

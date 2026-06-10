@@ -1,0 +1,268 @@
+{
+  "location_id": "2602748",
+  "name": "The Blue Restaurant & Grill",
+  "latitude": "30.038746",
+  "longitude": "31.230415",
+  "num_reviews": "2237",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/60/0c/5a/the-blue-restaurant-6.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/60/0c/5a/the-blue-restaurant-6.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/60/0c/5a/the-blue-restaurant-6.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/15/60/0c/5a/the-blue-restaurant-6.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/60/0c/5a/the-blue-restaurant-6.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2018-11-14T07:29:45-0500",
+    "caption": "The Blue Restaurant 6",
+    "id": "358616154",
+    "helpful_votes": "6",
+    "published_date": "2018-11-14T07:29:45-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.910323619842529",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "11",
+  "ranking_denominator": "1462",
+  "ranking_category": "restaurant",
+  "ranking": "#11 of 2,583 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Closes in 21 min",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "description": "The Blue Restaurant is a destination for modern Mediterranean and Italian cuisine. It offers authentically prepared dishes using only the finest imported meats, fresh seafood and other regional ingredients as you enjoy the ambiance of one of the city's most elegant dining venues. The restaurant serves all-day à la carte dishes, including antipasti, pastas and contemporary main dishes. Our dishes are full of the freshest flavours and the best-quality ingredients to form delicious recipes from the most talented Kempinski chefs.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294201-d2602748-Reviews-The_Blue_Restaurant_Grill-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d2602748-The_Blue_Restaurant_Grill-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 2 27980000",
+  "website": "http://www.kempinski.com/en/cairo/nile-hotel/dining/the-blue-restaurant-and-grill/",
+  "email": "restaurant.cairo@kempinski.com",
+  "address_obj": {
+    "street1": "12 Ahmed Ragheb Street",
+    "street2": "Nile Hotel Garden City",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11519"
+  },
+  "address": "12 Ahmed Ragheb Street Nile Hotel Garden City, Cairo 11519 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 390,
+          "close_time": 660
+        },
+        {
+          "open_time": 720,
+          "close_time": 1020
+        },
+        {
+          "open_time": 1080,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 660
+        },
+        {
+          "open_time": 720,
+          "close_time": 1020
+        },
+        {
+          "open_time": 1080,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 660
+        },
+        {
+          "open_time": 720,
+          "close_time": 1020
+        },
+        {
+          "open_time": 1080,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 660
+        },
+        {
+          "open_time": 720,
+          "close_time": 1020
+        },
+        {
+          "open_time": 1080,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 660
+        },
+        {
+          "open_time": 720,
+          "close_time": 1020
+        },
+        {
+          "open_time": 1080,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 660
+        },
+        {
+          "open_time": 720,
+          "close_time": 1020
+        },
+        {
+          "open_time": 1080,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 390,
+          "close_time": 660
+        },
+        {
+          "open_time": 720,
+          "close_time": 1020
+        },
+        {
+          "open_time": 1080,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

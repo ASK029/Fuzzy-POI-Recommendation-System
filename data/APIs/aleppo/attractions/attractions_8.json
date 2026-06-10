@@ -1,0 +1,135 @@
+{
+  "location_id": "324956",
+  "name": "Bab Al Faraj Square",
+  "latitude": "36.2039",
+  "longitude": "37.1525",
+  "num_reviews": "9",
+  "timezone": "Asia/Damascus",
+  "location_string": "Aleppo, Aleppo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/7c/e5/a4/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/7c/e5/a4/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1600",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/7c/e5/a4/caption.jpg",
+        "height": "1063"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0e/7c/e5/a4/caption.jpg",
+        "height": "680"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/7c/e5/a4/caption.jpg",
+        "height": "365"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2017-02-20T15:24:05-0500",
+    "caption": "ساعة باب الفرج ومن وراها فندق الشيراتون",
+    "id": "243066276",
+    "helpful_votes": "11",
+    "published_date": "2017-02-20T15:24:05-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.782708168029785",
+  "ranking_geo": "Aleppo",
+  "ranking_geo_id": "295416",
+  "ranking_position": "7",
+  "ranking_denominator": "17",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#7 of 17 things to do in Aleppo",
+  "subcategory_ranking": "#7 of 17 things to do in Aleppo",
+  "ranking": "#7 of 17 things to do in Aleppo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295416-d324956-Reviews-Bab_Al_Faraj_Square-Aleppo_Aleppo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295416-d324956-Bab_Al_Faraj_Square-Aleppo_Aleppo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Aleppo",
+      "abbrv": null,
+      "location_id": "295416"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Aleppo Governorate",
+      "abbrv": null,
+      "location_id": "2625571"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Aleppo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "al Kouwatly and al Gassaniyn streets",
+    "street2": "",
+    "city": "Aleppo",
+    "state": null,
+    "country": "Syria",
+    "postalcode": "963965482041"
+  },
+  "address": "al Kouwatly and al Gassaniyn streets, Aleppo 963965482041 Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ]
+}

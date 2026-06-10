@@ -1,0 +1,206 @@
+{
+  "location_id": "27727470",
+  "name": "La Chaise Haute",
+  "latitude": "48.88528",
+  "longitude": "2.334792",
+  "num_reviews": "132",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2c/19/68/8f/42-rue-veron-75018-paris.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2c/19/68/8f/42-rue-veron-75018-paris.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1200",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/2c/19/68/8f/42-rue-veron-75018-paris.jpg",
+        "height": "800"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2c/19/68/8f/42-rue-veron-75018-paris.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2c/19/68/8f/42-rue-veron-75018-paris.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2024-05-08T05:38:43-0400",
+    "caption": "42 rue Véron, 75018 PARIS, à quelques pas de la place des Abbesses",
+    "id": "739862671",
+    "helpful_votes": "1",
+    "published_date": "2024-05-08T05:38:43-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.8297119140625",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "17",
+  "ranking_denominator": "15981",
+  "ranking_category": "restaurant",
+  "ranking": "#17 of 19,416 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "price": "$40 - $60",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187147-d27727470-Reviews-La_Chaise_Haute-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d27727470-La_Chaise_Haute-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 42 51 14 21",
+  "website": "http://lachaisehaute.fr",
+  "email": "contact@lachaisehaute.fr",
+  "address_obj": {
+    "street1": "42 Rue Veron",
+    "street2": null,
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75018"
+  },
+  "address": "42 Rue Veron, 75018 Paris France",
+  "hours": {
+    "week_ranges": [
+      [],
+      [],
+      [
+        {
+          "open_time": 720,
+          "close_time": 840
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 840
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 840
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 840
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 840
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1305
+        }
+      ]
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5086",
+      "name": "French"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    }
+  ],
+  "dietary_restrictions": [],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "location_id": "190165",
+  "name": "Museu Picasso",
+  "latitude": "41.38527",
+  "longitude": "2.180947",
+  "num_reviews": "10034",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/ff/f9/41/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/ff/f9/41/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/ff/f9/41/caption.jpg",
+        "height": "1329"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/12/ff/f9/41/caption.jpg",
+        "height": "680"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/ff/f9/41/caption.jpg",
+        "height": "365"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-05-20T01:13:24-0400",
+    "caption": "美術館の中庭",
+    "id": "318765377",
+    "helpful_votes": "9",
+    "published_date": "2018-05-20T01:13:24-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.622328758239746",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "81",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#81 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#81 of 1,549 things to do in Barcelona",
+  "ranking": "#81 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.2",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230966",
+      "name": "El Born / La Ribera"
+    },
+    {
+      "location_id": "21228685",
+      "name": "Sant Pere"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    },
+    {
+      "location_id": "15565882",
+      "name": "Sant Pere, Santa Caterina i la Ribera"
+    }
+  ],
+  "description": "The Museu Picasso in Barcelona is a key reference for understanding the formative years of Pablo Picasso. The genius of the young artist is revealed through the 4,251 works that make up the permanent collection. Furthermore, the Museu Picasso, opened in 1963, also reveals his deep relationship with Barcelona: an intimate, solid relationship that was shaped in his adolescence and youth, and continued until his death. The Museum is very rich in regard to work from the formative years in the life of the artist; it is practically exhaustive up to the Blue Period. The Museum also houses an important representation of works from 1917, and the series Las Meninas (1957) as well as a comprehensive print collection.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d190165-Reviews-Museu_Picasso-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d190165-Museu_Picasso-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 932 56 30 00",
+  "website": "http://www.museupicasso.bcn.cat",
+  "email": "museupicasso@bcn.cat",
+  "address_obj": {
+    "street1": "Carrer Montcada, 15-23",
+    "street2": "",
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08003"
+  },
+  "address": "Carrer Montcada, 15-23, 08003 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1200
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1260
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "28",
+      "name": "Art Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Museum-Pass%2Fd562-2512MUS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3fd72e9ff7e49455&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190165&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.28",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Museum-Pass%2Fd562-2512MUS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3fd72e9ff7e49455&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190165&clt=TM&from=api&nt=true",
+        "price": "$42.62",
+        "rounded_up_price": "$43",
+        "offer_type": "",
+        "title": "Barcelona Six Museum Pass with MACBA and Picasso Museum",
+        "product_code": "2512MUS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/39/c8.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Picasso-Museum-and-Gothic-Quarter-Guided-Tour%2Fd562-2140P217%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d78e56a21fb533a57&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190165&clt=TM&from=api&nt=true",
+        "price": "$37.16",
+        "rounded_up_price": "$38",
+        "offer_type": "",
+        "title": "Picasso Museum Guided Tour",
+        "product_code": "2140P217",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/5a/27.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Card-with-Guidebook%2Fd562-2512BCARD%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a45206435e15ad5bf&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190165&clt=TM&from=api&nt=true",
+        "price": "$63.94",
+        "rounded_up_price": "$64",
+        "offer_type": "",
+        "title": "Barcelona Card: Museums + Transport for 72h, 96h or 120h",
+        "product_code": "2512BCARD",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/5a/c5/15.jpg",
+        "description": null,
+        "primary_category": "Sightseeing Passes"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FExplore-hidden-streets-with-a-guide%2Fd562-73429P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1331d18892b55aa53&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190165&clt=TM&from=api&nt=true",
+        "price": "$50.28",
+        "rounded_up_price": "$51",
+        "offer_type": "",
+        "title": "Barcelona Hidden Streets Walking Tour",
+        "product_code": "73429P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/0d/ad/57.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Like-Picasso-El-Born-and-Museum-Private-Tour%2Fd562-24380P818%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=84e86faa4808e8875&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190165&clt=TM&from=api&nt=true",
+        "price": "$107.11",
+        "rounded_up_price": "$108",
+        "offer_type": "",
+        "title": "Picasso Private Tour of Barcelona",
+        "product_code": "24380P818",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/98/b1/56.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

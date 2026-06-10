@@ -1,0 +1,271 @@
+{
+  "location_id": "190676",
+  "name": "Stedelijk Museum Amsterdam",
+  "latitude": "52.35787",
+  "longitude": "4.880065",
+  "num_reviews": "3113",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/de/88/a3/stedelijk-museum-of-modern.jpg",
+        "height": "143"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/de/88/a3/stedelijk-museum-of-modern.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/de/88/a3/stedelijk-museum-of-modern.jpg",
+        "height": "1143"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0e/de/88/a3/stedelijk-museum-of-modern.jpg",
+        "height": "585"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/de/88/a3/stedelijk-museum-of-modern.jpg",
+        "height": "314"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-04-04T08:59:50-0400",
+    "caption": "Stedelijk Museum of Modern Art",
+    "id": "249464995",
+    "helpful_votes": "3",
+    "published_date": "2017-04-04T08:59:50-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.4550564289093018",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "84",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#84 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#84 of 1,200 things to do in Amsterdam",
+  "ranking": "#84 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.1",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7852239",
+      "name": "Museum Quarter (Museumkwartier)"
+    },
+    {
+      "location_id": "15620072",
+      "name": "Oud Zuid"
+    },
+    {
+      "location_id": "15620065",
+      "name": "Amsterdam South"
+    }
+  ],
+  "description": "The Stedelijk Museum is an international institution in Amsterdam dedicated to modern and contemporary art and design. The Museum aims to provide a home for art, artists and a broad range of publics, where artistic production is actively fostered, presented, protected, reconsidered and renewed",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d190676-Reviews-Stedelijk_Museum_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d190676-Stedelijk_Museum_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 573 2911",
+  "website": "http://www.stedelijk.nl",
+  "email": "info@stedelijk.nl",
+  "address_obj": {
+    "street1": "Museumplein 10",
+    "street2": "",
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1071 DJ"
+  },
+  "address": "Museumplein 10, 1071 DJ Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "28",
+      "name": "Art Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FStedelijk-Museum-Amsterdam%2Fd525-19068P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0892181cff6cc7f96&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190676&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FStedelijk-Museum-Amsterdam%2Fd525-19068P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0892181cff6cc7f96&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190676&clt=TM&from=api&nt=true",
+        "price": "$24.59",
+        "rounded_up_price": "$25",
+        "offer_type": "",
+        "title": "Stedelijk Museum Amsterdam Admission Ticket",
+        "product_code": "19068P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/2e/fe.jpg",
+        "description": null,
+        "primary_category": "Museum Tickets & Passes"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FBike-Rental-in-Amsterdam%2Fd525-42615P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4391a1328a72299fd&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190676&clt=TM&from=api&nt=true",
+        "price": "$11.97",
+        "rounded_up_price": "$12",
+        "offer_type": "",
+        "title": "Amsterdam Bike Rental",
+        "product_code": "42615P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/73/de/a4.jpg",
+        "description": null,
+        "primary_category": "Bike Rentals"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Private-Bike-Tour-With-a-Local%2Fd525-24380P58%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=48a26e252811de099&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190676&clt=TM&from=api&nt=true",
+        "price": "$136.62",
+        "rounded_up_price": "$137",
+        "offer_type": "",
+        "title": "Amsterdam Private Custom Bike Tour with Local Host and Snack",
+        "product_code": "24380P58",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e8/2f/e2.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FBikes-Beers-and-Bitterballen%2Fd525-221267P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=667e0a56530be871f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190676&clt=TM&from=api&nt=true",
+        "price": "$98.36",
+        "rounded_up_price": "$99",
+        "offer_type": "",
+        "title": "Amsterdam Foodie Tour: Bikes, Beers & Bitterballen",
+        "product_code": "221267P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/bb/20/2d.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FCity-Sightseeing-Amsterdam-Hop-On-Hop-Off-Tour-with-Optional-Canal-Cruise%2Fd525-2550HOHO%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=94fabf84a97aba83f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190676&clt=TM&from=api&nt=true",
+        "price": "$32.24",
+        "rounded_up_price": "$33",
+        "offer_type": "",
+        "title": "Amsterdam Hop-On Hop-Off Tour with Boat Option",
+        "product_code": "2550HOHO",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/26/cb/17.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

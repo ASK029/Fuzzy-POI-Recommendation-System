@@ -1,0 +1,250 @@
+{
+  "location_id": "21173998",
+  "name": "Day's StoneGrill 1870",
+  "latitude": "52.377293",
+  "longitude": "4.894044",
+  "num_reviews": "1596",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/cd/7b/af/best-steak-at-day-s.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/cd/7b/af/best-steak-at-day-s.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1030",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/cd/7b/af/best-steak-at-day-s.jpg",
+        "height": "659"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1b/cd/7b/af/best-steak-at-day-s.jpg",
+        "height": "655"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/cd/7b/af/best-steak-at-day-s.jpg",
+        "height": "352"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2020-08-18T09:49:03-0400",
+    "caption": "Best Steak at DAY'S ",
+    "id": "466451375",
+    "helpful_votes": "3",
+    "published_date": "2020-08-18T09:49:03-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.763684272766113",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "21",
+  "ranking_denominator": "4095",
+  "ranking_category": "restaurant",
+  "ranking": "#17 of 5,334 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$1 - $40",
+  "neighborhood_info": [
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "15620171",
+      "name": "Old Center"
+    },
+    {
+      "location_id": "15620085",
+      "name": "Burgwallen-Nieuwe Zijde"
+    }
+  ],
+  "description": "DAY'S StoneGrill 1870 is a steakhouse where you can go for lunch and dinner. The pieces of meat come from all over the world, such as Argentina, New Zealand and Canada. The menu specializes in grill dishes as in steaks, burgers and seafood. We also have a lot of vegan options. You can choose a side dish with every entree from DAY'S StoneGrill 1870, such as French fries, rice or vegetables. At DAY'S StoneGrill 1870's bar, all kinds of beer, wines and spirits such as vodka, rum and whiskeys are served. Here you have the option to grill as in 1870. We prepare all meat dishes perfectly from the kitchen and you can grill it at the table. If it's a nice, sunny day, you can enjoy your meal outside on the covered patio.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g188590-d21173998-Reviews-Day_s_StoneGrill_1870-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d21173998-Day_s_StoneGrill_1870-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 358 6673",
+  "website": "http://stonegrill1870.nl/",
+  "email": "days.stonegrill@gmail.com",
+  "address_obj": {
+    "street1": "Spuistraat 4",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1012 TS"
+  },
+  "address": "Spuistraat 4, 1012 TS Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 840,
+          "close_time": 1410
+        }
+      ],
+      [
+        {
+          "open_time": 960,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 960,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 960,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 960,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 840,
+          "close_time": 1410
+        }
+      ],
+      [
+        {
+          "open_time": 840,
+          "close_time": 1410
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10345",
+      "name": "Steakhouse"
+    },
+    {
+      "key": "10648",
+      "name": "International"
+    },
+    {
+      "key": "10651",
+      "name": "Barbecue"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10668",
+      "name": "Grill"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "booking": {
+    "provider": "TheFork",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=144929047&geo=21173998&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=330855314&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2cZKgyD113forO-z1-_PsAk&cs=1b7b067ebce976432d34fd1d42fa18cc8"
+  },
+  "reserve_info": {
+    "id": "21173998",
+    "provider": "TheFork",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/TheFork-Logo-2023.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=144929047&geo=21173998&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=330855314&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2cZKgyD113forO-z1-_PsAk&cs=1b7b067ebce976432d34fd1d42fa18cc8",
+    "booking_partner_id": "6",
+    "racable": true,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

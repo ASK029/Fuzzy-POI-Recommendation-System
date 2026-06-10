@@ -1,0 +1,33 @@
+{
+  "location_id": "187791",
+  "ad_position": "inline3",
+  "ad_size": "8X8",
+  "doubleclick_zone": "eu.italy.rome",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "detail": "0",
+  "page_type": "attractions",
+  "mob_ptype": "app_attractions"
+}

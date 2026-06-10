@@ -1,0 +1,264 @@
+{
+  "location_id": "1210327",
+  "name": "The Dubai Mall",
+  "latitude": "25.197287",
+  "longitude": "55.279366",
+  "num_reviews": "31813",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/8c/0c/1a/taken-5-years-ago-it.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/8c/0c/1a/taken-5-years-ago-it.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1128",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/8c/0c/1a/taken-5-years-ago-it.jpg",
+        "height": "748"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/8c/0c/1a/taken-5-years-ago-it.jpg",
+        "height": "679"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/8c/0c/1a/taken-5-years-ago-it.jpg",
+        "height": "365"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-11-06T11:13:12-0500",
+    "caption": "Taken 5 years ago, it doesn't look like this..",
+    "id": "227281946",
+    "helpful_votes": "55",
+    "published_date": "2016-11-06T11:13:12-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.6808600425720215",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "4",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#4 of 682 things to do in Dubai",
+  "subcategory_ranking": "#4 of 682 things to do in Dubai",
+  "ranking": "#4 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "description": "This downtown mall is known for luxury stores like Cartier and Harry Winston. It also has an aquarium, ice rink, and 360-degree views of the city from the world’s tallest building, The Burj Khalifa.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d1210327-Reviews-The_Dubai_Mall-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1210327-The_Dubai_Mall-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "800 38224 6255",
+  "website": "http://WWW.THEDUBAIMALL.COM",
+  "email": "enquiry@thedubaimall.com",
+  "address_obj": {
+    "street1": "Downtown Dubai",
+    "street2": null,
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "Downtown Dubai, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "143",
+      "name": "Shopping Malls"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FFull-day-Dubai-Shopping-tour%2Fd828-51528P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=db01f6cea78c37479&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1210327&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$6.46",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FFull-day-Dubai-Shopping-tour%2Fd828-51528P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=db01f6cea78c37479&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1210327&clt=TM&from=api&nt=true",
+        "price": "$139.99",
+        "rounded_up_price": "$140",
+        "offer_type": "",
+        "title": "Full Day Dubai Shopping Tour with Private Transfers",
+        "product_code": "51528P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6e/ce/e4.jpg",
+        "description": null,
+        "primary_category": "Shopping Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Top-Five-Attractions-Tour-Including-Dinner%2Fd828-8285P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=62521e69e7dfc4d64&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1210327&clt=TM&from=api&nt=true",
+        "price": "$140.00",
+        "rounded_up_price": "$140",
+        "offer_type": "",
+        "title": "Dubai Top Attractions Tour with Optional Armani Dinner",
+        "product_code": "8285P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/d2/eb.jpg",
+        "description": null,
+        "primary_category": "Bus & Minivan Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FBurj-Khalifa-At-the-Top-Entrance-Ticket%2Fd828-6267KHALIFA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=01049d531f0c3620e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=1210327&clt=TM&from=api&nt=true",
+        "price": "$95.00",
+        "rounded_up_price": "$95",
+        "offer_type": "",
+        "title": "Dubai Burj Khalifa Level 124 'At the Top' Entrance Ticket",
+        "product_code": "6267KHALIFA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/90/d0/27.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FCity-Sightseeing-Dubai-Hop-On-Hop-Off-Tour%2Fd828-5694DUBAI%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4e76c3c819f11cbf5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=1210327&clt=TM&from=api&nt=true",
+        "price": "$68.64",
+        "rounded_up_price": "$69",
+        "offer_type": "",
+        "title": "Dubai City Sightseeing Hop-On Hop-Off Bus Tour",
+        "product_code": "5694DUBAI",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/96/b5.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-by-Night-this-is-one-of-the-best-selling-tours-in-the-city%2Fd828-22972P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6ef380d9350919d40&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=1210327&clt=TM&from=api&nt=true",
+        "price": "$150.00",
+        "rounded_up_price": "$150",
+        "offer_type": "",
+        "title": "Dubai by Night ",
+        "product_code": "22972P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/68/64/d9.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

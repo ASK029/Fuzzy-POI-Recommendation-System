@@ -1,0 +1,253 @@
+{
+  "location_id": "190824",
+  "name": "Palace of Catalan Music",
+  "latitude": "41.387573",
+  "longitude": "2.175302",
+  "num_reviews": "19129",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/95/43/82/matteo-vecchi-10.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/95/43/82/matteo-vecchi-10.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/95/43/82/matteo-vecchi-10.jpg",
+        "height": "682"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/07/95/43/82/matteo-vecchi-10.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/95/43/82/matteo-vecchi-10.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-03-26T06:32:45-0400",
+    "caption": "Matteo Vecchi 10",
+    "id": "127222658",
+    "helpful_votes": "22",
+    "published_date": "2015-03-26T06:32:45-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.872751235961914",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "3",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#3 of 1,549 things to do in Barcelona",
+  "ranking": "#3 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230966",
+      "name": "El Born / La Ribera"
+    },
+    {
+      "location_id": "21228685",
+      "name": "Sant Pere"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    },
+    {
+      "location_id": "15565882",
+      "name": "Sant Pere, Santa Caterina i la Ribera"
+    }
+  ],
+  "description": "The Palau, an icon of modernist architecture in downtown Barcelona The Palau de la Música Catalana is one of the most representative monuments of the city and It is one of the most recommended tourist attractions of Barcelona. Built between 1905 and 1908 by the great architect Lluis Domènech i Montaner, the Palau de la Música Catalana is an architectural jewel of Catalonia and essential part of any visit to the city, as any of the most fascinating Gaudi buildings. This historical building, declared a World Heritage Site by UNESCO in 1997, offers an experience so magical that visitors fall in love with it. From the hand of experienced guides, the wonders of this architectural pearl discovered and visitors into a fantasy world full of details and references to the characteristic nature of modernist architecture. An essential visit in the list of top 10 things to see in Barcelona.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d190824-Reviews-Palace_of_Catalan_Music-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d190824-Palace_of_Catalan_Music-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "58",
+      "name": "Concerts & Shows"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 932 95 72 00",
+  "website": "http://www.palaumusica.cat",
+  "email": "visites@palaumusica.cat",
+  "address_obj": {
+    "street1": "Carrer Palau de la Musica, 4-6",
+    "street2": null,
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08003"
+  },
+  "address": "Carrer Palau de la Musica, 4-6, 08003 Barcelona Spain",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "116",
+      "name": "Theaters"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSkip-the-Line-Barcelona-Palau-de-la-Musica-Catalana-Tour%2Fd562-6813PALAU%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2a858e8ceab585f54&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190824&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.28",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSkip-the-Line-Barcelona-Palau-de-la-Musica-Catalana-Tour%2Fd562-6813PALAU%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2a858e8ceab585f54&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190824&clt=TM&from=api&nt=true",
+        "price": "$24.04",
+        "rounded_up_price": "$25",
+        "offer_type": "",
+        "title": "Palau de la Musica Catalana Guided Tour",
+        "product_code": "6813PALAU",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/07/78/14.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FFlamenco-Performance-at-Teatre-Poliorama-or-Palau-de-la-Musica-Catalana%2Fd562-6388GRANGALA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=27744e293d014c356&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190824&clt=TM&from=api&nt=true",
+        "price": "$41.53",
+        "rounded_up_price": "$42",
+        "offer_type": "",
+        "title": "Barcelona Teatre Poliorama or Palau de la Musica Catalana Show",
+        "product_code": "6388GRANGALA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/06/53.jpg",
+        "description": null,
+        "primary_category": "Theater, Shows & Musicals"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSpanish-Guitar-Concert-at-the-Palau-de-la-Musica-Catalana-in-Barcelona%2Fd562-9158P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3cb7781cec0776e1e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190824&clt=TM&from=api&nt=true",
+        "price": "$56.83",
+        "rounded_up_price": "$57",
+        "offer_type": "",
+        "title": "Spanish Guitar Show at Palau de la Música Catalana, Barcelona",
+        "product_code": "9158P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/cb/43/da.jpg",
+        "description": null,
+        "primary_category": "Concerts & Special Events"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FHighlights-and-Hidden-Gems-Private-Tour-Barcelona%2Fd562-24380P322%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3a04a198f48b42c1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190824&clt=TM&from=api&nt=true",
+        "price": "$97.27",
+        "rounded_up_price": "$98",
+        "offer_type": "",
+        "title": "Barcelona Highlights & Hidden Gems Private Tour with Local",
+        "product_code": "24380P322",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/fe/09/e5.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Discount-Card%2Fd562-2512BCNEXPRESS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c0c4295ae415d7432&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190824&clt=TM&from=api&nt=true",
+        "price": "$30.60",
+        "rounded_up_price": "$31",
+        "offer_type": "",
+        "title": "Barcelona 48-Hour Discount Card to Top Attractions, Transport",
+        "product_code": "2512BCNEXPRESS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/39/b6.jpg",
+        "description": null,
+        "primary_category": "Sightseeing Passes"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES",
+  "tags": {
+    "urgency_tag": {
+      "tag_text": "<span class=\"highlight\">In high demand</span> - travelers recommend booking ahead!",
+      "attraction_type": "PRODUCTS"
+    }
+  }
+}

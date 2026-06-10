@@ -1,0 +1,229 @@
+{
+  "location_id": "245166",
+  "name": "Johan Cruyff Arena",
+  "latitude": "52.314365",
+  "longitude": "4.94185",
+  "num_reviews": "1455",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/3d/86/b4/arena.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/3d/86/b4/arena.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "600",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/3d/86/b4/arena.jpg",
+        "height": "450"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/3d/86/b4/arena.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/3d/86/b4/arena.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2009-08-21T22:14:01-0400",
+    "caption": "",
+    "id": "20809396",
+    "helpful_votes": "9",
+    "published_date": "2009-08-21T22:13:53-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.795015335083008",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "49",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#49 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#49 of 1,200 things to do in Amsterdam",
+  "ranking": "#49 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.2",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620068",
+      "name": "Amsterdam South-East"
+    },
+    {
+      "location_id": "15620160",
+      "name": "Amstel III En Bullewijk"
+    },
+    {
+      "location_id": "15620081",
+      "name": "Bijlermeer"
+    }
+  ],
+  "description": "The largest stadium in the Netherlands and home to the Ajax football team, it has played host to legendary sporting matches and music concerts.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d245166-Reviews-Johan_Cruyff_Arena-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d245166-Johan_Cruyff_Arena-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 311 1333",
+  "website": "http://www.johancruijffarena.nl/home/",
+  "email": "info@johancruijffarena.nl",
+  "address_obj": {
+    "street1": "Johan Cruijff Boulevard 1",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1101"
+  },
+  "address": "Johan Cruijff Boulevard 1, 1101 Amsterdam The Netherlands",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "120",
+      "name": "Arenas & Stadiums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FKinderdijk-windmills-Half-a-day-private-tour-with-cheesefarm-visit%2Fd525-88556P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4888083e406df78ff&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=245166&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.35",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FKinderdijk-windmills-Half-a-day-private-tour-with-cheesefarm-visit%2Fd525-88556P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4888083e406df78ff&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=245166&clt=TM&from=api&nt=true",
+        "price": "$546.47",
+        "rounded_up_price": "$547",
+        "offer_type": "",
+        "title": "Kinderdijk private tour WINDMILLS in luxury Jaguar S Type",
+        "product_code": "88556P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/38/26/7f.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FThe-Roots-of-Johan-Cruijff-Private-Tour-By-Car-4-hours%2Fd525-88556P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=14932c6daa930a653&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=245166&clt=TM&from=api&nt=true",
+        "price": "$300.56",
+        "rounded_up_price": "$301",
+        "offer_type": "",
+        "title": "The Roots of Johan Cruijff Private Tour By Car 4 hours: Amsterdam Private Guide",
+        "product_code": "88556P16",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/25/12/16.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FJohan-Cruijff-ArenA-Ajax-Stadium-Tour-in-Amsterdam%2Fd525-247354P79%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=70c955124e3bf9f89&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=245166&clt=TM&from=api&nt=true",
+        "price": "$31.70",
+        "rounded_up_price": "$32",
+        "offer_type": "",
+        "title": "Johan Cruijff ArenA Ajax Stadium Entry with Photo in Amsterdam",
+        "product_code": "247354P79",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/72/0d/cb.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2F3-hour-On-demand-City-Hop-On-Hop-Off-Amsterdam%2Fd525-108214P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e4f4bece0f3f58c4a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=245166&clt=TM&from=api&nt=true",
+        "price": "$231.70",
+        "rounded_up_price": "$232",
+        "offer_type": "",
+        "title": "Amsterdam: Private 3-Hour Hop-On Hop-Off City Tour",
+        "product_code": "108214P16",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/0f/67/96.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-Minivan-Sightseeing-Tour-in-Amsterdam%2Fd525-311609P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8ed0580bf8ef39a0a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=245166&clt=TM&from=api&nt=true",
+        "price": "$437.18",
+        "rounded_up_price": "$438",
+        "offer_type": "",
+        "title": "Amsterdam Private Sightseeing Half-Day Custom Tour by Minivan",
+        "product_code": "311609P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/4e/2c/5a.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "tags": {
+    "urgency_tag": {
+      "tag_text": "<span class=\"highlight\">In high demand</span> - travelers recommend booking ahead!",
+      "attraction_type": "PRODUCTS"
+    }
+  }
+}

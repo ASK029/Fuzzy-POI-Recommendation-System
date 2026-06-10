@@ -1,0 +1,235 @@
+{
+  "location_id": "251997",
+  "name": "L'Eixample District",
+  "latitude": "41.39621",
+  "longitude": "2.161339",
+  "num_reviews": "775",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/cd/01/f0/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/cd/01/f0/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/cd/01/f0/caption.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/cd/01/f0/caption.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/cd/01/f0/caption.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-07-22T08:25:59-0400",
+    "caption": "Здания",
+    "id": "332202480",
+    "helpful_votes": "0",
+    "published_date": "2018-07-22T08:25:59-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.054698944091797",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "28",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#28 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#28 of 1,549 things to do in Barcelona",
+  "ranking": "#28 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    },
+    {
+      "location_id": "15565927",
+      "name": "Passeig de Gracia"
+    }
+  ],
+  "description": "Barcelona's 19th-century historic district where visitors find works by famous architects such as Gaudí and Ildefons Cerdà.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d251997-Reviews-L_Eixample_District-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d251997-L_Eixample_District-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "La Exaimple -- Center City",
+    "street2": "",
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08011"
+  },
+  "address": "La Exaimple -- Center City, 08011 Barcelona Spain",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "19",
+      "name": "Historic Walking Areas"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSagrada-Familia-Segway-Tour%2Fd562-92204P12%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=73e818aea3d694c14&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=251997&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$31.04",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSagrada-Familia-Segway-Tour%2Fd562-92204P12%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=73e818aea3d694c14&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=251997&clt=TM&from=api&nt=true",
+        "price": "$81.97",
+        "rounded_up_price": "$82",
+        "offer_type": "",
+        "title": "Sagrada Familia Segway Tour",
+        "product_code": "92204P12",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/9f/1b/d5.jpg",
+        "description": null,
+        "primary_category": "Segway Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-highlights-all-day-and-Sagrada-Familia-Skip-the-line%2Fd562-9866P36%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a2bbf532e96ba4437&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=251997&clt=TM&from=api&nt=true",
+        "price": "$331.16",
+        "rounded_up_price": "$332",
+        "offer_type": "",
+        "title": "Barcelona Private City Day Tour With La Sagrada Familia Ticket",
+        "product_code": "9866P36",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/52/29/99.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FGourmet-Tapas-Small-Group-Walking-Tour-and-Flamenco-Show%2Fd562-3142TAPASFLAMENCO%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9a04f66890a444633&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=251997&clt=TM&from=api&nt=true",
+        "price": "$125.69",
+        "rounded_up_price": "$126",
+        "offer_type": "",
+        "title": "Barcelona Small-Group Tapas Walking Tour and Flamenco Show",
+        "product_code": "3142TAPASFLAMENCO",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/5b/3e/64.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FPrivate-Barcelona-Tour-with-Skip-The-Line-Park-Guell-and-Sagrada-Familia%2Fd562-9866P57%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cf0de92cfc4185bb6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=251997&clt=TM&from=api&nt=true",
+        "price": "$344.28",
+        "rounded_up_price": "$345",
+        "offer_type": "",
+        "title": "Barcelona Private Tour: Skip-the-Line Sagrada and Park Guell",
+        "product_code": "9866P57",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/c6/17/4d.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Guided-Tour-by-Segway%2Fd562-7173P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1975709babe73337e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=251997&clt=TM&from=api&nt=true",
+        "price": "$31.70",
+        "rounded_up_price": "$32",
+        "offer_type": "",
+        "title": "Barcelona Segway Tours in a Group No Larger than Six",
+        "product_code": "7173P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/b0/42/e5.jpg",
+        "description": null,
+        "primary_category": "Segway Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "location_id": "298484",
+  "ad_position": "inline3",
+  "ad_size": "8X8",
+  "doubleclick_zone": "eu.russia.moscow",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Central Russia",
+      "abbrv": null,
+      "location_id": "298479"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Russia",
+      "abbrv": null,
+      "location_id": "294459"
+    }
+  ],
+  "detail": "0",
+  "page_type": "attractions",
+  "mob_ptype": "app_attractions"
+}

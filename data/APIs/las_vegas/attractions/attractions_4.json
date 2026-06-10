@@ -1,0 +1,233 @@
+{
+  "location_id": "3819966",
+  "name": "Lion Habitat Ranch",
+  "latitude": "35.970135",
+  "longitude": "-115.15547",
+  "num_reviews": "1703",
+  "timezone": "America/Los_Angeles",
+  "location_string": "Henderson, Nevada",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/b3/68/11/tratadora-dando-comida.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/b3/68/11/tratadora-dando-comida.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/b3/68/11/tratadora-dando-comida.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/b3/68/11/tratadora-dando-comida.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/b3/68/11/tratadora-dando-comida.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-03-25T11:35:28-0400",
+    "caption": "tratadora dando comida aos pequenos....rsrsrs",
+    "id": "179529745",
+    "helpful_votes": "2",
+    "published_date": "2016-03-25T11:35:28-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.nv.henderson",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.313649654388428",
+  "ranking_geo": "Henderson",
+  "ranking_geo_id": "45953",
+  "ranking_position": "1",
+  "ranking_denominator": "126",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 126 things to do in Henderson",
+  "subcategory_ranking": "#1 of 126 things to do in Henderson",
+  "ranking": "#1 of 126 things to do in Henderson",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "20483862",
+      "name": "Enterprise"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g45953-d3819966-Reviews-Lion_Habitat_Ranch-Henderson_Nevada.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g45953-d3819966-Lion_Habitat_Ranch-Henderson_Nevada.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Henderson",
+      "abbrv": null,
+      "location_id": "45953"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Nevada",
+      "abbrv": "NV",
+      "location_id": "28949"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "48",
+      "name": "Zoos & Aquariums"
+    },
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Henderson",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 702-595-6666",
+  "website": "http://www.lionhabitatranch.com/",
+  "address_obj": {
+    "street1": "382 Bruner Ave",
+    "street2": null,
+    "city": "Henderson",
+    "state": "NV",
+    "country": "United States",
+    "postalcode": "89044"
+  },
+  "address": "382 Bruner Ave, Henderson, NV 89044",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 900
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 900
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 900
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 660,
+          "close_time": 900
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 900
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 900
+        }
+      ]
+    ],
+    "timezone": "America/Los_Angeles"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "134",
+      "name": "Zoos"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-6072P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=57063233f74b310d2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=3819966&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.26",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-6072P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=57063233f74b310d2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=3819966&clt=TM&from=api&nt=true",
+        "price": "$25.65",
+        "rounded_up_price": "$26",
+        "offer_type": "",
+        "title": "Lion Habitat Ranch Admission Ticket in Las Vegas",
+        "product_code": "6072P1",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": false
+  },
+  "animal_welfare_tag": {
+    "tag_text": "Features Animals",
+    "msg_header": "This attraction features animals",
+    "msg_body": "Click below for expert advice on animal welfare in tourism.",
+    "learn_more_text": "Learn more",
+    "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+  },
+  "tags": {
+    "animal_welfare_tag": {
+      "tag_text": "Features Animals",
+      "msg_header": "This attraction features animals",
+      "msg_body": "Click below for expert advice on animal welfare in tourism.",
+      "learn_more_text": "Learn more",
+      "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+    }
+  }
+}

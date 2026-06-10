@@ -1,0 +1,204 @@
+{
+  "location_id": "2287121",
+  "name": "Schweine-Museum",
+  "latitude": "48.785812",
+  "longitude": "9.219915",
+  "num_reviews": "309",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/0c/dc/33/photo5jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/0c/dc/33/photo5jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/dc/33/photo5jpg.jpg",
+        "height": "1536"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/0c/dc/33/photo5jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/0c/dc/33/photo5jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-07-28T06:03:14-0400",
+    "caption": "",
+    "id": "269278259",
+    "helpful_votes": "10",
+    "published_date": "2017-07-28T06:03:14-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.180582284927368",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "33",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#33 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#33 of 295 things to do in Stuttgart",
+  "ranking": "#33 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.8",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d2287121-Reviews-Schweine_Museum-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d2287121-Schweine_Museum-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 711 66419600",
+  "website": "http://www.schweinemuseum.de/",
+  "email": "saugut@schweinemuseum.de",
+  "address_obj": {
+    "street1": "Schlachthofstr. 2a",
+    "street2": null,
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70188"
+  },
+  "address": "Schlachthofstr. 2a, 70188 Stuttgart, Baden-Wurttemberg Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 1020
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FThe-Instagrammable-Places-of-Stuttgart-with-a-Local%2Fd28716-76654P206%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e3219018529302ff8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=2287121&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$1.18",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FThe-Instagrammable-Places-of-Stuttgart-with-a-Local%2Fd28716-76654P206%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e3219018529302ff8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=2287121&clt=TM&from=api&nt=true",
+        "price": "$108.20",
+        "rounded_up_price": "$109",
+        "offer_type": "",
+        "title": "Stuttgart Guided Instagram Tour",
+        "product_code": "76654P206",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/77/4b/2b.jpg",
+        "description": null,
+        "primary_category": "Walking Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": false
+  }
+}

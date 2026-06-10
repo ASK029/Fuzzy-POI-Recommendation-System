@@ -1,0 +1,267 @@
+{
+  "location_id": "194315",
+  "name": "NEMO Science Museum",
+  "latitude": "52.37409",
+  "longitude": "4.912154",
+  "num_reviews": "4569",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/fc/a7/ce/nemo.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/fc/a7/ce/nemo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/fc/a7/ce/nemo.jpg",
+        "height": "1334"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0a/fc/a7/ce/nemo.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/fc/a7/ce/nemo.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2016-04-23T05:48:27-0400",
+    "caption": "NEMO",
+    "id": "184330190",
+    "helpful_votes": "26",
+    "published_date": "2016-04-23T05:48:27-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.623568534851074",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "68",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#68 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#68 of 1,200 things to do in Amsterdam",
+  "ranking": "#68 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.2",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "15620088",
+      "name": "Nieuwmarkt En Lastage"
+    }
+  ],
+  "description": "Expand your world at NEMO Science Museum. In the largest science museum of the Netherlands you will find proof that science and technology can be captivating for all ages. The remarkable building on top of the IJ-tunnel offers lots of exciting hands-on activities. At NEMO you can experience the joy of science and technology, by blowing gigantic soap bubbles, watch an enormous chain reaction and experiment in a real laboratory. In a variety of exhibitions you can 'Take a journey through the mind' or learn that there is more than meets the eye when it comes to sustainable electricity and smart transportation at 'Smart Technology'. The creative mind behind NEMO, built in 1997, is Italian architect Renzo Piano. He had a clear vision for his design of the NEMO building, with its very own piazza 22 metres above water level.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d194315-Reviews-NEMO_Science_Museum-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d194315-NEMO_Science_Museum-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 531 3233",
+  "website": "http://www.nemosciencemuseum.nl/",
+  "email": "info@e-nemo.nl",
+  "address_obj": {
+    "street1": "Oosterdok 2",
+    "street2": "",
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1011 VX"
+  },
+  "address": "Oosterdok 2, 1011 VX Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1050
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1050
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1050
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1050
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1050
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1050
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "35",
+      "name": "Science Museums"
+    },
+    {
+      "key": "29",
+      "name": "Children's Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FOne-hour-canal-cruise-and-all-drinks-included-The-best-way-to-explore-Amsterdam%2Fd525-56080P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a17b8591d0ee69ace&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=194315&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FOne-hour-canal-cruise-and-all-drinks-included-The-best-way-to-explore-Amsterdam%2Fd525-56080P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a17b8591d0ee69ace&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=194315&clt=TM&from=api&nt=true",
+        "price": "$24.59",
+        "rounded_up_price": "$25",
+        "offer_type": "",
+        "title": "Amsterdam Sightseeing Canal Cruise with Unlimited Drinks",
+        "product_code": "56080P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/c1/59/6c.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FLounge-and-Smoke-in-Style-Boat-Tour-starting-from-the-Red-Light-District-Amsterdam%2Fd525-197840P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2d21ff025c8a67db0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=194315&clt=TM&from=api&nt=true",
+        "price": "$27.32",
+        "rounded_up_price": "$28",
+        "offer_type": "",
+        "title": "Amsterdam Small-Group Canal Boat Tour with Shisha/Hookah",
+        "product_code": "197840P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/66/c8/ac.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-1-Hr-Canal-Cruise%2Fd525-2550STLCRUISE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aab535d0670676130&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=194315&clt=TM&from=api&nt=true",
+        "price": "$16.94",
+        "rounded_up_price": "$17",
+        "offer_type": "",
+        "title": "Amsterdam Canal Cruise",
+        "product_code": "2550STLCRUISE",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/60/17/23.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-60-minute-canal-cruise%2Fd525-56080P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fb39b9975240f0dc7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=194315&clt=TM&from=api&nt=true",
+        "price": "$21.86",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": "Amsterdam Electric Boat Canal Cruise with Two Drinks",
+        "product_code": "56080P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/c1/59/60.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FArchitectural-Walk-of-Amsterdam-with-a-Local%2Fd525-76654P69%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7a1952beb84ed1258&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=194315&clt=TM&from=api&nt=true",
+        "price": "$710.41",
+        "rounded_up_price": "$711",
+        "offer_type": "",
+        "title": "Amsterdam Architecture Private Tour with Local Guide",
+        "product_code": "76654P69",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/4e/ae/a1.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

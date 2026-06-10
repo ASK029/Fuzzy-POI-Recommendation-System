@@ -1,0 +1,185 @@
+{
+  "location_id": "190595",
+  "name": "Gemaldegalerie",
+  "latitude": "52.508606",
+  "longitude": "13.365927",
+  "num_reviews": "2155",
+  "timezone": "Europe/Berlin",
+  "location_string": "Berlin",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/cf/22/2e/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/cf/22/2e/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/cf/22/2e/caption.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/14/cf/22/2e/caption.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/cf/22/2e/caption.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-09-26T04:29:05-0400",
+    "caption": "гал",
+    "id": "349119022",
+    "helpful_votes": "0",
+    "published_date": "2018-09-26T04:29:05-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.berlin",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.107631206512451",
+  "ranking_geo": "Berlin",
+  "ranking_geo_id": "187323",
+  "ranking_position": "21",
+  "ranking_denominator": "1922",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#21 of 1,922 things to do in Berlin",
+  "subcategory_ranking": "#21 of 1,922 things to do in Berlin",
+  "ranking": "#21 of 1,922 things to do in Berlin",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620490",
+      "name": "Mitte (Borough)"
+    },
+    {
+      "location_id": "7281425",
+      "name": "Mitte"
+    },
+    {
+      "location_id": "15620480",
+      "name": "Tiergarten"
+    }
+  ],
+  "description": "We are more than happy that starting from 12th of May 2020 we can reopen several of the museums belonging to the Staatliche Museen zu Berlin – among them the Gemäldegalerie! Please note that during your visit you have to follow some special hygiene and safety measures. All important information about visiting the museum can be found on our website. // The Gemäldegalerie boasts one of the world’s most important collections of European painting ranging from the 13th to 18th century. Masterpieces from all epochs in the history of art are on permanent display here, including paintings by Jan van Eyck, Pieter Bruegel, Albrecht Durer, Raphael, Titian, Caravaggio, Peter Paul Rubens, Rembrandt, and Jan Vermeer van Delft. The gallery is especially proud of its strong collection of German and Italian painting from the 13th to 16th century and painting from the Low Countries dating from the 15th to 17th century.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190595-Reviews-Gemaldegalerie-Berlin.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187323-d190595-Gemaldegalerie-Berlin.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Berlin",
+      "abbrv": null,
+      "location_id": "187323"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Berlin",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 30 266424242",
+  "website": "http://www.smb.museum/en/museums-institutions/gemaeldegalerie/home.html",
+  "email": "gg@smb.spk-berlin.de",
+  "address_obj": {
+    "street1": "Matthaikirchplatz",
+    "street2": null,
+    "city": "Berlin",
+    "state": null,
+    "country": "Germany",
+    "postalcode": "10785"
+  },
+  "address": "Matthaikirchplatz, 10785 Berlin Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "28",
+      "name": "Art Museums"
+    }
+  ],
+  "fee": "YES"
+}

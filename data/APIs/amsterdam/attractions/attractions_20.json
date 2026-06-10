@@ -1,0 +1,225 @@
+{
+  "location_id": "189381",
+  "name": "Dam Square",
+  "latitude": "52.373074",
+  "longitude": "4.892645",
+  "num_reviews": "15508",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/5b/ad/35/royal-palace.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/5b/ad/35/royal-palace.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/5b/ad/35/royal-palace.jpg",
+        "height": "1499"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/5b/ad/35/royal-palace.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/5b/ad/35/royal-palace.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-05-22T11:35:52-0400",
+    "caption": "Royal Palace",
+    "id": "190557493",
+    "helpful_votes": "2",
+    "published_date": "2016-05-22T11:35:52-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.325239181518555",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "12",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#12 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#12 of 1,200 things to do in Amsterdam",
+  "ranking": "#12 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620085",
+      "name": "Burgwallen-Nieuwe Zijde"
+    },
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "15620171",
+      "name": "Old Center"
+    },
+    {
+      "location_id": "15620184",
+      "name": "Dam Square & Damstraat"
+    }
+  ],
+  "description": "All roads lead to Dam Square, the real heart of Amsterdam, where The Royal Palace, the Nieuwe Kerk and the War Memorial overlook this vast and bustling open space.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d189381-Reviews-Dam_Square-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d189381-Dam_Square-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "http://www.amsterdam.info/sights/dam_square",
+  "address_obj": {
+    "street1": null,
+    "street2": "",
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": null
+  },
+  "address": "Amsterdam The Netherlands",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-Tour-Red-Light-District-and-Food-Tour-with-Optional-Tasting-in-Amsterdam%2Fd525-9093P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c39109cd6883db89f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=189381&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-Tour-Red-Light-District-and-Food-Tour-with-Optional-Tasting-in-Amsterdam%2Fd525-9093P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c39109cd6883db89f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=189381&clt=TM&from=api&nt=true",
+        "price": "$111.48",
+        "rounded_up_price": "$112",
+        "offer_type": "",
+        "title": "Private Amsterdam Red Light District and Food Tour",
+        "product_code": "9093P9",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/ab/e4.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAnne-Frank-and-Jewish-Quarter-Guided-Walking-Tour-in-Amsterdam%2Fd525-8718P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7b3cfe0af40417986&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=189381&clt=TM&from=api&nt=true",
+        "price": "$35.52",
+        "rounded_up_price": "$36",
+        "offer_type": "",
+        "title": "Amsterdam Jewish Quarter Anne Frank Walking Tour",
+        "product_code": "8718P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e6/5a/ec.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Walking-Tour%2Fd525-6412WALK%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1dfc8a3278cc8da7f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=189381&clt=TM&from=api&nt=true",
+        "price": "$29.51",
+        "rounded_up_price": "$30",
+        "offer_type": "",
+        "title": "Amsterdam Small-Group Walking Tour with Two Tour Times",
+        "product_code": "6412WALK",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/c6/99/3a.jpg",
+        "description": null,
+        "primary_category": "Walking Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-90-Minutes-Amsterdam-Kickstart-Tour%2Fd525-24380P57%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3f1bdcd8ce079732&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=189381&clt=TM&from=api&nt=true",
+        "price": "$88.53",
+        "rounded_up_price": "$89",
+        "offer_type": "",
+        "title": "Amsterdam Private City Kickstart 1.5-Hour Tour",
+        "product_code": "24380P57",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/6f/d8/96.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FPrivate-Anne-Frank-and-Jewish-Quarter-Tour%2Fd525-24380P589%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f70a944af34adbf93&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=189381&clt=TM&from=api&nt=true",
+        "price": "$140.99",
+        "rounded_up_price": "$141",
+        "offer_type": "",
+        "title": "Amsterdam Anne Frank & Jewish Culture Private Walking Tour",
+        "product_code": "24380P589",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e6/36/93.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

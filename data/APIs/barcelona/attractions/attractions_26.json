@@ -1,0 +1,227 @@
+{
+  "location_id": "591343",
+  "name": "Placa d'Espanya",
+  "latitude": "41.375034",
+  "longitude": "2.149124",
+  "num_reviews": "5604",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/aa/26/3e/photo1jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/aa/26/3e/photo1jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/aa/26/3e/photo1jpg.jpg",
+        "height": "1536"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/aa/26/3e/photo1jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/aa/26/3e/photo1jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-06-24T05:58:38-0400",
+    "caption": "",
+    "id": "262809150",
+    "helpful_votes": "3",
+    "published_date": "2017-06-24T05:58:38-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.932156801223755",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "42",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#42 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#42 of 1,549 things to do in Barcelona",
+  "ranking": "#42 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    },
+    {
+      "location_id": "15565891",
+      "name": "Hostafrancs"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d591343-Reviews-Placa_d_Espanya-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d591343-Placa_d_Espanya-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": "",
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": ""
+  },
+  "address": "Barcelona Spain",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSmall-group-Barcelona-and-Montserrat-with-hotel-pickup-AND-skip-the-line-tickets%2Fd562-5689P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cc782c7c258bdf66a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=591343&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$7.64",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSmall-group-Barcelona-and-Montserrat-with-hotel-pickup-AND-skip-the-line-tickets%2Fd562-5689P14%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cc782c7c258bdf66a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=591343&clt=TM&from=api&nt=true",
+        "price": "$149.73",
+        "rounded_up_price": "$150",
+        "offer_type": "",
+        "title": "Barcelona and Montserrat: Guided Small-Group Highlights Tour",
+        "product_code": "5689P14",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/7c/b9/4e.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Best-Views-Old-Town-Cable-Car-Montjuic-Castle-and-Magic-Fountain-Show%2Fd562-9866P79%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e8540e58b5c282a15&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=591343&clt=TM&from=api&nt=true",
+        "price": "$82.31",
+        "rounded_up_price": "$83",
+        "offer_type": "",
+        "title": "Barcelona Best Views: Old Town, Cable Car and Montjuic Castle",
+        "product_code": "9866P79",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/0e/57/97.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FCity-Sightseeing-Barcelona-Hop-On-Hop-Off-Tour%2Fd562-2916BARCELONA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e1feb9331a0d2ea7a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=591343&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona City Sightseeing Hop-On Hop-Off Bus Tour",
+        "product_code": "2916BARCELONA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/7f/a3.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSidecar-Barcelona-Highlights-Tour%2Fd562-101078P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cc639f1a265b357ce&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=591343&clt=TM&from=api&nt=true",
+        "price": "$196.73",
+        "rounded_up_price": "$197",
+        "offer_type": "",
+        "title": "Barcelona Sidecar Motorcycle Tour",
+        "product_code": "101078P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/fd/a6/4a.jpg",
+        "description": null,
+        "primary_category": "Sidecar Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2F3-Hour-Private-Montjuic-Mountain-Tour-with-Visit-of-Olympic-Park-and-Plaza-Espana%2Fd562-14218P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c72c440dfb1d8cc54&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=591343&clt=TM&from=api&nt=true",
+        "price": "$197.82",
+        "rounded_up_price": "$198",
+        "offer_type": "",
+        "title": "Montjuic, Olympic Park, Plaza Espana: Barcelona Private Tour",
+        "product_code": "14218P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/f8/46.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

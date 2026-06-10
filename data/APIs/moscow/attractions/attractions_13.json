@@ -1,0 +1,208 @@
+{
+  "location_id": "2342320",
+  "name": "Museum of Soviet Arcade Machines",
+  "latitude": "55.76452",
+  "longitude": "37.623783",
+  "num_reviews": "532",
+  "timezone": "Europe/Moscow",
+  "location_string": "Moscow, Central Russia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/cf/bf/67/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/cf/bf/67/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/cf/bf/67/caption.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/08/cf/bf/67/caption.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/cf/bf/67/caption.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-09-01T02:32:14-0400",
+    "caption": "ресепшн",
+    "id": "147832679",
+    "helpful_votes": "12",
+    "published_date": "2015-09-01T02:32:14-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.russia.moscow",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.007815837860107",
+  "ranking_geo": "Moscow",
+  "ranking_geo_id": "298484",
+  "ranking_position": "48",
+  "ranking_denominator": "5498",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#48 of 5,498 things to do in Moscow",
+  "subcategory_ranking": "#48 of 5,498 things to do in Moscow",
+  "ranking": "#48 of 5,498 things to do in Moscow",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621302",
+      "name": "Garden Ring"
+    },
+    {
+      "location_id": "15621255",
+      "name": "Meshchanskiy"
+    },
+    {
+      "location_id": "15621300",
+      "name": "Boulevard Ring"
+    },
+    {
+      "location_id": "15621301",
+      "name": "3rd Transport Ring (TTK)"
+    },
+    {
+      "location_id": "15621179",
+      "name": "District Central (TsAO)"
+    }
+  ],
+  "description": "Welcome to Museum of Soviet Arcade Machines – place full of nostalgia and fun! Our museum is unique all over the world, it was founded by three young enthusiasts. They collected arcade machines from different countries of the former Soviet Union, removed them with love and care so you can watch and play. Our collection continues to grow constantly.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g298484-d2342320-Reviews-Museum_of_Soviet_Arcade_Machines-Moscow_Central_Russia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298484-d2342320-Museum_of_Soviet_Arcade_Machines-Moscow_Central_Russia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Moscow",
+      "abbrv": null,
+      "location_id": "298484"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Central Russia",
+      "abbrv": null,
+      "location_id": "298479"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Russia",
+      "abbrv": null,
+      "location_id": "294459"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Moscow",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+7 495 628-45-15",
+  "website": "http://www.15kop.ru",
+  "email": "0rub@15kop.ru",
+  "address_obj": {
+    "street1": "Rozhdestvenka St.,12",
+    "street2": null,
+    "city": "Moscow",
+    "state": null,
+    "country": "Russia",
+    "postalcode": "107031"
+  },
+  "address": "Rozhdestvenka St.,12, Moscow 107031 Russia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1260
+        }
+      ]
+    ],
+    "timezone": "Europe/Moscow"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "location_id": "2409034",
+  "name": "Shelby American, Inc.",
+  "latitude": "36.072174",
+  "longitude": "-115.179665",
+  "num_reviews": "1614",
+  "timezone": "America/Los_Angeles",
+  "location_string": "Las Vegas, Nevada",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/9e/55/f1/walk-through-the-life.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/9e/55/f1/walk-through-the-life.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "882",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/9e/55/f1/walk-through-the-life.jpg",
+        "height": "588"
+      },
+      "large": {
+        "width": "882",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/9e/55/f1/walk-through-the-life.jpg",
+        "height": "588"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/9e/55/f1/walk-through-the-life.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2019-05-21T16:57:21-0400",
+    "caption": "Walk through the life, story, and actual collection of cars as you tour the expansive Shelby American Heritage Center.",
+    "id": "396252657",
+    "helpful_votes": "0",
+    "published_date": "2019-05-21T16:57:21-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.nv.las_vegas",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.107999801635742",
+  "ranking_geo": "Las Vegas",
+  "ranking_geo_id": "45963",
+  "ranking_position": "17",
+  "ranking_denominator": "878",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#17 of 878 things to do in Las Vegas",
+  "subcategory_ranking": "#17 of 878 things to do in Las Vegas",
+  "ranking": "#17 of 878 things to do in Las Vegas",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "description": "This location is our manufacturing facility and home of the Shelby Heritage Center. Visitors will see a wide variety of vehicles in the Shelby Heritage Center, from Cobras to Supersnakes and all of our current products. We also have a large merchandise store and tons of Shelby information available. Self-guided tours all the rest of the time during our scheduled hours of operation.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2409034-Reviews-Shelby_American_Inc-Las_Vegas_Nevada.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g45963-d2409034-Shelby_American_Inc-Las_Vegas_Nevada.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Las Vegas",
+      "abbrv": null,
+      "location_id": "45963"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Nevada",
+      "abbrv": "NV",
+      "location_id": "28949"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Las Vegas",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 702-942-7325",
+  "website": "https://www.shelby.com/en-us",
+  "address_obj": {
+    "street1": "6405 Ensworth St",
+    "street2": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "United States",
+    "postalcode": "89119-3211"
+  },
+  "address": "6405 Ensworth St, Las Vegas, NV 89119-3211",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1020
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "America/Los_Angeles"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-7496P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9c6691118b14cf31c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=2409034&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.40",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-7496P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9c6691118b14cf31c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=2409034&clt=TM&from=api&nt=true",
+        "price": "$99.00",
+        "rounded_up_price": "$99",
+        "offer_type": "",
+        "title": "Las Vegas Half-Day Count Kustom's Car Experience with Shelby",
+        "product_code": "7496P2",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": "Helicopter Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-39239P20%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2d6c9346b2801055c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=2409034&clt=TM&from=api&nt=true",
+        "price": "$1,033.77",
+        "rounded_up_price": "$1,034",
+        "offer_type": "",
+        "title": "Las Vegas Wedding at Shelby American Inc Auto Museum",
+        "product_code": "39239P20",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-7496P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=734fcfd8aa8a72e88&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=2409034&clt=TM&from=api&nt=true",
+        "price": "$40.00",
+        "rounded_up_price": "$40",
+        "offer_type": "",
+        "title": "Las Vegas Pawn Stars and Reality TV Shows Half-Day Tour",
+        "product_code": "7496P1",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": "Helicopter Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-146083P5%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c623173aa2db6459b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=2409034&clt=TM&from=api&nt=true",
+        "price": "$59.00",
+        "rounded_up_price": "$59",
+        "offer_type": "",
+        "title": "Las Vegas Shelby American Heritage Center VIP Tour",
+        "product_code": "146083P5",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": "Helicopter Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

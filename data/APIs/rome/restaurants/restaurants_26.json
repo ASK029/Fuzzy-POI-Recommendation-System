@@ -1,0 +1,218 @@
+{
+  "location_id": "17409780",
+  "name": "Bufalero",
+  "latitude": "41.95052",
+  "longitude": "12.53792",
+  "num_reviews": "2965",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/61/1a/b8/wagyu.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/61/1a/b8/wagyu.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/61/1a/b8/wagyu.jpg",
+        "height": "1280"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/1b/61/1a/b8/wagyu.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/61/1a/b8/wagyu.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2020-06-05T07:59:38-0400",
+    "caption": "Wagyu",
+    "id": "459348664",
+    "helpful_votes": "27",
+    "published_date": "2020-06-05T07:59:38-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.84982967376709",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "23",
+  "ranking_denominator": "11293",
+  "ranking_category": "restaurant",
+  "ranking": "#23 of 12,834 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "neighborhood_info": [
+    {
+      "location_id": "15621845",
+      "name": "Bufalotta"
+    }
+  ],
+  "description": "Carni dal mondo&BurgerHouse",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187791-d17409780-Reviews-Bufalero-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d17409780-Bufalero-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 5987 8731",
+  "email": "bufalero2019@gmail.com",
+  "address_obj": {
+    "street1": "Via Passo Del Turchino, 18a/b",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00139"
+  },
+  "address": "Via Passo Del Turchino, 18a/b, 00139 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10345",
+      "name": "Steakhouse"
+    },
+    {
+      "key": "4617",
+      "name": "Italian"
+    },
+    {
+      "key": "9908",
+      "name": "American"
+    }
+  ],
+  "dietary_restrictions": [],
+  "booking": {
+    "provider": "JustEat",
+    "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=207672597&geo=17409780&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=942491&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=327998557&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2cN3JoHEUMZ2DSYqAiB4zYs&cs=1b5a3faa6d3831065b17df92bd82c1410"
+  },
+  "reserve_info": {
+    "id": "17409780",
+    "provider": "JustEat",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/justeat_08.17.2020.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=207672597&geo=17409780&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=942491&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=327998557&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2cN3JoHEUMZ2DSYqAiB4zYs&cs=1b5a3faa6d3831065b17df92bd82c1410",
+    "booking_partner_id": null,
+    "racable": false,
+    "api_bookable": false,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Order Online",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "location_id": "8820363",
+  "name": "Stuttgarter Weihnachtsmarkt",
+  "latitude": "48.795517",
+  "longitude": "9.220728",
+  "num_reviews": "310",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/df/5e/c7/christmas-market.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/df/5e/c7/christmas-market.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/df/5e/c7/christmas-market.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/df/5e/c7/christmas-market.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/df/5e/c7/christmas-market.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-12-14T08:59:50-0500",
+    "caption": "christmas market",
+    "id": "232742599",
+    "helpful_votes": "4",
+    "published_date": "2016-12-14T08:59:50-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.07980489730835",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "4",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#4 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#4 of 295 things to do in Stuttgart",
+  "ranking": "#4 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "20484599",
+      "name": "Rathaus"
+    }
+  ],
+  "description": "For nearly a month leading up to Christmas, the Stuttgarter Weihnachtsmarkt welcomes over 3 million visitors to shop for wood toys, figurines, and antiques and warm their bellies with mulled wine and fresh gingerbread. Little ones scoot about Children's Fairyland, riding the steam train, designing their own candles, and snacking on chocolate-covered fruit. The market's nativity scene features live lambs, sheep, donkeys, and a goat, and crowds gather for daily concerts performed by choirs and music groups from the Stuttgart region. A tradition dating back over 300 years, the Stuttgarter Weihnachtsmarkt stands as one of Europe's oldest and most lively Christmas markets.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d8820363-Reviews-Stuttgarter_Weihnachtsmarkt-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d8820363-Stuttgarter_Weihnachtsmarkt-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "62",
+      "name": "Events"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 711 95543300",
+  "website": "http://stuttgarter-weihnachtsmarkt.de/",
+  "address_obj": {
+    "street1": "Mercedesstrasse 50",
+    "street2": "Schillerplatz",
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70372"
+  },
+  "address": "Mercedesstrasse 50 Schillerplatz, 70372 Stuttgart, Baden-Wurttemberg Germany",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "282",
+      "name": "Cultural Events"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Christmas-Market-Tour%2Fd28716-88037P218%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=09e6a3fffedc95ffa&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=8820363&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$2.81",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FStuttgart%2FStuttgart-Christmas-Market-Tour%2Fd28716-88037P218%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=09e6a3fffedc95ffa&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=8820363&clt=TM&from=api&nt=true",
+        "price": "$256.82",
+        "rounded_up_price": "$257",
+        "offer_type": "",
+        "title": "Stuttgart Christmas Market Tour With A Professional Guide",
+        "product_code": "88037P218",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/22/3c/a2.jpg",
+        "description": null,
+        "primary_category": "Christmas"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": false
+  }
+}

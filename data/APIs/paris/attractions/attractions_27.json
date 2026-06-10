@@ -1,0 +1,270 @@
+{
+  "location_id": "189249",
+  "name": "Parc des Buttes-Chaumont",
+  "latitude": "48.88094",
+  "longitude": "2.38276",
+  "num_reviews": "2114",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/bf/21/9d/photo0jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/bf/21/9d/photo0jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/bf/21/9d/photo0jpg.jpg",
+        "height": "1536"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/bf/21/9d/photo0jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/bf/21/9d/photo0jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-09-22T18:02:54-0400",
+    "caption": "",
+    "id": "280961437",
+    "helpful_votes": "10",
+    "published_date": "2017-09-22T18:02:54-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.124513149261475",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "29",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#29 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#29 of 4,164 things to do in Paris",
+  "ranking": "#29 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7239110",
+      "name": "Belleville / Pere Lachaise"
+    },
+    {
+      "location_id": "15621632",
+      "name": "19th Arr. - Buttes-Chaumont"
+    },
+    {
+      "location_id": "15621569",
+      "name": "Combat"
+    }
+  ],
+  "description": "This elevated park in the northeast section of the city features an artificial lake and waterfall as well as impressive views of the surrounding area.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189249-Reviews-Parc_des_Buttes_Chaumont-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d189249-Parc_des_Buttes_Chaumont-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 48 03 83 10",
+  "website": "https://www.paris.fr/lieux/parc-des-buttes-chaumont-1757",
+  "address_obj": {
+    "street1": "1 rue Botzaris",
+    "street2": "",
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75019"
+  },
+  "address": "1 rue Botzaris, 75019 Paris France",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 420,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 420,
+          "close_time": 1320
+        }
+      ]
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "70",
+      "name": "Parks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-off-the-beaten-track%2Fd479-108889P19%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6c4d5e046d537b48d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=189249&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.67",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-off-the-beaten-track%2Fd479-108889P19%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6c4d5e046d537b48d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=189249&clt=TM&from=api&nt=true",
+        "price": "$437.18",
+        "rounded_up_price": "$438",
+        "offer_type": "",
+        "title": "Paris: Off-the-Beaten-Path City Sights Private Walking Tour",
+        "product_code": "108889P19",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e1/75/1a.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FOff-The-Beaten-Track-Private-Walking-Tour%2Fd479-150467P8%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3c93148b70ed643c8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=189249&clt=TM&from=api&nt=true",
+        "price": "$234.98",
+        "rounded_up_price": "$235",
+        "offer_type": "",
+        "title": "Paris Local Neighborhoods and Attractions Private Walking Tour",
+        "product_code": "150467P8",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/c6/a1/9d.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FThe-Local-Paris-Experience-an-off-the-beaten-track-adventure%2Fd479-19551P31%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a826e9eba5ceea952&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=189249&clt=TM&from=api&nt=true",
+        "price": "$704.95",
+        "rounded_up_price": "$705",
+        "offer_type": "",
+        "title": "Paris: Off-the-Beaten-Track Private Full-Day Walking Tour",
+        "product_code": "19551P31",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/ec/56/b2.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-Private-Walking-Tour-with-a-Local-Guide%2Fd479-412832P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=caa57eb2f6698c78a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=189249&clt=TM&from=api&nt=true",
+        "price": "$57.81",
+        "rounded_up_price": "$58",
+        "offer_type": "",
+        "title": "Paris Private Walking Tour with a Local Guide",
+        "product_code": "412832P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/47/5e/9c.jpg",
+        "description": null,
+        "primary_category": "Walking Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FGuided-tour-of-Buttes-Chaumont-and-its-surroundings%2Fd479-434838P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=42eefa0e951f356ea&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=189249&clt=TM&from=api&nt=true",
+        "price": "$109.29",
+        "rounded_up_price": "$110",
+        "offer_type": "",
+        "title": "Guided tour of Buttes Chaumont and its surroundings",
+        "product_code": "434838P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/ee/83/32.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

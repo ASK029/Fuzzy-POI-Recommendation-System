@@ -1,0 +1,238 @@
+{
+  "location_id": "17847687",
+  "name": "Vedang - Green Burger | Alexa Berlin",
+  "latitude": "52.51908",
+  "longitude": "13.416187",
+  "num_reviews": "342",
+  "timezone": "Europe/Berlin",
+  "location_string": "Berlin",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/29/4a/17/5f/crispy-chicken.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/4a/17/5f/crispy-chicken.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/4a/17/5f/crispy-chicken.jpg",
+        "height": "720"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/29/4a/17/5f/crispy-chicken.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/4a/17/5f/crispy-chicken.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-05-26T10:40:17-0400",
+    "caption": "Crispy Chicken ",
+    "id": "692721503",
+    "helpful_votes": "0",
+    "published_date": "2023-05-26T10:40:17-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.germany.berlin",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.6637864112854",
+  "ranking_geo": "Berlin",
+  "ranking_geo_id": "187323",
+  "ranking_position": "12",
+  "ranking_denominator": "6906",
+  "ranking_category": "restaurant",
+  "ranking": "#12 of 9,336 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$",
+  "price": "$5 - $10",
+  "neighborhood_info": [
+    {
+      "location_id": "15620490",
+      "name": "Mitte (Borough)"
+    },
+    {
+      "location_id": "7281425",
+      "name": "Mitte"
+    }
+  ],
+  "description": "Welcome to Vedang - green burger, where every bite supports sustainability. At Vedang, we are all about redefining taste. Our plant-based burgers are a game changer; they taste like real meat. However, we also understand that diversity is the spice of life. That's why we're thrilled to introduce our smash burgers: locally sourced, sustainable beef that's a treat for your taste buds.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187323-d17847687-Reviews-Vedang_Green_Burger_Alexa_Berlin-Berlin.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187323-d17847687-Vedang_Green_Burger_Alexa_Berlin-Berlin.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Berlin",
+      "abbrv": null,
+      "location_id": "187323"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Berlin",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 30 21454713",
+  "website": "http://www.vedang.de",
+  "email": "info@vedang.de",
+  "address_obj": {
+    "street1": "Grunerstrasse 20",
+    "street2": "Alexa Foodcourt 2",
+    "city": "Berlin",
+    "state": null,
+    "country": "Germany",
+    "postalcode": "10179"
+  },
+  "address": "Grunerstrasse 20 Alexa Foodcourt 2, 10179 Berlin Germany",
+  "hours": {
+    "week_ranges": [
+      [],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10646",
+      "name": "Fast Food"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "10686",
+      "name": "Street Food"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "booking": {
+    "provider": "Lieferando.de",
+    "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=173826146&geo=17847687&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=874916&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2WK9NLDQUAdhb833PfyMI_M&cs=1b485ac05215ed22ec2050a11b72f33f8"
+  },
+  "reserve_info": {
+    "id": "17847687",
+    "provider": "Lieferando.de",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/lieferando.de_white_05.30.2019.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=Delivery_Takeaway&src=173826146&geo=17847687&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=30023&bucket=874916&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324789209&managed=false&capped=false&gosox=hoj-XIew3AFl06ehuBdwigY1zzB7zZ6R8kbTVop6J1t6yJit11sLuj5wYD6cYnXYNGi9I6nuBPmXmunT2F7Y2WK9NLDQUAdhb833PfyMI_M&cs=1b485ac05215ed22ec2050a11b72f33f8",
+    "booking_partner_id": null,
+    "racable": false,
+    "api_bookable": false,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Order Online",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

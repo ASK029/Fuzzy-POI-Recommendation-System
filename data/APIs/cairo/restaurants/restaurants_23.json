@@ -1,0 +1,206 @@
+{
+  "location_id": "10344335",
+  "name": "Yana",
+  "latitude": "30.06112",
+  "longitude": "31.418306",
+  "num_reviews": "369",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/3c/12/12/yana-thai-restaurant.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/3c/12/12/yana-thai-restaurant.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/3c/12/12/yana-thai-restaurant.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0e/3c/12/12/yana-thai-restaurant.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3c/12/12/yana-thai-restaurant.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2017-01-23T08:00:10-0500",
+    "caption": "YANA THAI RESTAURANT ",
+    "id": "238817810",
+    "helpful_votes": "2",
+    "published_date": "2017-01-23T08:00:10-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.887819290161133",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "22",
+  "ranking_denominator": "1462",
+  "ranking_category": "restaurant",
+  "ranking": "#20 of 2,583 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "Grab your chopsticks and dig into the best of Asian cuisine in Cairo as you savour the bursting flavours of Yana’s signature dishes, prepared with homemade spice blends, flavourful sauces and the passion of our chef. Whether you are planning a fine business dinner or an intimate gathering, enjoy the contemporary setting of our semi-private dining room, which can accommodate up to ten guests.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294201-d10344335-Reviews-Yana-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d10344335-Yana-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 109 711 1151",
+  "website": "https://www.kempinski.com/en/royal-maxim-palace-kempinski-cairo/restaurants-bars/yana",
+  "email": "fbresv.royalmaxim@kempinski.com",
+  "address_obj": {
+    "street1": "Ring Rd",
+    "street2": null,
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11477"
+  },
+  "address": "Ring Rd, Cairo 11477 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 780,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5473",
+      "name": "Japanese"
+    },
+    {
+      "key": "10659",
+      "name": "Asian"
+    },
+    {
+      "key": "10660",
+      "name": "Thai"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

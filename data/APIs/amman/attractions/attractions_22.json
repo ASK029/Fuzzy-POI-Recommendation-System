@@ -1,0 +1,170 @@
+{
+  "location_id": "1980260",
+  "name": "Abu Darwish Mosque",
+  "latitude": "31.94144",
+  "longitude": "35.9378",
+  "num_reviews": "106",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/96/ad/7b/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/96/ad/7b/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/96/ad/7b/caption.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/15/96/ad/7b/caption.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/96/ad/7b/caption.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-12-02T14:43:48-0500",
+    "caption": "Мечеть Абу Дервиш",
+    "id": "362196347",
+    "helpful_votes": "2",
+    "published_date": "2018-12-02T14:43:48-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.1517739295959473",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "20",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#20 of 118 things to do in Amman",
+  "subcategory_ranking": "#20 of 118 things to do in Amman",
+  "ranking": "#20 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.1",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d1980260-Reviews-Abu_Darwish_Mosque-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d1980260-Abu_Darwish_Mosque-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Abu Darwish St. Jabal Ashrafieh",
+    "street2": "Jabal Ashrafieh",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": ""
+  },
+  "address": "Abu Darwish St. Jabal Ashrafieh Jabal Ashrafieh, Amman Jordan",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FAmmans-Legends-Unveiled-7-Sleepers-Cave-3-Mosques-and-City-Tour%2Fd5503-351376P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4a0cb371383a902e1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1980260&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.62",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FAmmans-Legends-Unveiled-7-Sleepers-Cave-3-Mosques-and-City-Tour%2Fd5503-351376P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4a0cb371383a902e1&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1980260&clt=TM&from=api&nt=true",
+        "price": "$62.00",
+        "rounded_up_price": "$62",
+        "offer_type": "",
+        "title": "Exploring Shrines, Mosques, and Holy Landmarks Private Tour",
+        "product_code": "351376P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/83/2b/a9.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FAmman-Sightseeing-Tour%2Fd5503-383513P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=051328c78d3efc503&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1980260&clt=TM&from=api&nt=true",
+        "price": "$144.00",
+        "rounded_up_price": "$144",
+        "offer_type": "",
+        "title": "Private Full Day Amman Sightseeing Tour ",
+        "product_code": "383513P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/0b/56/37.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

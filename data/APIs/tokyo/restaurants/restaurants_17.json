@@ -1,0 +1,234 @@
+{
+  "location_id": "32836470",
+  "name": "Nobunaga Ramen Restarant",
+  "latitude": "35.67647",
+  "longitude": "139.77048",
+  "num_reviews": "183",
+  "timezone": "Asia/Tokyo",
+  "location_string": "Chuo, Tokyo, Tokyo Prefecture, Kanto",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2e/93/f7/db/nobunaga-ramen.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2e/93/f7/db/nobunaga-ramen.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2e/93/f7/db/nobunaga-ramen.jpg",
+        "height": "1212"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2e/93/f7/db/nobunaga-ramen.jpg",
+        "height": "970"
+      },
+      "medium": {
+        "width": "475",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2e/93/f7/db/nobunaga-ramen.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2025-01-17T01:42:03-0500",
+    "caption": "NOBUNAGA RAMEN",
+    "id": "781449179",
+    "helpful_votes": "0",
+    "published_date": "2025-01-17T01:42:03-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "as.japan.kanto.tokyo.chuo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.8416361808776855",
+  "ranking_geo": "Tokyo",
+  "ranking_geo_id": "298184",
+  "ranking_position": "18",
+  "ranking_denominator": "63359",
+  "ranking_category": "restaurant",
+  "ranking": "#17 of 94,649 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$1,500 - $100,000",
+  "description": "\"Ramen has now become a symbol of Japanese culture, boasting passionate fans around the globe. With our unique genre of rich seafood and chicken paitan broth, combined with Japan’s globally recognized spirit of hospitality, we aim to create ramen that excites the world. Original Noodles, Ultimate Broth, and Luxurious Ingredients Combined to Create the Supreme Bowl\nThe NOBUNAGA style features original noodles paired with an ultimate broth, along with carefully selected chicken chashu, house-made eggs, premium nori, and over ten different toppings. These include secret touches such as powdered seafood, oil extracted from shrimp, aromatic onions, and powdered onions. Together, they create a truly supreme bowl of ramen. The signature “All-in NOBUNAGA Ramen” is crafted with the spirit of astonishing the world—not only with its flavor and price but also with the heartfelt hospitality it embodies. The Finest Flavor, Rich Broth, and a Special Chicken Paitan Soup That Brings Out the Umami of",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1066444-d32836470-Reviews-Nobunaga_Ramen_Restarant-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1066444-d32836470-Nobunaga_Ramen_Restarant-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Chuo",
+      "abbrv": null,
+      "location_id": "1066444"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Tokyo",
+      "abbrv": null,
+      "location_id": "298184"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Tokyo Prefecture",
+      "abbrv": null,
+      "location_id": "1023181"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kanto",
+      "abbrv": null,
+      "location_id": "298156"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Japan",
+      "abbrv": null,
+      "location_id": "294232"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Chuo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+81 70-1485-4853",
+  "website": "https://ramen-nobunaga.com/",
+  "address_obj": {
+    "street1": "2-5-2- Kyobashi",
+    "street2": null,
+    "city": "Chuo",
+    "state": "Tokyo Prefecture",
+    "country": "Japan",
+    "postalcode": "104-0031"
+  },
+  "address": "2-5-2- Kyobashi, Chuo 104-0031 Tokyo Prefecture",
+  "hours": {
+    "week_ranges": [
+      [],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1320
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 900
+        }
+      ]
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5473",
+      "name": "Japanese"
+    },
+    {
+      "key": "10659",
+      "name": "Asian"
+    },
+    {
+      "key": "10700",
+      "name": "Soups"
+    },
+    {
+      "key": "10653",
+      "name": "Sushi"
+    }
+  ],
+  "dietary_restrictions": [],
+  "booking": {
+    "provider": "TableCheck",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurant_TableCheck&src=268393595&geo=32836470&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=46221&bucket=985645&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=330855878&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ84UJ5i48GWzeNhnDTZZF2rBdHs9OKbTBGn6IffUmwoHU&cs=1d98ad71b32eca1033e8bfe5541e0c336"
+  },
+  "reserve_info": {
+    "id": "32836470",
+    "provider": "TableCheck",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/tablecheck_08.17.2022.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurant_TableCheck&src=268393595&geo=32836470&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=46221&bucket=985645&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=330855878&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ84UJ5i48GWzeNhnDTZZF2rBdHs9OKbTBGn6IffUmwoHU&cs=1d98ad71b32eca1033e8bfe5541e0c336",
+    "booking_partner_id": null,
+    "racable": false,
+    "api_bookable": false,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

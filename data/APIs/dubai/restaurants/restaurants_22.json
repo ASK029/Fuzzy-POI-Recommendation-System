@@ -1,0 +1,246 @@
+{
+  "location_id": "23343808",
+  "name": "Fire Lake Grill House Restaurant & Bar",
+  "latitude": "25.018791",
+  "longitude": "55.246223",
+  "num_reviews": "738",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/40/7c/03/bone-in-rib-eye-with.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/40/7c/03/bone-in-rib-eye-with.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/40/7c/03/bone-in-rib-eye-with.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1d/40/7c/03/bone-in-rib-eye-with.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/40/7c/03/bone-in-rib-eye-with.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2021-07-02T09:42:01-0400",
+    "caption": "Bone-in Rib Eye with Bone Marrow, Broccolini and Onion Rings",
+    "id": "490765315",
+    "helpful_votes": "0",
+    "published_date": "2021-07-02T09:42:01-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.919885635375977",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "19",
+  "ranking_denominator": "8546",
+  "ranking_category": "restaurant",
+  "ranking": "#19 of 11,067 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "price": "$75 - $300",
+  "neighborhood_info": [
+    {
+      "location_id": "15620650",
+      "name": "Mudon"
+    }
+  ],
+  "description": "Serving up the best of Midwest traditions thanks to its open flame technique, Fire Lake Grill House Restaurant & Bar is your go-to for smoky, satisfying flavors, the likes of slow-roasted short rib and flame grilled steaks. The menu doesn’t stop there: chewy sourdough flat breads, dreamy desserts and exotic drinks are served inside or on the terrace.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g295424-d23343808-Reviews-Fire_Lake_Grill_House_Restaurant_Bar-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23343808-Fire_Lake_Grill_House_Restaurant_Bar-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 4 879 1111",
+  "website": "http://www.radissonhotels.com/en-us/hotels/radisson-dubai-damac-hills/restaurant-bar",
+  "email": "damachills.dubai@radisson.com",
+  "address_obj": {
+    "street1": "Hessa Street",
+    "street2": "Radisson Hotel Dubai Damac Hills",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "Hessa Street Radisson Hotel Dubai Damac Hills, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 720,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "9908",
+      "name": "American"
+    },
+    {
+      "key": "10345",
+      "name": "Steakhouse"
+    },
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "booking": {
+    "provider": "OpenTable",
+    "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232174095&geo=23343808&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=325063758&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8yNN6QF7WdIi22riY9OrAYLeKonbBRm27EK-7pLPKTjs&cs=153dcd3c1be36e7c5c4fd23f3a64f2ba3"
+  },
+  "reserve_info": {
+    "id": "23343808",
+    "provider": "OpenTable",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/OT_Logo_1000x232.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232174095&geo=23343808&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=325063758&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8yNN6QF7WdIi22riY9OrAYLeKonbBRm27EK-7pLPKTjs&cs=153dcd3c1be36e7c5c4fd23f3a64f2ba3",
+    "booking_partner_id": "1",
+    "racable": false,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

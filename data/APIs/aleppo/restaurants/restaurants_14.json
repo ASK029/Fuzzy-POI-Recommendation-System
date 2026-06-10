@@ -1,0 +1,130 @@
+{
+  "location_id": "23145957",
+  "name": "Oki Sushi Restaurant",
+  "latitude": "36.202106",
+  "longitude": "37.134262",
+  "num_reviews": "6",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/fd/f0/a8/my-shrimp-hot-sour-soup.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/fd/f0/a8/my-shrimp-hot-sour-soup.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/23/fd/f0/a8/my-shrimp-hot-sour-soup.jpg",
+        "height": "1820"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/23/fd/f0/a8/my-shrimp-hot-sour-soup.jpg",
+        "height": "978"
+      },
+      "medium": {
+        "width": "253",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/fd/f0/a8/my-shrimp-hot-sour-soup.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2022-06-15T08:57:03-0400",
+    "caption": "My Shrimp Hot & Sour Soup and the very good Spring Rolls.",
+    "id": "603844776",
+    "helpful_votes": "0",
+    "published_date": "2022-06-15T08:57:03-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.040300130844116",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "33",
+  "ranking_denominator": "97",
+  "ranking_category": "restaurant",
+  "ranking": "#12 of 15 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294011-d23145957-Reviews-Oki_Sushi_Restaurant-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d23145957-Oki_Sushi_Restaurant-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+963 995 918 882",
+  "address_obj": {
+    "street1": "Ib Abad Street",
+    "street2": "Behind Byblos Bank",
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": "0000-0"
+  },
+  "address": "Ib Abad Street Behind Byblos Bank, Damascus 0000-0 Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5379",
+      "name": "Chinese"
+    },
+    {
+      "key": "5473",
+      "name": "Japanese"
+    }
+  ],
+  "dietary_restrictions": [],
+  "gb_distance": "Damascus 1.8 km away",
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

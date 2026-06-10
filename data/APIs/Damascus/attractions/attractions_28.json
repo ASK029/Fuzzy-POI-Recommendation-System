@@ -1,0 +1,134 @@
+{
+  "location_id": "324805",
+  "name": "Souq Saroujah",
+  "num_reviews": "7",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/9e/a9/f0/souq-saroujah.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/9e/a9/f0/souq-saroujah.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1125",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/9e/a9/f0/souq-saroujah.jpg",
+        "height": "2000"
+      },
+      "large": {
+        "width": "253",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/9e/a9/f0/souq-saroujah.jpg",
+        "height": "450"
+      },
+      "medium": {
+        "width": "115",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/9e/a9/f0/souq-saroujah.jpg",
+        "height": "205"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-06-15T10:48:50-0400",
+    "caption": "",
+    "id": "194947568",
+    "helpful_votes": "1",
+    "published_date": "2016-06-15T10:48:50-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7961153984069824",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "19",
+  "ranking_denominator": "42",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#19 of 42 things to do in Damascus",
+  "subcategory_ranking": "#19 of 42 things to do in Damascus",
+  "ranking": "#19 of 42 things to do in Damascus",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324805-Reviews-Souq_Saroujah-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324805-Souq_Saroujah-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    },
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    }
+  ],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Old Town",
+    "street2": "",
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": ""
+  },
+  "address": "Old Town, Damascus Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "137",
+      "name": "Antique Stores"
+    },
+    {
+      "key": "34",
+      "name": "Neighborhoods"
+    }
+  ]
+}

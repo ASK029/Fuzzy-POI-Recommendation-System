@@ -1,0 +1,196 @@
+{
+  "location_id": "2351741",
+  "name": "Experimentanium Museum of Entertaining Sciences",
+  "latitude": "55.80852",
+  "longitude": "37.510685",
+  "num_reviews": "664",
+  "timezone": "Europe/Moscow",
+  "location_string": "Moscow, Central Russia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/ec/4f/1b/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/ec/4f/1b/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/ec/4f/1b/caption.jpg",
+        "height": "1328"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/08/ec/4f/1b/caption.jpg",
+        "height": "679"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/ec/4f/1b/caption.jpg",
+        "height": "365"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-09-14T06:30:12-0400",
+    "caption": "Экспозиция",
+    "id": "149704475",
+    "helpful_votes": "11",
+    "published_date": "2015-09-14T06:30:12-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.russia.moscow",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.064411640167236",
+  "ranking_geo": "Moscow",
+  "ranking_geo_id": "298484",
+  "ranking_position": "40",
+  "ranking_denominator": "5498",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#40 of 5,498 things to do in Moscow",
+  "subcategory_ranking": "#40 of 5,498 things to do in Moscow",
+  "ranking": "#40 of 5,498 things to do in Moscow",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621218",
+      "name": "Sokol"
+    },
+    {
+      "location_id": "15621180",
+      "name": "District Northern (SAO)"
+    }
+  ],
+  "description": "Experimentanium Science Museum provides an interactive exhibition covering all basic fields of science. Each area is full of exhibits that can be - and have to be! - interacted with: explore, gather, solve puzzles, twist and shout!",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g298484-d2351741-Reviews-Experimentanium_Museum_of_Entertaining_Sciences-Moscow_Central_Russia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298484-d2351741-Experimentanium_Museum_of_Entertaining_Sciences-Moscow_Central_Russia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Moscow",
+      "abbrv": null,
+      "location_id": "298484"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Central Russia",
+      "abbrv": null,
+      "location_id": "298479"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Russia",
+      "abbrv": null,
+      "location_id": "294459"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Moscow",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+7 495 120-05-20",
+  "website": "http://experimentanium.ru",
+  "email": "enjoy@experimentanium.ru",
+  "address_obj": {
+    "street1": "Leningradskiy Ave., 80/11",
+    "street2": "Sokol subway station",
+    "city": "Moscow",
+    "state": null,
+    "country": "Russia",
+    "postalcode": "125190"
+  },
+  "address": "Leningradskiy Ave., 80/11 Sokol subway station, Moscow 125190 Russia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 570,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1200
+        }
+      ]
+    ],
+    "timezone": "Europe/Moscow"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "35",
+      "name": "Science Museums"
+    }
+  ]
+}

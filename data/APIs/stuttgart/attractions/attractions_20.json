@@ -1,0 +1,195 @@
+{
+  "location_id": "1850872",
+  "name": "Grabkapelle auf dem Wuerttemberg",
+  "latitude": "48.7821",
+  "longitude": "9.268538",
+  "num_reviews": "312",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+        "height": "684"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/81/6d/1e/grabkapelle-auf-dem-wurttember.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2020-07-06T06:10:55-0400",
+    "caption": "Grabkapelle auf dem Württemberg",
+    "id": "461466910",
+    "helpful_votes": "0",
+    "published_date": "2020-07-06T06:10:55-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.069322109222412",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "5",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#5 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#5 of 295 things to do in Stuttgart",
+  "ranking": "#5 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "The Sepuchral Chapel on the Württemberg hill was erected by King Wilhelm I. in memoryof his beloved wife Katharina, who died at a young age. Offering a spectacular view of Stuttgart, this Monument to eternal love is considered Baden-Württemberg's most romantic spot.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d1850872-Reviews-Grabkapelle_auf_dem_Wuerttemberg-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d1850872-Grabkapelle_auf_dem_Wuerttemberg-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 711 337149",
+  "website": "http://www.grabkapelle-rotenberg.de/",
+  "email": "info@grabkapelle-rotenberg.de",
+  "address_obj": {
+    "street1": "Wuerttembergstr. 340",
+    "street2": "",
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70327"
+  },
+  "address": "Wuerttembergstr. 340, 70327 Stuttgart, Baden-Wurttemberg Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 960
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 660,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 960
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 960
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "ta_message": {
+    "is_red": false,
+    "is_sensitive_issue": false,
+    "text": "Temporarily closed",
+    "owner_response": null
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    }
+  ]
+}

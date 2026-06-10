@@ -1,0 +1,286 @@
+{
+  "location_id": "190637",
+  "name": "Joan Miro Foundation",
+  "latitude": "41.36864",
+  "longitude": "2.15985",
+  "num_reviews": "4075",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/96/52/e1/fundacio-joan-miro.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/96/52/e1/fundacio-joan-miro.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1500",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/96/52/e1/fundacio-joan-miro.jpg",
+        "height": "1000"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/09/96/52/e1/fundacio-joan-miro.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/96/52/e1/fundacio-joan-miro.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-11-23T05:44:34-0500",
+    "caption": "Façana Fundació Joan Miró",
+    "id": "160846561",
+    "helpful_votes": "2",
+    "published_date": "2015-11-23T05:44:34-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9567511081695557",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "41",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#41 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#41 of 1,549 things to do in Barcelona",
+  "ranking": "#41 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    },
+    {
+      "location_id": "7230972",
+      "name": "Montjuic"
+    }
+  ],
+  "description": "The Fundació Joan Miró was created by Miró himself, at first principally with works from his own private collection, with a desire to set up an internationally recognised centre in Barcelona for Miró scholarship and contemporary art research, and to disseminate the collection. The Fundació opened to the public on 10 June 1975 and has since become a dynamic centre in which Joan Miró's work coexists with cutting-edge contemporary art. The Fundació is located in a building designed by Josep Lluís Sert, making it one of the few museums anywhere in the world in which the complicity between artist and architect underpins the dialogue between the works and the space that houses them. The Fundació offers an overview of the landscapes of Joan Miró's art and life, creating an enriching dialogue with other artists from the 20th and 21st centuries.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d190637-Reviews-Joan_Miro_Foundation-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d190637-Joan_Miro_Foundation-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 934 43 94 70",
+  "website": "http://www.fmirobcn.org",
+  "email": "info@fmirobcn.org",
+  "address_obj": {
+    "street1": "Parc de Montjuic, s/n",
+    "street2": "Jardins de Laribal",
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08038"
+  },
+  "address": "Parc de Montjuic, s/n Jardins de Laribal, 08038 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1140
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "28",
+      "name": "Art Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Museum-Pass%2Fd562-2512MUS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3fd72e9ff7e49455&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190637&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$7.64",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Museum-Pass%2Fd562-2512MUS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c3fd72e9ff7e49455&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190637&clt=TM&from=api&nt=true",
+        "price": "$42.62",
+        "rounded_up_price": "$43",
+        "offer_type": "",
+        "title": "Barcelona Six Museum Pass with MACBA and Picasso Museum",
+        "product_code": "2512MUS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/39/c8.jpg",
+        "description": null,
+        "primary_category": "Attraction Tickets"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Best-Views-Old-Town-Cable-Car-Montjuic-Castle-and-Magic-Fountain-Show%2Fd562-9866P79%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e8540e58b5c282a15&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190637&clt=TM&from=api&nt=true",
+        "price": "$82.31",
+        "rounded_up_price": "$83",
+        "offer_type": "",
+        "title": "Barcelona Best Views: Old Town, Cable Car and Montjuic Castle",
+        "product_code": "9866P79",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/0e/57/97.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Card-with-Guidebook%2Fd562-2512BCARD%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a45206435e15ad5bf&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190637&clt=TM&from=api&nt=true",
+        "price": "$63.94",
+        "rounded_up_price": "$64",
+        "offer_type": "",
+        "title": "Barcelona Card: Museums + Transport for 72h, 96h or 120h",
+        "product_code": "2512BCARD",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/5a/c5/15.jpg",
+        "description": null,
+        "primary_category": "Sightseeing Passes"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FCity-Sightseeing-Barcelona-Hop-On-Hop-Off-Tour%2Fd562-2916BARCELONA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e1feb9331a0d2ea7a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190637&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona City Sightseeing Hop-On Hop-Off Bus Tour",
+        "product_code": "2916BARCELONA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/7f/a3.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Shore-Excursion-Barcelona-City-Hop-on-Hop-off-Tour%2Fd562-2140BCNHOPPRT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=749ea81e9cb248515&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190637&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona Hop-On Hop-Off Sightseeing Bus from Cruise Terminal",
+        "product_code": "2140BCNHOPPRT",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/71/96/90.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

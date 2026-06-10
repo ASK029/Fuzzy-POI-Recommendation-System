@@ -1,0 +1,180 @@
+{
+  "location_id": "1980257",
+  "name": "Children's Museum",
+  "latitude": "31.984617",
+  "longitude": "35.82568",
+  "num_reviews": "154",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/ca/fd/ed/the-children-s-museum.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/ca/fd/ed/the-children-s-museum.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/ca/fd/ed/the-children-s-museum.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ca/fd/ed/the-children-s-museum.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/ca/fd/ed/the-children-s-museum.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2017-03-26T18:08:41-0400",
+    "caption": "The Children's Museum, Amman",
+    "id": "248184301",
+    "helpful_votes": "0",
+    "published_date": "2017-03-26T18:08:41-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.501920223236084",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "13",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#13 of 118 things to do in Amman",
+  "subcategory_ranking": "#13 of 118 things to do in Amman",
+  "ranking": "#13 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d1980257-Reviews-Children_s_Museum-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d1980257-Children_s_Museum-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 6 541 1479",
+  "website": "http://www.cmj.jo/",
+  "address_obj": {
+    "street1": "King Hussein Park",
+    "street2": "",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": "11831"
+  },
+  "address": "King Hussein Park, Amman 11831 Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "29",
+      "name": "Children's Museums"
+    }
+  ]
+}

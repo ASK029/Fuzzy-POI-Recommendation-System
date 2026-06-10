@@ -1,0 +1,271 @@
+{
+  "location_id": "188150",
+  "name": "Musee d'Orsay",
+  "latitude": "48.860035",
+  "longitude": "2.32685",
+  "num_reviews": "67334",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/02/1c/ab/64/la-terrasse-lille-et.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/02/1c/ab/64/la-terrasse-lille-et.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/1c/ab/64/la-terrasse-lille-et.jpg",
+        "height": "366"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/1c/ab/64/la-terrasse-lille-et.jpg",
+        "height": "366"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/1c/ab/64/la-terrasse-lille-et.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2011-09-07T10:15:04-0400",
+    "caption": "la terrasse Lille et la nouvelle présentation des sculptures de Rodin",
+    "id": "35433316",
+    "helpful_votes": "672",
+    "published_date": "2011-09-07T10:15:02-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.904280662536621",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "3",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#3 of 4,164 things to do in Paris",
+  "ranking": "#3 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7236767",
+      "name": "Tour Eiffel / Invalides"
+    },
+    {
+      "location_id": "15621671",
+      "name": "Faubourg Saint-Germain"
+    },
+    {
+      "location_id": "15621644",
+      "name": "7th Arr. - Palais-Bourbon"
+    },
+    {
+      "location_id": "15621563",
+      "name": "Saint-Thomas-d'Aquin"
+    }
+  ],
+  "description": "Musée d'Orsay in Paris is a must-visit for art lovers and travelers alike. It's famous for its impressive collection of Impressionist and post-Impressionist art, making it one of the largest in the world. Housed in a stunning former railway station on the Seine, the museum is just as beautiful on the outside as it is on the inside. Don't miss the famous clock face, which is part of the museum's exhibition. For an in-depth experience, you might want to join a private or group tour. Visit in the morning to beat the crowds and enjoy a quieter museum experience. – Tripadvisor",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188150-Reviews-Musee_d_Orsay-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d188150-Musee_d_Orsay-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 40 49 48 14",
+  "website": "http://www.musee-orsay.fr/",
+  "email": "spa@musee-orsay.fr",
+  "address_obj": {
+    "street1": "1 Rue De La Legion d'Honneur",
+    "street2": null,
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75007"
+  },
+  "address": "1 Rue De La Legion d'Honneur, 75007 Paris France",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 570,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1305
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 570,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "28",
+      "name": "Art Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-2-Hour-Private-Guided-Tour-to-Orsay-Museum%2Fd479-13405P5%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=56e0befc8d92aa3eb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=188150&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-2-Hour-Private-Guided-Tour-to-Orsay-Museum%2Fd479-13405P5%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=56e0befc8d92aa3eb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=188150&clt=TM&from=api&nt=true",
+        "price": "$105.10",
+        "rounded_up_price": "$106",
+        "offer_type": "",
+        "title": "Paris Orsay Museum Private Tour",
+        "product_code": "13405P5",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e6/af/d0.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2F2-hour-Orsay-Private-tour%2Fd479-6159P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=43179d1cc5f74c926&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=188150&clt=TM&from=api&nt=true",
+        "price": "$92.90",
+        "rounded_up_price": "$93",
+        "offer_type": "",
+        "title": "Orsay Museum Skip-the-Line Private or Small-Group Guided Tour",
+        "product_code": "6159P13",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/d8/36/71.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2F2-Hour-Muse-dOrsay-with-Skip-the-Line-Access%2Fd479-46334P22%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=26e023fc1eac769fd&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=188150&clt=TM&from=api&nt=true",
+        "price": "$76.40",
+        "rounded_up_price": "$77",
+        "offer_type": "",
+        "title": "Paris: Musée d'Orsay Highlights Tour with Skip-the-Line Access",
+        "product_code": "46334P22",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/14/44/43.jpg",
+        "description": null,
+        "primary_category": "Literary, Art & Music Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FBig-Bus-Paris-Hop-On-Hop-Off-Tour%2Fd479-6602PARHOHO%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=b0e08069842f10860&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=188150&clt=TM&from=api&nt=true",
+        "price": "$49.18",
+        "rounded_up_price": "$50",
+        "offer_type": "",
+        "title": "Explore Paris: Red Classic Hop-on, Hop-off Tour & River Cruise",
+        "product_code": "6602PARHOHO",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/1b/d2/8d.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSkip-the-line-Semi-Private-Guided-Tour-Orsay-Museum%2Fd479-6353P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ab7a9dc2211b92a7e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=188150&clt=TM&from=api&nt=true",
+        "price": "$130.33",
+        "rounded_up_price": "$131",
+        "offer_type": "",
+        "title": "Semi-Private Guided Tour: Orsay Museum Paris",
+        "product_code": "6353P9",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/f9/20/3e.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

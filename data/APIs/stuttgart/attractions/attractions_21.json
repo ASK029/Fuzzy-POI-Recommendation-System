@@ -1,0 +1,184 @@
+{
+  "location_id": "669188",
+  "name": "Solitude Palace",
+  "latitude": "48.78686",
+  "longitude": "9.084336",
+  "num_reviews": "402",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/74/f0/d7/hauptgebaude-schloss.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/74/f0/d7/hauptgebaude-schloss.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/74/f0/d7/hauptgebaude-schloss.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/74/f0/d7/hauptgebaude-schloss.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/74/f0/d7/hauptgebaude-schloss.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-06-24T10:13:10-0400",
+    "caption": "Hauptgebäude Schloss Solitude",
+    "id": "326430935",
+    "helpful_votes": "1",
+    "published_date": "2018-06-24T10:13:10-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.825183629989624",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "13",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#13 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#13 of 295 things to do in Stuttgart",
+  "ranking": "#13 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.2",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "Solitude Palace is Duke Carl Eugen's most ambitious and most personal creation. An impressive architectural ensemble and spectacular views make it exceptional.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d669188-Reviews-Solitude_Palace-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d669188-Solitude_Palace-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 711 3514772",
+  "website": "http://www.schloss-solitude.de",
+  "email": "info@schloss-solitude.de",
+  "address_obj": {
+    "street1": "Solitude 1",
+    "street2": "",
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70197"
+  },
+  "address": "Solitude 1, 70197 Stuttgart, Baden-Wurttemberg Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "6",
+      "name": "Castles"
+    }
+  ]
+}

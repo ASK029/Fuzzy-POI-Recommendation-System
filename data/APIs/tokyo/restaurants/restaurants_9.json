@@ -1,0 +1,268 @@
+{
+  "location_id": "17432355",
+  "name": "Ninja Experience Cafe Asakusa",
+  "latitude": "35.71728",
+  "longitude": "139.7918",
+  "num_reviews": "403",
+  "timezone": "Asia/Tokyo",
+  "location_string": "Taito, Tokyo, Tokyo Prefecture, Kanto",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2e/38/93/a7/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2e/38/93/a7/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2e/38/93/a7/caption.jpg",
+        "height": "961"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2e/38/93/a7/caption.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/2e/38/93/a7/caption.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2024-11-26T21:34:43-0500",
+    "caption": "数多くのお客様に忍者武器のかっこいい使い方を教えてきた忍者スタッフがあなたに最高の思い出を提供します",
+    "id": "775459751",
+    "helpful_votes": "0",
+    "published_date": "2024-11-26T21:34:43-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "as.japan.kanto.tokyo.taito",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.866708755493164",
+  "ranking_geo": "Tokyo",
+  "ranking_geo_id": "298184",
+  "ranking_position": "10",
+  "ranking_denominator": "63359",
+  "ranking_category": "restaurant",
+  "ranking": "#9 of 94,649 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$5 - $45",
+  "neighborhood_info": [
+    {
+      "location_id": "7277907",
+      "name": "Ueno, Asakusa"
+    }
+  ],
+  "description": "Ninja Experience Cafe Asakusa is located in the Asakusa area in Tokyo, Japan. You can experience 3 types of ninja training, Shuriken (Ninja Star), Blow Darts and Japanese Sword at our cafe. In addition, you can change into ninja costumes. Immerse yourself in the world of the Ninja at our place!",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1066461-d17432355-Reviews-Ninja_Experience_Cafe_Asakusa-Taito_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1066461-d17432355-Ninja_Experience_Cafe_Asakusa-Taito_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Taito",
+      "abbrv": null,
+      "location_id": "1066461"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Tokyo",
+      "abbrv": null,
+      "location_id": "298184"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Tokyo Prefecture",
+      "abbrv": null,
+      "location_id": "1023181"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kanto",
+      "abbrv": null,
+      "location_id": "298156"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Japan",
+      "abbrv": null,
+      "location_id": "294232"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Taito",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+81 70-8989-2243",
+  "website": "https://ninja-cafe.com/en/",
+  "email": "info@ninja-cafe.com",
+  "address_obj": {
+    "street1": "3-27-14 Nishiasakusa",
+    "street2": "1F",
+    "city": "Taito",
+    "state": "Tokyo Prefecture",
+    "country": "Japan",
+    "postalcode": "111-0035"
+  },
+  "address": "3-27-14 Nishiasakusa 1F, Taito 111-0035 Tokyo Prefecture",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1260
+        }
+      ]
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5473",
+      "name": "Japanese"
+    },
+    {
+      "key": "10642",
+      "name": "Cafe"
+    },
+    {
+      "key": "10659",
+      "name": "Asian"
+    },
+    {
+      "key": "10621",
+      "name": "Brew Pub"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "booking": {
+    "provider": "TableCheck",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurant_TableCheck&src=268853618&geo=17432355&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=46221&bucket=985645&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=330855878&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8JJFMprQKMKyzC_l5l6y9W4UM_0TF2fZY6lDd6w4t4N8&cs=184c3a7cbbc7379c64949229c7379c586"
+  },
+  "reserve_info": {
+    "id": "17432355",
+    "provider": "TableCheck",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/tablecheck_08.17.2022.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurant_TableCheck&src=268853618&geo=17432355&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=46221&bucket=985645&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=330855878&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8JJFMprQKMKyzC_l5l6y9W4UM_0TF2fZY6lDd6w4t4N8&cs=184c3a7cbbc7379c64949229c7379c586",
+    "booking_partner_id": null,
+    "racable": false,
+    "api_bookable": false,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

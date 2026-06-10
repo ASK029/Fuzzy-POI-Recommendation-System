@@ -1,0 +1,352 @@
+{
+  "optimized_itinerary": {
+    "Day1": {
+      "Morning": [
+        {
+          "place": "Welcome to Fabulous Las Vegas Sign",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.3,
+          "latitude": 36.082073,
+          "longitude": -115.172775
+        },
+        {
+          "place": "Shelby American, Inc.",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.6,
+          "latitude": 36.072174,
+          "longitude": -115.179665
+        },
+        {
+          "place": "Hoover Dam Bypass",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.5,
+          "latitude": 36.01248,
+          "longitude": -114.74202
+        }
+      ],
+      "Afternoon": [
+        {
+          "place": "Casa Di Amore",
+          "type": "Restaurant",
+          "budget": 25.0,
+          "rating": 4.5,
+          "latitude": 36.100136,
+          "longitude": -115.112076
+        },
+        {
+          "place": "Casa Di Amore",
+          "type": "Restaurant",
+          "budget": 25.0,
+          "rating": 4.5,
+          "latitude": 36.100136,
+          "longitude": -115.112076
+        }
+      ],
+      "Evening": [
+        {
+          "place": "EGGscellent",
+          "type": "Restaurant",
+          "budget": 10.0,
+          "rating": 4.8,
+          "latitude": 36.13085,
+          "longitude": -115.115364
+        },
+        {
+          "place": "EGGscellent",
+          "type": "Restaurant",
+          "budget": 10.0,
+          "rating": 4.8,
+          "latitude": 36.13085,
+          "longitude": -115.115364
+        }
+      ]
+    },
+    "Day2": {
+      "Morning": [
+        {
+          "place": "Fremont Street Experience",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.2,
+          "latitude": 36.170727,
+          "longitude": -115.14382
+        },
+        {
+          "place": "Red Rock Canyon National Conservation Area",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.7,
+          "latitude": 36.1356,
+          "longitude": -115.427
+        }
+      ],
+      "Afternoon": [
+        {
+          "place": "Omelet House",
+          "type": "Restaurant",
+          "budget": 20.0,
+          "rating": 4.6,
+          "latitude": 36.159775,
+          "longitude": -115.17124
+        },
+        {
+          "place": "Omelet House",
+          "type": "Restaurant",
+          "budget": 20.0,
+          "rating": 4.6,
+          "latitude": 36.159775,
+          "longitude": -115.17124
+        }
+      ],
+      "Evening": [
+        {
+          "place": "Fashion Show Las Vegas",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.3,
+          "latitude": 36.12764,
+          "longitude": -115.17304
+        },
+        {
+          "place": "The Grand Canal Shoppes at The Venetian Resort",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.5,
+          "latitude": 36.122715,
+          "longitude": -115.16892
+        }
+      ]
+    },
+    "Day3": {
+      "Morning": [
+        {
+          "place": "The Las Vegas Strip",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.112858,
+          "longitude": -115.173
+        },
+        {
+          "place": "The Las Vegas Strip",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.112858,
+          "longitude": -115.173
+        },
+        {
+          "place": "Fountains of Bellagio",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.7,
+          "latitude": 36.11212,
+          "longitude": -115.174706
+        }
+      ],
+      "Afternoon": [
+        {
+          "place": "Casino at Bellagio",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.113144,
+          "longitude": -115.17655
+        },
+        {
+          "place": "Alexxa's",
+          "type": "Restaurant",
+          "budget": 20.0,
+          "rating": 4.3,
+          "latitude": 36.112244,
+          "longitude": -115.17042
+        }
+      ],
+      "Evening": [
+        {
+          "place": "Alexxa's",
+          "type": "Restaurant",
+          "budget": 30.0,
+          "rating": 4.3,
+          "latitude": 36.112244,
+          "longitude": -115.17042
+        }
+      ]
+    }
+  },
+  "optimal_route": [
+    {
+      "place": "Welcome to Fabulous Las Vegas Sign",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.3,
+      "latitude": 36.082073,
+      "longitude": -115.172775
+    },
+    {
+      "place": "Shelby American, Inc.",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.6,
+      "latitude": 36.072174,
+      "longitude": -115.179665
+    },
+    {
+      "place": "Hoover Dam Bypass",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.5,
+      "latitude": 36.01248,
+      "longitude": -114.74202
+    },
+    {
+      "place": "Casa Di Amore",
+      "type": "Restaurant",
+      "budget": 25.0,
+      "rating": 4.5,
+      "latitude": 36.100136,
+      "longitude": -115.112076
+    },
+    {
+      "place": "Casa Di Amore",
+      "type": "Restaurant",
+      "budget": 25.0,
+      "rating": 4.5,
+      "latitude": 36.100136,
+      "longitude": -115.112076
+    },
+    {
+      "place": "EGGscellent",
+      "type": "Restaurant",
+      "budget": 10.0,
+      "rating": 4.8,
+      "latitude": 36.13085,
+      "longitude": -115.115364
+    },
+    {
+      "place": "EGGscellent",
+      "type": "Restaurant",
+      "budget": 10.0,
+      "rating": 4.8,
+      "latitude": 36.13085,
+      "longitude": -115.115364
+    },
+    {
+      "place": "Fremont Street Experience",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.2,
+      "latitude": 36.170727,
+      "longitude": -115.14382
+    },
+    {
+      "place": "Red Rock Canyon National Conservation Area",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.7,
+      "latitude": 36.1356,
+      "longitude": -115.427
+    },
+    {
+      "place": "Omelet House",
+      "type": "Restaurant",
+      "budget": 20.0,
+      "rating": 4.6,
+      "latitude": 36.159775,
+      "longitude": -115.17124
+    },
+    {
+      "place": "Omelet House",
+      "type": "Restaurant",
+      "budget": 20.0,
+      "rating": 4.6,
+      "latitude": 36.159775,
+      "longitude": -115.17124
+    },
+    {
+      "place": "Fashion Show Las Vegas",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.3,
+      "latitude": 36.12764,
+      "longitude": -115.17304
+    },
+    {
+      "place": "The Grand Canal Shoppes at The Venetian Resort",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.5,
+      "latitude": 36.122715,
+      "longitude": -115.16892
+    },
+    {
+      "place": "The Las Vegas Strip",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.4,
+      "latitude": 36.112858,
+      "longitude": -115.173
+    },
+    {
+      "place": "The Las Vegas Strip",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.4,
+      "latitude": 36.112858,
+      "longitude": -115.173
+    },
+    {
+      "place": "Fountains of Bellagio",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.7,
+      "latitude": 36.11212,
+      "longitude": -115.174706
+    },
+    {
+      "place": "Casino at Bellagio",
+      "type": "Attraction",
+      "budget": 0.0,
+      "rating": 4.4,
+      "latitude": 36.113144,
+      "longitude": -115.17655
+    },
+    {
+      "place": "Alexxa's",
+      "type": "Restaurant",
+      "budget": 20.0,
+      "rating": 4.3,
+      "latitude": 36.112244,
+      "longitude": -115.17042
+    },
+    {
+      "place": "Alexxa's",
+      "type": "Restaurant",
+      "budget": 30.0,
+      "rating": 4.3,
+      "latitude": 36.112244,
+      "longitude": -115.17042
+    }
+  ],
+  "total_pois": 19,
+  "itinerary_structure": [
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      2,
+      2,
+      2
+    ],
+    [
+      3,
+      2,
+      2
+    ]
+  ]
+}

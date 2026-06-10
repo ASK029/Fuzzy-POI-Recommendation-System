@@ -1,0 +1,212 @@
+{
+  "location_id": "14175699",
+  "name": "Royal Tank Museum",
+  "latitude": "31.908707",
+  "longitude": "35.9244",
+  "num_reviews": "69",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/2c/bb/85/fa/the-museum-s-building.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2c/bb/85/fa/the-museum-s-building.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2c/bb/85/fa/the-museum-s-building.jpg",
+        "height": "720"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2c/bb/85/fa/the-museum-s-building.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2c/bb/85/fa/the-museum-s-building.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2024-07-03T01:58:40-0400",
+    "caption": "The Museum's Building! ",
+    "id": "750487034",
+    "helpful_votes": "0",
+    "published_date": "2024-07-03T01:58:40-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.7061524391174316",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "7",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#7 of 118 things to do in Amman",
+  "subcategory_ranking": "#7 of 118 things to do in Amman",
+  "ranking": "#7 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "The Royal Tank Museum is a national museum with international standards, located in Amman, is considered the first specialized tank museum in the region, displaying more than 140 tanks within a 20,000 sqm. The museum offers a great family experience for Jordanians and visitors of Jordan where they can enjoy the visit and use our interactive story telling exhibition tools . The Royal Tank Museum’s mission is to collect, restore, preserve and exhibit military tanks and armored vehicles for the purpose of providing an educational and exploration experience for visitors to strengthen their understanding of the role played by tanks and vehicles of JAF in shaping modern Jordan, with the shadow of world conflicts.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d14175699-Reviews-Royal_Tank_Museum-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d14175699-Royal_Tank_Museum-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 6 438 1881",
+  "website": "http://www.rtm.jo",
+  "email": "info@rtm.jo",
+  "address_obj": {
+    "street1": "As-Sakhra Al-Musharafa St/",
+    "street2": "Next to King Abdullah II Park",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": null
+  },
+  "address": "As-Sakhra Al-Musharafa St/ Next to King Abdullah II Park, Amman Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "32",
+      "name": "Military Museums"
+    },
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    },
+    {
+      "key": "30",
+      "name": "History Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FFull-Day-Amman-Old-and-New-City-Tour%2Fd5503-329185P675%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aa6417b442750a203&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=14175699&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.45",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FFull-Day-Amman-Old-and-New-City-Tour%2Fd5503-329185P675%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=aa6417b442750a203&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=14175699&clt=TM&from=api&nt=true",
+        "price": "$44.99",
+        "rounded_up_price": "$45",
+        "offer_type": "",
+        "title": "Full Day Amman Old and New Private City Tour",
+        "product_code": "329185P675",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/14/c3/58/d6.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": false
+  }
+}

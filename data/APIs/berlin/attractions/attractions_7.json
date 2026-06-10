@@ -1,0 +1,22 @@
+{
+  "location_id": "187323",
+  "ad_position": "inline1",
+  "ad_size": "8X8",
+  "doubleclick_zone": "eu.germany.berlin",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "detail": "0",
+  "page_type": "attractions",
+  "mob_ptype": "app_attractions"
+}

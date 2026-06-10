@@ -1,0 +1,218 @@
+{
+  "location_id": "198746",
+  "name": "Basilica of San Clemente",
+  "latitude": "41.889336",
+  "longitude": "12.497576",
+  "num_reviews": "4437",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/ad/36/da/basilica-di-san-clemente.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/ad/36/da/basilica-di-san-clemente.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/ad/36/da/basilica-di-san-clemente.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/ad/36/da/basilica-di-san-clemente.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/ad/36/da/basilica-di-san-clemente.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-04-11T03:22:01-0400",
+    "caption": "San Clemente al Laterano.",
+    "id": "128792282",
+    "helpful_votes": "9",
+    "published_date": "2015-04-13T08:31:17-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.121123313903809",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "40",
+  "ranking_denominator": "2764",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#40 of 2,764 things to do in Rome",
+  "subcategory_ranking": "#40 of 2,764 things to do in Rome",
+  "ranking": "#40 of 2,764 things to do in Rome",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621860",
+      "name": "Centro"
+    },
+    {
+      "location_id": "7230909",
+      "name": "Monti"
+    }
+  ],
+  "description": "Constructed between 1110 and 1130, this church of San Clemente is not one, but three churches built one above the other, with ruins dating from the earliest Christian times.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187791-d198746-Reviews-Basilica_of_San_Clemente-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d198746-Basilica_of_San_Clemente-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 774 0021",
+  "website": "http://basilicasanclemente.com",
+  "address_obj": {
+    "street1": "Via Labicana 95",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00184"
+  },
+  "address": "Via Labicana 95, 00184 Rome Italy",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "175",
+      "name": "Churches & Cathedrals"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FUnderground-of-Rome-San-Clemente-Guided-Tour%2Fd511-20905P77%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=570708e439eca2593&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=198746&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FUnderground-of-Rome-San-Clemente-Guided-Tour%2Fd511-20905P77%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=570708e439eca2593&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=198746&clt=TM&from=api&nt=true",
+        "price": "$306.01",
+        "rounded_up_price": "$307",
+        "offer_type": "",
+        "title": "Rome San Clemente al Laterano Underground Private Tour",
+        "product_code": "20905P77",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/94/bc/f9.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FBetween-Holy-Doors%2Fd511-199122P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=de47846a082374f00&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=198746&clt=TM&from=api&nt=true",
+        "price": "$75.41",
+        "rounded_up_price": "$76",
+        "offer_type": "",
+        "title": "Rome Basilicas and Churches Small-Group Walking Tour",
+        "product_code": "199122P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/f1/65/13.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FUnderground-private-tour-of-the-hidden-sights-of-Rome%2Fd511-41348P60%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=75946ad5e1c07d85a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=198746&clt=TM&from=api&nt=true",
+        "price": "$377.06",
+        "rounded_up_price": "$378",
+        "offer_type": "",
+        "title": "Rome Underground Basilicas and Crypts Private Walking Tour",
+        "product_code": "41348P60",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/27/da/f0.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FSkip-the-Line-Underground-Rome%2Fd511-21986P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=95aecb34422147744&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=198746&clt=TM&from=api&nt=true",
+        "price": "$273.24",
+        "rounded_up_price": "$274",
+        "offer_type": "",
+        "title": "Rome Small-Group Underground Tour, San Clement, Celian Houses",
+        "product_code": "21986P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/69/85.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FRome%2FAncient-Catacombs-and-Underground-Rome-Small-Group-Tour%2Fd511-6718P35%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=675ffda8886779947&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=198746&clt=TM&from=api&nt=true",
+        "price": "$206.57",
+        "rounded_up_price": "$207",
+        "offer_type": "",
+        "title": "Rome Catacombs Small-Group Tour: San Clemente, Santa Domitilla",
+        "product_code": "6718P35",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/3e/18.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

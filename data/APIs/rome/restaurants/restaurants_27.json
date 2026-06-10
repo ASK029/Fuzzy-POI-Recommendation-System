@@ -1,0 +1,193 @@
+{
+  "location_id": "20806328",
+  "name": "La Nicchia Cafe",
+  "latitude": "41.90841",
+  "longitude": "12.44747",
+  "num_reviews": "267",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/50/b4/b8/aperitivo.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/50/b4/b8/aperitivo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/50/b4/b8/aperitivo.jpg",
+        "height": "1078"
+      },
+      "large": {
+        "width": "535",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/50/b4/b8/aperitivo.jpg",
+        "height": "450"
+      },
+      "medium": {
+        "width": "244",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/50/b4/b8/aperitivo.jpg",
+        "height": "205"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2022-10-04T17:48:41-0400",
+    "caption": "Aperitivo ",
+    "id": "642823352",
+    "helpful_votes": "2",
+    "published_date": "2022-10-04T17:48:41-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.847661018371582",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "24",
+  "ranking_denominator": "11293",
+  "ranking_category": "restaurant",
+  "ranking": "#24 of 12,834 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$",
+  "price": "$3 - $9",
+  "neighborhood_info": [
+    {
+      "location_id": "15621916",
+      "name": "Trionfale"
+    }
+  ],
+  "description": "La Nicchia cafe offers is a specialist gourmet food shop in Rome, located near the Vatican offering highest quality food and wine",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187791-d20806328-Reviews-La_Nicchia_Cafe-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d20806328-La_Nicchia_Cafe-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "cafe",
+      "name": "Café"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 333 399 7270",
+  "website": "http://lanicchiacafe.com",
+  "email": "lanicchiacafe@yahoo.com",
+  "address_obj": {
+    "street1": "Via Cipro 4L",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00136"
+  },
+  "address": "Via Cipro 4L, 00136 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1140
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1140
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "4617",
+      "name": "Italian"
+    }
+  ],
+  "dietary_restrictions": [],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

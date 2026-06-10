@@ -1,0 +1,135 @@
+{
+  "location_id": "1444464",
+  "name": "Lago di Martignano",
+  "latitude": "42.112778",
+  "longitude": "12.315",
+  "num_reviews": "323",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/05/da/59/f6/lago-di-martignano.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/da/59/f6/lago-di-martignano.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/da/59/f6/lago-di-martignano.jpg",
+        "height": "1325"
+      },
+      "large": {
+        "width": "2560",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-b/2560x500/05/da/59/f6/lago-di-martignano.jpg",
+        "height": "500"
+      },
+      "medium": {
+        "width": "768",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-b/768x250/05/da/59/f6/lago-di-martignano.jpg",
+        "height": "250"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2014-05-12T04:54:21-0400",
+    "caption": "vista 2",
+    "id": "98195958",
+    "helpful_votes": "81",
+    "published_date": "2014-05-12T04:54:21-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.0853476524353027",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "368",
+  "ranking_denominator": "2764",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#368 of 2,764 things to do in Rome",
+  "subcategory_ranking": "#368 of 2,764 things to do in Rome",
+  "ranking": "#368 of 2,764 things to do in Rome",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.9",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187791-d1444464-Reviews-Lago_di_Martignano-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d1444464-Lago_di_Martignano-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": "",
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00061"
+  },
+  "address": "00061 Rome Italy",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "162",
+      "name": "Bodies of Water"
+    }
+  ]
+}

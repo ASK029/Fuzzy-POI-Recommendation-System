@@ -1,0 +1,221 @@
+{
+  "location_id": "10129915",
+  "name": "T-Mobile Arena",
+  "latitude": "36.102455",
+  "longitude": "-115.17888",
+  "num_reviews": "1488",
+  "timezone": "America/Los_Angeles",
+  "location_string": "Las Vegas, Nevada",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/7f/73/f3/knights-vs-hurricanes.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/7f/73/f3/knights-vs-hurricanes.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/7f/73/f3/knights-vs-hurricanes.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/7f/73/f3/knights-vs-hurricanes.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/7f/73/f3/knights-vs-hurricanes.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2021-12-01T15:17:12-0500",
+    "caption": "Knights vs. Hurricanes",
+    "id": "562000883",
+    "helpful_votes": "3",
+    "published_date": "2021-12-01T15:17:12-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.nv.las_vegas",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.974273204803467",
+  "ranking_geo": "Las Vegas",
+  "ranking_geo_id": "45963",
+  "ranking_position": "25",
+  "ranking_denominator": "878",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#25 of 878 things to do in Las Vegas",
+  "subcategory_ranking": "#25 of 878 things to do in Las Vegas",
+  "ranking": "#25 of 878 things to do in Las Vegas",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "20483863",
+      "name": "The Strip"
+    }
+  ],
+  "description": "Las Vegas’ hottest new sports and entertainment venue, located just west of the famed Las Vegas Strip, will be officially named T-Mobile Arena. T-Mobile Arena will be the destination in Las Vegas for live events – from amazing music acts to thrilling sporting events – it will set a new standard for what entertainment means in the city that does it best. Legal: Legal@T-MobileArena.email Absorption Info: Info@T-MobileArena.email ⓥ® T-Mobile Arena by L-WIRE INTERNATIONAL",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d10129915-Reviews-T_Mobile_Arena-Las_Vegas_Nevada.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g45963-d10129915-T_Mobile_Arena-Las_Vegas_Nevada.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Las Vegas",
+      "abbrv": null,
+      "location_id": "45963"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Nevada",
+      "abbrv": "NV",
+      "location_id": "28949"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Las Vegas",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 702-692-1616",
+  "website": "http://www.t-mobilearena.com/",
+  "email": "info@lasvegasarena.com",
+  "address_obj": {
+    "street1": "3780 Las Vegas Blvd S",
+    "street2": null,
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "United States",
+    "postalcode": "89109"
+  },
+  "address": "3780 Las Vegas Blvd S, Las Vegas, NV 89109",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "120",
+      "name": "Arenas & Stadiums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5096LASHOP%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bbead889f0800432c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=10129915&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.52",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5096LASHOP%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bbead889f0800432c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=10129915&clt=TM&from=api&nt=true",
+        "price": "$58.00",
+        "rounded_up_price": "$58",
+        "offer_type": "",
+        "title": "Las Vegas: Hop-On Hop-Off Big Bus 24- or 48-Hour Tour Passes",
+        "product_code": "5096LASHOP",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-377560P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=38f8675725c041884&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=10129915&clt=TM&from=api&nt=true",
+        "price": "$52.00",
+        "rounded_up_price": "$52",
+        "offer_type": "",
+        "title": "Las Vegas Strip Tour in GPS Guided Talking GoCar",
+        "product_code": "377560P2",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5615689P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=294071b99d46ef0ad&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=10129915&clt=TM&from=api&nt=true",
+        "price": "$119.00",
+        "rounded_up_price": "$119",
+        "offer_type": "",
+        "title": "Vegas Sign E-Bike Tour",
+        "product_code": "5615689P3",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-377560P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=82e1b9c471bf49f23&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=10129915&clt=TM&from=api&nt=true",
+        "price": "$164.00",
+        "rounded_up_price": "$164",
+        "offer_type": "",
+        "title": "Las Vegas Full-Day GoCar Day Tour",
+        "product_code": "377560P3",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-391203P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=b5b98ca5206823922&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=10129915&clt=TM&from=api&nt=true",
+        "price": "$299.00",
+        "rounded_up_price": "$299",
+        "offer_type": "",
+        "title": "The Ultimate Las Vegas Tour",
+        "product_code": "391203P4",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": "Helicopter Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "tags": {
+    "urgency_tag": {
+      "tag_text": "<span class=\"highlight\">In high demand</span> - travelers recommend booking ahead!",
+      "attraction_type": "PRODUCTS"
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "location_id": "12902861",
+  "name": "Salt Steakhouse",
+  "latitude": "31.95987",
+  "longitude": "35.88136",
+  "num_reviews": "741",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/c5/fa/82/ambience.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/c5/fa/82/ambience.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/c5/fa/82/ambience.jpg",
+        "height": "1280"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/2a/c5/fa/82/ambience.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/c5/fa/82/ambience.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-11-08T08:54:48-0500",
+    "caption": "AMBIENCE",
+    "id": "717617794",
+    "helpful_votes": "0",
+    "published_date": "2023-11-08T08:54:48-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.873847961425781",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "9",
+  "ranking_denominator": "925",
+  "ranking_category": "restaurant",
+  "ranking": "#9 of 1,102 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$$$",
+  "price": "$1",
+  "description": "Inspired by the finest European grills, Salt brings the essence of fine cuts of meats to Amman with a world class dining experience. Savor carefully selected high quality meats prepared in-house by our master Chefs; complemented by wines from around the world.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d12902861-Reviews-Salt_Steakhouse-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d12902861-Salt_Steakhouse-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 6 510 6000",
+  "website": "https://www.fairmont.com/amman/dining/salt-steakhouse/",
+  "email": "dining.amman@fairmont.com",
+  "address_obj": {
+    "street1": "6 Beirut Street, 5th Circle",
+    "street2": "Fairmont Amman",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": "11183"
+  },
+  "address": "6 Beirut Street, 5th Circle Fairmont Amman, Amman 11183 Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 780,
+          "close_time": 1410
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1410
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1410
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1410
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1410
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1410
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1410
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10345",
+      "name": "Steakhouse"
+    },
+    {
+      "key": "10648",
+      "name": "International"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    },
+    {
+      "key": "10992",
+      "name": "Gluten free options"
+    }
+  ],
+  "booking": {
+    "provider": "OpenTable",
+    "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232200300&geo=12902861&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8lI26Hk3E_DEJYY9QcWbPQMJoOVBZo1TKWZI9xFjjTK4&cs=1ec1c54d2986cdcb7754a176f8ad6b3b1"
+  },
+  "reserve_info": {
+    "id": "12902861",
+    "provider": "OpenTable",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/OT_Logo_1000x232.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232200300&geo=12902861&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324810949&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8lI26Hk3E_DEJYY9QcWbPQMJoOVBZo1TKWZI9xFjjTK4&cs=1ec1c54d2986cdcb7754a176f8ad6b3b1",
+    "booking_partner_id": "1",
+    "racable": false,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

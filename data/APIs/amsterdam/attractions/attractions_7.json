@@ -1,0 +1,223 @@
+{
+  "location_id": "189384",
+  "name": "Vondelpark",
+  "latitude": "52.359535",
+  "longitude": "4.874175",
+  "num_reviews": "25037",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/a6/c1/56/20190524-182933-largejpg.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/a6/c1/56/20190524-182933-largejpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/a6/c1/56/20190524-182933-largejpg.jpg",
+        "height": "720"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/17/a6/c1/56/20190524-182933-largejpg.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/a6/c1/56/20190524-182933-largejpg.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2019-05-24T15:46:17-0400",
+    "caption": "",
+    "id": "396804438",
+    "helpful_votes": "12",
+    "published_date": "2019-05-24T15:46:17-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.825540542602539",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "4",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#4 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#4 of 1,200 things to do in Amsterdam",
+  "ranking": "#4 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7852239",
+      "name": "Museum Quarter (Museumkwartier)"
+    },
+    {
+      "location_id": "15620072",
+      "name": "Oud Zuid"
+    },
+    {
+      "location_id": "15620065",
+      "name": "Amsterdam South"
+    }
+  ],
+  "description": "At one of Amsterdam's most famous parks, travelers can enjoy a host of outdoor activities amid beautiful English-style landscaping. Here, you can hike the countless trails or ride a bike around to spot charming bandstands and even a sculpture by Picasso along the way. Have a picnic by the pond as herons and ducks waltz past or pop by one of the many cafes in the park. You might want to visit between April and May to see the park awash with tulips in bloom or between May and September to watch live concerts at the open-air theater. – Tripadvisor",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d189384-Reviews-Vondelpark-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d189384-Vondelpark-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 35 671 7915",
+  "website": "http://www.hetvondelpark.net",
+  "address_obj": {
+    "street1": "Van Baerlestraat & Vondelpark",
+    "street2": "Museum Quarter",
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": ""
+  },
+  "address": "Van Baerlestraat & Vondelpark Museum Quarter, Amsterdam The Netherlands",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "70",
+      "name": "Parks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Highlights-Small-Group-Bike-Tour%2Fd525-61268P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e58bfdcef6aea18ef&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=189384&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.46",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Highlights-Small-Group-Bike-Tour%2Fd525-61268P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e58bfdcef6aea18ef&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=189384&clt=TM&from=api&nt=true",
+        "price": "$30.49",
+        "rounded_up_price": "$31",
+        "offer_type": "",
+        "title": "Amsterdam Small-Group City Bike Tour",
+        "product_code": "61268P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ec/58/c8.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FVondelpark-and-Old-West-Neighbourhood-Walking-Audio-Tour-by-VoiceMap%2Fd525-110804P148%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=458703a00c07a95b0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=189384&clt=TM&from=api&nt=true",
+        "price": "$6.99",
+        "rounded_up_price": "$7",
+        "offer_type": "",
+        "title": "Vondelpark & Old West Neighbourhood: Self-Guided Tour",
+        "product_code": "110804P148",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/1d/60/65.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-City-Bike-Tour%2Fd525-6464CITY%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=056b06aa26cd1e120&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=189384&clt=TM&from=api&nt=true",
+        "price": "$32.79",
+        "rounded_up_price": "$33",
+        "offer_type": "",
+        "title": "The Original Amsterdam City Highlights Bike Tour (EN/NL/DE)",
+        "product_code": "6464CITY",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/72/18/4f.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Small-Group-Bike-Tour-with-Canal-Cruise%2Fd525-61268P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ade4be30beba13308&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=189384&clt=TM&from=api&nt=true",
+        "price": "$65.90",
+        "rounded_up_price": "$66",
+        "offer_type": "",
+        "title": "Amsterdam: Small-Group Bike Tour and Canal Cruise",
+        "product_code": "61268P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ec/5b/50.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Private-Bike-Tour-With-a-Local%2Fd525-24380P58%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=48a26e252811de099&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=189384&clt=TM&from=api&nt=true",
+        "price": "$136.62",
+        "rounded_up_price": "$137",
+        "offer_type": "",
+        "title": "Amsterdam Private Custom Bike Tour with Local Host and Snack",
+        "product_code": "24380P58",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e8/2f/e2.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

@@ -1,0 +1,219 @@
+{
+  "location_id": "27698304",
+  "name": "Roux",
+  "latitude": "52.37863",
+  "longitude": "4.882666",
+  "num_reviews": "242",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2c/30/ed/76/daslook.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2c/30/ed/76/daslook.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2c/30/ed/76/daslook.jpg",
+        "height": "1280"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/2c/30/ed/76/daslook.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2c/30/ed/76/daslook.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2024-05-16T05:09:42-0400",
+    "caption": "Daslook",
+    "id": "741404022",
+    "helpful_votes": "2",
+    "published_date": "2024-05-16T05:09:42-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.838059425354004",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "6",
+  "ranking_denominator": "4095",
+  "ranking_category": "restaurant",
+  "ranking": "#5 of 5,334 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g188590-d27698304-Reviews-Roux-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d27698304-Roux-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 261 3572",
+  "website": "https://restaurantroux.nl/",
+  "email": "info@roux.restaurant",
+  "address_obj": {
+    "street1": "Westerstraat 132H",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1015 MP"
+  },
+  "address": "Westerstraat 132H, 1015 MP Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 720,
+          "close_time": 840
+        },
+        {
+          "open_time": 1080,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1050,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1050,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1050,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1050,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1050,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 840
+        },
+        {
+          "open_time": 1080,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5086",
+      "name": "French"
+    },
+    {
+      "key": "10643",
+      "name": "Seafood"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

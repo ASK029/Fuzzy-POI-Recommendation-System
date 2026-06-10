@@ -1,0 +1,238 @@
+{
+  "location_id": "246511",
+  "name": "Parc de la Ciutadella",
+  "latitude": "41.38812",
+  "longitude": "2.186019",
+  "num_reviews": "7752",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/58/6e/ff/parque-da-cidadela-parc.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/58/6e/ff/parque-da-cidadela-parc.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1999",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/58/6e/ff/parque-da-cidadela-parc.jpg",
+        "height": "1338"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/06/58/6e/ff/parque-da-cidadela-parc.jpg",
+        "height": "685"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/58/6e/ff/parque-da-cidadela-parc.jpg",
+        "height": "368"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2014-08-08T15:27:33-0400",
+    "caption": "Parc de la Ciutadella",
+    "id": "106458879",
+    "helpful_votes": "3",
+    "published_date": "2014-08-08T15:27:33-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.007509231567383",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "34",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#34 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#34 of 1,549 things to do in Barcelona",
+  "ranking": "#34 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "21228685",
+      "name": "Sant Pere"
+    },
+    {
+      "location_id": "7230969",
+      "name": "Ciutadella / Vila Olimpica"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    },
+    {
+      "location_id": "15565882",
+      "name": "Sant Pere, Santa Caterina i la Ribera"
+    }
+  ],
+  "description": "The 44 acres (18 hectares) are home to Castell dels Tres Dragons, the Umbracle (plant house) and Hivernacle (glass house).",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d246511-Reviews-Parc_de_la_Ciutadella-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d246511-Parc_de_la_Ciutadella-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 638 23 71 15",
+  "website": "http://www.barcelonaturisme.com/wv3/en/page/380/parc-de-la-ciutadella.html",
+  "address_obj": {
+    "street1": "Passeig de Picasso, 21",
+    "street2": null,
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08003"
+  },
+  "address": "Passeig de Picasso, 21, 08003 Barcelona Spain",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "70",
+      "name": "Parks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FCity-Sightseeing-Barcelona-Hop-On-Hop-Off-Tour%2Fd562-2916BARCELONA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e1feb9331a0d2ea7a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=246511&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FCity-Sightseeing-Barcelona-Hop-On-Hop-Off-Tour%2Fd562-2916BARCELONA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e1feb9331a0d2ea7a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=246511&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona City Sightseeing Hop-On Hop-Off Bus Tour",
+        "product_code": "2916BARCELONA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/7f/a3.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Half-Day-Bike-Tour%2Fd562-3993FTBB%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=30938b5dde7031b24&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=246511&clt=TM&from=api&nt=true",
+        "price": "$39.35",
+        "rounded_up_price": "$40",
+        "offer_type": "",
+        "title": "Barcelona Small-Group Half-Day Bike Tour",
+        "product_code": "3993FTBB",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/55/1a.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Shore-Excursion-Barcelona-City-Hop-on-Hop-off-Tour%2Fd562-2140BCNHOPPRT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=749ea81e9cb248515&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=246511&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona Hop-On Hop-Off Sightseeing Bus from Cruise Terminal",
+        "product_code": "2140BCNHOPPRT",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/71/96/90.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FInstagram-Photo-Shoot-Tour-in-Barcelona%2Fd562-16353P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d1e8bc9352e54ca58&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=246511&clt=TM&from=api&nt=true",
+        "price": "$37.49",
+        "rounded_up_price": "$38",
+        "offer_type": "",
+        "title": "Barcelona Small-Group Instagram Photoshoot Tour",
+        "product_code": "16353P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/7c/0b/d4.jpg",
+        "description": null,
+        "primary_category": "Luxury Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Highlights-Bike-Tour%2Fd562-118940P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7a6e1498cdf8983cd&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=246511&clt=TM&from=api&nt=true",
+        "price": "$34.97",
+        "rounded_up_price": "$35",
+        "offer_type": "",
+        "title": "Barcelona City Small-Group Guided Bike Tour",
+        "product_code": "118940P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/35/9e/a2.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

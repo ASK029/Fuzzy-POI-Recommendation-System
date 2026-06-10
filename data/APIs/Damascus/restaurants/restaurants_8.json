@@ -1,0 +1,148 @@
+{
+  "location_id": "9826720",
+  "name": "Al Kamal",
+  "num_reviews": "11",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/ac/7c/37/view-from-my-table-to.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/ac/7c/37/view-from-my-table-to.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1125",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/ac/7c/37/view-from-my-table-to.jpg",
+        "height": "2000"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/0a/ac/7c/37/view-from-my-table-to.jpg",
+        "height": "977"
+      },
+      "medium": {
+        "width": "253",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/ac/7c/37/view-from-my-table-to.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2016-03-23T10:16:29-0400",
+    "caption": "View from my Table to the Street!!",
+    "id": "179076151",
+    "helpful_votes": "0",
+    "published_date": "2016-03-23T10:16:29-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.1300301551818848",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "7",
+  "ranking_denominator": "98",
+  "ranking_category": "restaurant",
+  "ranking": "#7 of 123 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294011-d9826720-Reviews-Al_Kamal-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d9826720-Al_Kamal-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+963 11 232 3573",
+  "address_obj": {
+    "street1": "Arnous, 29th of May Street",
+    "street2": null,
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": null
+  },
+  "address": "Arnous, 29th of May Street, Damascus Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "11744",
+      "name": "Arabic"
+    },
+    {
+      "key": "10687",
+      "name": "Middle Eastern"
+    },
+    {
+      "key": "10649",
+      "name": "Mediterranean"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

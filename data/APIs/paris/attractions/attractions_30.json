@@ -1,0 +1,272 @@
+{
+  "location_id": "189193",
+  "name": "Galeries Lafayette Paris Haussmann",
+  "latitude": "48.873596",
+  "longitude": "2.33215",
+  "num_reviews": "7902",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/33/ac/08/photo0jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/33/ac/08/photo0jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/33/ac/08/photo0jpg.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/33/ac/08/photo0jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/33/ac/08/photo0jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2019-04-18T08:26:59-0400",
+    "caption": "",
+    "id": "389262344",
+    "helpful_votes": "59",
+    "published_date": "2019-04-18T08:26:59-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.6288139820098877",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "134",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#134 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#134 of 4,164 things to do in Paris",
+  "ranking": "#134 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.2",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621635",
+      "name": "9th Arr. - Opera"
+    },
+    {
+      "location_id": "15621588",
+      "name": "Chaussee-d'Antin La Fayette"
+    },
+    {
+      "location_id": "7236769",
+      "name": "Opera / Bourse"
+    }
+  ],
+  "description": "Visitors to this massive department store can find brand-name items of nearly every variety. Shop accessible to luxury fashion & accessories for men, women and children, enjoy exclusive services such as personal shoppers, concierge and tax refunds and indulge in restaurants and a gourmet epicerie.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189193-Reviews-Galeries_Lafayette_Paris_Haussmann-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d189193-Galeries_Lafayette_Paris_Haussmann-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 42 82 34 56",
+  "website": "http://haussmann.galerieslafayette.com/",
+  "email": "contact_internet@galerieslafayette.com",
+  "address_obj": {
+    "street1": "40 Boulevard Haussmann",
+    "street2": "",
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75009"
+  },
+  "address": "40 Boulevard Haussmann, 75009 Paris France",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1230
+        }
+      ]
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "138",
+      "name": "Department Stores"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FFrench-Macaron-bakery-class-in-the-heart-of-Paris%2Fd479-14906P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2202d3541bf968cb9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=189193&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$19.67",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FFrench-Macaron-bakery-class-in-the-heart-of-Paris%2Fd479-14906P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2202d3541bf968cb9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=189193&clt=TM&from=api&nt=true",
+        "price": "$64.48",
+        "rounded_up_price": "$65",
+        "offer_type": "",
+        "title": "Macaron Bakery Class at Galeries Lafayette Paris ",
+        "product_code": "14906P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/1f/57/8e.jpg",
+        "description": null,
+        "primary_category": "Cooking Classes"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FFashion-Show-at-Galeries-Lafayette%2Fd479-14906P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bc4fb5fde2ba30356&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=189193&clt=TM&from=api&nt=true",
+        "price": "$27.32",
+        "rounded_up_price": "$28",
+        "offer_type": "",
+        "title": "Paris Galeries Lafayette Fashion Show",
+        "product_code": "14906P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/8f/05/5d.jpg",
+        "description": null,
+        "primary_category": "Fashion Shows & Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-the-City-of-Lights-by-Night%2Fd479-24380P214%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1350bbb8db6d2706c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=189193&clt=TM&from=api&nt=true",
+        "price": "$97.27",
+        "rounded_up_price": "$98",
+        "offer_type": "",
+        "title": "Paris Private City Walking Tour A Magical Evening With Locals",
+        "product_code": "24380P214",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/1e/d7.jpg",
+        "description": null,
+        "primary_category": "Night Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FPrivate-Christmas-Night-Tour-Including-Paris-Ferris-Wheel-Ride%2Fd479-44598P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a753fbd3261260425&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=189193&clt=TM&from=api&nt=true",
+        "price": "$267.77",
+        "rounded_up_price": "$268",
+        "offer_type": "",
+        "title": "Paris Private Christmas Tour with Ferris Wheel Ticket",
+        "product_code": "44598P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/df/13/a3.jpg",
+        "description": null,
+        "primary_category": "Christmas"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FArt-Nouveau-Walking-Tour-in-Paris%2Fd479-6810ARTNOUVEAU%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fc8649a4df9fc1195&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=189193&clt=TM&from=api&nt=true",
+        "price": "$163.94",
+        "rounded_up_price": "$164",
+        "offer_type": "",
+        "title": "Paris Art Nouveau Small-Group Walking Tour",
+        "product_code": "6810ARTNOUVEAU",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/cd/98.jpg",
+        "description": null,
+        "primary_category": "Literary, Art & Music Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

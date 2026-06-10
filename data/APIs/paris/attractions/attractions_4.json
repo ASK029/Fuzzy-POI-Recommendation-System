@@ -1,0 +1,279 @@
+{
+  "location_id": "190204",
+  "name": "Palais Garnier",
+  "latitude": "48.871967",
+  "longitude": "2.3316",
+  "num_reviews": "20086",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/c8/a4/68/paris.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/c8/a4/68/paris.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/08/c8/a4/68/paris.jpg",
+        "height": "576"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/08/c8/a4/68/paris.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/c8/a4/68/paris.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-08-28T22:52:23-0400",
+    "caption": "Académie Nationale de Musique",
+    "id": "147367016",
+    "helpful_votes": "328",
+    "published_date": "2015-08-31T17:31:32-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.749565124511719",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "11",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#11 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#11 of 4,164 things to do in Paris",
+  "ranking": "#11 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621635",
+      "name": "9th Arr. - Opera"
+    },
+    {
+      "location_id": "15621588",
+      "name": "Chaussee-d'Antin La Fayette"
+    },
+    {
+      "location_id": "7236769",
+      "name": "Opera / Bourse"
+    }
+  ],
+  "description": "This opulent 19th-century opera house is known for its magnificent interiors and the amazing performances by the Paris Opera Ballet.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d190204-Reviews-Palais_Garnier-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d190204-Palais_Garnier-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "58",
+      "name": "Concerts & Shows"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 40 01 18 50",
+  "website": "http://www.operadeparis.fr/",
+  "email": "accessibilite@operadeparis.fr",
+  "address_obj": {
+    "street1": "Place de l_Opera",
+    "street2": "entrance at the corner of Scribe and Auber streets",
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75009"
+  },
+  "address": "Place de l_Opera entrance at the corner of Scribe and Auber streets, 75009 Paris France",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    },
+    {
+      "key": "116",
+      "name": "Theaters"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-2-Hour-Private-Guided-Tour-to-Palais-Garnier-and-Galeries-Lafayette%2Fd479-13405P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8dc59bf24559d7bdf&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190204&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-2-Hour-Private-Guided-Tour-to-Palais-Garnier-and-Galeries-Lafayette%2Fd479-13405P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8dc59bf24559d7bdf&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190204&clt=TM&from=api&nt=true",
+        "price": "$148.10",
+        "rounded_up_price": "$149",
+        "offer_type": "",
+        "title": "Private Opera Garnier Theater 2-Hour Tour in Paris",
+        "product_code": "13405P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e6/af/d3.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FParis-by-night%2Fd479-149678P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8e78e0bb97a2020e9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190204&clt=TM&from=api&nt=true",
+        "price": "$284.16",
+        "rounded_up_price": "$285",
+        "offer_type": "",
+        "title": "Paris by Night Private Sightseeing Tour by Vintage Citroen 2CV",
+        "product_code": "149678P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/a7/38/e5.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FVintage-Private-Tour-Sidecar-Motorcycle-Ural-Paris-1hr30%2Fd479-26751P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6626f06d85d3d647d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190204&clt=TM&from=api&nt=true",
+        "price": "$155.20",
+        "rounded_up_price": "$156",
+        "offer_type": "",
+        "title": "Paris Vintage Private City Tour on a Sidecar Motorcycle",
+        "product_code": "26751P7",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/80/19/1b.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FPrivate-Tour-Opera-Garnier-and-Passages-Couverts%2Fd479-3234OPERAGARNIER%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a346aa7780e72056b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190204&clt=TM&from=api&nt=true",
+        "price": "$473.24",
+        "rounded_up_price": "$474",
+        "offer_type": "",
+        "title": "Paris: Private Opera Garnier, Covered Passages Walking Tour",
+        "product_code": "3234OPERAGARNIER",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e6/e5/80.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FLuxury-Paris-Bus-Tour-Dining-Experience-with-Optional-Champagne%2Fd479-6829GOURMETBUS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=631c2df1f926c0412&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190204&clt=TM&from=api&nt=true",
+        "price": "$118.04",
+        "rounded_up_price": "$119",
+        "offer_type": "",
+        "title": "Paris Luxury Bus Dining and Sightseeing Experience",
+        "product_code": "6829GOURMETBUS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/09/97/1e.jpg",
+        "description": null,
+        "primary_category": "Bus & Minivan Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

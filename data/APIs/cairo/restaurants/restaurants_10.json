@@ -1,0 +1,228 @@
+{
+  "location_id": "12640034",
+  "name": "Breeze",
+  "latitude": "29.98356",
+  "longitude": "31.31196",
+  "num_reviews": "198",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/63/db/e6/pool-bar.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/63/db/e6/pool-bar.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/63/db/e6/pool-bar.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/29/63/db/e6/pool-bar.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/63/db/e6/pool-bar.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-06-05T06:22:18-0400",
+    "caption": "Pool Bar",
+    "id": "694410214",
+    "helpful_votes": "0",
+    "published_date": "2023-06-05T06:22:18-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.913960933685303",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "9",
+  "ranking_denominator": "1462",
+  "ranking_category": "restaurant",
+  "ranking": "#9 of 2,583 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$65 - $250",
+  "description": "This casual outdoor bar is the perfect place to unwind with a refreshing cocktail or a fresh juice. You can also enjoy a tempting variety of sandwiches, snacks and shisha by the swimming pool.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294201-d12640034-Reviews-Breeze-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d12640034-Breeze-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "cafe",
+      "name": "Café"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 2 24800009",
+  "website": "http://www.ihg.com/intercontinental/hotels/gb/en/cairo/crohc/hoteldetail/about-the-hotel/dining",
+  "email": "fb.iccitystars@ihg.com",
+  "address_obj": {
+    "street1": "Omar Ibn El Khattab",
+    "street2": "P.o Box: 1026 Heliopolis, Bahary",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11511"
+  },
+  "address": "Omar Ibn El Khattab P.o Box: 1026 Heliopolis, Bahary, Cairo 11511 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1500
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10642",
+      "name": "Cafe"
+    },
+    {
+      "key": "10648",
+      "name": "International"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "booking": {
+    "provider": "OpenTable",
+    "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232175541&geo=12640034&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324898756&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8HS2mQPdF_Iq5CtckPJ6P1ft8Q-FPpTVfCC5O3jpRU_w&cs=1530c40b8def1bb7ad8640c6f855aded4"
+  },
+  "reserve_info": {
+    "id": "12640034",
+    "provider": "OpenTable",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/OT_Logo_1000x232.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=OpenTable&src=232175541&geo=12640034&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=45582&bucket=979641&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324898756&managed=false&capped=false&gosox=9DMvibDTWdNaFeGYL8QTakyv1LBYZaGpeB4MEHn-hv2mZBN376EHVCGusTIRxmJ8HS2mQPdF_Iq5CtckPJ6P1ft8Q-FPpTVfCC5O3jpRU_w&cs=1530c40b8def1bb7ad8640c6f855aded4",
+    "booking_partner_id": "1",
+    "racable": false,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

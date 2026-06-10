@@ -1,0 +1,255 @@
+{
+  "location_id": "190527",
+  "name": "Pergamonmuseum",
+  "latitude": "52.521183",
+  "longitude": "13.3969",
+  "num_reviews": "20748",
+  "timezone": "Europe/Berlin",
+  "location_string": "Berlin",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/76/15/d6/blick-auf-das-rekonstruierte.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/76/15/d6/blick-auf-das-rekonstruierte.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/76/15/d6/blick-auf-das-rekonstruierte.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/14/76/15/d6/blick-auf-das-rekonstruierte.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/76/15/d6/blick-auf-das-rekonstruierte.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-09-04T08:50:47-0400",
+    "caption": "Blick auf das rekonstruierte Markttor von Milet © Staatliche Museen zu Berlin, Foto: Johannes La",
+    "id": "343283158",
+    "helpful_votes": "11",
+    "published_date": "2018-09-04T08:50:47-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.berlin",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.684221267700195",
+  "ranking_geo": "Berlin",
+  "ranking_geo_id": "187323",
+  "ranking_position": "7",
+  "ranking_denominator": "1922",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#7 of 1,922 things to do in Berlin",
+  "subcategory_ranking": "#7 of 1,922 things to do in Berlin",
+  "ranking": "#7 of 1,922 things to do in Berlin",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620490",
+      "name": "Mitte (Borough)"
+    },
+    {
+      "location_id": "7281425",
+      "name": "Mitte"
+    },
+    {
+      "location_id": "15620489",
+      "name": "Museum Island"
+    }
+  ],
+  "description": "This place is temporarily closed.\n\nThe Pergamonmuseum is a three-wing complex. The museum houses three of the Staatliche Museen zu Berlin’s collections: the Antikensammlung, Vorderasiatisches Museum, and the Museum für Islamische Kunst. The impressive reconstructions of massive archaeological structures – the Pergamon Altar, Market Gate of Miletus, the Ishtar Gate and Processional Way from Babylon, and the Mshatta Facade – have made the Pergamonmuseum famous throughout the world, with the result that it is the most visited museum at the Staatliche Museen and in Germany as a whole.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190527-Reviews-Pergamonmuseum-Berlin.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187323-d190527-Pergamonmuseum-Berlin.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Berlin",
+      "abbrv": null,
+      "location_id": "187323"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Berlin",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 30 266424242",
+  "website": "http://www.smb.museum/en/museums-institutions/pergamonmuseum/home.html",
+  "address_obj": {
+    "street1": "Bodestrasse 1-3",
+    "street2": null,
+    "city": "Berlin",
+    "state": null,
+    "country": "Germany",
+    "postalcode": "10178"
+  },
+  "address": "Bodestrasse 1-3, 10178 Berlin Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "28",
+      "name": "Art Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FDiscover-Berlin-Half-Day-Walking-Tour%2Fd488-3817DISCOVER%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3f3d598fd6b46e1bb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190527&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.13",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FDiscover-Berlin-Half-Day-Walking-Tour%2Fd488-3817DISCOVER%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3f3d598fd6b46e1bb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190527&clt=TM&from=api&nt=true",
+        "price": "$21.86",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": "Berlin Mitte Walking Tour: Wall, Brandenburg Gate, Reichstag",
+        "product_code": "3817DISCOVER",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b0/78/0a.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBerlin-Highlights-and-Hidden-Sites-Historical-Walking-Tour%2Fd488-5560HIGHLIGHTS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=07cd7aac4eabcc7f0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190527&clt=TM&from=api&nt=true",
+        "price": "$18.48",
+        "rounded_up_price": "$19",
+        "offer_type": "",
+        "title": "Berlin Historical Walking Tour: Highlights and Hidden Sites",
+        "product_code": "5560HIGHLIGHTS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/49/e4/96.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FWarnemuende-Shore-Excursion-Private-Berlin-Tour%2Fd488-3817PRTBER%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c4d0151b9779fe121&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190527&clt=TM&from=api&nt=true",
+        "price": "$782.90",
+        "rounded_up_price": "$783",
+        "offer_type": "",
+        "title": "Berlin Private Tour with Warnemuende Port Transportation",
+        "product_code": "3817PRTBER",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/3c/a9/6f.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FFunBike-Berlin-explore-and-enjoy-Berlin-different%2Fd488-134090P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=83b09b01f95d73fe5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190527&clt=TM&from=api&nt=true",
+        "price": "$38.25",
+        "rounded_up_price": "$39",
+        "offer_type": "",
+        "title": "Private Guided Conference Bike Sightseeing Tour in Berlin ",
+        "product_code": "134090P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/3b/c7/83.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FThe-Myth-of-Captain-Kopenick-I-Berlin-App-Treasure-Hunt%2Fd488-340614P29%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=24f97877976f88727&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190527&clt=TM&from=api&nt=true",
+        "price": "$12.01",
+        "rounded_up_price": "$13",
+        "offer_type": "",
+        "title": " Berlin Self-Guided Treasure Hunt & Tour",
+        "product_code": "340614P29",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/49/62/46.jpg",
+        "description": null,
+        "primary_category": "Self-guided Tours & Rentals"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES"
+}

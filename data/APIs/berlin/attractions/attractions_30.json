@@ -1,0 +1,251 @@
+{
+  "location_id": "195030",
+  "name": "Palace of Tears",
+  "latitude": "52.52077",
+  "longitude": "13.386983",
+  "num_reviews": "2147",
+  "timezone": "Europe/Berlin",
+  "location_string": "Berlin",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/53/51/26/palacio-de-las-lagrimas.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/53/51/26/palacio-de-las-lagrimas.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1500",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/53/51/26/palacio-de-las-lagrimas.jpg",
+        "height": "1125"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/53/51/26/palacio-de-las-lagrimas.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/53/51/26/palacio-de-las-lagrimas.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-03-14T10:23:40-0400",
+    "caption": "Palacio de las Lágrimas",
+    "id": "307450150",
+    "helpful_votes": "1",
+    "published_date": "2018-03-14T10:23:40-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.berlin",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.083802223205566",
+  "ranking_geo": "Berlin",
+  "ranking_geo_id": "187323",
+  "ranking_position": "23",
+  "ranking_denominator": "1922",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#23 of 1,922 things to do in Berlin",
+  "subcategory_ranking": "#23 of 1,922 things to do in Berlin",
+  "ranking": "#23 of 1,922 things to do in Berlin",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620490",
+      "name": "Mitte (Borough)"
+    },
+    {
+      "location_id": "7281425",
+      "name": "Mitte"
+    }
+  ],
+  "description": "Our exhibition “Site of German Division” at this historical site shows how the division of Germany and the construction of the Berlin Wall came about. It also explains how the customs and passport checkpoint functioned at the Tränenpalast and outlines the surveillance system in place at the Friedrichstrasse border crossing. In the Tränenpalast itself, visitors can experience the checkpoint procedures and actually walk through the original passport control booth. The exhibition focusses on the personal stories of various individuals who lived through the ordeals of divided Germany. Contemporary witnesses describe in interviews how they escaped from Communist East Germany and how they kept in contact with their families on the other side by sending letters or parcels. They also narrate how they smuggled documents and secret photographs across the border or protested against the travel ban in Communist East Germany.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d195030-Reviews-Palace_of_Tears-Berlin.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187323-d195030-Palace_of_Tears-Berlin.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Berlin",
+      "abbrv": null,
+      "location_id": "187323"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Berlin",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 30 467777911",
+  "website": "https://www.hdg.de/traenenpalast/",
+  "email": "berlin@hdg.de",
+  "address_obj": {
+    "street1": "Reichstagufer 17",
+    "street2": "Mitte",
+    "city": "Berlin",
+    "state": null,
+    "country": "Germany",
+    "postalcode": "10117"
+  },
+  "address": "Reichstagufer 17 Mitte, 10117 Berlin Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "30",
+      "name": "History Museums"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FCold-War-Walking-Tour-of-Berlin%2Fd488-5560COLDWAR%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ee6ce9e6211280873&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=195030&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$4.37",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FCold-War-Walking-Tour-of-Berlin%2Fd488-5560COLDWAR%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ee6ce9e6211280873&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=195030&clt=TM&from=api&nt=true",
+        "price": "$21.75",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": "Cold War Berlin: Espionage, Berlin Wall, and a Divided City",
+        "product_code": "5560COLDWAR",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/49/ec/ac.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FPrivate-Berlins-Historical-Spots-and-Hidden-Gems-Walking-Tour-With-a-Local%2Fd488-24380P137%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d8f2f65e3c9faa468&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=195030&clt=TM&from=api&nt=true",
+        "price": "$130.06",
+        "rounded_up_price": "$131",
+        "offer_type": "",
+        "title": "Berlin Private WWII History Walking Tour",
+        "product_code": "24380P137",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/1e/3d.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FEast-Berlin-and-Cold-War-Half-Day-Walking-Tour%2Fd488-3817NEST%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fb32194e9a68a4cec&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=195030&clt=TM&from=api&nt=true",
+        "price": "$21.86",
+        "rounded_up_price": "$22",
+        "offer_type": "",
+        "title": " East Berlin and the Berlin Wall 2-Hour Walking Tour ",
+        "product_code": "3817NEST",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/09/95/30.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FBerlin-Highlights-and-Hidden-Sites-Historical-Walking-Tour%2Fd488-5560HIGHLIGHTS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=07cd7aac4eabcc7f0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=195030&clt=TM&from=api&nt=true",
+        "price": "$18.48",
+        "rounded_up_price": "$19",
+        "offer_type": "",
+        "title": "Berlin Historical Walking Tour: Highlights and Hidden Sites",
+        "product_code": "5560HIGHLIGHTS",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/49/e4/96.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBerlin%2FPrivate-Half-Day-Walking-Tour-Berlin-Wall-Cold-War-and-Checkpoint-Charlie%2Fd488-18054P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=0cdc95d4faa62ce68&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=195030&clt=TM&from=api&nt=true",
+        "price": "$107.11",
+        "rounded_up_price": "$108",
+        "offer_type": "",
+        "title": "Berlin Private History Walking Tour: Wall, Checkpoint Charlie",
+        "product_code": "18054P9",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0d/e8/9d/3f.jpg",
+        "description": null,
+        "primary_category": "Historical & Heritage Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

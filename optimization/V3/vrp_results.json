@@ -1,0 +1,732 @@
+{
+  "results": [
+    {
+      "optimization_type": "multi_day_vrp_v3",
+      "description": "Each day is treated as a vehicle. V3 enriches POIs with raw metadata, uses inferred visit durations, and applies opening-hour constraints.",
+      "hotel": {
+        "lat": 36.1147,
+        "lon": -115.1728
+      },
+      "settings": {
+        "daily_time_budget_hours": 11,
+        "start_hour": 9,
+        "weekday_index": 0,
+        "balance_penalty": 100,
+        "number_of_days": 3,
+        "total_pois": 20,
+        "raw_poi_records_loaded": 60,
+        "matched_raw_pois": 20,
+        "raw_poi_files": [
+          "D:\\Projects\\tripsage-langchain-pipeline\\data\\raw\\las_vegas\\attractions.json",
+          "D:\\Projects\\tripsage-langchain-pipeline\\data\\raw\\las_vegas\\restaurants.json"
+        ],
+        "opening_hour_constraints": {
+          "applied": 16,
+          "missing_opening_hours": 4,
+          "infeasible_opening_windows": 0
+        },
+        "lower_balance_bound_minutes": 468.0,
+        "upper_balance_bound_minutes": 660.0
+      },
+      "optimized_itinerary": {
+        "Day1": {
+          "Morning": [
+            {
+              "location_id": "102514",
+              "place": "Fremont Street Experience",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.2,
+              "latitude": 36.170727,
+              "longitude": -115.14382,
+              "arrival_time": "09:07",
+              "departure_time": "11:07",
+              "visit_duration_minutes": 120,
+              "travel_from_previous_minutes": 7.5,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "422610",
+              "place": "Omelet House",
+              "type": "Restaurant",
+              "budget": 20.0,
+              "rating": 4.6,
+              "latitude": 36.159775,
+              "longitude": -115.17124,
+              "arrival_time": "11:11",
+              "departure_time": "12:26",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 4.5,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ],
+          "Afternoon": [
+            {
+              "location_id": "422610",
+              "place": "Omelet House",
+              "type": "Restaurant",
+              "budget": 20.0,
+              "rating": 4.6,
+              "latitude": 36.159775,
+              "longitude": -115.17124,
+              "arrival_time": "12:26",
+              "departure_time": "13:41",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "110191",
+              "place": "Fashion Show Las Vegas",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.3,
+              "latitude": 36.12764,
+              "longitude": -115.17304,
+              "arrival_time": "13:48",
+              "departure_time": "15:18",
+              "visit_duration_minutes": 90,
+              "travel_from_previous_minutes": 6.2,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "126583",
+              "place": "The Las Vegas Strip",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.4,
+              "latitude": 36.112858,
+              "longitude": -115.173,
+              "arrival_time": "15:21",
+              "departure_time": "16:36",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 3.7,
+              "raw_data_matched": true,
+              "opening_hours_constrained": false
+            },
+            {
+              "location_id": "127003",
+              "place": "Fountains of Bellagio",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.7,
+              "latitude": 36.11212,
+              "longitude": -115.174706,
+              "arrival_time": "16:37",
+              "departure_time": "17:52",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.4,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ],
+          "Evening": [
+            {
+              "location_id": "216643",
+              "place": "Casino at Bellagio",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.4,
+              "latitude": 36.113144,
+              "longitude": -115.17655,
+              "arrival_time": "17:52",
+              "departure_time": "19:22",
+              "visit_duration_minutes": 90,
+              "travel_from_previous_minutes": 0.1,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ]
+        },
+        "Day2": {
+          "Morning": [
+            {
+              "location_id": "17476783",
+              "place": "EGGscellent",
+              "type": "Restaurant",
+              "budget": 10.0,
+              "rating": 4.8,
+              "latitude": 36.13085,
+              "longitude": -115.115364,
+              "arrival_time": "09:07",
+              "departure_time": "10:22",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 7.2,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "17476783",
+              "place": "EGGscellent",
+              "type": "Restaurant",
+              "budget": 10.0,
+              "rating": 4.8,
+              "latitude": 36.13085,
+              "longitude": -115.115364,
+              "arrival_time": "10:22",
+              "departure_time": "11:37",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ],
+          "Afternoon": [
+            {
+              "location_id": "1936404",
+              "place": "Hoover Dam Bypass",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.5,
+              "latitude": 36.01248,
+              "longitude": -114.74202,
+              "arrival_time": "12:11",
+              "departure_time": "14:11",
+              "visit_duration_minutes": 120,
+              "travel_from_previous_minutes": 34.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "423063",
+              "place": "Casa Di Amore",
+              "type": "Restaurant",
+              "budget": 25.0,
+              "rating": 4.5,
+              "latitude": 36.100136,
+              "longitude": -115.112076,
+              "arrival_time": "14:44",
+              "departure_time": "15:59",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 33.4,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "423063",
+              "place": "Casa Di Amore",
+              "type": "Restaurant",
+              "budget": 25.0,
+              "rating": 4.5,
+              "latitude": 36.100136,
+              "longitude": -115.112076,
+              "arrival_time": "15:59",
+              "departure_time": "17:14",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ],
+          "Evening": [
+            {
+              "location_id": "7892832",
+              "place": "Alexxa's",
+              "type": "Restaurant",
+              "budget": 30.0,
+              "rating": 4.3,
+              "latitude": 36.112244,
+              "longitude": -115.17042,
+              "arrival_time": "17:21",
+              "departure_time": "18:36",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 6.6,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "7892832",
+              "place": "Alexxa's",
+              "type": "Restaurant",
+              "budget": 20.0,
+              "rating": 4.3,
+              "latitude": 36.112244,
+              "longitude": -115.17042,
+              "arrival_time": "18:36",
+              "departure_time": "19:51",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ]
+        },
+        "Day3": {
+          "Morning": [
+            {
+              "location_id": "126583",
+              "place": "The Las Vegas Strip",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.4,
+              "latitude": 36.112858,
+              "longitude": -115.173,
+              "arrival_time": "09:00",
+              "departure_time": "10:15",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.9,
+              "raw_data_matched": true,
+              "opening_hours_constrained": false
+            },
+            {
+              "location_id": "103329",
+              "place": "Red Rock Canyon National Conservation Area",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.7,
+              "latitude": 36.1356,
+              "longitude": -115.427,
+              "arrival_time": "10:42",
+              "departure_time": "13:42",
+              "visit_duration_minutes": 180,
+              "travel_from_previous_minutes": 26.2,
+              "raw_data_matched": true,
+              "opening_hours_constrained": false
+            }
+          ],
+          "Afternoon": [
+            {
+              "location_id": "2409034",
+              "place": "Shelby American, Inc.",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.6,
+              "latitude": 36.072174,
+              "longitude": -115.179665,
+              "arrival_time": "14:07",
+              "departure_time": "15:22",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 24.9,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "2218772",
+              "place": "Welcome to Fabulous Las Vegas Sign",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.3,
+              "latitude": 36.082073,
+              "longitude": -115.172775,
+              "arrival_time": "15:24",
+              "departure_time": "16:39",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 2.8,
+              "raw_data_matched": true,
+              "opening_hours_constrained": false
+            },
+            {
+              "location_id": "6637961",
+              "place": "The Linq Promenade",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.4,
+              "latitude": 36.117783,
+              "longitude": -115.17258,
+              "arrival_time": "16:43",
+              "departure_time": "18:13",
+              "visit_duration_minutes": 90,
+              "travel_from_previous_minutes": 4.1,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ],
+          "Evening": [
+            {
+              "location_id": "146795",
+              "place": "The Grand Canal Shoppes at The Venetian Resort",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.5,
+              "latitude": 36.122715,
+              "longitude": -115.16892,
+              "arrival_time": "18:16",
+              "departure_time": "19:46",
+              "visit_duration_minutes": 90,
+              "travel_from_previous_minutes": 2.2,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ]
+        }
+      },
+      "daily_summaries": [
+        {
+          "day": "Day1",
+          "total_time_minutes": 624.5,
+          "total_time_hours": 10.41,
+          "total_distance_km": 23.97,
+          "number_of_pois": 7,
+          "starts_at": "09:00",
+          "ends_at": "19:24"
+        },
+        {
+          "day": "Day2",
+          "total_time_minutes": 651.8,
+          "total_time_hours": 10.86,
+          "total_distance_km": 122.97,
+          "number_of_pois": 7,
+          "starts_at": "09:00",
+          "ends_at": "19:51"
+        },
+        {
+          "day": "Day3",
+          "total_time_minutes": 649.2,
+          "total_time_hours": 10.82,
+          "total_distance_km": 82.04,
+          "number_of_pois": 6,
+          "starts_at": "09:00",
+          "ends_at": "19:49"
+        }
+      ],
+      "routes": [
+        {
+          "day": "Day1",
+          "route": [
+            {
+              "location_id": "102514",
+              "place": "Fremont Street Experience",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.2,
+              "latitude": 36.170727,
+              "longitude": -115.14382,
+              "arrival_time": "09:07",
+              "departure_time": "11:07",
+              "visit_duration_minutes": 120,
+              "travel_from_previous_minutes": 7.5,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "422610",
+              "place": "Omelet House",
+              "type": "Restaurant",
+              "budget": 20.0,
+              "rating": 4.6,
+              "latitude": 36.159775,
+              "longitude": -115.17124,
+              "arrival_time": "11:11",
+              "departure_time": "12:26",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 4.5,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "422610",
+              "place": "Omelet House",
+              "type": "Restaurant",
+              "budget": 20.0,
+              "rating": 4.6,
+              "latitude": 36.159775,
+              "longitude": -115.17124,
+              "arrival_time": "12:26",
+              "departure_time": "13:41",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "110191",
+              "place": "Fashion Show Las Vegas",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.3,
+              "latitude": 36.12764,
+              "longitude": -115.17304,
+              "arrival_time": "13:48",
+              "departure_time": "15:18",
+              "visit_duration_minutes": 90,
+              "travel_from_previous_minutes": 6.2,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "126583",
+              "place": "The Las Vegas Strip",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.4,
+              "latitude": 36.112858,
+              "longitude": -115.173,
+              "arrival_time": "15:21",
+              "departure_time": "16:36",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 3.7,
+              "raw_data_matched": true,
+              "opening_hours_constrained": false
+            },
+            {
+              "location_id": "127003",
+              "place": "Fountains of Bellagio",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.7,
+              "latitude": 36.11212,
+              "longitude": -115.174706,
+              "arrival_time": "16:37",
+              "departure_time": "17:52",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.4,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "216643",
+              "place": "Casino at Bellagio",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.4,
+              "latitude": 36.113144,
+              "longitude": -115.17655,
+              "arrival_time": "17:52",
+              "departure_time": "19:22",
+              "visit_duration_minutes": 90,
+              "travel_from_previous_minutes": 0.1,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ],
+          "summary": {
+            "day": "Day1",
+            "total_time_minutes": 624.5,
+            "total_time_hours": 10.41,
+            "total_distance_km": 23.97,
+            "number_of_pois": 7,
+            "starts_at": "09:00",
+            "ends_at": "19:24"
+          }
+        },
+        {
+          "day": "Day2",
+          "route": [
+            {
+              "location_id": "17476783",
+              "place": "EGGscellent",
+              "type": "Restaurant",
+              "budget": 10.0,
+              "rating": 4.8,
+              "latitude": 36.13085,
+              "longitude": -115.115364,
+              "arrival_time": "09:07",
+              "departure_time": "10:22",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 7.2,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "17476783",
+              "place": "EGGscellent",
+              "type": "Restaurant",
+              "budget": 10.0,
+              "rating": 4.8,
+              "latitude": 36.13085,
+              "longitude": -115.115364,
+              "arrival_time": "10:22",
+              "departure_time": "11:37",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "1936404",
+              "place": "Hoover Dam Bypass",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.5,
+              "latitude": 36.01248,
+              "longitude": -114.74202,
+              "arrival_time": "12:11",
+              "departure_time": "14:11",
+              "visit_duration_minutes": 120,
+              "travel_from_previous_minutes": 34.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "423063",
+              "place": "Casa Di Amore",
+              "type": "Restaurant",
+              "budget": 25.0,
+              "rating": 4.5,
+              "latitude": 36.100136,
+              "longitude": -115.112076,
+              "arrival_time": "14:44",
+              "departure_time": "15:59",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 33.4,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "423063",
+              "place": "Casa Di Amore",
+              "type": "Restaurant",
+              "budget": 25.0,
+              "rating": 4.5,
+              "latitude": 36.100136,
+              "longitude": -115.112076,
+              "arrival_time": "15:59",
+              "departure_time": "17:14",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "7892832",
+              "place": "Alexxa's",
+              "type": "Restaurant",
+              "budget": 30.0,
+              "rating": 4.3,
+              "latitude": 36.112244,
+              "longitude": -115.17042,
+              "arrival_time": "17:21",
+              "departure_time": "18:36",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 6.6,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "7892832",
+              "place": "Alexxa's",
+              "type": "Restaurant",
+              "budget": 20.0,
+              "rating": 4.3,
+              "latitude": 36.112244,
+              "longitude": -115.17042,
+              "arrival_time": "18:36",
+              "departure_time": "19:51",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.0,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ],
+          "summary": {
+            "day": "Day2",
+            "total_time_minutes": 651.8,
+            "total_time_hours": 10.86,
+            "total_distance_km": 122.97,
+            "number_of_pois": 7,
+            "starts_at": "09:00",
+            "ends_at": "19:51"
+          }
+        },
+        {
+          "day": "Day3",
+          "route": [
+            {
+              "location_id": "126583",
+              "place": "The Las Vegas Strip",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.4,
+              "latitude": 36.112858,
+              "longitude": -115.173,
+              "arrival_time": "09:00",
+              "departure_time": "10:15",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 0.9,
+              "raw_data_matched": true,
+              "opening_hours_constrained": false
+            },
+            {
+              "location_id": "103329",
+              "place": "Red Rock Canyon National Conservation Area",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.7,
+              "latitude": 36.1356,
+              "longitude": -115.427,
+              "arrival_time": "10:42",
+              "departure_time": "13:42",
+              "visit_duration_minutes": 180,
+              "travel_from_previous_minutes": 26.2,
+              "raw_data_matched": true,
+              "opening_hours_constrained": false
+            },
+            {
+              "location_id": "2409034",
+              "place": "Shelby American, Inc.",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.6,
+              "latitude": 36.072174,
+              "longitude": -115.179665,
+              "arrival_time": "14:07",
+              "departure_time": "15:22",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 24.9,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "2218772",
+              "place": "Welcome to Fabulous Las Vegas Sign",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.3,
+              "latitude": 36.082073,
+              "longitude": -115.172775,
+              "arrival_time": "15:24",
+              "departure_time": "16:39",
+              "visit_duration_minutes": 75,
+              "travel_from_previous_minutes": 2.8,
+              "raw_data_matched": true,
+              "opening_hours_constrained": false
+            },
+            {
+              "location_id": "6637961",
+              "place": "The Linq Promenade",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.4,
+              "latitude": 36.117783,
+              "longitude": -115.17258,
+              "arrival_time": "16:43",
+              "departure_time": "18:13",
+              "visit_duration_minutes": 90,
+              "travel_from_previous_minutes": 4.1,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            },
+            {
+              "location_id": "146795",
+              "place": "The Grand Canal Shoppes at The Venetian Resort",
+              "type": "Attraction",
+              "budget": 0.0,
+              "rating": 4.5,
+              "latitude": 36.122715,
+              "longitude": -115.16892,
+              "arrival_time": "18:16",
+              "departure_time": "19:46",
+              "visit_duration_minutes": 90,
+              "travel_from_previous_minutes": 2.2,
+              "raw_data_matched": true,
+              "opening_hours_constrained": true
+            }
+          ],
+          "summary": {
+            "day": "Day3",
+            "total_time_minutes": 649.2,
+            "total_time_hours": 10.82,
+            "total_distance_km": 82.04,
+            "number_of_pois": 6,
+            "starts_at": "09:00",
+            "ends_at": "19:49"
+          }
+        }
+      ]
+    }
+  ]
+}

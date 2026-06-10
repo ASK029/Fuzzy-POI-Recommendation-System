@@ -1,0 +1,170 @@
+{
+  "location_id": "8722998",
+  "name": "Palazzo Pamphilj",
+  "latitude": "41.776173",
+  "longitude": "12.918727",
+  "num_reviews": "30",
+  "timezone": "Europe/Rome",
+  "location_string": "Valmontone, Province of Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/e7/21/1d/museo-di-palazzo-doria.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/e7/21/1d/museo-di-palazzo-doria.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/e7/21/1d/museo-di-palazzo-doria.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/e7/21/1d/museo-di-palazzo-doria.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/e7/21/1d/museo-di-palazzo-doria.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-12-31T15:03:08-0500",
+    "caption": "Stanza dell'aria - Carro d'Apollo di Mattia Preti",
+    "id": "166142237",
+    "helpful_votes": "4",
+    "published_date": "2015-12-31T15:03:08-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.italy.lazio",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.9880778789520264",
+  "ranking_geo": "Valmontone",
+  "ranking_geo_id": "1925778",
+  "ranking_position": "2",
+  "ranking_denominator": "13",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 13 things to do in Valmontone",
+  "subcategory_ranking": "#2 of 13 things to do in Valmontone",
+  "ranking": "#2 of 13 things to do in Valmontone",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230904",
+      "name": "Navona / Pantheon / Campo de’ Fiori"
+    },
+    {
+      "location_id": "15621860",
+      "name": "Centro"
+    },
+    {
+      "location_id": "15621884",
+      "name": "Pigna"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g1925778-d8722998-Reviews-Palazzo_Pamphilj-Valmontone_Province_of_Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1925778-d8722998-Palazzo_Pamphilj-Valmontone_Province_of_Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Valmontone",
+      "abbrv": null,
+      "location_id": "1925778"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Rome",
+      "abbrv": null,
+      "location_id": "2624070"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Valmontone",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 959 8650",
+  "website": "http://www.comune.valmontone.rm.it/pagina1908_palazzo-doria-pamphilj-museo.html",
+  "address_obj": {
+    "street1": "Piazza Umberto Pilozzi 9",
+    "street2": null,
+    "city": "Valmontone",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00038"
+  },
+  "address": "Piazza Umberto Pilozzi 9, 00038 Valmontone Italy",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    },
+    {
+      "key": "28",
+      "name": "Art Museums"
+    },
+    {
+      "key": "30",
+      "name": "History Museums"
+    }
+  ]
+}

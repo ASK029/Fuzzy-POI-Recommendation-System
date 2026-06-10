@@ -1,0 +1,33 @@
+{
+  "location_id": "295416",
+  "ad_position": "inline1",
+  "ad_size": "8X8",
+  "doubleclick_zone": "me.syria",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Aleppo Governorate",
+      "abbrv": null,
+      "location_id": "2625571"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "detail": "0",
+  "page_type": "restaurants",
+  "mob_ptype": "app_restaurants"
+}

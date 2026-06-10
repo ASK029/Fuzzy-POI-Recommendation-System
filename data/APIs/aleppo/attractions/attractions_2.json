@@ -1,0 +1,137 @@
+{
+  "location_id": "324949",
+  "name": "Saint Simon Citadel (Sam’an Citadel, Qalat Samaan)",
+  "num_reviews": "22",
+  "timezone": "Asia/Damascus",
+  "location_string": "Aleppo, Aleppo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/70/f0/47/saint-simon-citadel-sam.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/70/f0/47/saint-simon-citadel-sam.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/70/f0/47/saint-simon-citadel-sam.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/70/f0/47/saint-simon-citadel-sam.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/70/f0/47/saint-simon-citadel-sam.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-07-24T04:17:31-0400",
+    "caption": "Memories of '08 St Simeon Citadel",
+    "id": "141619271",
+    "helpful_votes": "11",
+    "published_date": "2015-07-24T04:17:31-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.8922688961029053",
+  "ranking_geo": "Aleppo",
+  "ranking_geo_id": "295416",
+  "ranking_position": "2",
+  "ranking_denominator": "17",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 17 things to do in Aleppo",
+  "subcategory_ranking": "#2 of 17 things to do in Aleppo",
+  "ranking": "#2 of 17 things to do in Aleppo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295416-d324949-Reviews-Saint_Simon_Citadel_Sam_an_Citadel_Qalat_Samaan-Aleppo_Aleppo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295416-d324949-Saint_Simon_Citadel_Sam_an_Citadel_Qalat_Samaan-Aleppo_Aleppo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Aleppo",
+      "abbrv": null,
+      "location_id": "295416"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Aleppo Governorate",
+      "abbrv": null,
+      "location_id": "2625571"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Aleppo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Aleppo",
+    "state": null,
+    "country": "Syria",
+    "postalcode": ""
+  },
+  "address": "Aleppo Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    },
+    {
+      "key": "23",
+      "name": "Military Bases & Facilities"
+    }
+  ]
+}

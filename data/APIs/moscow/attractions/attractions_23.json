@@ -1,0 +1,198 @@
+{
+  "location_id": "300341",
+  "name": "Kuskovo Estate",
+  "latitude": "55.735416",
+  "longitude": "37.807755",
+  "num_reviews": "931",
+  "timezone": "Europe/Moscow",
+  "location_string": "Moscow, Central Russia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/86/7f/3d/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/86/7f/3d/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/86/7f/3d/caption.jpg",
+        "height": "1335"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0b/86/7f/3d/caption.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/86/7f/3d/caption.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-06-06T04:00:36-0400",
+    "caption": "грот",
+    "id": "193363773",
+    "helpful_votes": "10",
+    "published_date": "2016-06-06T04:00:36-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.russia.moscow",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.066972255706787",
+  "ranking_geo": "Moscow",
+  "ranking_geo_id": "298484",
+  "ranking_position": "38",
+  "ranking_denominator": "5498",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#38 of 5,498 things to do in Moscow",
+  "subcategory_ranking": "#38 of 5,498 things to do in Moscow",
+  "ranking": "#38 of 5,498 things to do in Moscow",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Closed today",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621184",
+      "name": "District Eastern (VAO)"
+    },
+    {
+      "location_id": "15621280",
+      "name": "Veshnyaki"
+    }
+  ],
+  "description": "This astounding estate, once a summer residence, comprises a central palace with a magnificent ballroom, several smaller buildings, each impressive in its own right, and a huge park complete with French gardens, ponds, lakes and sculptures.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g298484-d300341-Reviews-Kuskovo_Estate-Moscow_Central_Russia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298484-d300341-Kuskovo_Estate-Moscow_Central_Russia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Moscow",
+      "abbrv": null,
+      "location_id": "298484"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Central Russia",
+      "abbrv": null,
+      "location_id": "298479"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Russia",
+      "abbrv": null,
+      "location_id": "294459"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    },
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Moscow",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+7 495 375 31 31",
+  "website": "http://www.kuskovo.ru",
+  "email": "pr@kuskovo.ru",
+  "address_obj": {
+    "street1": "Yunosti St., 2",
+    "street2": "",
+    "city": "Moscow",
+    "state": null,
+    "country": "Russia",
+    "postalcode": "111402"
+  },
+  "address": "Yunosti St., 2, Moscow 111402 Russia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1080
+        }
+      ]
+    ],
+    "timezone": "Europe/Moscow"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "70",
+      "name": "Parks"
+    },
+    {
+      "key": "28",
+      "name": "Art Museums"
+    },
+    {
+      "key": "30",
+      "name": "History Museums"
+    }
+  ]
+}

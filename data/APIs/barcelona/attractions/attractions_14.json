@@ -1,0 +1,232 @@
+{
+  "location_id": "501696",
+  "name": "The Magic Fountain",
+  "latitude": "41.371166",
+  "longitude": "2.15174",
+  "num_reviews": "29627",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/03/de/45/73/magic-fountain.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/03/de/45/73/magic-fountain.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1200",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/03/de/45/73/magic-fountain.jpg",
+        "height": "797"
+      },
+      "large": {
+        "width": "1200",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/03/de/45/73/magic-fountain.jpg",
+        "height": "797"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/03/de/45/73/magic-fountain.jpg",
+        "height": "365"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2013-05-06T05:48:24-0400",
+    "caption": "Magic Fountain in April",
+    "id": "64898419",
+    "helpful_votes": "115",
+    "published_date": "2013-05-06T05:48:24-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.416676044464111",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "11",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#11 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#11 of 1,549 things to do in Barcelona",
+  "ranking": "#11 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    },
+    {
+      "location_id": "7230972",
+      "name": "Montjuic"
+    }
+  ],
+  "description": "A combination display of water, music and light which was originally built in 1929. It was restored in 1992 and provides a spectacular show every half hour.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d501696-Reviews-The_Magic_Fountain-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d501696-The_Magic_Fountain-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "http://lameva.barcelona.cat/en/what-to-do-in-bcn/magic-fountain",
+  "address_obj": {
+    "street1": "Placa Carles Buigas 1",
+    "street2": null,
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08038"
+  },
+  "address": "Placa Carles Buigas 1, 08038 Barcelona Spain",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "13",
+      "name": "Fountains"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Best-Views-Old-Town-Cable-Car-Montjuic-Castle-and-Magic-Fountain-Show%2Fd562-9866P79%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e8540e58b5c282a15&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=501696&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$7.64",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FBarcelona-Best-Views-Old-Town-Cable-Car-Montjuic-Castle-and-Magic-Fountain-Show%2Fd562-9866P79%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e8540e58b5c282a15&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=501696&clt=TM&from=api&nt=true",
+        "price": "$82.31",
+        "rounded_up_price": "$83",
+        "offer_type": "",
+        "title": "Barcelona Best Views: Old Town, Cable Car and Montjuic Castle",
+        "product_code": "9866P79",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/0e/57/97.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2F3-Hour-Private-Montjuic-Mountain-Tour-with-Visit-of-Olympic-Park-and-Plaza-Espana%2Fd562-14218P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c72c440dfb1d8cc54&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=501696&clt=TM&from=api&nt=true",
+        "price": "$197.82",
+        "rounded_up_price": "$198",
+        "offer_type": "",
+        "title": "Montjuic, Olympic Park, Plaza Espana: Barcelona Private Tour",
+        "product_code": "14218P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/f8/46.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FCity-Sightseeing-Barcelona-Hop-On-Hop-Off-Tour%2Fd562-2916BARCELONA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e1feb9331a0d2ea7a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=501696&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona City Sightseeing Hop-On Hop-Off Bus Tour",
+        "product_code": "2916BARCELONA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/7f/a3.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FPrivate-Sightseeing-in-Barcelona-By-Night%2Fd562-161628P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=135a1ea533d53dc85&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=501696&clt=TM&from=api&nt=true",
+        "price": "$174.87",
+        "rounded_up_price": "$175",
+        "offer_type": "",
+        "title": "Barcelona Private Sightseeing Experience",
+        "product_code": "161628P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/9d/da/a6.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FMulti-cultural-and-Olympic-Barcelona%2Fd562-73429P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=173fd5c2f4efddfea&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=501696&clt=TM&from=api&nt=true",
+        "price": "$45.90",
+        "rounded_up_price": "$46",
+        "offer_type": "",
+        "title": "Montjuic Mountain Tour",
+        "product_code": "73429P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/0d/cb/d3.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

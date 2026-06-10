@@ -1,0 +1,229 @@
+{
+  "location_id": "32824487",
+  "name": "Monte Marinero",
+  "latitude": "41.39627",
+  "longitude": "2.153867",
+  "num_reviews": "191",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/30/3e/d9/64/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/30/3e/d9/64/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/30/3e/d9/64/caption.jpg",
+        "height": "1280"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/30/3e/d9/64/caption.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/30/3e/d9/64/caption.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2025-06-22T15:28:14-0400",
+    "caption": "",
+    "id": "809425252",
+    "helpful_votes": "0",
+    "published_date": "2025-06-22T15:28:14-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.902960777282715",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "3",
+  "ranking_denominator": "8973",
+  "ranking_category": "restaurant",
+  "ranking": "#3 of 10,548 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$30 - $60",
+  "description": "Welcome to Monte Marinero, Barcelona’s first Spanish-style seafood boil restaurant and bar! We’ve reimagined the traditional seafood boil by blending the best of Cajun flavors with Spanish seafood arroces (paella), combining Southern seafood traditions with local Mediterranean ingredients and modern takes on classic regional dishes. At Monte Marinero, we celebrate the rich flavors of Spanish seafood with a bold, Cajun-inspired twist. Pair your feast with local wines, craft cocktails, or a refreshing vermouth, and experience Barcelona’s most exciting new way to enjoy seafood. Come hungry, get messy, and taste the sea like never before!",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d32824487-Reviews-Monte_Marinero-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d32824487-Monte_Marinero-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 697 29 44 43",
+  "website": "https://www.instagram.com/montemarinerobcn",
+  "address_obj": {
+    "street1": "Carrer de Balmes, 180",
+    "street2": "Sarrià-Sant Gervasi",
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08006"
+  },
+  "address": "Carrer de Balmes, 180 Sarrià-Sant Gervasi, 08006 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1590
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1590
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10643",
+      "name": "Seafood"
+    },
+    {
+      "key": "10655",
+      "name": "Spanish"
+    },
+    {
+      "key": "10671",
+      "name": "Fusion"
+    }
+  ],
+  "dietary_restrictions": [],
+  "booking": {
+    "provider": "TheFork",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=265716445&geo=32824487&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=331118383&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2YvvxLCLT54ZJ9AM0LHHxjg&cs=1e8f377f3691fac79b1b8ec3971058a48"
+  },
+  "reserve_info": {
+    "id": "32824487",
+    "provider": "TheFork",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/TheFork-Logo-2023.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=265716445&geo=32824487&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=331118383&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2YvvxLCLT54ZJ9AM0LHHxjg&cs=1e8f377f3691fac79b1b8ec3971058a48",
+    "booking_partner_id": "6",
+    "racable": true,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

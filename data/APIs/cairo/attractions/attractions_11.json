@@ -1,0 +1,246 @@
+{
+  "location_id": "459804",
+  "name": "Al-Azhar Mosque",
+  "latitude": "30.04569",
+  "longitude": "31.262688",
+  "num_reviews": "401",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/8c/25/4b/view-from-court-yard.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/8c/25/4b/view-from-court-yard.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/15/8c/25/4b/view-from-court-yard.jpg",
+        "height": "576"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/8c/25/4b/view-from-court-yard.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/8c/25/4b/view-from-court-yard.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-11-29T00:15:16-0500",
+    "caption": "View from court yard",
+    "id": "361506123",
+    "helpful_votes": "1",
+    "published_date": "2018-11-29T00:15:16-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.036102294921875",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "10",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#10 of 316 things to do in Cairo",
+  "subcategory_ranking": "#10 of 316 things to do in Cairo",
+  "ranking": "#10 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Closed today",
+  "is_long_closed": false,
+  "description": "The oldest university in the world is built around this ancient mosque, which has been the center of Islamic scholarship since 975 AD.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d459804-Reviews-Al_Azhar_Mosque-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d459804-Al_Azhar_Mosque-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 19493",
+  "website": "http://www.azhar.eg/en/al-azhar-mosque/about-al-azhar-mosque",
+  "address_obj": {
+    "street1": "Salah Salem Street",
+    "street2": "next to Al-Khalidin Park",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "4293024"
+  },
+  "address": "Salah Salem Street next to Al-Khalidin Park, Cairo 4293024 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 900
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 900
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 900
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 900
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 900
+        }
+      ],
+      [],
+      []
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FIslamic-Cairo-Al-Muizz-Street-Al-Azhar-Mosque-and-Khan-El-Khalili-Bazaar%2Fd782-10124P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cd320068786cf4601&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=459804&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$6.40",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FIslamic-Cairo-Al-Muizz-Street-Al-Azhar-Mosque-and-Khan-El-Khalili-Bazaar%2Fd782-10124P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cd320068786cf4601&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=459804&clt=TM&from=api&nt=true",
+        "price": "$52.24",
+        "rounded_up_price": "$53",
+        "offer_type": "",
+        "title": "Islamic Cairo, Khan al-Khalili, Al-Azhar Mosque Walking Tour",
+        "product_code": "10124P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/a9/ff.jpg",
+        "description": null,
+        "primary_category": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FFull-Day-Tour-of-Historical-Mosques-in-Cairo-including-Lunch%2Fd782-10726P11%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=77a07f0e31142df70&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=459804&clt=TM&from=api&nt=true",
+        "price": "$36.00",
+        "rounded_up_price": "$36",
+        "offer_type": "",
+        "title": "Cairo Historic Mosques Full-Day Guided Tour with Lunch, Pickup",
+        "product_code": "10726P11",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/89/f9/7f.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FTour-to-Cairo-Citadel-Coptic-Cairo-and-Islamic-Cairo%2Fd782-120342P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=10eb01520c86fc49c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=459804&clt=TM&from=api&nt=true",
+        "price": "$36.00",
+        "rounded_up_price": "$36",
+        "offer_type": "",
+        "title": "Cairo Private Full-Day Sightseeing Tour",
+        "product_code": "120342P13",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/83/ab/57.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FCoptic-and-Islamic-Cairo-Day-Tour%2Fd782-133520P13%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=08b11fb117c439630&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=459804&clt=TM&from=api&nt=true",
+        "price": "$95.00",
+        "rounded_up_price": "$95",
+        "offer_type": "",
+        "title": "Coptic and Islamic Cairo Full-Day Private Guided Walking Tour",
+        "product_code": "133520P13",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/7e/8e/6e.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FDay-Tour-of-Pyramids-of-Giza-and-Egyptian-Museum%2Fd782-33493P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3f8ff5b9a0408ed61&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=459804&clt=TM&from=api&nt=true",
+        "price": "$9.00",
+        "rounded_up_price": "$9",
+        "offer_type": "",
+        "title": "Pyramids of Giza, Egyptian Museum and Khan El Khalili Bazaar",
+        "product_code": "33493P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/00/9c/cb.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

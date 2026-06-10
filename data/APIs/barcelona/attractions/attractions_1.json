@@ -1,0 +1,288 @@
+{
+  "location_id": "190166",
+  "name": "Basilica de la Sagrada Familia",
+  "latitude": "41.403423",
+  "longitude": "2.174611",
+  "num_reviews": "167466",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/26/fb/5f/exterior.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/26/fb/5f/exterior.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1214",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/26/fb/5f/exterior.jpg",
+        "height": "809"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/26/fb/5f/exterior.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/26/fb/5f/exterior.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2019-01-19T04:26:53-0500",
+    "caption": "Exterior",
+    "id": "371653471",
+    "helpful_votes": "20",
+    "published_date": "2019-01-19T04:26:53-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "5.0",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "1",
+  "ranking_denominator": "1549",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 1,549 things to do in Barcelona",
+  "subcategory_ranking": "#1 of 1,549 things to do in Barcelona",
+  "ranking": "#1 of 1,549 things to do in Barcelona",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "open_now_text": "Closed today",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565884",
+      "name": "La Sagrada Familia"
+    }
+  ],
+  "description": "Basilica de la Sagrada Familia is a church devoted to the Holy Family. One of Antoni Gaudi’s most famous works, the church is perhaps best known for still being under construction since 1882—with works funded purely by donations. Take a lift to the top of the towers for a panoramic view of the city and marvel at the ornate architecture. The nativity facade and crypt have also been awarded UNESCO World Heritage Status. Skip the line with a pre-booked tour with tower access, or combine your visit with another of Gaudi's work, Parc Guell. – Tripadvisor",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187497-d190166-Reviews-Basilica_de_la_Sagrada_Familia-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d190166-Basilica_de_la_Sagrada_Familia-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "(+34) 932 080 414",
+  "website": "http://www.sagradafamilia.org/",
+  "email": "informacio@sagradafamilia.org",
+  "address_obj": {
+    "street1": "Carrer de Mallorca, 401",
+    "street2": "",
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08013"
+  },
+  "address": "Carrer de Mallorca, 401, 08013 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1065
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1065
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1065
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1065
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1065
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1065
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "175",
+      "name": "Churches & Cathedrals"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSkip-the-Line-Barcelona-Sagrada-Familia-Tour%2Fd562-2140SAGRADA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fb4862b5f28e19fc9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190166&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSkip-the-Line-Barcelona-Sagrada-Familia-Tour%2Fd562-2140SAGRADA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fb4862b5f28e19fc9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190166&clt=TM&from=api&nt=true",
+        "price": "$60.11",
+        "rounded_up_price": "$61",
+        "offer_type": "",
+        "title": "Sagrada Familia Fast-Track Guided Tour",
+        "product_code": "2140SAGRADA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/46/d9/d1.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FViator-Exclusive-Early-Access-to-Sagrada-Familia%2Fd562-22869SAGRADAEXC%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a1bd2b315e8c80c08&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190166&clt=TM&from=api&nt=true",
+        "price": "$119.13",
+        "rounded_up_price": "$120",
+        "offer_type": "",
+        "title": "Sagrada Familia Guided Tour with Optional Tower Access",
+        "product_code": "22869SAGRADAEXC",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/79/5a.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FLoving-Gaudi-The-most-original-private-tour-with-skip-the-line-tickets%2Fd562-110975P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=7df16e71f43889403&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190166&clt=TM&from=api&nt=true",
+        "price": "$124.60",
+        "rounded_up_price": "$125",
+        "offer_type": "",
+        "title": "Sagrada Familia and Gaudi Private Tour: Skip-the-Line Tickets",
+        "product_code": "110975P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/cd/12/e7.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FSkip-the-Line-Park-Guell-and-La-Sagrada-Familia-Guided-Tour%2Fd562-16168P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=ced14881ed4da54fd&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190166&clt=TM&from=api&nt=true",
+        "price": "$130.06",
+        "rounded_up_price": "$131",
+        "offer_type": "",
+        "title": "Barcelona Park Güell and Sagrada Familia Skip-the-Line Tour",
+        "product_code": "16168P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/fa/fc/d7.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBarcelona%2FCity-Sightseeing-Barcelona-Hop-On-Hop-Off-Tour%2Fd562-2916BARCELONA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e1feb9331a0d2ea7a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190166&clt=TM&from=api&nt=true",
+        "price": "$36.07",
+        "rounded_up_price": "$37",
+        "offer_type": "",
+        "title": "Barcelona City Sightseeing Hop-On Hop-Off Bus Tour",
+        "product_code": "2916BARCELONA",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/70/7f/a3.jpg",
+        "description": null,
+        "primary_category": "Hop-on Hop-off Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "YES",
+  "tags": {
+    "urgency_tag": {
+      "tag_text": "<span class=\"highlight\">In high demand</span> - travelers recommend booking ahead!",
+      "attraction_type": "PRODUCTS"
+    }
+  }
+}

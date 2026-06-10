@@ -1,0 +1,258 @@
+{
+  "location_id": "501163",
+  "name": "KA by Cirque du Soleil",
+  "latitude": "36.103107",
+  "longitude": "-115.17",
+  "num_reviews": "8768",
+  "timezone": "America/Los_Angeles",
+  "location_string": "Las Vegas, Nevada",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/21/d9/2b/ka-at-mgm-grand-las-vegas.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/21/d9/2b/ka-at-mgm-grand-las-vegas.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/23/21/d9/2b/ka-at-mgm-grand-las-vegas.jpg",
+        "height": "826"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/23/21/d9/2b/ka-at-mgm-grand-las-vegas.jpg",
+        "height": "661"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/21/d9/2b/ka-at-mgm-grand-las-vegas.jpg",
+        "height": "355"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2022-04-21T16:19:30-0400",
+    "caption": "KÀ at MGM Grand, Las Vegas",
+    "id": "589420843",
+    "helpful_votes": "0",
+    "published_date": "2022-04-21T16:19:30-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.nv.las_vegas",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.802003860473633",
+  "ranking_geo": "Las Vegas",
+  "ranking_geo_id": "45963",
+  "ranking_position": "42",
+  "ranking_denominator": "878",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#42 of 878 things to do in Las Vegas",
+  "subcategory_ranking": "#42 of 878 things to do in Las Vegas",
+  "ranking": "#42 of 878 things to do in Las Vegas",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "21001958",
+      "name": "Paradise"
+    },
+    {
+      "location_id": "20483863",
+      "name": "The Strip"
+    }
+  ],
+  "description": "A long-running show in Las Vegas’ MGM Grand, this must-see production by Cirque du Soleil dramatizes the epic story of heroic twins who challenge empires and destinies. The 90-minute artistic and theatrical masterpiece is packed with non-stop action without intermission. Be awed by the 360-degree rotating stage that features over 80 artists, thrilling acrobatics, heart-stopping aerial performances, and creative pyrotechnics. Enjoy an exclusive show with the KÀ Royal VIP experience tickets that give you access to a guided backstage tour, meet-and-greet session with the artists, and more perks. Buy your tickets early to secure the best seats. – Tripadvisor",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d501163-Reviews-KA_by_Cirque_du_Soleil-Las_Vegas_Nevada.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g45963-d501163-KA_by_Cirque_du_Soleil-Las_Vegas_Nevada.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Las Vegas",
+      "abbrv": null,
+      "location_id": "45963"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Nevada",
+      "abbrv": "NV",
+      "location_id": "28949"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "58",
+      "name": "Concerts & Shows"
+    }
+  ],
+  "parent_display_name": "Las Vegas",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "877-880-0880",
+  "website": "https://mgmgrand.mgmresorts.com/en/entertainment/ka-cirque-du-soleil-show.html?ecid=GMB_MG_ENT",
+  "address_obj": {
+    "street1": "3799 Las Vegas Blvd S",
+    "street2": "MGM Grand",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "United States",
+    "postalcode": "89109-4319"
+  },
+  "address": "3799 Las Vegas Blvd S MGM Grand, Las Vegas, NV 89109-4319",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 990,
+          "close_time": 1080
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1230
+        },
+        {
+          "open_time": 1290,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1230
+        },
+        {
+          "open_time": 1290,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 1140,
+          "close_time": 1230
+        },
+        {
+          "open_time": 1290,
+          "close_time": 1380
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "open_time": 990,
+          "close_time": 1080
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1230
+        }
+      ]
+    ],
+    "timezone": "America/Los_Angeles"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "248",
+      "name": "Cirque du Soleil Shows"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5156LASKA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=53294edad9185f417&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=501163&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.95",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5156LASKA%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=53294edad9185f417&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=501163&clt=TM&from=api&nt=true",
+        "price": "$95.25",
+        "rounded_up_price": "$96",
+        "offer_type": "",
+        "title": "Las Vegas KÀ™ by Cirque du Soleil® at MGM Grand Hotel Ticket",
+        "product_code": "5156LASKA",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-3958GOVEGAS%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=85dd5821345351cca&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=501163&clt=TM&from=api&nt=true",
+        "price": "$169.00",
+        "rounded_up_price": "$169",
+        "offer_type": "",
+        "title": "Las Vegas Multi-Day Go City Pass for 45+ Attractions",
+        "product_code": "3958GOVEGAS",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5156P21%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=67468608550d87c99&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=501163&clt=TM&from=api&nt=true",
+        "price": "$391.46",
+        "rounded_up_price": "$392",
+        "offer_type": "",
+        "title": "KÀ™ by Cirque du Soleil® Royal VIP Experience at MGM Grand",
+        "product_code": "5156P21",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "tags": {
+    "urgency_tag": {
+      "tag_text": "<span class=\"highlight\">KA by Cirque du Soleil tickets tend to sell out</span> - be sure to book in advance!",
+      "attraction_type": "TICKETS"
+    }
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "location_id": "6637961",
+  "name": "The Linq Promenade",
+  "latitude": "36.117783",
+  "longitude": "-115.17258",
+  "num_reviews": "3370",
+  "timezone": "America/Los_Angeles",
+  "location_string": "Las Vegas, Nevada",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2e/f0/e0/d4/located-center-strip.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2e/f0/e0/d4/located-center-strip.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2e/f0/e0/d4/located-center-strip.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2e/f0/e0/d4/located-center-strip.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2e/f0/e0/d4/located-center-strip.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2025-02-20T16:52:10-0500",
+    "caption": "Located center strip, across from Caesars Palace.",
+    "id": "787538132",
+    "helpful_votes": "0",
+    "published_date": "2025-02-20T16:52:10-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.nv.las_vegas",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.00980281829834",
+  "ranking_geo": "Las Vegas",
+  "ranking_geo_id": "45963",
+  "ranking_position": "22",
+  "ranking_denominator": "878",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#22 of 878 things to do in Las Vegas",
+  "subcategory_ranking": "#22 of 878 things to do in Las Vegas",
+  "ranking": "#22 of 878 things to do in Las Vegas",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.4",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "20483863",
+      "name": "The Strip"
+    }
+  ],
+  "description": "The LINQ Promenade is a shopping, dining and entertainment district located at the center of the Las Vegas Strip which is home to 35+ restaurant and retail stores such as Brooklyn Bowl, Gordon Ramsay Fish and Chips, IN-N-Out Burger, Yard House, and so much more! You can find exciting attractions at The LINQ Promenade such as The High Roller, North America's Tallest Observation wheel, and Fly LINQ Zipline, the strip's only zipline. There's something for everyone at The LINQ Promenade!",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d6637961-Reviews-The_Linq_Promenade-Las_Vegas_Nevada.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g45963-d6637961-The_Linq_Promenade-Las_Vegas_Nevada.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Las Vegas",
+      "abbrv": null,
+      "location_id": "45963"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Nevada",
+      "abbrv": "NV",
+      "location_id": "28949"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    },
+    {
+      "key": "53",
+      "name": "Casinos & Gambling"
+    },
+    {
+      "key": "56",
+      "name": "Fun & Games"
+    }
+  ],
+  "parent_display_name": "Las Vegas",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 702-322-0543",
+  "website": "http://www.linqpromenade.com",
+  "address_obj": {
+    "street1": "3545 Las Vegas Blvd S",
+    "street2": "Between The Linq Hotel & Casino And Flamingo Las Vegas",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "United States",
+    "postalcode": "89109-8921"
+  },
+  "address": "3545 Las Vegas Blvd S Between The Linq Hotel & Casino And Flamingo Las Vegas, Las Vegas, NV 89109-8921",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "America/Los_Angeles"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "107",
+      "name": "Casinos"
+    },
+    {
+      "key": "143",
+      "name": "Shopping Malls"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5084LASHIG%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c6d5c70f364f81e0a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=6637961&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$7.64",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5084LASHIG%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=c6d5c70f364f81e0a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=6637961&clt=TM&from=api&nt=true",
+        "price": "$22.47",
+        "rounded_up_price": "$23",
+        "offer_type": "",
+        "title": "Las Vegas: High Roller Wheel at The LINQ Admission Tickets",
+        "product_code": "5084LASHIG",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5084LASHIG_HH%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8065b08763f636981&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=6637961&clt=TM&from=api&nt=true",
+        "price": "$53.22",
+        "rounded_up_price": "$54",
+        "offer_type": "",
+        "title": "Las Vegas: High Roller at The LINQ Happy Half Hour Experience",
+        "product_code": "5084LASHIG_HH",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5096LASHOP%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bbead889f0800432c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=6637961&clt=TM&from=api&nt=true",
+        "price": "$58.00",
+        "rounded_up_price": "$58",
+        "offer_type": "",
+        "title": "Las Vegas: Hop-On Hop-Off Big Bus 24- or 48-Hour Tour Passes",
+        "product_code": "5096LASHOP",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-46865P5%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=06b8ae56a5a7279e4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=6637961&clt=TM&from=api&nt=true",
+        "price": "$124.00",
+        "rounded_up_price": "$124",
+        "offer_type": "",
+        "title": "Las Vegas Strip Food and Sightseeing Walking Tour",
+        "product_code": "46865P5",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-103118P154%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6bc51752b8705091d&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=6637961&clt=TM&from=api&nt=true",
+        "price": "$325.00",
+        "rounded_up_price": "$325",
+        "offer_type": "",
+        "title": "Las Vegas Private Vacation Photography Session",
+        "product_code": "103118P154",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

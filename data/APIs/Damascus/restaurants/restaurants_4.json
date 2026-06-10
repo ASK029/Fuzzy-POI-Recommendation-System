@@ -1,0 +1,152 @@
+{
+  "location_id": "7203594",
+  "name": "Chevalier Restaurant",
+  "latitude": "33.51914",
+  "longitude": "36.28447",
+  "num_reviews": "25",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/28/f8/55/chevalier-restaurant.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/28/f8/55/chevalier-restaurant.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "633",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/28/f8/55/chevalier-restaurant.jpg",
+        "height": "1125"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/09/28/f8/55/chevalier-restaurant.jpg",
+        "height": "977"
+      },
+      "medium": {
+        "width": "253",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/28/f8/55/chevalier-restaurant.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2015-10-08T19:39:09-0400",
+    "caption": "Flaming my wife's Steak",
+    "id": "153679957",
+    "helpful_votes": "0",
+    "published_date": "2015-10-08T19:39:09-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.18605375289917",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "4",
+  "ranking_denominator": "98",
+  "ranking_category": "restaurant",
+  "ranking": "#4 of 123 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294011-d7203594-Reviews-Chevalier_Restaurant-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d7203594-Chevalier_Restaurant-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+963 11 333 3574",
+  "website": "http://www.facebook.com/Chevalier-Restaurant-427232877435838/",
+  "address_obj": {
+    "street1": "Abu Romaneh",
+    "street2": null,
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": null
+  },
+  "address": "Abu Romaneh, Damascus Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5086",
+      "name": "French"
+    },
+    {
+      "key": "10648",
+      "name": "International"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10700",
+      "name": "Soups"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

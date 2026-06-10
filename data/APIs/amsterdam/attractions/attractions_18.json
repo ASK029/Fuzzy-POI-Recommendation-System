@@ -1,0 +1,259 @@
+{
+  "location_id": "1499038",
+  "name": "OBA Library of Amsterdam",
+  "latitude": "52.375748",
+  "longitude": "4.908243",
+  "num_reviews": "3057",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/c1/89/68/fachada-da-biblioteca.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/c1/89/68/fachada-da-biblioteca.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/c1/89/68/fachada-da-biblioteca.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0b/c1/89/68/fachada-da-biblioteca.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/c1/89/68/fachada-da-biblioteca.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-06-27T14:37:13-0400",
+    "caption": "Fachada da biblioteca",
+    "id": "197233000",
+    "helpful_votes": "2",
+    "published_date": "2016-06-27T14:37:13-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.078944206237793",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "23",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#23 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#23 of 1,200 things to do in Amsterdam",
+  "ranking": "#23 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "15620207",
+      "name": "Oosterdokseiland"
+    },
+    {
+      "location_id": "15620088",
+      "name": "Nieuwmarkt En Lastage"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d1499038-Reviews-OBA_Library_of_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d1499038-OBA_Library_of_Amsterdam-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "60",
+      "name": "Traveler Resources"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 523 0900",
+  "website": "http://www.oba.nl",
+  "email": "info@oba.nl",
+  "address_obj": {
+    "street1": "Oosterdokskade 143",
+    "street2": "",
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1011 DL"
+  },
+  "address": "Oosterdokskade 143, 1011 DL Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1200
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "21",
+      "name": "Libraries"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FCaptain-Jacks-Amazing-Canal-Tour%2Fd525-176051P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=78a295ec9600b639a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1499038&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.09",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FCaptain-Jacks-Amazing-Canal-Tour%2Fd525-176051P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=78a295ec9600b639a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1499038&clt=TM&from=api&nt=true",
+        "price": "$43.66",
+        "rounded_up_price": "$44",
+        "offer_type": "",
+        "title": "Amsterdam All-Inclusive 90-Minutes Canal Cruise by Captain Jack ",
+        "product_code": "176051P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/7c/59/59.jpg",
+        "description": null,
+        "primary_category": "Luxury Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Evening-Cruise-on-a-Cosy-Open-Boat-Magical-and-Romantic%2Fd525-176051P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=90886b78f0d2489eb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1499038&clt=TM&from=api&nt=true",
+        "price": "$43.66",
+        "rounded_up_price": "$44",
+        "offer_type": "",
+        "title": "Amsterdam Evening Canal Cruise",
+        "product_code": "176051P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/70/b3/8e.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FArts-and-Crafts-Shopping-Tour-at-Poompuhar-Khadi-Gramodyog-Bhavan-and-Co-optex%2Fd525-18568P100%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8c99a98ea5d952a3f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=1499038&clt=TM&from=api&nt=true",
+        "price": "$9.00",
+        "rounded_up_price": "$9",
+        "offer_type": "",
+        "title": "Amsterdam Self-Guided Audio Tour",
+        "product_code": "18568P100",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/59/97/a7.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FLGBTQ-Private-Tour-In-Amsterdam-City-walk-tour%2Fd525-388658P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=383ceae099fb417a6&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=1499038&clt=TM&from=api&nt=true",
+        "price": "$382.53",
+        "rounded_up_price": "$383",
+        "offer_type": "",
+        "title": "LGBTQ Private Tour In Amsterdam - City-walk tour",
+        "product_code": "388658P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/29/1d/1f.jpg",
+        "description": null,
+        "primary_category": "Nightlife"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

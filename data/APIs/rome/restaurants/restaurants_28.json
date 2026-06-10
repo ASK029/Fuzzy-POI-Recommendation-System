@@ -1,0 +1,249 @@
+{
+  "location_id": "23133014",
+  "name": "Mi'ndujo - Via Catania",
+  "latitude": "41.90987",
+  "longitude": "12.520038",
+  "num_reviews": "1056",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2e/57/6a/57/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2e/57/6a/57/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2e/57/6a/57/caption.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2e/57/6a/57/caption.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/2e/57/6a/57/caption.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2024-12-14T07:42:57-0500",
+    "caption": "",
+    "id": "777480791",
+    "helpful_votes": "0",
+    "published_date": "2024-12-14T07:42:57-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.8472819328308105",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "25",
+  "ranking_denominator": "11293",
+  "ranking_category": "restaurant",
+  "ranking": "#25 of 12,834 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$4 - $18",
+  "neighborhood_info": [
+    {
+      "location_id": "15621880",
+      "name": "Nomentano"
+    }
+  ],
+  "description": "Mi'Ndujo - via Catania, quartiere universitario (P.za Bologna) - sala interna e dehors. Possibilità di organizzare eventi e compleanni. Possibilità di asporto e presenti su Deliveroo. Mi'Ndujo è un Brand di ristorazione specializzato in panini di qualità, 100% Made in Calabria. 1° classificato \"Migliori Panini d'Italia\" 50 Top Italy 2025, segnalato nella Guida Street Food Gambero Rosso 2023, Consigliata da Accademia del Panino Italiano. Il nostro segreto? Pane caldo e fragrante, fatto in casa seguendo una ricetta della tradizione, con doppia lievitazione fino a 48h e infornato nel momento dell'ordine. Prodotti freschi e genuini per panini golosi e sani! La carne dei nostri panini proviene dai Monti della Sila, non contiene conservanti e additivi. Non c’è solo il piccante! Vogliamo farvi scoprire tutti i sapori della Calabria! Sosteniamo il territorio e i piccoli produttori, sosteniamo il rispetto dell'ambiente con una politica Plastic Free.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187791-d23133014-Reviews-Mi_ndujo_Via_Catania-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d23133014-Mi_ndujo_Via_Catania-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 345 354 1805",
+  "website": "http://www.instagram.com/mindujo/",
+  "address_obj": {
+    "street1": "Via Catania 79",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00161"
+  },
+  "address": "Via Catania 79, 00161 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 690,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 690,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 690,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 690,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 690,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 690,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 690,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10646",
+      "name": "Fast Food"
+    },
+    {
+      "key": "20065",
+      "name": "Calabrian"
+    },
+    {
+      "key": "20076",
+      "name": "Southern-Italian"
+    },
+    {
+      "key": "4617",
+      "name": "Italian"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "booking": {
+    "provider": "Deliveroo",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Deliveroo&src=254535833&geo=23133014&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=28960&bucket=870004&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=327998557&managed=false&capped=false&gosox=TYKcM1j0ZnyOsvBkdTBKE0TFa0sB4LA-m6Ry6_4-2hr_90IGeGSxSysMYoTergMINGi9I6nuBPmXmunT2F7Y2UyCB-PUCxepQtojKup-130&cs=103c12d8555ee7f6f77f26e6b59094c21"
+  },
+  "reserve_info": {
+    "id": "23133014",
+    "provider": "Deliveroo",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/deliveroo_05.06.2019.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_Deliveroo&src=254535833&geo=23133014&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=28960&bucket=870004&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=327998557&managed=false&capped=false&gosox=TYKcM1j0ZnyOsvBkdTBKE0TFa0sB4LA-m6Ry6_4-2hr_90IGeGSxSysMYoTergMINGi9I6nuBPmXmunT2F7Y2UyCB-PUCxepQtojKup-130&cs=103c12d8555ee7f6f77f26e6b59094c21",
+    "booking_partner_id": null,
+    "racable": false,
+    "api_bookable": false,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Order Online",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

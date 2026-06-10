@@ -1,0 +1,241 @@
+{
+  "location_id": "27118042",
+  "name": "Luxe Burgers & Sunny's Table Asakusa",
+  "latitude": "35.711754",
+  "longitude": "139.79466",
+  "num_reviews": "84",
+  "timezone": "Asia/Tokyo",
+  "location_string": "Asakusa, Taito, Tokyo, Tokyo Prefecture, Kanto",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2e/11/cb/8d/avocado-cheese-egg-and.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2e/11/cb/8d/avocado-cheese-egg-and.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1199",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/2e/11/cb/8d/avocado-cheese-egg-and.jpg",
+        "height": "904"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2e/11/cb/8d/avocado-cheese-egg-and.jpg",
+        "height": "415"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/2e/11/cb/8d/avocado-cheese-egg-and.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2024-11-09T00:17:26-0500",
+    "caption": "Avocado Cheese Egg and Truffle Burger",
+    "id": "772918157",
+    "helpful_votes": "0",
+    "published_date": "2024-11-09T00:17:26-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "as.japan.kanto.tokyo.taito",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.808870792388916",
+  "ranking_geo": "Tokyo",
+  "ranking_geo_id": "298184",
+  "ranking_position": "30",
+  "ranking_denominator": "63359",
+  "ranking_category": "restaurant",
+  "ranking": "#28 of 94,649 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$1,500 - $3,000",
+  "description": "Enjoy all home-made and healthy, halal, mayonnaise-free beef and lamb patty burgers at Luxe Burgers & Sunny's Table Asakusa. You can also enjoy bistro dishes made with farm-fresh vegetables and wagyu prepared by French chefs who trained with famous chefs at Hotel de Mikuni, Mandarin Hotel and Westin Hotel. Halal Wagyu menu and Vegan menu also are available.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g14134311-d27118042-Reviews-Luxe_Burgers_Sunny_s_Table_Asakusa-Asakusa_Taito_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g14134311-d27118042-Luxe_Burgers_Sunny_s_Table_Asakusa-Asakusa_Taito_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Asakusa",
+      "abbrv": null,
+      "location_id": "14134311"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Taito",
+      "abbrv": null,
+      "location_id": "1066461"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Tokyo",
+      "abbrv": null,
+      "location_id": "298184"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Tokyo Prefecture",
+      "abbrv": null,
+      "location_id": "1023181"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kanto",
+      "abbrv": null,
+      "location_id": "298156"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Japan",
+      "abbrv": null,
+      "location_id": "294232"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Asakusa",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+81 3-5811-1661",
+  "website": "https://luxe-burgers.com/halal/",
+  "address_obj": {
+    "street1": "1-16-10",
+    "street2": "2F",
+    "city": "Asakusa",
+    "state": "Tokyo Prefecture",
+    "country": "Japan",
+    "postalcode": "111-0032"
+  },
+  "address": "1-16-10 2F, Asakusa, Taito 111-0032 Tokyo Prefecture",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 660,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1230
+        }
+      ],
+      [
+        {
+          "open_time": 660,
+          "close_time": 1230
+        }
+      ]
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "5086",
+      "name": "French"
+    },
+    {
+      "key": "10651",
+      "name": "Barbecue"
+    },
+    {
+      "key": "10668",
+      "name": "Grill"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10751",
+      "name": "Halal"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

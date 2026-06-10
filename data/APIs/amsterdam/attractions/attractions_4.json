@@ -1,0 +1,222 @@
+{
+  "location_id": "190575",
+  "name": "The Jordaan",
+  "latitude": "52.374035",
+  "longitude": "4.880822",
+  "num_reviews": "11934",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/72/80/78/jordaan.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/72/80/78/jordaan.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/72/80/78/jordaan.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/72/80/78/jordaan.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/72/80/78/jordaan.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-03-05T21:57:05-0500",
+    "caption": "Bairro",
+    "id": "124944504",
+    "helpful_votes": "2",
+    "published_date": "2015-03-05T21:57:05-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.8781843185424805",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "2",
+  "ranking_denominator": "1200",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 1,200 things to do in Amsterdam",
+  "subcategory_ranking": "#2 of 1,200 things to do in Amsterdam",
+  "ranking": "#2 of 1,200 things to do in Amsterdam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "7852243",
+      "name": "Centrum"
+    },
+    {
+      "location_id": "7852236",
+      "name": "Jordaan"
+    }
+  ],
+  "description": "This charming neighborhood is Amsterdam's Greenwich Village, with its narrow alleys, leafy canals lined with 17th-century houses, quirky specialty shops, cafes and designer boutiques.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g188590-d190575-Reviews-The_Jordaan-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d190575-The_Jordaan-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "http://www.iamsterdam.com/nl/uit-in-amsterdam/ontdek-amsterdam/amsterdamse-buurten/centrum/jordaan",
+  "address_obj": {
+    "street1": null,
+    "street2": "",
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": null
+  },
+  "address": "Amsterdam The Netherlands",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "34",
+      "name": "Neighborhoods"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Canal-Cruise%2Fd525-75227P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a3b245cce6f765b73&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=190575&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$3.27",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Canal-Cruise%2Fd525-75227P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a3b245cce6f765b73&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=190575&clt=TM&from=api&nt=true",
+        "price": "$19.67",
+        "rounded_up_price": "$20",
+        "offer_type": "",
+        "title": "Amsterdam Electric Boat Canal Cruise with Bar, Live Guide",
+        "product_code": "75227P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/73/28/fa.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Highlights-Small-Group-Bike-Tour%2Fd525-61268P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=e58bfdcef6aea18ef&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=190575&clt=TM&from=api&nt=true",
+        "price": "$30.49",
+        "rounded_up_price": "$31",
+        "offer_type": "",
+        "title": "Amsterdam Small-Group City Bike Tour",
+        "product_code": "61268P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ec/58/c8.jpg",
+        "description": null,
+        "primary_category": "Bike & Mountain Bike Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FNEW-Evening-Cruise-All-Incl-Classic-Saloon-Boat-Starting-at-Anne-Frank-House%2Fd525-75227P9%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cd04f9c086ed86bfc&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=190575&clt=TM&from=api&nt=true",
+        "price": "$25.08",
+        "rounded_up_price": "$26",
+        "offer_type": "",
+        "title": "Evening Amsterdam Canal Cruise with Onboard Bar",
+        "product_code": "75227P9",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/73/29/03.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FAmsterdam-Canal-Cruise%2Fd525-75227P6%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=8428c94aeb5450933&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=190575&clt=TM&from=api&nt=true",
+        "price": "$23.50",
+        "rounded_up_price": "$24",
+        "offer_type": "",
+        "title": "Amsterdam Saloon Boat Canal Cruise with Cheese, Drink Option",
+        "product_code": "75227P6",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/90/c8/81.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmsterdam%2FOne-hour-canal-cruise-and-all-drinks-included-The-best-way-to-explore-Amsterdam%2Fd525-56080P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a17b8591d0ee69ace&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=190575&clt=TM&from=api&nt=true",
+        "price": "$24.59",
+        "rounded_up_price": "$25",
+        "offer_type": "",
+        "title": "Amsterdam Sightseeing Canal Cruise with Unlimited Drinks",
+        "product_code": "56080P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/c1/59/6c.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO"
+}

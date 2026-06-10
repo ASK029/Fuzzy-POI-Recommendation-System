@@ -1,0 +1,259 @@
+[
+  {
+    "location_id": "14832765",
+    "name": "Warner Bros World Abu Dhabi",
+    "latitude": "24.490927",
+    "longitude": "54.599236",
+    "num_reviews": "3887",
+    "timezone": "Asia/Dubai",
+    "location_string": "Abu Dhabi, Emirate of Abu Dhabi",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/42/00/2d/warner-bros-world-abu.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/42/00/2d/warner-bros-world-abu.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/42/00/2d/warner-bros-world-abu.jpg",
+          "height": "960"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/42/00/2d/warner-bros-world-abu.jpg",
+          "height": "412"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/42/00/2d/warner-bros-world-abu.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2018-08-22T03:55:44-0400",
+      "caption": "",
+      "id": "339869741",
+      "helpful_votes": "2",
+      "published_date": "2018-08-22T03:55:44-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "location_subtype": "none",
+    "doubleclick_zone": "me.uae.abu_dhabi",
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.343480110168457",
+    "ranking_geo": "Abu Dhabi",
+    "ranking_geo_id": "294013",
+    "ranking_position": "6",
+    "ranking_denominator": "227",
+    "ranking_category": "attraction",
+    "ranking_subcategory": "#6 of 227 things to do in Abu Dhabi",
+    "subcategory_ranking": "#6 of 227 things to do in Abu Dhabi",
+    "ranking": "#6 of 227 things to do in Abu Dhabi",
+    "distance": null,
+    "distance_string": null,
+    "bearing": null,
+    "rating": "4.6",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "description": "Welcome to Warner Bros. World™ Yas Island, Abu Dhabi, the world’s first ever Warner Bros. branded indoor theme park! As you set foot through the iconic Warner Bros. shield, prepare to be transported to the lands of your favorite characters for a one-of-a-kind immersive experience.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g294013-d14832765-Reviews-Warner_Bros_World_Abu_Dhabi-Abu_Dhabi_Emirate_of_Abu_Dhabi.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g294013-d14832765-Warner_Bros_World_Abu_Dhabi-Abu_Dhabi_Emirate_of_Abu_Dhabi.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Abu Dhabi",
+        "abbrv": null,
+        "location_id": "294013"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Emirate of Abu Dhabi",
+        "abbrv": null,
+        "location_id": "2630227"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "United Arab Emirates",
+        "abbrv": null,
+        "location_id": "294012"
+      }
+    ],
+    "category": {
+      "key": "attraction",
+      "name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "key": "52",
+        "name": "Water & Amusement Parks"
+      }
+    ],
+    "parent_display_name": "Abu Dhabi",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+971 600 511115",
+    "website": "http://www.wbworldabudhabi.com/en",
+    "email": "contact@yasconcierge.com",
+    "address_obj": {
+      "street1": null,
+      "street2": "Yas Island",
+      "city": "Abu Dhabi",
+      "state": null,
+      "country": "United Arab Emirates",
+      "postalcode": null
+    },
+    "address": "Yas Island, Abu Dhabi United Arab Emirates",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1020
+          }
+        ]
+      ],
+      "timezone": "Asia/Dubai"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "subtype": [
+      {
+        "key": "98",
+        "name": "Theme Parks"
+      }
+    ],
+    "booking": {
+      "provider": "Viator",
+      "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FAbu-Dhabi-City-tourWarner-Bros-ticket-with-Sharing-Transfers%2Fd828-206051P21%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f7e91fb2f3b358d2a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=14832765&clt=TM&from=api&nt=true"
+    },
+    "offer_group": {
+      "lowest_price": "$19.41",
+      "offer_list": [
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FAbu-Dhabi-City-tourWarner-Bros-ticket-with-Sharing-Transfers%2Fd828-206051P21%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f7e91fb2f3b358d2a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=14832765&clt=TM&from=api&nt=true",
+          "price": "$149.00",
+          "rounded_up_price": "$149",
+          "offer_type": "",
+          "title": "Abu Dhabi City Tour and Warner Bros. World From Dubai",
+          "product_code": "206051P21",
+          "partner": "Viator",
+          "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+          "description": null,
+          "primary_category": "Cultural Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FFull-Day-Abu-Dhabi-City-Tour-From-Dubai-with-Grand-Mosque-Dubai-Travelism%2Fd828-198170P5%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=3425bc1138655742b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=14832765&clt=TM&from=api&nt=true",
+          "price": "$65.00",
+          "rounded_up_price": "$65",
+          "offer_type": "",
+          "title": "Dubai Small-Group Abu Dhabi City Tour",
+          "product_code": "198170P5",
+          "partner": "Viator",
+          "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+          "description": null,
+          "primary_category": "4WD, ATV & Off-Road Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAbu-Dhabi%2F1-Day-2-Parks-in-Yas-Island-Abu-Dhabi%2Fd4474-227012P24%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=d226ca45ae0df0068&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=14832765&clt=TM&from=api&nt=true",
+          "price": "$150.00",
+          "rounded_up_price": "$150",
+          "offer_type": "",
+          "title": "Ferrari World With Warner Bros. World or Waterworld Admission",
+          "product_code": "227012P24",
+          "partner": "Viator",
+          "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+          "description": null,
+          "primary_category": "Attraction Tickets"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FFull-Day-Abu-Dhabi-City-Tour-with-Warner-Bros%2Fd828-237375P7%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cc1bf611c43de6fe4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=14832765&clt=TM&from=api&nt=true",
+          "price": "$800.00",
+          "rounded_up_price": "$800",
+          "offer_type": "",
+          "title": "Abu Dhabi and Warner Bros. World Day Trip from Dubai, Sharjah",
+          "product_code": "237375P7",
+          "partner": "Viator",
+          "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+          "description": null,
+          "primary_category": "4WD, ATV & Off-Road Tours"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FAbu-Dhabi-Mosque-and-Warner-bros-tour-from-Dubai%2Fd828-8264P189%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1f645266d1f5caf19&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=14832765&clt=TM&from=api&nt=true",
+          "price": "$168.00",
+          "rounded_up_price": "$168",
+          "offer_type": "",
+          "title": "Warner Bros World with Grand Mosque Tour from Dubai",
+          "product_code": "8264P189",
+          "partner": "Viator",
+          "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+          "description": null,
+          "primary_category": "Day Trips"
+        }
+      ],
+      "has_see_all_url": true,
+      "is_eligible_for_ap_list": true
+    }
+  }
+]

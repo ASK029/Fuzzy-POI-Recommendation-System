@@ -1,0 +1,197 @@
+{
+  "location_id": "1015353",
+  "name": "Sharia Al Mu'izz Li-Din Allah",
+  "latitude": "30.049873",
+  "longitude": "31.261278",
+  "num_reviews": "286",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "550",
+        "url": null,
+        "height": "550"
+      },
+      "thumbnail": {
+        "width": "550",
+        "url": null,
+        "height": "550"
+      },
+      "original": {
+        "width": "550",
+        "url": null,
+        "height": "550"
+      },
+      "large": {
+        "width": "550",
+        "url": null,
+        "height": "550"
+      },
+      "medium": {
+        "width": "550",
+        "url": null,
+        "height": "550"
+      }
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9792473316192627",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "13",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#13 of 316 things to do in Cairo",
+  "subcategory_ranking": "#13 of 316 things to do in Cairo",
+  "ranking": "#13 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "Cairo's main street which recently became pedestrian only is filled with historic sites.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d1015353-Reviews-Sharia_Al_Mu_izz_Li_Din_Allah-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d1015353-Sharia_Al_Mu_izz_Li_Din_Allah-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 128 600 0251",
+  "website": "http://www.facebook.com/pg/MoezLedinAllah/about/?ref=page_internal",
+  "address_obj": {
+    "street1": "Al Moez Ldin Allah Al Fatmi",
+    "street2": "",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "11511"
+  },
+  "address": "Al Moez Ldin Allah Al Fatmi, Cairo 11511 Egypt",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FIslamic-Cairo-Al-Muizz-Street-Al-Azhar-Mosque-and-Khan-El-Khalili-Bazaar%2Fd782-10124P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cd320068786cf4601&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1015353&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$5.00",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FIslamic-Cairo-Al-Muizz-Street-Al-Azhar-Mosque-and-Khan-El-Khalili-Bazaar%2Fd782-10124P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cd320068786cf4601&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1015353&clt=TM&from=api&nt=true",
+        "price": "$52.24",
+        "rounded_up_price": "$53",
+        "offer_type": "",
+        "title": "Islamic Cairo, Khan al-Khalili, Al-Azhar Mosque Walking Tour",
+        "product_code": "10124P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/a9/ff.jpg",
+        "description": null,
+        "primary_category": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FDiscover-Egypt-8-days-7-nights%2Fd782-20553P18%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=11d90684e7425be4a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1015353&clt=TM&from=api&nt=true",
+        "price": "$1,600.00",
+        "rounded_up_price": "$1,600",
+        "offer_type": "",
+        "title": "Discover Egypt 8 days - 7 nights By sleeper Train plus 5 stars Hotel ",
+        "product_code": "20553P18",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/7d/25/ce.jpg",
+        "description": null,
+        "primary_category": "Multi-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FHalf-Day-Tour-to-Khan-Elkhalili-and-Islamic-Cairo%2Fd782-58430P29%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=84f6cf4036dd31160&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=1015353&clt=TM&from=api&nt=true",
+        "price": "$25.00",
+        "rounded_up_price": "$25",
+        "offer_type": "",
+        "title": "Half Day Tour to Khan Elkhalili & Islamic Cairo",
+        "product_code": "58430P29",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/24/ba/a7.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FCairo-Museum-Coptic-Cairo-Citadel-and-Bazaar-Tour%2Fd782-58430P16%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=86ce1b7a6271e8610&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=1015353&clt=TM&from=api&nt=true",
+        "price": "$129.00",
+        "rounded_up_price": "$129",
+        "offer_type": "",
+        "title": "Tours to Cairo Museum, Coptic Cairo, Islamic Cairo & The Bazaar",
+        "product_code": "58430P16",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/29/64/d0.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2F2-Days-Holiday-in-Cairo-included-Giza-Pyramids-Saqqara-the-Egyptian-Museum-Khan-Al-khalili-Bazar-and-the-Old-City%2Fd782-20006P42%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=4c31ff182e5f20251&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=1015353&clt=TM&from=api&nt=true",
+        "price": "$129.00",
+        "rounded_up_price": "$129",
+        "offer_type": "",
+        "title": "2-Day Private Tour of Cairo",
+        "product_code": "20006P42",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/41/76.jpg",
+        "description": null,
+        "primary_category": "Multi-day Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

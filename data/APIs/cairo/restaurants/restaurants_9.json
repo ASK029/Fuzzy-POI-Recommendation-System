@@ -1,0 +1,256 @@
+{
+  "location_id": "15656334",
+  "name": "Nisantasi Citystars Mall",
+  "latitude": "30.02841",
+  "longitude": "31.409073",
+  "num_reviews": "2712",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/9e/c7/79/testi-kebab-tavuk-jarra.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/9e/c7/79/testi-kebab-tavuk-jarra.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/9e/c7/79/testi-kebab-tavuk-jarra.jpg",
+        "height": "850"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/9e/c7/79/testi-kebab-tavuk-jarra.jpg",
+        "height": "680"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/9e/c7/79/testi-kebab-tavuk-jarra.jpg",
+        "height": "365"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2019-03-01T06:06:18-0500",
+    "caption": "Testi Kebab Tavuk ''JARRA''\n",
+    "id": "379504505",
+    "helpful_votes": "8",
+    "published_date": "2019-03-01T06:06:18-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.914888858795166",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "8",
+  "ranking_denominator": "1462",
+  "ranking_category": "restaurant",
+  "ranking": "#8 of 2,583 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$50 - $500",
+  "description": "Nişantaşı, named after an exclusive quarter on Istanbul’s European side, is Cairo's most exciting and stylish destination for Turkish cuisine. We offer atmospheric dining in a relaxing setting that attracts people from far and wide. The experience is unlike any other, from dishes to share with family and friends to the ceremonious flourish of a sealed terracotta cooking pot cut open at your table. Our cuisine offers so much to discover and delight in. ​ Nişantaşı is brought to you by International Food Academy",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g294201-d15656334-Reviews-Nisantasi_Citystars_Mall-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d15656334-Nisantasi_Citystars_Mall-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+20 122 253 3336",
+  "website": "http://www.nisantasi.com.eg",
+  "email": "reserve.nisantasi@gmail.com",
+  "address_obj": {
+    "street1": "City Stars Mall,Phase 1,Level 5, Cairo, Egypt.",
+    "street2": "Citystars Mall, Nasr City",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": "4450113"
+  },
+  "address": "City Stars Mall,Phase 1,Level 5, Cairo, Egypt. Citystars Mall, Nasr City, Cairo 4450113 Egypt",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 600,
+          "close_time": 1500
+        }
+      ]
+    ],
+    "timezone": "Africa/Cairo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10663",
+      "name": "Turkish"
+    },
+    {
+      "key": "10649",
+      "name": "Mediterranean"
+    },
+    {
+      "key": "10651",
+      "name": "Barbecue"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "10687",
+      "name": "Middle Eastern"
+    },
+    {
+      "key": "10668",
+      "name": "Grill"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10751",
+      "name": "Halal"
+    }
+  ],
+  "booking": {
+    "provider": "SevenRooms",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_SevenRooms&src=183966105&geo=15656334&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=29025&bucket=870813&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324898756&managed=false&capped=false&gosox=E4dS6BmBGdrr2qeEMfyM4Ykh7g7kZZMQtwvX1r7-bZn0SG8wi-cOieoDR1eMjOtRNGi9I6nuBPmXmunT2F7Y2WP3UMX7kQRjaOM8YpfjQFc&cs=1c9c77c78a9ca8071b8daae26550f2612"
+  },
+  "reserve_info": {
+    "id": "15656334",
+    "provider": "SevenRooms",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/sevenrooms_04.23.2019.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=Restaurants_SevenRooms&src=183966105&geo=15656334&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=29025&bucket=870813&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=324898756&managed=false&capped=false&gosox=E4dS6BmBGdrr2qeEMfyM4Ykh7g7kZZMQtwvX1r7-bZn0SG8wi-cOieoDR1eMjOtRNGi9I6nuBPmXmunT2F7Y2WP3UMX7kQRjaOM8YpfjQFc&cs=1c9c77c78a9ca8071b8daae26550f2612",
+    "booking_partner_id": null,
+    "racable": false,
+    "api_bookable": false,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

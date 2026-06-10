@@ -1,0 +1,257 @@
+{
+  "location_id": "26686447",
+  "name": "I Vaccinari",
+  "latitude": "41.894386",
+  "longitude": "12.490437",
+  "num_reviews": "1058",
+  "timezone": "Europe/Rome",
+  "location_string": "Rome, Lazio",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/e9/a9/da/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/e9/a9/da/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/e9/a9/da/caption.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/e9/a9/da/caption.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/2a/e9/a9/da/caption.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-11-29T16:31:27-0500",
+    "caption": "",
+    "id": "719956442",
+    "helpful_votes": "2",
+    "published_date": "2023-11-29T16:31:27-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.italy.rome",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.842739105224609",
+  "ranking_geo": "Rome",
+  "ranking_geo_id": "187791",
+  "ranking_position": "28",
+  "ranking_denominator": "11293",
+  "ranking_category": "restaurant",
+  "ranking": "#27 of 12,834 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$18 - $35",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187791-d26686447-Reviews-I_Vaccinari-Rome_Lazio.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187791-d26686447-I_Vaccinari-Rome_Lazio.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Rome",
+      "abbrv": null,
+      "location_id": "187791"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Lazio",
+      "abbrv": null,
+      "location_id": "187789"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Italy",
+      "abbrv": null,
+      "location_id": "187768"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Rome",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+39 06 7978 6269",
+  "website": "http://ivaccinari.it/",
+  "email": "info@ivaccinari.it",
+  "address_obj": {
+    "street1": "Via Della Madonna dei Monti, 55",
+    "street2": null,
+    "city": "Rome",
+    "state": null,
+    "country": "Italy",
+    "postalcode": "00184"
+  },
+  "address": "Via Della Madonna dei Monti, 55, 00184 Rome Italy",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1380
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 900
+        },
+        {
+          "open_time": 1140,
+          "close_time": 1380
+        }
+      ]
+    ],
+    "timezone": "Europe/Rome"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "4617",
+      "name": "Italian"
+    },
+    {
+      "key": "10641",
+      "name": "Pizza"
+    },
+    {
+      "key": "10649",
+      "name": "Mediterranean"
+    },
+    {
+      "key": "20067",
+      "name": "Romana"
+    },
+    {
+      "key": "20068",
+      "name": "Lazio"
+    },
+    {
+      "key": "20075",
+      "name": "Central-Italian"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

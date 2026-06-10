@@ -1,0 +1,230 @@
+{
+  "location_id": "26581647",
+  "name": "MAID MADE Akihabara Ekimae",
+  "latitude": "35.69764",
+  "longitude": "139.77232",
+  "num_reviews": "331",
+  "timezone": "Asia/Tokyo",
+  "location_string": "Chiyoda, Tokyo, Tokyo Prefecture, Kanto",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/78/79/84/30.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/78/79/84/30.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/78/79/84/30.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/78/79/84/30.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/78/79/84/30.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-10-01T00:28:52-0400",
+    "caption": "秋葉原駅前から徒歩30秒！ 王道の萌え萌えメイドカフェ体験ができます♡",
+    "id": "712538500",
+    "helpful_votes": "5",
+    "published_date": "2023-10-01T00:28:52-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "as.japan.kanto.tokyo.chiyoda",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.860577583312988",
+  "ranking_geo": "Tokyo",
+  "ranking_geo_id": "298184",
+  "ranking_position": "12",
+  "ranking_denominator": "63359",
+  "ranking_category": "restaurant",
+  "ranking": "#11 of 94,649 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$",
+  "price": "$2,000 - $3,500",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1066443-d26581647-Reviews-MAID_MADE_Akihabara_Ekimae-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1066443-d26581647-MAID_MADE_Akihabara_Ekimae-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Chiyoda",
+      "abbrv": null,
+      "location_id": "1066443"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Tokyo",
+      "abbrv": null,
+      "location_id": "298184"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Tokyo Prefecture",
+      "abbrv": null,
+      "location_id": "1023181"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kanto",
+      "abbrv": null,
+      "location_id": "298156"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Japan",
+      "abbrv": null,
+      "location_id": "294232"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Chiyoda",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+81 3-4363-1830",
+  "website": "https://made-maid.com/",
+  "address_obj": {
+    "street1": "1-15-13 Sotokanda",
+    "street2": "Akihabara B&V BLDG.10F",
+    "city": "Chiyoda",
+    "state": "Tokyo Prefecture",
+    "country": "Japan",
+    "postalcode": "101-0021"
+  },
+  "address": "1-15-13 Sotokanda Akihabara B&V BLDG.10F, Chiyoda 101-0021 Tokyo Prefecture",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 720,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1320
+        }
+      ],
+      [
+        {
+          "open_time": 720,
+          "close_time": 1320
+        }
+      ]
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10642",
+      "name": "Cafe"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

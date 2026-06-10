@@ -1,0 +1,33 @@
+{
+  "location_id": "187291",
+  "ad_position": "inline3",
+  "ad_size": "8X8",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "detail": "0",
+  "page_type": "attractions",
+  "mob_ptype": "app_attractions"
+}

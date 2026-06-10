@@ -1,0 +1,218 @@
+{
+  "location_id": "469499",
+  "name": "Zamalek",
+  "latitude": "30.054823",
+  "longitude": "31.22138",
+  "num_reviews": "517",
+  "timezone": "Africa/Cairo",
+  "location_string": "Cairo, Cairo Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/79/a3/1f/kairo.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/79/a3/1f/kairo.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "604",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/79/a3/1f/kairo.jpg",
+        "height": "468"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/79/a3/1f/kairo.jpg",
+        "height": "426"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/79/a3/1f/kairo.jpg",
+        "height": "193"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2010-04-02T18:28:07-0400",
+    "caption": "Kairo",
+    "id": "24748831",
+    "helpful_votes": "29",
+    "published_date": "2010-04-02T18:28:01-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "af.egypt.cairo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.88511323928833",
+  "ranking_geo": "Cairo",
+  "ranking_geo_id": "294201",
+  "ranking_position": "18",
+  "ranking_denominator": "316",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#18 of 316 things to do in Cairo",
+  "subcategory_ranking": "#18 of 316 things to do in Cairo",
+  "ranking": "#18 of 316 things to do in Cairo",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "This island is located in the Nile River between downtown Cairo and Giza, and is characterized by upscale hotels, restaurants and pleasant gardens.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294201-d469499-Reviews-Zamalek-Cairo_Cairo_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294201-d469499-Zamalek-Cairo_Cairo_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Cairo",
+      "abbrv": null,
+      "location_id": "294201"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Cairo Governorate",
+      "abbrv": null,
+      "location_id": "3688720"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Egypt",
+      "abbrv": null,
+      "location_id": "294200"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    },
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Cairo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Cairo",
+    "state": null,
+    "country": "Egypt",
+    "postalcode": ""
+  },
+  "address": "Cairo Egypt",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "20",
+      "name": "Islands"
+    },
+    {
+      "key": "34",
+      "name": "Neighborhoods"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FPrivate-Guided-Night-Tour-of-Cairo%2Fd782-8243P17%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=292e040da91db721b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=469499&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$0.10",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FPrivate-Guided-Night-Tour-of-Cairo%2Fd782-8243P17%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=292e040da91db721b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=469499&clt=TM&from=api&nt=true",
+        "price": "$89.00",
+        "rounded_up_price": "$89",
+        "offer_type": "",
+        "title": "Cairo Sightseeing by Night Private Guided Tour",
+        "product_code": "8243P17",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/cc/9c.jpg",
+        "description": null,
+        "primary_category": "Night Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FDowntown-cairo-half-day-tour-with-egyptian-dinner%2Fd782-292695P106%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1b6ffbb1a0114f3b3&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=469499&clt=TM&from=api&nt=true",
+        "price": "$65.00",
+        "rounded_up_price": "$65",
+        "offer_type": "",
+        "title": "Downtown Cairo Half-Day Walking Tour with Dinner and Transfers",
+        "product_code": "292695P106",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/c2/33/49.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FKayaking-in-the-Nile-river-in-heart-of-Cairo-with-instructor%2Fd782-346005P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=93bd8d6ab140b4172&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=469499&clt=TM&from=api&nt=true",
+        "price": "$10.00",
+        "rounded_up_price": "$10",
+        "offer_type": "",
+        "title": "Nile River Kayaking in Cairo with Instructor",
+        "product_code": "346005P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/9b/28/0d.jpg",
+        "description": null,
+        "primary_category": "Kayaking & Canoeing"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FQuiet-SailBoat-Tour-where-the-beauty-of-Cairo-is%2Fd782-346005P2%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=85240278194face71&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=469499&clt=TM&from=api&nt=true",
+        "price": "$10.00",
+        "rounded_up_price": "$10",
+        "offer_type": "",
+        "title": "Cairo Private Sailing Boat Experience with Its Sailor",
+        "product_code": "346005P2",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/dd/02/42.jpg",
+        "description": null,
+        "primary_category": "Sailing Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FCairo%2FDinner-cruise-belly-dancer-show-on-the-Nile%2Fd782-294916P4%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6a7a6b84922b996e2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=469499&clt=TM&from=api&nt=true",
+        "price": "$18.00",
+        "rounded_up_price": "$18",
+        "offer_type": "",
+        "title": "Cairo Nile Dinner Cruise with Show (Private Transfers)",
+        "product_code": "294916P4",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/4d/6d/73.jpg",
+        "description": null,
+        "primary_category": "Dining Experiences"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

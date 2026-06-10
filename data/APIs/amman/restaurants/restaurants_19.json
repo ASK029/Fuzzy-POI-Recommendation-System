@@ -1,0 +1,33 @@
+{
+  "location_id": "293986",
+  "ad_position": "inline3",
+  "ad_size": "8X8",
+  "doubleclick_zone": "me.jordan.amman",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "detail": "0",
+  "page_type": "restaurants",
+  "mob_ptype": "app_restaurants"
+}

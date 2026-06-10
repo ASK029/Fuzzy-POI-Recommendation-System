@@ -1,0 +1,225 @@
+{
+  "location_id": "26497589",
+  "name": "Neos Sunset Rooftop",
+  "latitude": "31.961685",
+  "longitude": "35.89995",
+  "num_reviews": "79",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/0a/8f/3c/bamboo-inspired-haven.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-08-13T19:48:29-0400",
+    "caption": "Bamboo-inspired haven with an Indelible sunset dining experience.  Daily open 16:00 -1:00  #NéosSunsetRooftop\n\nAddress: 5th Floor, Boho Boutique Hotel, Jabal Amman, Amman,  Jordan",
+    "id": "705335100",
+    "helpful_votes": "0",
+    "published_date": "2023-08-13T19:48:29-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.765871047973633",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "24",
+  "ranking_denominator": "925",
+  "ranking_category": "restaurant",
+  "ranking": "#23 of 1,102 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$5 - $23",
+  "description": "Step into the extraordinary world of Néos Sunset Rooftop, where the city bows to the setting sun. Perched in the heart of Amman with an awe-inspiring panoramic view of the cityscape, featuring an ambiance adorned with lush bamboo interiors, Néos will transport you to a world of paradisiacal experience as the sun gracefully paints the sky in vibrant hues, offering a front-row seat to nature's masterpiece—the mesmerizing sunset. Our epicurean chefs at Néos passionately curate a menu that blends the finest in modern gastronomy with the art of fusion cuisine from the Mediterranean and other timeless traditions from around the world. Our masterful mixologists embrace an infusion philosophy, creating beverage and wine menus that are lavishly ideal for celebrating life's milestones, savoring romantic evenings against a mesmerizing backdrop, or enjoying convivial hangouts with friends or colleagues. Experience the enchanting Néos Sunset Rooftop and embark on a culinary adventure.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g293986-d26497589-Reviews-Neos_Sunset_Rooftop-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d26497589-Neos_Sunset_Rooftop-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+962 7 7777 6442",
+  "website": "https://www.instagram.com/neosrooftop/",
+  "email": "sunset@neosrooftop.com",
+  "address_obj": {
+    "street1": "Shakib Abu Hamdan St.",
+    "street2": "Boho Boutique Hotel",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": "11152"
+  },
+  "address": "Shakib Abu Hamdan St. Boho Boutique Hotel, Amman 11152 Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1500
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1500
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10671",
+      "name": "Fusion"
+    },
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10648",
+      "name": "International"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10669",
+      "name": "Contemporary"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

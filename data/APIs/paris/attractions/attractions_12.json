@@ -1,0 +1,216 @@
+{
+  "location_id": "189683",
+  "name": "Seine River",
+  "latitude": "48.858776",
+  "longitude": "2.335496",
+  "num_reviews": "25814",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/97/9b/5c/traveling-down-the-seine.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/97/9b/5c/traveling-down-the-seine.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1200",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/97/9b/5c/traveling-down-the-seine.jpg",
+        "height": "800"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1a/97/9b/5c/traveling-down-the-seine.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/97/9b/5c/traveling-down-the-seine.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2020-01-13T12:29:05-0500",
+    "caption": "Traveling down the Seine River",
+    "id": "446143324",
+    "helpful_votes": "8",
+    "published_date": "2020-01-13T12:29:05-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.817171573638916",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "10",
+  "ranking_denominator": "4164",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#10 of 4,164 things to do in Paris",
+  "subcategory_ranking": "#10 of 4,164 things to do in Paris",
+  "ranking": "#10 of 4,164 things to do in Paris",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15621634",
+      "name": "6th Arr. - Luxembourg"
+    },
+    {
+      "location_id": "13209510",
+      "name": "Saint-Germain-l'Auxerrois"
+    }
+  ],
+  "description": "Hop on a river cruise or stroll alongside this famous waterway—it flows through the heart of Paris and separates the city's left and right banks. ",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189683-Reviews-Seine_River-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d189683-Seine_River-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75001"
+  },
+  "address": "75001 Paris France",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "162",
+      "name": "Bodies of Water"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FBateaux-Parisiens-Seine-River-Sightseeing-Cruise%2Fd479-5756SIGHTSEEING%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a17229885fab62d4e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=189683&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$7.64",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FBateaux-Parisiens-Seine-River-Sightseeing-Cruise%2Fd479-5756SIGHTSEEING%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=a17229885fab62d4e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=189683&clt=TM&from=api&nt=true",
+        "price": "$18.58",
+        "rounded_up_price": "$19",
+        "offer_type": "",
+        "title": "Paris Seine River Sightseeing Cruise with Commentary by Bateaux Parisiens",
+        "product_code": "5756SIGHTSEEING",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/b8/65/59.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSeine-River-Cruise-Bateaux-Parisiens-Sightseeing-Cruise-with-Dinner-and-Live-Music%2Fd479-5836DINNERCRUISE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=de15b582fd69f022f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=189683&clt=TM&from=api&nt=true",
+        "price": "$136.29",
+        "rounded_up_price": "$137",
+        "offer_type": "",
+        "title": "Paris Seine River Bateaux Sightseeing Gourmet Dinner Cruise",
+        "product_code": "5836DINNERCRUISE",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ee/9b/24.jpg",
+        "description": null,
+        "primary_category": "Luxury Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FSparkling-Cruise-along-the-Seine-River-in-Paris%2Fd479-23561P20%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=03fdd68375246330f&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=189683&clt=TM&from=api&nt=true",
+        "price": "$31.70",
+        "rounded_up_price": "$32",
+        "offer_type": "",
+        "title": "Paris Seine River Cruise with Champagne",
+        "product_code": "23561P20",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e5/c8/59.jpg",
+        "description": null,
+        "primary_category": "Day Cruises"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FBateaux-Parisiens-Seine-River-Cruise-with-Lunch-and-Live-Music%2Fd479-5836LUNCHCRUISE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f0a8086d542b5a955&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=189683&clt=TM&from=api&nt=true",
+        "price": "$91.26",
+        "rounded_up_price": "$92",
+        "offer_type": "",
+        "title": "Bateaux Parisiens Seine River Lunch Cruise with Live Music",
+        "product_code": "5836LUNCHCRUISE",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ee/ae/9c.jpg",
+        "description": null,
+        "primary_category": "Luxury Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FParis%2FBateaux-Mouches-3-Hour-Seine-River-Cruise-Including-Dinner-and-Live-Music%2Fd479-23561P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=9044d29e7a803f656&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=189683&clt=TM&from=api&nt=true",
+        "price": "$142.08",
+        "rounded_up_price": "$143",
+        "offer_type": "",
+        "title": "Seine River Cruise with Dinner and Live Music",
+        "product_code": "23561P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/15/71/9d/1c.jpg",
+        "description": null,
+        "primary_category": "Dinner Cruises"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

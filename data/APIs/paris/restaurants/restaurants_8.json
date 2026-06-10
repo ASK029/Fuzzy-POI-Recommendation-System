@@ -1,0 +1,235 @@
+{
+  "location_id": "1327112",
+  "name": "Chez Nicos",
+  "latitude": "48.843563",
+  "longitude": "2.349436",
+  "num_reviews": "938",
+  "timezone": "Europe/Paris",
+  "location_string": "Paris, Ile-de-France",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/d4/3d/cc/rue-mouffetard.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/d4/3d/cc/rue-mouffetard.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/24/d4/3d/cc/rue-mouffetard.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/d4/3d/cc/rue-mouffetard.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/d4/3d/cc/rue-mouffetard.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2022-07-19T13:40:12-0400",
+    "caption": "Rue Mouffetard",
+    "id": "617889228",
+    "helpful_votes": "5",
+    "published_date": "2022-07-19T13:40:12-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.france.paris",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.868396282196045",
+  "ranking_geo": "Paris",
+  "ranking_geo_id": "187147",
+  "ranking_position": "7",
+  "ranking_denominator": "15981",
+  "ranking_category": "restaurant",
+  "ranking": "#7 of 19,416 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$",
+  "price": "$4 - $10",
+  "neighborhood_info": [
+    {
+      "location_id": "15621638",
+      "name": "5th Arr. - Pantheon"
+    },
+    {
+      "location_id": "7236765",
+      "name": "Quartier Latin"
+    },
+    {
+      "location_id": "13209511",
+      "name": "Val-de-Grace"
+    },
+    {
+      "location_id": "15621560",
+      "name": "Jardin-des-Plantes"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187147-d1327112-Reviews-Chez_Nicos-Paris_Ile_de_France.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187147-d1327112-Chez_Nicos-Paris_Ile_de_France.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Paris",
+      "abbrv": null,
+      "location_id": "187147"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Ile-de-France",
+      "abbrv": null,
+      "location_id": "187144"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "France",
+      "abbrv": null,
+      "location_id": "187070"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Paris",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+33 1 45 87 28 13",
+  "website": "http://www.cheznicos.fr",
+  "email": "cheznicosmouffetard@gmail.com",
+  "address_obj": {
+    "street1": "44 Rue Mouffetard",
+    "street2": null,
+    "city": "Paris",
+    "state": null,
+    "country": "France",
+    "postalcode": "75005"
+  },
+  "address": "44 Rue Mouffetard, 75005 Paris France",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1560
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1560
+        }
+      ]
+    ],
+    "timezone": "Europe/Paris"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10346",
+      "name": "Indian"
+    },
+    {
+      "key": "10646",
+      "name": "Fast Food"
+    },
+    {
+      "key": "10679",
+      "name": "Healthy"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

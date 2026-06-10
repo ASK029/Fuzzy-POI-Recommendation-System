@@ -1,0 +1,275 @@
+{
+  "location_id": "13320787",
+  "name": "Dubai Frame",
+  "latitude": "25.235449",
+  "longitude": "55.30034",
+  "num_reviews": "4781",
+  "timezone": "Asia/Dubai",
+  "location_string": "Dubai, Emirate of Dubai",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/07/8e/6d/dubai-frame-main.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/07/8e/6d/dubai-frame-main.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "960",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/07/8e/6d/dubai-frame-main.jpg",
+        "height": "640"
+      },
+      "large": {
+        "width": "960",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/07/8e/6d/dubai-frame-main.jpg",
+        "height": "640"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/07/8e/6d/dubai-frame-main.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2018-02-12T02:17:13-0500",
+    "caption": "Dubai Frame main",
+    "id": "302485101",
+    "helpful_votes": "59",
+    "published_date": "2018-02-12T02:17:13-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.uae.dubai",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.31031608581543",
+  "ranking_geo": "Dubai",
+  "ranking_geo_id": "295424",
+  "ranking_position": "17",
+  "ranking_denominator": "682",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#17 of 682 things to do in Dubai",
+  "subcategory_ranking": "#17 of 682 things to do in Dubai",
+  "ranking": "#17 of 682 things to do in Dubai",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.6",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "neighborhood_info": [
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620560",
+      "name": "Al Kefaf"
+    }
+  ],
+  "description": "The UAE’s latest cultural landmark, Dubai Frame is an iconic structure that ‘frames’ impressive views of Old and New Dubai, while serving as a metaphorical bridge connecting the emirate’s rich past with its magnificent present. Dubai Frame celebrates the story of Dubai from its early establishment to its ambitious plans for future development. Launched in January 2018, the project comprises a 150-metre-high, 95-meter-wide structure being built to resemble a huge picture frame, through which landmarks representing modern Dubai such as Emirates Towers and Burj Khalifa can be seen on one side, while from the other side, visitors can view older parts of the city such as Deira and Karama. Exterior design of Dubai Frame was inspired from the logo of EXPO2020 and it is world's largest picture frame by Guinness World Records. According to Dubai Frame general policy, guests are requested to wear respectful clothing: shoulders and knees to be covered.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g295424-d13320787-Reviews-Dubai_Frame-Dubai_Emirate_of_Dubai.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d13320787-Dubai_Frame-Dubai_Emirate_of_Dubai.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Dubai",
+      "abbrv": null,
+      "location_id": "295424"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Emirate of Dubai",
+      "abbrv": null,
+      "location_id": "2630221"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United Arab Emirates",
+      "abbrv": null,
+      "location_id": "294012"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Dubai",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+971 800 900",
+  "website": "https://www.dubaiframe.ae/en",
+  "email": "hranusht@dm.gov.ae",
+  "address_obj": {
+    "street1": "Sheikh Rashid Road",
+    "street2": "Gate 4, Zabeel Park",
+    "city": "Dubai",
+    "state": null,
+    "country": "United Arab Emirates",
+    "postalcode": null
+  },
+  "address": "Sheikh Rashid Road Gate 4, Zabeel Park, Dubai United Arab Emirates",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 480,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1260
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1260
+        }
+      ]
+    ],
+    "timezone": "Asia/Dubai"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "39",
+      "name": "Observation Decks & Towers"
+    },
+    {
+      "key": "3",
+      "name": "Architectural Buildings"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FHalf-Day-Old-and-New-Dubai-Tour-plus-ticket-entry-to-Dubai-Frame%2Fd828-128403P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1a4096387fbe01bc0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=13320787&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$6.46",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FHalf-Day-Old-and-New-Dubai-Tour-plus-ticket-entry-to-Dubai-Frame%2Fd828-128403P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=1a4096387fbe01bc0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=13320787&clt=TM&from=api&nt=true",
+        "price": "$31.89",
+        "rounded_up_price": "$32",
+        "offer_type": "",
+        "title": "Dubai Old & New City Tour w/Dubai Frame Admission",
+        "product_code": "128403P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/2c/bb/5c.jpg",
+        "description": null,
+        "primary_category": "Bus & Minivan Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-frame-tour%2Fd828-188149P3%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=fbd614b80f9cef4c8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=13320787&clt=TM&from=api&nt=true",
+        "price": "$50.00",
+        "rounded_up_price": "$50",
+        "offer_type": "",
+        "title": "Dubai Frame Tour with Private Round-Trip Transfers",
+        "product_code": "188149P3",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/08/78/df/d6.jpg",
+        "description": null,
+        "primary_category": "Ports of Call Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Frame%2Fd828-9443P162%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2fa69f3307f579262&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=13320787&clt=TM&from=api&nt=true",
+        "price": "$18.00",
+        "rounded_up_price": "$18",
+        "offer_type": "",
+        "title": "Dubai Frame Admission Ticket with Optional Transfers",
+        "product_code": "9443P162",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/48/c1/84.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-Frame-with-Tickets-and-Sharing-Transfers%2Fd828-206051P11%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=116b4cd49bd55d820&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=13320787&clt=TM&from=api&nt=true",
+        "price": "$45.00",
+        "rounded_up_price": "$45",
+        "offer_type": "",
+        "title": "Dubai Frame Tour with Tickets and Transfers",
+        "product_code": "206051P11",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/c6/d9/23.jpg",
+        "description": null,
+        "primary_category": "Literary, Art & Music Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FDubai%2FDubai-by-Night-City-Tour%2Fd828-8264P19%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=6b6a1e221a4af4b91&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=13320787&clt=TM&from=api&nt=true",
+        "price": "$29.00",
+        "rounded_up_price": "$29",
+        "offer_type": "",
+        "title": "Dubai by Night City Tour with Fountain show",
+        "product_code": "8264P19",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/fb/10/0d.jpg",
+        "description": null,
+        "primary_category": "Night Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

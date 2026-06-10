@@ -1,0 +1,259 @@
+{
+  "location_id": "319450",
+  "name": "Roman Theatre",
+  "latitude": "31.951674",
+  "longitude": "35.939316",
+  "num_reviews": "3385",
+  "timezone": "Asia/Amman",
+  "location_string": "Amman, Amman Governorate",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/1a/f5/db/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/1a/f5/db/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "912",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/1a/f5/db/caption.jpg",
+        "height": "683"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/1a/f5/db/caption.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/1a/f5/db/caption.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2022-06-20T02:27:44-0400",
+    "caption": "",
+    "id": "605746651",
+    "helpful_votes": "7",
+    "published_date": "2022-06-20T02:27:44-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.jordan.amman",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.9562551975250244",
+  "ranking_geo": "Amman",
+  "ranking_geo_id": "293986",
+  "ranking_position": "4",
+  "ranking_denominator": "118",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#4 of 118 things to do in Amman",
+  "subcategory_ranking": "#4 of 118 things to do in Amman",
+  "ranking": "#4 of 118 things to do in Amman",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "Step back 2,000 years in time with a visit to the ruins of this imposing amphitheater, which once held 5,000 spectators, and is still used today for theater and entertainment.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g293986-d319450-Reviews-Roman_Theatre-Amman_Amman_Governorate.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g293986-d319450-Roman_Theatre-Amman_Amman_Governorate.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amman",
+      "abbrv": null,
+      "location_id": "293986"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Amman Governorate",
+      "abbrv": null,
+      "location_id": "2625854"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Jordan",
+      "abbrv": null,
+      "location_id": "293985"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Amman",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "website": "https://international.visitjordan.com/Wheretogo/Amman.aspx?tabId=138&experienceId=3#ac190",
+  "address_obj": {
+    "street1": "Al-Hashemi St.",
+    "street2": "",
+    "city": "Amman",
+    "state": null,
+    "country": "Jordan",
+    "postalcode": ""
+  },
+  "address": "Al-Hashemi St., Amman Jordan",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1200
+        }
+      ]
+    ],
+    "timezone": "Asia/Amman"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "2",
+      "name": "Ancient Ruins"
+    },
+    {
+      "key": "17",
+      "name": "Historic Sites"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FAmman-City-Tour-Sightseeing-3-Hours%2Fd5503-22721P55%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bf9fcd34b6e67dee9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=319450&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$19.99",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FAmman-City-Tour-Sightseeing-3-Hours%2Fd5503-22721P55%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=bf9fcd34b6e67dee9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=319450&clt=TM&from=api&nt=true",
+        "price": "$43.00",
+        "rounded_up_price": "$43",
+        "offer_type": "",
+        "title": "History & Culture Immersion, City Tour Of Amman ",
+        "product_code": "22721P55",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/f7/48/45.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FCitadel-Amphitheatre-Rainbow-Street-Famous-mosques-ALL-in-Amman-Private-Tour%2Fd5503-223403P10%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=244fe0daf907f4a7e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=319450&clt=TM&from=api&nt=true",
+        "price": "$59.99",
+        "rounded_up_price": "$60",
+        "offer_type": "",
+        "title": "Private Amman City Tour by Limousine",
+        "product_code": "223403P10",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f2/05/5f.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FDay-tours-from-Amman%2Fd5503-133160P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=359c5f5255c2f775b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=319450&clt=TM&from=api&nt=true",
+        "price": "$59.99",
+        "rounded_up_price": "$60",
+        "offer_type": "",
+        "title": "Amman Private City Tour with Onboard Wi-Fi",
+        "product_code": "133160P1",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/08/4c/3b/90.jpg",
+        "description": null,
+        "primary_category": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-Half-Day-Jerash-and-Amman-City-Sightseeing-Tour%2Fd5503-2268ZT024DT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=062a12abd542bf323&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=319450&clt=TM&from=api&nt=true",
+        "price": "$166.67",
+        "rounded_up_price": "$167",
+        "offer_type": "",
+        "title": "Private Full Day Jerash and Amman City Sightseeing Tour",
+        "product_code": "2268ZT024DT",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e2/c2/83.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAmman%2FPrivate-Tour-Half-Day-Tour-of-Madaba-Mt-Nebo-and-Amman%2Fd5503-2268ZT027DT%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=59920cfc12bb5d560&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=319450&clt=TM&from=api&nt=true",
+        "price": "$180.00",
+        "rounded_up_price": "$180",
+        "offer_type": "",
+        "title": "Private Tour of Madaba, Mount Nebo & Amman Highlights",
+        "product_code": "2268ZT027DT",
+        "partner": "Viator",
+        "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/94/7e/7d.jpg",
+        "description": null,
+        "primary_category": "Private Sightseeing Tours"
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  }
+}

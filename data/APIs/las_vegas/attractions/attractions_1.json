@@ -1,0 +1,225 @@
+{
+  "location_id": "103329",
+  "name": "Red Rock Canyon National Conservation Area",
+  "latitude": "36.1356",
+  "longitude": "-115.427",
+  "num_reviews": "26550",
+  "timezone": "America/Los_Angeles",
+  "location_string": "Las Vegas, Nevada",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/05/cc/87/df/red-rock-canyon-national.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/cc/87/df/red-rock-canyon-national.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/cc/87/df/red-rock-canyon-national.jpg",
+        "height": "1365"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/05/cc/87/df/red-rock-canyon-national.jpg",
+        "height": "698"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/cc/87/df/red-rock-canyon-national.jpg",
+        "height": "375"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2014-04-30T17:05:33-0400",
+    "caption": "1st stop at Red Rock Canyon",
+    "id": "97290207",
+    "helpful_votes": "7",
+    "published_date": "2014-04-30T17:05:33-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "na.us.nv.las_vegas",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.995415210723877",
+  "ranking_geo": "Las Vegas",
+  "ranking_geo_id": "45963",
+  "ranking_position": "2",
+  "ranking_denominator": "878",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 878 things to do in Las Vegas",
+  "subcategory_ranking": "#2 of 878 things to do in Las Vegas",
+  "ranking": "#2 of 878 things to do in Las Vegas",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.7",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "Visitors can admire colorful rock formations on several hiking trails or on a 13-mile scenic drive.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d103329-Reviews-Red_Rock_Canyon_National_Conservation_Area-Las_Vegas_Nevada.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g45963-d103329-Red_Rock_Canyon_National_Conservation_Area-Las_Vegas_Nevada.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Las Vegas",
+      "abbrv": null,
+      "location_id": "45963"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Nevada",
+      "abbrv": "NV",
+      "location_id": "28949"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "United States",
+      "abbrv": null,
+      "location_id": "191"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Las Vegas",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+1 702-515-5350",
+  "website": "http://www.redrockcanyonlv.org/",
+  "address_obj": {
+    "street1": null,
+    "street2": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "United States",
+    "postalcode": "89161"
+  },
+  "address": "Las Vegas, NV 89161",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "68",
+      "name": "Nature & Wildlife Areas"
+    }
+  ],
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-14272P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cee64da6aa7fe0e5c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=103329&clt=TM&from=api&nt=true"
+  },
+  "offer_group": {
+    "lowest_price": "$14.44",
+    "offer_list": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-14272P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=cee64da6aa7fe0e5c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=103329&clt=TM&from=api&nt=true",
+        "price": "$124.99",
+        "rounded_up_price": "$125",
+        "offer_type": "",
+        "title": "Scooter Tours of Red Rock Canyon",
+        "product_code": "14272P1",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-159353P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=2f9685083d5add467&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=103329&clt=TM&from=api&nt=true",
+        "price": "$95.00",
+        "rounded_up_price": "$95",
+        "offer_type": "",
+        "title": "Las Vegas: Red Rock Canyon Small-Group Tour With Pickup",
+        "product_code": "159353P1",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": "Helicopter Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-5109_HI002%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=dbb9bde3bf7531ed4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=103329&clt=TM&from=api&nt=true",
+        "price": "$129.99",
+        "rounded_up_price": "$130",
+        "offer_type": "",
+        "title": "Las Vegas Red Rock Canyon Half-Day Guided Hiking Tour, Transit",
+        "product_code": "5109_HI002",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-60124P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=b7fd0722b5bec0643&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=103329&clt=TM&from=api&nt=true",
+        "price": "$129.00",
+        "rounded_up_price": "$129",
+        "offer_type": "",
+        "title": "Red Rock Canyon Self-Guided E-Bike Tour with Transfers",
+        "product_code": "60124P1",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2Fx%2Fy%2Fd0-7079RREBIKE%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=eb65d9c0bea017ad8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=103329&clt=TM&from=api&nt=true",
+        "price": "$137.00",
+        "rounded_up_price": "$137",
+        "offer_type": "",
+        "title": "Red Rock Canyon Electric Bike Tour with Ancient Petroglyphs",
+        "product_code": "7079RREBIKE",
+        "partner": "Viator",
+        "image_url": "https://www.viator.com/images/placeholder/nophoto360x240.png",
+        "description": null,
+        "primary_category": null
+      }
+    ],
+    "has_see_all_url": true,
+    "is_eligible_for_ap_list": true
+  },
+  "fee": "NO",
+  "animal_welfare_tag": {
+    "tag_text": "Features Animals",
+    "msg_header": "This attraction features animals",
+    "msg_body": "Click below for expert advice on animal welfare in tourism.",
+    "learn_more_text": "Learn more",
+    "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+  },
+  "tags": {
+    "animal_welfare_tag": {
+      "tag_text": "Features Animals",
+      "msg_header": "This attraction features animals",
+      "msg_body": "Click below for expert advice on animal welfare in tourism.",
+      "learn_more_text": "Learn more",
+      "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+    }
+  }
+}

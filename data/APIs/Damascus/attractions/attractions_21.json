@@ -1,0 +1,126 @@
+{
+  "location_id": "324679",
+  "name": "Fortress Wall",
+  "num_reviews": "6",
+  "timezone": "Asia/Damascus",
+  "location_string": "Damascus",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/65/92/33/old-wall-downtown-damascus.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/65/92/33/old-wall-downtown-damascus.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "604",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/65/92/33/old-wall-downtown-damascus.jpg",
+        "height": "453"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/65/92/33/old-wall-downtown-damascus.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/65/92/33/old-wall-downtown-damascus.jpg",
+        "height": "187"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2010-01-20T04:30:20-0500",
+    "caption": "Old wall downtown Damascus",
+    "id": "23433779",
+    "helpful_votes": "3",
+    "published_date": "2010-01-20T04:30:10-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "me.syria.damascus",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7785587310791016",
+  "ranking_geo": "Damascus",
+  "ranking_geo_id": "294011",
+  "ranking_position": "25",
+  "ranking_denominator": "42",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#25 of 42 things to do in Damascus",
+  "subcategory_ranking": "#25 of 42 things to do in Damascus",
+  "ranking": "#25 of 42 things to do in Damascus",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.3",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g294011-d324679-Reviews-Fortress_Wall-Damascus.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g294011-d324679-Fortress_Wall-Damascus.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Damascus",
+      "abbrv": null,
+      "location_id": "294011"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Syria",
+      "abbrv": null,
+      "location_id": "294010"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Damascus",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Damascus",
+    "state": null,
+    "country": "Syria",
+    "postalcode": ""
+  },
+  "address": "Damascus Syria",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "26",
+      "name": "Monuments & Statues"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "location_id": "13291062",
+  "name": "Miniaturwelten Stuttgart",
+  "latitude": "48.782906",
+  "longitude": "9.180783",
+  "num_reviews": "46",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/6c/64/5d/true-to-scale-replica.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/6c/64/5d/true-to-scale-replica.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/6c/64/5d/true-to-scale-replica.jpg",
+        "height": "848"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/19/6c/64/5d/true-to-scale-replica.jpg",
+        "height": "678"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/6c/64/5d/true-to-scale-replica.jpg",
+        "height": "364"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2019-09-28T17:48:05-0400",
+    "caption": "True-to-scale replica of the Stuttgart main station.",
+    "id": "426533981",
+    "helpful_votes": "0",
+    "published_date": "2019-09-28T17:48:05-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.1682050228118896",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "35",
+  "ranking_denominator": "295",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#35 of 295 things to do in Stuttgart",
+  "subcategory_ranking": "#35 of 295 things to do in Stuttgart",
+  "ranking": "#35 of 295 things to do in Stuttgart",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "The museum Miniaturwelten Stuttgart, located in the beautiful city of Stuttgart, is a true-to-scale replica of the Stuttgart main station from the 80s and 90s. This unique historical cultural asset is the life's work of a man named Wolfgang Frey, who created this legendary model railway layout over an epoch of 30 years. Over 500 buildings were photographed, sketched and recreated by a single man. For every cult enthusiast and artist who appreciates the love in detail, this true-to-scale depiction of the Stuttgart terminus is a true masterpiece.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g187291-d13291062-Reviews-Miniaturwelten_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d13291062-Miniaturwelten_Stuttgart-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 7032 287992",
+  "website": "https://www.miniaturweltenstuttgart.de/",
+  "email": "info@miniaturweltenstuttgart.de",
+  "address_obj": {
+    "street1": "Arnulf-Klett Platz 1-3",
+    "street2": null,
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70173"
+  },
+  "address": "Arnulf-Klett Platz 1-3, 70173 Stuttgart, Baden-Wurttemberg Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 780,
+          "close_time": 1020
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "161",
+      "name": "Specialty Museums"
+    }
+  ]
+}

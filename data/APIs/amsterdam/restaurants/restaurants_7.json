@@ -1,0 +1,222 @@
+{
+  "location_id": "10779831",
+  "name": "Half Moon Cocktail Lounge",
+  "latitude": "52.351707",
+  "longitude": "4.871705",
+  "num_reviews": "143",
+  "timezone": "Europe/Amsterdam",
+  "location_string": "Amsterdam, North Holland Province",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/60/27/cf/half-moon-lounge.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/60/27/cf/half-moon-lounge.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/28/60/27/cf/half-moon-lounge.jpg",
+        "height": "854"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/28/60/27/cf/half-moon-lounge.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/60/27/cf/half-moon-lounge.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-03-03T03:43:55-0500",
+    "caption": "Half Moon Lounge",
+    "id": "677390287",
+    "helpful_votes": "0",
+    "published_date": "2023-03-03T03:43:55-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.the_netherlands.holland.amsterdam",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.835326671600342",
+  "ranking_geo": "Amsterdam",
+  "ranking_geo_id": "188590",
+  "ranking_position": "9",
+  "ranking_denominator": "4095",
+  "ranking_category": "restaurant",
+  "ranking": "#7 of 5,334 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.8",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$5 - $82",
+  "neighborhood_info": [
+    {
+      "location_id": "15620072",
+      "name": "Oud Zuid"
+    },
+    {
+      "location_id": "15620132",
+      "name": "Apollobuurt"
+    },
+    {
+      "location_id": "15620065",
+      "name": "Amsterdam South"
+    }
+  ],
+  "description": "The Half Moon Lounge takes its name from the historic Dutch ship 'De Halve Maen,' bringing that same spirit of discovery to your evening. Overlooking the Noorder Amstel canal, our welcoming space offers the perfect retreat from the city, whether you're catching the sunset or warming up by our fireplace. Our skilled bartenders craft exceptional drinks while vintage vinyl sets the mood – each cocktail paired with its own carefully chosen song. Join us for an evening where classic hospitality meets Amsterdam charm.",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g188590-d10779831-Reviews-Half_Moon_Cocktail_Lounge-Amsterdam_North_Holland_Province.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g188590-d10779831-Half_Moon_Cocktail_Lounge-Amsterdam_North_Holland_Province.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Amsterdam",
+      "abbrv": null,
+      "location_id": "188590"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "North Holland Province",
+      "abbrv": null,
+      "location_id": "188587"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "The Netherlands",
+      "abbrv": null,
+      "location_id": "188553"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Amsterdam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+31 20 710 6000",
+  "website": "https://www.instagram.com/halfmoonloungeamsterdam/",
+  "address_obj": {
+    "street1": "Apollolaan 138",
+    "street2": null,
+    "city": "Amsterdam",
+    "state": null,
+    "country": "The Netherlands",
+    "postalcode": "1077 BG"
+  },
+  "address": "Apollolaan 138, 1077 BG Amsterdam The Netherlands",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 540,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 540,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Europe/Amsterdam"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10640",
+      "name": "Bar"
+    },
+    {
+      "key": "10654",
+      "name": "European"
+    },
+    {
+      "key": "10648",
+      "name": "International"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    }
+  ],
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

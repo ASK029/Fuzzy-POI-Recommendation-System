@@ -1,0 +1,220 @@
+{
+  "location_id": "25459161",
+  "name": "Caminito Grill Steak House",
+  "latitude": "41.380733",
+  "longitude": "2.189503",
+  "num_reviews": "1850",
+  "timezone": "Europe/Madrid",
+  "location_string": "Barcelona, Catalonia",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/e8/5b/56/bienvenidos-a-caminito.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/e8/5b/56/bienvenidos-a-caminito.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "800",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/e8/5b/56/bienvenidos-a-caminito.jpg",
+        "height": "800"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/28/e8/5b/56/bienvenidos-a-caminito.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/e8/5b/56/bienvenidos-a-caminito.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-04-23T19:09:24-0400",
+    "caption": "Bienvenidos a Caminito Grill Steak House! Auténtica comida argentina, en el corazón de Barcelona. Welcome to Caminito Grill Steak House! Authentic Argentine food in the heart of Barcelona.",
+    "id": "686316374",
+    "helpful_votes": "11",
+    "published_date": "2023-04-23T19:09:24-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.spain.barcelona",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.84726619720459",
+  "ranking_geo": "Barcelona",
+  "ranking_geo_id": "187497",
+  "ranking_position": "22",
+  "ranking_denominator": "8973",
+  "ranking_category": "restaurant",
+  "ranking": "#21 of 10,548 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.9",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d25459161-Reviews-Caminito_Grill_Steak_House-Barcelona_Catalonia.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d25459161-Caminito_Grill_Steak_House-Barcelona_Catalonia.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Barcelona",
+      "abbrv": null,
+      "location_id": "187497"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "Province of Barcelona",
+      "abbrv": null,
+      "location_id": "1969684"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Catalonia",
+      "abbrv": null,
+      "location_id": "187496"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Spain",
+      "abbrv": null,
+      "location_id": "187427"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [],
+  "parent_display_name": "Barcelona",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+34 614 32 11 15",
+  "website": "http://caminito-grill-steak-house.negocio.site",
+  "email": "caminitobcn@gmail.com",
+  "address_obj": {
+    "street1": "Calle de l'Atlantida, 27, 29",
+    "street2": null,
+    "city": "Barcelona",
+    "state": null,
+    "country": "Spain",
+    "postalcode": "08003"
+  },
+  "address": "Calle de l'Atlantida, 27, 29, 08003 Barcelona Spain",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 780,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Europe/Madrid"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10345",
+      "name": "Steakhouse"
+    },
+    {
+      "key": "10698",
+      "name": "Argentinean"
+    }
+  ],
+  "dietary_restrictions": [],
+  "booking": {
+    "provider": "TheFork",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=246711022&geo=25459161&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=331118383&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2S9KKfYLi3KCPopMxHXN_cU&cs=1f3124453dfcd6652305c1ecf6453369d"
+  },
+  "reserve_info": {
+    "id": "25459161",
+    "provider": "TheFork",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/TheFork-Logo-2023.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=246711022&geo=25459161&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=331118383&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2S9KKfYLi3KCPopMxHXN_cU&cs=1f3124453dfcd6652305c1ecf6453369d",
+    "booking_partner_id": "6",
+    "racable": true,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}

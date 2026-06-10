@@ -1,0 +1,238 @@
+{
+  "location_id": "12828882",
+  "name": "Jose y Josefina",
+  "latitude": "48.77087",
+  "longitude": "9.155802",
+  "num_reviews": "711",
+  "timezone": "Europe/Berlin",
+  "location_string": "Stuttgart, Baden-Wurttemberg",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/84/c9/67/der-familien-tisch-hier.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/84/c9/67/der-familien-tisch-hier.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "602",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/84/c9/67/der-familien-tisch-hier.jpg",
+        "height": "402"
+      },
+      "large": {
+        "width": "602",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/84/c9/67/der-familien-tisch-hier.jpg",
+        "height": "402"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/84/c9/67/der-familien-tisch-hier.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2017-09-02T11:21:33-0400",
+    "caption": "Der \"Familien Tisch\" hier sitzt man wie daheim im Wohnzimmer",
+    "id": "277137767",
+    "helpful_votes": "6",
+    "published_date": "2017-09-02T11:21:33-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "awards": [],
+  "doubleclick_zone": "eu.germany.stuttgart",
+  "preferred_map_engine": "default",
+  "raw_ranking": "4.423767566680908",
+  "ranking_geo": "Stuttgart",
+  "ranking_geo_id": "187291",
+  "ranking_position": "12",
+  "ranking_denominator": "1153",
+  "ranking_category": "restaurant",
+  "ranking": "#12 of 1,644 Results",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "price_level": "$$ - $$$",
+  "price": "$6 - $30",
+  "neighborhood_info": [
+    {
+      "location_id": "20484600",
+      "name": "Rotebuhl"
+    }
+  ],
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Restaurant_Review-g187291-d12828882-Reviews-Jose_y_Josefina-Stuttgart_Baden_Wurttemberg.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187291-d12828882-Jose_y_Josefina-Stuttgart_Baden_Wurttemberg.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Stuttgart",
+      "abbrv": null,
+      "location_id": "187291"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "state",
+          "name": "State"
+        }
+      ],
+      "name": "Baden-Wurttemberg",
+      "abbrv": null,
+      "location_id": "187276"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Germany",
+      "abbrv": null,
+      "location_id": "187275"
+    }
+  ],
+  "category": {
+    "key": "restaurant",
+    "name": "Restaurant"
+  },
+  "subcategory": [
+    {
+      "key": "sit_down",
+      "name": "Sit down"
+    }
+  ],
+  "parent_display_name": "Stuttgart",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+49 711 67416636",
+  "website": "http://www.joseyjosefina.de",
+  "email": "info@joseyjosefina.de",
+  "address_obj": {
+    "street1": "Gutenbergstr. 87",
+    "street2": "Stgt.- West",
+    "city": "Stuttgart",
+    "state": "Baden-Wurttemberg",
+    "country": "Germany",
+    "postalcode": "70197"
+  },
+  "address": "Gutenbergstr. 87 Stgt.- West, 70197 Stuttgart, Baden-Wurttemberg Germany",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1440
+        }
+      ],
+      [
+        {
+          "open_time": 1020,
+          "close_time": 1440
+        }
+      ]
+    ],
+    "timezone": "Europe/Berlin"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "cuisine": [
+    {
+      "key": "10649",
+      "name": "Mediterranean"
+    },
+    {
+      "key": "10655",
+      "name": "Spanish"
+    },
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "dietary_restrictions": [
+    {
+      "key": "10665",
+      "name": "Vegetarian friendly"
+    },
+    {
+      "key": "10697",
+      "name": "Vegan options"
+    }
+  ],
+  "booking": {
+    "provider": "TheFork",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=186480635&geo=12828882&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=325063748&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2aeJGxIS1VgJIct424UZVlE&cs=18a8a1867e65ca9f580d38120f0fd882a"
+  },
+  "reserve_info": {
+    "id": "12828882",
+    "provider": "TheFork",
+    "provider_img": "https://static.tacdn.com/img2/branding/hotels/TheFork-Logo-2023.png",
+    "url": "https://www.tripadvisor.com/Commerce?p=theFork-Lafourchette&src=186480635&geo=12828882&from=api&area=reservation_button&slot=1&matchID=1&oos=0&cnt=1&silo=16835&bucket=740400&nrank=1&crank=1&clt=R&ttype=Restaurant&tm=325063748&managed=false&capped=false&gosox=SuAtPyMvST0kNUQfpfnmsY2PbrBHM_4VcIXjyQHUCRNs04jFUvGYkS80XHGpKeQ2NGi9I6nuBPmXmunT2F7Y2aeJGxIS1VgJIct424UZVlE&cs=18a8a1867e65ca9f580d38120f0fd882a",
+    "booking_partner_id": "6",
+    "racable": true,
+    "api_bookable": true,
+    "timeslots": null,
+    "bestoffer": null,
+    "timeslot_offers": null,
+    "button_text": "Reserve",
+    "disclaimer_text": null,
+    "banner_text": null
+  },
+  "establishment_types": [
+    {
+      "key": "10591",
+      "name": "Restaurants"
+    }
+  ]
+}
