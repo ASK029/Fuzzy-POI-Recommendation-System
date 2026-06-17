@@ -1,0 +1,1762 @@
+{
+  "optimization_type": "multi_day_ga_v1",
+  "description": "Genetic Algorithm optimizer for a multi-day tourist itinerary. It reorders and redistributes POIs across days while minimizing travel time, travel distance, time-budget violations, opening-hour violations, and day imbalance.",
+  "hotel": {
+    "lat": 36.1147,
+    "lon": -115.1728
+  },
+  "settings": {
+    "daily_time_budget_hours": 8,
+    "start_hour": 9,
+    "weekday_index": 0,
+    "number_of_days": 3,
+    "total_pois": 20,
+    "population_size": 80,
+    "generations": 200,
+    "crossover_rate": 0.9,
+    "mutation_rate": 0.2,
+    "elitism_size": 4,
+    "tournament_size": 5,
+    "early_stopping_patience": 40,
+    "random_seed": 42,
+    "weights": {
+      "travel_time": 1.0,
+      "travel_distance": 0.001,
+      "over_budget": 10000.0,
+      "opening_hours": 5000.0,
+      "balance": 2.0,
+      "empty_day": 20000.0
+    },
+    "raw_poi_records_loaded": 60,
+    "matched_raw_pois": 20,
+    "raw_poi_files": [
+      "D:\\Projects\\tripsage-langchain-pipeline\\data\\raw\\las_vegas\\attractions.json",
+      "D:\\Projects\\tripsage-langchain-pipeline\\data\\raw\\las_vegas\\restaurants.json"
+    ]
+  },
+  "ga_metrics": {
+    "best_fitness": 2.081e-07,
+    "best_cost": 4804540.219,
+    "best_generation": 86,
+    "convergence_generation": 86,
+    "completed_generations": 126,
+    "feasible_solution_found": false,
+    "runtime_seconds": 2.526
+  },
+  "fitness_breakdown": {
+    "travel_time_minutes": 163.717,
+    "travel_distance_km": 218.484,
+    "total_route_time_minutes": 1918.717,
+    "daily_time_budget_penalty": 478.717,
+    "opening_hours_penalty": 3.0,
+    "balance_penalty": 118.176,
+    "empty_day_penalty": 0.0,
+    "total_cost": 4804540.219,
+    "feasible": false
+  },
+  "baseline_comparison": {
+    "original_itinerary_cost": 5543712.645,
+    "ga_optimized_cost": 4804540.219,
+    "improvement_percentage": 13.33,
+    "original_daily_time_balance_minutes": 40.597,
+    "optimized_daily_time_balance_minutes": 118.17,
+    "original_fitness_breakdown": {
+      "travel_time_minutes": 237.633,
+      "travel_distance_km": 305.488,
+      "total_route_time_minutes": 1992.633,
+      "daily_time_budget_penalty": 552.633,
+      "opening_hours_penalty": 3.0,
+      "balance_penalty": 40.595,
+      "empty_day_penalty": 0.0,
+      "total_cost": 5543712.645,
+      "feasible": false
+    }
+  },
+  "optimized_itinerary": {
+    "Day1": {
+      "Morning": [
+        {
+          "location_id": "17476783",
+          "place": "EGGscellent",
+          "type": "Restaurant",
+          "budget": 10.0,
+          "rating": 4.8,
+          "latitude": 36.13085,
+          "longitude": -115.115364,
+          "arrival_time": "09:07",
+          "departure_time": "10:22",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 7.2,
+          "travel_from_previous_km": 6.92,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "17476783",
+          "place": "EGGscellent",
+          "type": "Restaurant",
+          "budget": 10.0,
+          "rating": 4.8,
+          "latitude": 36.13085,
+          "longitude": -115.115364,
+          "arrival_time": "10:22",
+          "departure_time": "11:37",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "423063",
+          "place": "Casa Di Amore",
+          "type": "Restaurant",
+          "budget": 25.0,
+          "rating": 4.5,
+          "latitude": 36.100136,
+          "longitude": -115.112076,
+          "arrival_time": "11:41",
+          "departure_time": "12:56",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 4.6,
+          "travel_from_previous_km": 5.19,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        }
+      ],
+      "Afternoon": [
+        {
+          "location_id": "423063",
+          "place": "Casa Di Amore",
+          "type": "Restaurant",
+          "budget": 25.0,
+          "rating": 4.5,
+          "latitude": 36.100136,
+          "longitude": -115.112076,
+          "arrival_time": "12:56",
+          "departure_time": "14:11",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "1936404",
+          "place": "Hoover Dam Bypass",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.5,
+          "latitude": 36.01248,
+          "longitude": -114.74202,
+          "arrival_time": "14:42",
+          "departure_time": "16:42",
+          "visit_duration_minutes": 120,
+          "travel_from_previous_minutes": 30.6,
+          "travel_from_previous_km": 49.97,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        }
+      ],
+      "Evening": [
+        {
+          "location_id": "2409034",
+          "place": "Shelby American, Inc.",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.6,
+          "latitude": 36.072174,
+          "longitude": -115.179665,
+          "arrival_time": "17:20",
+          "departure_time": "18:35",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 38.0,
+          "travel_from_previous_km": 60.31,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": true
+        },
+        {
+          "location_id": "2218772",
+          "place": "Welcome to Fabulous Las Vegas Sign",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.3,
+          "latitude": 36.082073,
+          "longitude": -115.172775,
+          "arrival_time": "18:38",
+          "departure_time": "19:53",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 2.8,
+          "travel_from_previous_km": 2.17,
+          "raw_data_matched": true,
+          "opening_hours_constrained": false,
+          "opening_hours_violation": false
+        }
+      ]
+    },
+    "Day2": {
+      "Morning": [
+        {
+          "location_id": "110191",
+          "place": "Fashion Show Las Vegas",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.3,
+          "latitude": 36.12764,
+          "longitude": -115.17304,
+          "arrival_time": "09:03",
+          "departure_time": "10:33",
+          "visit_duration_minutes": 90,
+          "travel_from_previous_minutes": 3.6,
+          "travel_from_previous_km": 2.08,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": true
+        },
+        {
+          "location_id": "422610",
+          "place": "Omelet House",
+          "type": "Restaurant",
+          "budget": 20.0,
+          "rating": 4.6,
+          "latitude": 36.159775,
+          "longitude": -115.17124,
+          "arrival_time": "10:40",
+          "departure_time": "11:55",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 6.7,
+          "travel_from_previous_km": 6.97,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "422610",
+          "place": "Omelet House",
+          "type": "Restaurant",
+          "budget": 20.0,
+          "rating": 4.6,
+          "latitude": 36.159775,
+          "longitude": -115.17124,
+          "arrival_time": "11:55",
+          "departure_time": "13:10",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        }
+      ],
+      "Afternoon": [
+        {
+          "location_id": "103329",
+          "place": "Red Rock Canyon National Conservation Area",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.7,
+          "latitude": 36.1356,
+          "longitude": -115.427,
+          "arrival_time": "13:35",
+          "departure_time": "16:35",
+          "visit_duration_minutes": 180,
+          "travel_from_previous_minutes": 25.1,
+          "travel_from_previous_km": 31.49,
+          "raw_data_matched": true,
+          "opening_hours_constrained": false,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "102514",
+          "place": "Fremont Street Experience",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.2,
+          "latitude": 36.170727,
+          "longitude": -115.14382,
+          "arrival_time": "16:59",
+          "departure_time": "18:59",
+          "visit_duration_minutes": 120,
+          "travel_from_previous_minutes": 24.3,
+          "travel_from_previous_km": 33.12,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        }
+      ],
+      "Evening": [
+        {
+          "location_id": "127003",
+          "place": "Fountains of Bellagio",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.7,
+          "latitude": 36.11212,
+          "longitude": -115.174706,
+          "arrival_time": "19:07",
+          "departure_time": "20:22",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 7.9,
+          "travel_from_previous_km": 10.9,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "216643",
+          "place": "Casino at Bellagio",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.113144,
+          "longitude": -115.17655,
+          "arrival_time": "20:22",
+          "departure_time": "21:52",
+          "visit_duration_minutes": 90,
+          "travel_from_previous_minutes": 0.1,
+          "travel_from_previous_km": 0.05,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        }
+      ]
+    },
+    "Day3": {
+      "Morning": [
+        {
+          "location_id": "6637961",
+          "place": "The Linq Promenade",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.117783,
+          "longitude": -115.17258,
+          "arrival_time": "09:00",
+          "departure_time": "10:30",
+          "visit_duration_minutes": 90,
+          "travel_from_previous_minutes": 0.4,
+          "travel_from_previous_km": 0.34,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": true
+        },
+        {
+          "location_id": "146795",
+          "place": "The Grand Canal Shoppes at The Venetian Resort",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.5,
+          "latitude": 36.122715,
+          "longitude": -115.16892,
+          "arrival_time": "10:32",
+          "departure_time": "12:02",
+          "visit_duration_minutes": 90,
+          "travel_from_previous_minutes": 2.2,
+          "travel_from_previous_km": 1.52,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        }
+      ],
+      "Afternoon": [
+        {
+          "location_id": "126583",
+          "place": "The Las Vegas Strip",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.112858,
+          "longitude": -115.173,
+          "arrival_time": "12:05",
+          "departure_time": "13:20",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 3.0,
+          "travel_from_previous_km": 2.28,
+          "raw_data_matched": true,
+          "opening_hours_constrained": false,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "126583",
+          "place": "The Las Vegas Strip",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.112858,
+          "longitude": -115.173,
+          "arrival_time": "13:20",
+          "departure_time": "14:35",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": false,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "7892832",
+          "place": "Alexxa's",
+          "type": "Restaurant",
+          "budget": 30.0,
+          "rating": 4.3,
+          "latitude": 36.112244,
+          "longitude": -115.17042,
+          "arrival_time": "14:36",
+          "departure_time": "15:51",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.7,
+          "travel_from_previous_km": 0.35,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "7892832",
+          "place": "Alexxa's",
+          "type": "Restaurant",
+          "budget": 20.0,
+          "rating": 4.3,
+          "latitude": 36.112244,
+          "longitude": -115.17042,
+          "arrival_time": "15:51",
+          "departure_time": "17:06",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        }
+      ],
+      "Evening": []
+    }
+  },
+  "daily_summaries": [
+    {
+      "day": "Day1",
+      "total_time_minutes": 656.9,
+      "total_time_hours": 10.95,
+      "travel_time_minutes": 86.9,
+      "visit_time_minutes": 570.0,
+      "total_distance_km": 128.19,
+      "number_of_pois": 7,
+      "starts_at": "09:00",
+      "ends_at": "19:56",
+      "return_to_hotel_minutes": 3.7
+    },
+    {
+      "day": "Day2",
+      "total_time_minutes": 774.9,
+      "total_time_hours": 12.91,
+      "travel_time_minutes": 69.9,
+      "visit_time_minutes": 705.0,
+      "total_distance_km": 85.41,
+      "number_of_pois": 7,
+      "starts_at": "09:00",
+      "ends_at": "21:54",
+      "return_to_hotel_minutes": 2.2
+    },
+    {
+      "day": "Day3",
+      "total_time_minutes": 487.0,
+      "total_time_hours": 8.12,
+      "travel_time_minutes": 7.0,
+      "visit_time_minutes": 480.0,
+      "total_distance_km": 4.89,
+      "number_of_pois": 6,
+      "starts_at": "09:00",
+      "ends_at": "17:06",
+      "return_to_hotel_minutes": 0.6
+    }
+  ],
+  "routes": [
+    {
+      "day": "Day1",
+      "route": [
+        {
+          "location_id": "17476783",
+          "place": "EGGscellent",
+          "type": "Restaurant",
+          "budget": 10.0,
+          "rating": 4.8,
+          "latitude": 36.13085,
+          "longitude": -115.115364,
+          "arrival_time": "09:07",
+          "departure_time": "10:22",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 7.2,
+          "travel_from_previous_km": 6.92,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "17476783",
+          "place": "EGGscellent",
+          "type": "Restaurant",
+          "budget": 10.0,
+          "rating": 4.8,
+          "latitude": 36.13085,
+          "longitude": -115.115364,
+          "arrival_time": "10:22",
+          "departure_time": "11:37",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "423063",
+          "place": "Casa Di Amore",
+          "type": "Restaurant",
+          "budget": 25.0,
+          "rating": 4.5,
+          "latitude": 36.100136,
+          "longitude": -115.112076,
+          "arrival_time": "11:41",
+          "departure_time": "12:56",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 4.6,
+          "travel_from_previous_km": 5.19,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "423063",
+          "place": "Casa Di Amore",
+          "type": "Restaurant",
+          "budget": 25.0,
+          "rating": 4.5,
+          "latitude": 36.100136,
+          "longitude": -115.112076,
+          "arrival_time": "12:56",
+          "departure_time": "14:11",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "1936404",
+          "place": "Hoover Dam Bypass",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.5,
+          "latitude": 36.01248,
+          "longitude": -114.74202,
+          "arrival_time": "14:42",
+          "departure_time": "16:42",
+          "visit_duration_minutes": 120,
+          "travel_from_previous_minutes": 30.6,
+          "travel_from_previous_km": 49.97,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "2409034",
+          "place": "Shelby American, Inc.",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.6,
+          "latitude": 36.072174,
+          "longitude": -115.179665,
+          "arrival_time": "17:20",
+          "departure_time": "18:35",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 38.0,
+          "travel_from_previous_km": 60.31,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": true
+        },
+        {
+          "location_id": "2218772",
+          "place": "Welcome to Fabulous Las Vegas Sign",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.3,
+          "latitude": 36.082073,
+          "longitude": -115.172775,
+          "arrival_time": "18:38",
+          "departure_time": "19:53",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 2.8,
+          "travel_from_previous_km": 2.17,
+          "raw_data_matched": true,
+          "opening_hours_constrained": false,
+          "opening_hours_violation": false
+        }
+      ],
+      "summary": {
+        "day": "Day1",
+        "total_time_minutes": 656.9,
+        "total_time_hours": 10.95,
+        "travel_time_minutes": 86.9,
+        "visit_time_minutes": 570.0,
+        "total_distance_km": 128.19,
+        "number_of_pois": 7,
+        "starts_at": "09:00",
+        "ends_at": "19:56",
+        "return_to_hotel_minutes": 3.7
+      }
+    },
+    {
+      "day": "Day2",
+      "route": [
+        {
+          "location_id": "110191",
+          "place": "Fashion Show Las Vegas",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.3,
+          "latitude": 36.12764,
+          "longitude": -115.17304,
+          "arrival_time": "09:03",
+          "departure_time": "10:33",
+          "visit_duration_minutes": 90,
+          "travel_from_previous_minutes": 3.6,
+          "travel_from_previous_km": 2.08,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": true
+        },
+        {
+          "location_id": "422610",
+          "place": "Omelet House",
+          "type": "Restaurant",
+          "budget": 20.0,
+          "rating": 4.6,
+          "latitude": 36.159775,
+          "longitude": -115.17124,
+          "arrival_time": "10:40",
+          "departure_time": "11:55",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 6.7,
+          "travel_from_previous_km": 6.97,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "422610",
+          "place": "Omelet House",
+          "type": "Restaurant",
+          "budget": 20.0,
+          "rating": 4.6,
+          "latitude": 36.159775,
+          "longitude": -115.17124,
+          "arrival_time": "11:55",
+          "departure_time": "13:10",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "103329",
+          "place": "Red Rock Canyon National Conservation Area",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.7,
+          "latitude": 36.1356,
+          "longitude": -115.427,
+          "arrival_time": "13:35",
+          "departure_time": "16:35",
+          "visit_duration_minutes": 180,
+          "travel_from_previous_minutes": 25.1,
+          "travel_from_previous_km": 31.49,
+          "raw_data_matched": true,
+          "opening_hours_constrained": false,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "102514",
+          "place": "Fremont Street Experience",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.2,
+          "latitude": 36.170727,
+          "longitude": -115.14382,
+          "arrival_time": "16:59",
+          "departure_time": "18:59",
+          "visit_duration_minutes": 120,
+          "travel_from_previous_minutes": 24.3,
+          "travel_from_previous_km": 33.12,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "127003",
+          "place": "Fountains of Bellagio",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.7,
+          "latitude": 36.11212,
+          "longitude": -115.174706,
+          "arrival_time": "19:07",
+          "departure_time": "20:22",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 7.9,
+          "travel_from_previous_km": 10.9,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "216643",
+          "place": "Casino at Bellagio",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.113144,
+          "longitude": -115.17655,
+          "arrival_time": "20:22",
+          "departure_time": "21:52",
+          "visit_duration_minutes": 90,
+          "travel_from_previous_minutes": 0.1,
+          "travel_from_previous_km": 0.05,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        }
+      ],
+      "summary": {
+        "day": "Day2",
+        "total_time_minutes": 774.9,
+        "total_time_hours": 12.91,
+        "travel_time_minutes": 69.9,
+        "visit_time_minutes": 705.0,
+        "total_distance_km": 85.41,
+        "number_of_pois": 7,
+        "starts_at": "09:00",
+        "ends_at": "21:54",
+        "return_to_hotel_minutes": 2.2
+      }
+    },
+    {
+      "day": "Day3",
+      "route": [
+        {
+          "location_id": "6637961",
+          "place": "The Linq Promenade",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.117783,
+          "longitude": -115.17258,
+          "arrival_time": "09:00",
+          "departure_time": "10:30",
+          "visit_duration_minutes": 90,
+          "travel_from_previous_minutes": 0.4,
+          "travel_from_previous_km": 0.34,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": true
+        },
+        {
+          "location_id": "146795",
+          "place": "The Grand Canal Shoppes at The Venetian Resort",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.5,
+          "latitude": 36.122715,
+          "longitude": -115.16892,
+          "arrival_time": "10:32",
+          "departure_time": "12:02",
+          "visit_duration_minutes": 90,
+          "travel_from_previous_minutes": 2.2,
+          "travel_from_previous_km": 1.52,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "126583",
+          "place": "The Las Vegas Strip",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.112858,
+          "longitude": -115.173,
+          "arrival_time": "12:05",
+          "departure_time": "13:20",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 3.0,
+          "travel_from_previous_km": 2.28,
+          "raw_data_matched": true,
+          "opening_hours_constrained": false,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "126583",
+          "place": "The Las Vegas Strip",
+          "type": "Attraction",
+          "budget": 0.0,
+          "rating": 4.4,
+          "latitude": 36.112858,
+          "longitude": -115.173,
+          "arrival_time": "13:20",
+          "departure_time": "14:35",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": false,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "7892832",
+          "place": "Alexxa's",
+          "type": "Restaurant",
+          "budget": 30.0,
+          "rating": 4.3,
+          "latitude": 36.112244,
+          "longitude": -115.17042,
+          "arrival_time": "14:36",
+          "departure_time": "15:51",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.7,
+          "travel_from_previous_km": 0.35,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        },
+        {
+          "location_id": "7892832",
+          "place": "Alexxa's",
+          "type": "Restaurant",
+          "budget": 20.0,
+          "rating": 4.3,
+          "latitude": 36.112244,
+          "longitude": -115.17042,
+          "arrival_time": "15:51",
+          "departure_time": "17:06",
+          "visit_duration_minutes": 75,
+          "travel_from_previous_minutes": 0.0,
+          "travel_from_previous_km": 0.0,
+          "raw_data_matched": true,
+          "opening_hours_constrained": true,
+          "opening_hours_violation": false
+        }
+      ],
+      "summary": {
+        "day": "Day3",
+        "total_time_minutes": 487.0,
+        "total_time_hours": 8.12,
+        "travel_time_minutes": 7.0,
+        "visit_time_minutes": 480.0,
+        "total_distance_km": 4.89,
+        "number_of_pois": 6,
+        "starts_at": "09:00",
+        "ends_at": "17:06",
+        "return_to_hotel_minutes": 0.6
+      }
+    }
+  ],
+  "evolution_history": [
+    {
+      "generation": 0,
+      "best_cost": 5325114.30794,
+      "average_cost": 5810628.662102,
+      "best_fitness": 1.878e-07,
+      "average_fitness": 1.736e-07
+    },
+    {
+      "generation": 1,
+      "best_cost": 5278632.978602,
+      "average_cost": 5527757.064856,
+      "best_fitness": 1.894e-07,
+      "average_fitness": 1.811e-07
+    },
+    {
+      "generation": 2,
+      "best_cost": 5219689.440867,
+      "average_cost": 5484172.655407,
+      "best_fitness": 1.916e-07,
+      "average_fitness": 1.827e-07
+    },
+    {
+      "generation": 3,
+      "best_cost": 5093787.642425,
+      "average_cost": 5368091.942073,
+      "best_fitness": 1.963e-07,
+      "average_fitness": 1.864e-07
+    },
+    {
+      "generation": 4,
+      "best_cost": 5093787.642425,
+      "average_cost": 5327290.337775,
+      "best_fitness": 1.963e-07,
+      "average_fitness": 1.879e-07
+    },
+    {
+      "generation": 5,
+      "best_cost": 5076145.511094,
+      "average_cost": 5273822.260605,
+      "best_fitness": 1.97e-07,
+      "average_fitness": 1.897e-07
+    },
+    {
+      "generation": 6,
+      "best_cost": 5063060.661374,
+      "average_cost": 5250303.283075,
+      "best_fitness": 1.975e-07,
+      "average_fitness": 1.906e-07
+    },
+    {
+      "generation": 7,
+      "best_cost": 4922525.988128,
+      "average_cost": 5194323.9145,
+      "best_fitness": 2.031e-07,
+      "average_fitness": 1.926e-07
+    },
+    {
+      "generation": 8,
+      "best_cost": 4922525.988128,
+      "average_cost": 5202367.805256,
+      "best_fitness": 2.031e-07,
+      "average_fitness": 1.923e-07
+    },
+    {
+      "generation": 9,
+      "best_cost": 4911567.117368,
+      "average_cost": 5194246.980961,
+      "best_fitness": 2.036e-07,
+      "average_fitness": 1.926e-07
+    },
+    {
+      "generation": 10,
+      "best_cost": 4911567.117368,
+      "average_cost": 5174405.592411,
+      "best_fitness": 2.036e-07,
+      "average_fitness": 1.934e-07
+    },
+    {
+      "generation": 11,
+      "best_cost": 4911567.117368,
+      "average_cost": 5134502.99377,
+      "best_fitness": 2.036e-07,
+      "average_fitness": 1.949e-07
+    },
+    {
+      "generation": 12,
+      "best_cost": 4871230.182819,
+      "average_cost": 5082887.615754,
+      "best_fitness": 2.053e-07,
+      "average_fitness": 1.969e-07
+    },
+    {
+      "generation": 13,
+      "best_cost": 4871230.182819,
+      "average_cost": 5066937.533148,
+      "best_fitness": 2.053e-07,
+      "average_fitness": 1.976e-07
+    },
+    {
+      "generation": 14,
+      "best_cost": 4856516.945175,
+      "average_cost": 5047087.735774,
+      "best_fitness": 2.059e-07,
+      "average_fitness": 1.983e-07
+    },
+    {
+      "generation": 15,
+      "best_cost": 4845558.5444,
+      "average_cost": 5007601.613662,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 1.998e-07
+    },
+    {
+      "generation": 16,
+      "best_cost": 4845558.5444,
+      "average_cost": 5004502.413948,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 17,
+      "best_cost": 4845558.5444,
+      "average_cost": 4992509.675621,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 2.004e-07
+    },
+    {
+      "generation": 18,
+      "best_cost": 4845558.5444,
+      "average_cost": 5024690.763153,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 1.991e-07
+    },
+    {
+      "generation": 19,
+      "best_cost": 4845558.5444,
+      "average_cost": 5015333.0071,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 1.995e-07
+    },
+    {
+      "generation": 20,
+      "best_cost": 4845558.5444,
+      "average_cost": 5012287.16513,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 1.996e-07
+    },
+    {
+      "generation": 21,
+      "best_cost": 4845558.5444,
+      "average_cost": 5009952.36684,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 1.997e-07
+    },
+    {
+      "generation": 22,
+      "best_cost": 4845558.5444,
+      "average_cost": 5014606.381087,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 1.996e-07
+    },
+    {
+      "generation": 23,
+      "best_cost": 4845558.5444,
+      "average_cost": 5021205.829868,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 1.993e-07
+    },
+    {
+      "generation": 24,
+      "best_cost": 4845558.5444,
+      "average_cost": 5030530.960297,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 1.989e-07
+    },
+    {
+      "generation": 25,
+      "best_cost": 4845558.5444,
+      "average_cost": 4998742.14552,
+      "best_fitness": 2.064e-07,
+      "average_fitness": 2.002e-07
+    },
+    {
+      "generation": 26,
+      "best_cost": 4835203.443585,
+      "average_cost": 5027118.327522,
+      "best_fitness": 2.068e-07,
+      "average_fitness": 1.992e-07
+    },
+    {
+      "generation": 27,
+      "best_cost": 4834036.761546,
+      "average_cost": 5015431.78875,
+      "best_fitness": 2.069e-07,
+      "average_fitness": 1.995e-07
+    },
+    {
+      "generation": 28,
+      "best_cost": 4829369.815481,
+      "average_cost": 5017246.846722,
+      "best_fitness": 2.071e-07,
+      "average_fitness": 1.994e-07
+    },
+    {
+      "generation": 29,
+      "best_cost": 4829369.815481,
+      "average_cost": 5030448.772958,
+      "best_fitness": 2.071e-07,
+      "average_fitness": 1.99e-07
+    },
+    {
+      "generation": 30,
+      "best_cost": 4829369.815481,
+      "average_cost": 5014574.470569,
+      "best_fitness": 2.071e-07,
+      "average_fitness": 1.996e-07
+    },
+    {
+      "generation": 31,
+      "best_cost": 4823035.85362,
+      "average_cost": 4992137.051792,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2.005e-07
+    },
+    {
+      "generation": 32,
+      "best_cost": 4823035.85362,
+      "average_cost": 4996253.589575,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2.003e-07
+    },
+    {
+      "generation": 33,
+      "best_cost": 4823035.85362,
+      "average_cost": 4980550.235185,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2.009e-07
+    },
+    {
+      "generation": 34,
+      "best_cost": 4823035.85362,
+      "average_cost": 4999065.269238,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2.002e-07
+    },
+    {
+      "generation": 35,
+      "best_cost": 4823035.85362,
+      "average_cost": 5019194.24716,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.995e-07
+    },
+    {
+      "generation": 36,
+      "best_cost": 4823035.85362,
+      "average_cost": 5043338.266319,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.985e-07
+    },
+    {
+      "generation": 37,
+      "best_cost": 4823035.85362,
+      "average_cost": 5024000.23385,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.992e-07
+    },
+    {
+      "generation": 38,
+      "best_cost": 4823035.85362,
+      "average_cost": 5028309.528081,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.991e-07
+    },
+    {
+      "generation": 39,
+      "best_cost": 4823035.85362,
+      "average_cost": 4997245.428376,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2.002e-07
+    },
+    {
+      "generation": 40,
+      "best_cost": 4823035.85362,
+      "average_cost": 4999403.968809,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2.002e-07
+    },
+    {
+      "generation": 41,
+      "best_cost": 4823035.85362,
+      "average_cost": 5033723.633034,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.989e-07
+    },
+    {
+      "generation": 42,
+      "best_cost": 4823035.85362,
+      "average_cost": 5002532.266278,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2e-07
+    },
+    {
+      "generation": 43,
+      "best_cost": 4823035.85362,
+      "average_cost": 5013574.606206,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.996e-07
+    },
+    {
+      "generation": 44,
+      "best_cost": 4823035.85362,
+      "average_cost": 5016819.155111,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.995e-07
+    },
+    {
+      "generation": 45,
+      "best_cost": 4823035.85362,
+      "average_cost": 5004412.811997,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2e-07
+    },
+    {
+      "generation": 46,
+      "best_cost": 4823035.85362,
+      "average_cost": 5005855.341622,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 47,
+      "best_cost": 4823035.85362,
+      "average_cost": 5017819.107185,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.995e-07
+    },
+    {
+      "generation": 48,
+      "best_cost": 4823035.85362,
+      "average_cost": 5017010.679298,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.996e-07
+    },
+    {
+      "generation": 49,
+      "best_cost": 4823035.85362,
+      "average_cost": 5003655.128885,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2e-07
+    },
+    {
+      "generation": 50,
+      "best_cost": 4823035.85362,
+      "average_cost": 5013981.7748,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 1.996e-07
+    },
+    {
+      "generation": 51,
+      "best_cost": 4823035.85362,
+      "average_cost": 5003331.358471,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2e-07
+    },
+    {
+      "generation": 52,
+      "best_cost": 4823035.85362,
+      "average_cost": 4993260.418149,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2.004e-07
+    },
+    {
+      "generation": 53,
+      "best_cost": 4823035.85362,
+      "average_cost": 4995774.790872,
+      "best_fitness": 2.073e-07,
+      "average_fitness": 2.004e-07
+    },
+    {
+      "generation": 54,
+      "best_cost": 4813368.450334,
+      "average_cost": 5030585.612322,
+      "best_fitness": 2.078e-07,
+      "average_fitness": 1.99e-07
+    },
+    {
+      "generation": 55,
+      "best_cost": 4813368.450334,
+      "average_cost": 5009321.455282,
+      "best_fitness": 2.078e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 56,
+      "best_cost": 4813368.450334,
+      "average_cost": 5039891.169538,
+      "best_fitness": 2.078e-07,
+      "average_fitness": 1.986e-07
+    },
+    {
+      "generation": 57,
+      "best_cost": 4813368.450334,
+      "average_cost": 4990013.56822,
+      "best_fitness": 2.078e-07,
+      "average_fitness": 2.006e-07
+    },
+    {
+      "generation": 58,
+      "best_cost": 4813368.450334,
+      "average_cost": 4982416.080236,
+      "best_fitness": 2.078e-07,
+      "average_fitness": 2.009e-07
+    },
+    {
+      "generation": 59,
+      "best_cost": 4807534.32985,
+      "average_cost": 5008602.273775,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 60,
+      "best_cost": 4807534.32985,
+      "average_cost": 4999844.040555,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.002e-07
+    },
+    {
+      "generation": 61,
+      "best_cost": 4807534.32985,
+      "average_cost": 4971198.144959,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.013e-07
+    },
+    {
+      "generation": 62,
+      "best_cost": 4807534.32985,
+      "average_cost": 4985924.923495,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.008e-07
+    },
+    {
+      "generation": 63,
+      "best_cost": 4807534.32985,
+      "average_cost": 4973822.329147,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.012e-07
+    },
+    {
+      "generation": 64,
+      "best_cost": 4807534.32985,
+      "average_cost": 4970227.752082,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.013e-07
+    },
+    {
+      "generation": 65,
+      "best_cost": 4807534.32985,
+      "average_cost": 4996067.336772,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.004e-07
+    },
+    {
+      "generation": 66,
+      "best_cost": 4807534.32985,
+      "average_cost": 4977603.041633,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.011e-07
+    },
+    {
+      "generation": 67,
+      "best_cost": 4807534.32985,
+      "average_cost": 5009160.987131,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 68,
+      "best_cost": 4807534.32985,
+      "average_cost": 5004700.284716,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2e-07
+    },
+    {
+      "generation": 69,
+      "best_cost": 4807534.32985,
+      "average_cost": 4999749.719316,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.002e-07
+    },
+    {
+      "generation": 70,
+      "best_cost": 4807534.32985,
+      "average_cost": 4986323.485717,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.007e-07
+    },
+    {
+      "generation": 71,
+      "best_cost": 4807534.32985,
+      "average_cost": 4976112.530506,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.011e-07
+    },
+    {
+      "generation": 72,
+      "best_cost": 4807534.32985,
+      "average_cost": 4960351.952765,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.017e-07
+    },
+    {
+      "generation": 73,
+      "best_cost": 4807534.32985,
+      "average_cost": 4994487.48475,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.004e-07
+    },
+    {
+      "generation": 74,
+      "best_cost": 4807534.32985,
+      "average_cost": 5002594.936163,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.001e-07
+    },
+    {
+      "generation": 75,
+      "best_cost": 4807534.32985,
+      "average_cost": 4984539.882882,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.008e-07
+    },
+    {
+      "generation": 76,
+      "best_cost": 4807534.32985,
+      "average_cost": 4980018.296267,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.009e-07
+    },
+    {
+      "generation": 77,
+      "best_cost": 4807534.32985,
+      "average_cost": 4976767.603352,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.011e-07
+    },
+    {
+      "generation": 78,
+      "best_cost": 4807534.32985,
+      "average_cost": 4999093.09711,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.002e-07
+    },
+    {
+      "generation": 79,
+      "best_cost": 4807534.32985,
+      "average_cost": 5033788.634884,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 1.99e-07
+    },
+    {
+      "generation": 80,
+      "best_cost": 4807534.32985,
+      "average_cost": 5006017.462974,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 81,
+      "best_cost": 4807534.32985,
+      "average_cost": 4990497.23219,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.006e-07
+    },
+    {
+      "generation": 82,
+      "best_cost": 4807534.32985,
+      "average_cost": 4996967.155534,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.003e-07
+    },
+    {
+      "generation": 83,
+      "best_cost": 4807534.32985,
+      "average_cost": 4973505.36195,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.013e-07
+    },
+    {
+      "generation": 84,
+      "best_cost": 4807534.32985,
+      "average_cost": 5005630.100117,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 85,
+      "best_cost": 4807534.32985,
+      "average_cost": 4987824.678767,
+      "best_fitness": 2.08e-07,
+      "average_fitness": 2.007e-07
+    },
+    {
+      "generation": 86,
+      "best_cost": 4804540.21919,
+      "average_cost": 4973093.828734,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.012e-07
+    },
+    {
+      "generation": 87,
+      "best_cost": 4804540.21919,
+      "average_cost": 5012148.083997,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 1.997e-07
+    },
+    {
+      "generation": 88,
+      "best_cost": 4804540.21919,
+      "average_cost": 4975297.104057,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.011e-07
+    },
+    {
+      "generation": 89,
+      "best_cost": 4804540.21919,
+      "average_cost": 4978931.955798,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.01e-07
+    },
+    {
+      "generation": 90,
+      "best_cost": 4804540.21919,
+      "average_cost": 4984286.283544,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.008e-07
+    },
+    {
+      "generation": 91,
+      "best_cost": 4804540.21919,
+      "average_cost": 4979238.56131,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.01e-07
+    },
+    {
+      "generation": 92,
+      "best_cost": 4804540.21919,
+      "average_cost": 5001428.178599,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.001e-07
+    },
+    {
+      "generation": 93,
+      "best_cost": 4804540.21919,
+      "average_cost": 5008600.23591,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 94,
+      "best_cost": 4804540.21919,
+      "average_cost": 4983760.071463,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.009e-07
+    },
+    {
+      "generation": 95,
+      "best_cost": 4804540.21919,
+      "average_cost": 4970984.27715,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.013e-07
+    },
+    {
+      "generation": 96,
+      "best_cost": 4804540.21919,
+      "average_cost": 4957505.671385,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.018e-07
+    },
+    {
+      "generation": 97,
+      "best_cost": 4804540.21919,
+      "average_cost": 4993467.876739,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.004e-07
+    },
+    {
+      "generation": 98,
+      "best_cost": 4804540.21919,
+      "average_cost": 5017370.605824,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 1.995e-07
+    },
+    {
+      "generation": 99,
+      "best_cost": 4804540.21919,
+      "average_cost": 5002794.624045,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2e-07
+    },
+    {
+      "generation": 100,
+      "best_cost": 4804540.21919,
+      "average_cost": 5008512.488322,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 101,
+      "best_cost": 4804540.21919,
+      "average_cost": 4977126.942645,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.011e-07
+    },
+    {
+      "generation": 102,
+      "best_cost": 4804540.21919,
+      "average_cost": 5011053.060662,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 1.998e-07
+    },
+    {
+      "generation": 103,
+      "best_cost": 4804540.21919,
+      "average_cost": 5006519.722443,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2e-07
+    },
+    {
+      "generation": 104,
+      "best_cost": 4804540.21919,
+      "average_cost": 4998000.066706,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.003e-07
+    },
+    {
+      "generation": 105,
+      "best_cost": 4804540.21919,
+      "average_cost": 4993689.071428,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.004e-07
+    },
+    {
+      "generation": 106,
+      "best_cost": 4804540.21919,
+      "average_cost": 4988238.659007,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.007e-07
+    },
+    {
+      "generation": 107,
+      "best_cost": 4804540.21919,
+      "average_cost": 4997546.301706,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.003e-07
+    },
+    {
+      "generation": 108,
+      "best_cost": 4804540.21919,
+      "average_cost": 4982096.21107,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.008e-07
+    },
+    {
+      "generation": 109,
+      "best_cost": 4804540.21919,
+      "average_cost": 5012613.509574,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 1.996e-07
+    },
+    {
+      "generation": 110,
+      "best_cost": 4804540.21919,
+      "average_cost": 5023741.966147,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 1.992e-07
+    },
+    {
+      "generation": 111,
+      "best_cost": 4804540.21919,
+      "average_cost": 5023392.393908,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 1.994e-07
+    },
+    {
+      "generation": 112,
+      "best_cost": 4804540.21919,
+      "average_cost": 4981900.287708,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.009e-07
+    },
+    {
+      "generation": 113,
+      "best_cost": 4804540.21919,
+      "average_cost": 4977010.951748,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.01e-07
+    },
+    {
+      "generation": 114,
+      "best_cost": 4804540.21919,
+      "average_cost": 5000004.350286,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.001e-07
+    },
+    {
+      "generation": 115,
+      "best_cost": 4804540.21919,
+      "average_cost": 5007036.76375,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 1.999e-07
+    },
+    {
+      "generation": 116,
+      "best_cost": 4804540.21919,
+      "average_cost": 4967085.415479,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.014e-07
+    },
+    {
+      "generation": 117,
+      "best_cost": 4804540.21919,
+      "average_cost": 5005862.093586,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2e-07
+    },
+    {
+      "generation": 118,
+      "best_cost": 4804540.21919,
+      "average_cost": 4978451.67438,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.01e-07
+    },
+    {
+      "generation": 119,
+      "best_cost": 4804540.21919,
+      "average_cost": 4993252.561874,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.005e-07
+    },
+    {
+      "generation": 120,
+      "best_cost": 4804540.21919,
+      "average_cost": 4978357.356006,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.01e-07
+    },
+    {
+      "generation": 121,
+      "best_cost": 4804540.21919,
+      "average_cost": 4982462.045806,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.009e-07
+    },
+    {
+      "generation": 122,
+      "best_cost": 4804540.21919,
+      "average_cost": 4976868.140219,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.011e-07
+    },
+    {
+      "generation": 123,
+      "best_cost": 4804540.21919,
+      "average_cost": 4967376.497787,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.014e-07
+    },
+    {
+      "generation": 124,
+      "best_cost": 4804540.21919,
+      "average_cost": 4988254.233854,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.007e-07
+    },
+    {
+      "generation": 125,
+      "best_cost": 4804540.21919,
+      "average_cost": 4976868.251948,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.011e-07
+    },
+    {
+      "generation": 126,
+      "best_cost": 4804540.21919,
+      "average_cost": 4969579.733002,
+      "best_fitness": 2.081e-07,
+      "average_fitness": 2.013e-07
+    }
+  ]
+}
